@@ -14,6 +14,7 @@
     --bg-inset: #f7f0e0;
     --bg-section-header: #ede0c8;
     --bg-section-gradient: linear-gradient(90deg, #f4ead5, #e8d5b0, #f4ead5);
+    --bg-subsection-gradient: linear-gradient(90deg, #f4ead5, #efe3c8, #f4ead5);
     --text-body: #2c1e0e;
     --text-heading: #4a1e08;
     --text-subheading: #6b2a0a;
@@ -22,6 +23,7 @@
     --accent-border: #8b4513;
     --accent-border-light: #c9a96e;
     --accent-link: #3a5a7c;
+    --font-display: 'IM Fell English SC', 'Palatino Linotype', serif;
     --space-xs: 4px;
     --space-sm: 8px;
     --space-md: 16px;
@@ -40,12 +42,14 @@
   }
   p { orphans: 3; widows: 3; }
   a { color: var(--accent-link); text-decoration: none; }
+  strong { font-family: var(--font-display); }
 
   /* ── Document header ── */
   header h1 {
     text-align: center;
-    font-family: 'IM Fell English SC', 'Palatino Linotype', serif;
+    font-family: var(--font-display);
     color: var(--text-heading); font-size: 2em;
+    font-weight: 700;
     margin-bottom: var(--space-xs); letter-spacing: 3px;
   }
   header .subtitle {
@@ -61,7 +65,7 @@
   .era-header {
     background: var(--bg-section-gradient);
     color: var(--text-heading);
-    font-family: 'IM Fell English SC', 'Palatino Linotype', serif;
+    font-family: var(--font-display);
     font-size: 1.5em; padding: 10px 20px;
     margin: var(--space-xl) 0 var(--space-md) 0;
     border-left: 4px solid var(--accent-border);
@@ -73,9 +77,10 @@
   /* ── Sub-headings ── */
   h3 {
     color: var(--text-subheading);
-    font-family: 'IM Fell English SC', 'Palatino Linotype', serif;
+    font-family: var(--font-display);
     font-size: 1.15em; padding: 8px 0;
     margin: var(--space-md) 0 var(--space-sm) 0;
+    background: var(--bg-subsection-gradient);
     border-bottom: 1px solid var(--accent-border-light);
     letter-spacing: 1px;
     page-break-after: avoid; break-after: avoid;
