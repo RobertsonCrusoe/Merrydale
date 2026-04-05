@@ -1,0 +1,618 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Pedigrees and notes on the intertwined Whitegate, Thunderstorm, and Blackmane families of Daggerdale.">
+<title>Whitegate, Thunderstorm &amp; Blackmane Families &mdash; Daggerdale Campaign Archive</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=IM+Fell+English+SC&display=swap');
+
+  /* ── Palette (style guide §3.2) ── */
+  :root {
+    --bg-parchment: #f4ead5;
+    --bg-inset: #f7f0e0;
+    --bg-section-header: #ede0c8;
+    --bg-section-gradient: linear-gradient(90deg, #f4ead5, #e8d5b0, #f4ead5);
+    --text-body: #2c1e0e;
+    --text-heading: #4a1e08;
+    --text-subheading: #6b2a0a;
+    --text-secondary: #5a3d20;
+    --text-aside: #3a2a15;
+    --accent-border: #8b4513;
+    --accent-border-light: #c9a96e;
+    --accent-link: #3a5a7c;
+    --space-xs: 4px;
+    --space-sm: 8px;
+    --space-md: 16px;
+    --space-lg: 24px;
+    --space-xl: 36px;
+  }
+
+  /* ── Reset & body ── */
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Crimson Text', 'Palatino Linotype', 'Book Antiqua', Palatino, Georgia, serif;
+    background: var(--bg-parchment); color: var(--text-body);
+    padding: var(--space-lg) var(--space-md);
+    line-height: 1.6; max-width: 900px; margin: 0 auto;
+  }
+  p { orphans: 3; widows: 3; }
+  a { color: var(--accent-link); text-decoration: none; }
+
+  /* ── Document header ── */
+  header h1 {
+    text-align: center;
+    font-family: 'IM Fell English SC', 'Palatino Linotype', serif;
+    color: var(--text-heading); font-size: 2em;
+    margin-bottom: var(--space-xs); letter-spacing: 3px;
+  }
+  header .subtitle {
+    text-align: center; color: var(--text-secondary);
+    font-size: 0.95em; margin-bottom: var(--space-sm); font-style: italic;
+  }
+  header .source-note {
+    text-align: center; color: var(--text-secondary);
+    font-size: 0.82em; margin-bottom: var(--space-xl); font-style: italic;
+  }
+
+  /* ── Era headers (§3.3 — gradient) ── */
+  .era-header {
+    background: var(--bg-section-gradient);
+    color: var(--text-heading);
+    font-family: 'IM Fell English SC', 'Palatino Linotype', serif;
+    font-size: 1.5em; padding: 10px 20px;
+    margin: var(--space-xl) 0 var(--space-md) 0;
+    border-left: 4px solid var(--accent-border);
+    border-bottom: 1px solid var(--accent-border-light);
+    letter-spacing: 1px;
+    page-break-before: always; page-break-after: avoid; break-after: avoid;
+  }
+
+  /* ── Sub-headings ── */
+  h3 {
+    color: var(--text-subheading);
+    font-family: 'IM Fell English SC', 'Palatino Linotype', serif;
+    font-size: 1.15em; padding: 8px 0;
+    margin: var(--space-md) 0 var(--space-sm) 0;
+    border-bottom: 1px solid var(--accent-border-light);
+    letter-spacing: 1px;
+    page-break-after: avoid; break-after: avoid;
+  }
+
+  /* ── Narrator / editorial voice (§2.1) ── */
+  aside.narrator {
+    background: var(--bg-inset);
+    border-left: 3px solid #8b6a3e;
+    padding: 14px 18px; margin: 0 0 var(--space-md) 0;
+    font-size: 1em; color: var(--text-aside);
+    line-height: 1.55;
+  }
+  aside.narrator p { margin-bottom: 10px; }
+  aside.narrator p:last-child { margin-bottom: 0; }
+
+  /* ── Pedigree tree ── */
+  .tree { padding: 0; margin-bottom: var(--space-lg); }
+  .tree ul { list-style: none; padding-left: 24px; }
+  .tree > ul { padding-left: 0; }
+  .tree li { position: relative; padding: 4px 0 4px 20px; }
+  .tree li::before {
+    content: '';
+    position: absolute; left: 0; top: 0;
+    border-left: 1px solid var(--accent-border);
+    height: 100%;
+  }
+  .tree li::after {
+    content: '';
+    position: absolute; left: 0; top: 16px;
+    border-top: 1px solid var(--accent-border);
+    width: 16px;
+  }
+  .tree li:last-child::before { height: 16px; }
+  .tree > ul > li::before,
+  .tree > ul > li::after { display: none; }
+  .tree > ul > li { padding-left: 0; }
+
+  .person-name { font-weight: 700; color: #3a1a05; }
+  .person-name.female { color: #6b2a40; }
+  .dates { color: var(--text-secondary); font-size: 0.95em; }
+  .spouse { color: var(--accent-link); font-size: 1em; }
+  .title-role { color: #2a6020; font-size: 0.95em; font-style: italic; }
+  .note { color: #7a5a30; font-size: 0.92em; font-style: italic; margin-top: 2px; }
+  img.dagger { height: 1.1em; width: auto; vertical-align: -0.15em; margin-right: 2px; display: inline; }
+  .deceased { cursor: help; }
+  .marriage-sep { color: var(--accent-border); }
+
+  /* ── Contradiction / editorial blocks (§5) ── */
+  .contradiction {
+    background: #fdf5e6; border: 1px dashed #b89050;
+    border-radius: 4px; padding: 10px 14px;
+    margin: var(--space-sm) 0 var(--space-md) 0;
+    font-size: 0.92em; color: var(--text-secondary);
+  }
+  .contradiction strong { color: var(--accent-border); }
+
+  /* ── Tables (§2.4) ── */
+  .table-wrap { overflow-x: auto; margin: var(--space-sm) 0; }
+  table { border-collapse: collapse; width: 100%; margin: var(--space-sm) 0; }
+  caption {
+    text-align: left; font-weight: 600; color: var(--text-subheading);
+    font-size: 0.95em; padding: 0 0 var(--space-xs) 0;
+    caption-side: top;
+  }
+  thead th {
+    background: #e8d5b0; color: var(--text-heading);
+    text-align: left; padding: 6px 10px;
+    font-size: 0.92em; border-bottom: 2px solid #b09060;
+  }
+  tbody td {
+    padding: 5px 10px; border-bottom: 1px solid #ddd0b8;
+    font-size: 0.95em;
+  }
+  tbody tr:hover td { background: #f0e4cf; }
+
+  /* ── Footer ── */
+  footer {
+    margin-top: 40px; padding-top: var(--space-md);
+    border-top: 1px solid var(--accent-border-light);
+    color: var(--text-secondary); font-size: 0.9em;
+  }
+  footer strong { color: var(--text-subheading); }
+  footer ul { list-style: none; padding: 0; margin-top: var(--space-xs); }
+  footer li { margin-bottom: var(--space-xs); }
+
+  /* ── Responsive (§3.5) ── */
+  @media (max-width: 600px) {
+    h1 { font-size: 1.6em; }
+    .era-header { font-size: 1.2em; }
+    body { padding: var(--space-md); }
+  }
+
+  /* ── Print (§3.5) ── */
+  @media print {
+    body { padding: 12px; background: white; color: black; }
+    aside.narrator { background: #f0f0f0; }
+    .era-header { background: none; border-left-color: #666; page-break-before: always; }
+    .contradiction { background: none; border-color: #999; }
+    table { page-break-inside: avoid; }
+    h2, h3 { page-break-after: avoid; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>The Whitegate, Thunderstorm &amp; Blackmane Families</h1>
+  <p class="subtitle">Pedigrees, Titles &amp; Notes on Three Intertwined Houses of Daggerdale</p>
+  <p class="source-note">Compiled from the Yellow Abbeye Booke of Surveys and Measures (<time>1481 DR</time> edition), the Daggerdale Chronicle ch.&nbsp;7, and corroborating records</p>
+</header>
+
+<article>
+
+<!-- ================================================================ -->
+<!-- I. THE HOUSE OF WHITEGATE                                        -->
+<!-- ================================================================ -->
+
+<section id="whitegate">
+<h2 class="era-header">I. The House of Whitegate</h2>
+
+<aside class="narrator" aria-label="Editorial introduction to the Whitegate family">
+  <p>The Whitegate family descends from Ardelusk Whitegate, a former Zhentarim slave liberated by Saint Maturin&rsquo;s Liberators. Ardelusk led the famous Whitegate Epiphany that established the church of Amaunator in the dale, and founded the settlement at Liberty Hill. The family has held the highest ecclesiastical and civil offices in Daggerdale ever since, though by the early 1480s the surname is nearing extinction&mdash;the surviving bloodline has dispersed into the Thunderstorm family (through Radiance) and the Blackmane family (through Aestus).</p>
+</aside>
+
+<h3>Pedigree</h3>
+
+<div class="tree">
+<ul>
+  <li>
+    <span class="person-name">Ardelusk Whitegate</span> <span class="dates">(1340&ndash;1399)</span>
+    <span class="marriage-sep">&ndash;</span>
+    <span class="spouse">Marlee Dale <span class="dates">(1360&ndash;1377)</span></span>
+    <ul>
+      <!-- Loedegan -->
+      <li>
+        <span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img"><span class="person-name">Loedegan Whitegate</span></span> <span class="dates">(1375&ndash;1455)</span>
+        <br><span class="note">Three marriages. Slain in the attack on the wedding of his grandson Perspicuus.</span>
+        <ul>
+          <!-- 1st wife -->
+          <li>
+            <em class="spouse">1st wife: Sarah Weaver <span class="dates">(1383&ndash;1403)</span></em>
+            <ul>
+              <li>
+                <span class="person-name">Luminous Whitegate</span> <span class="dates">(b. 1399)</span>
+                <span class="marriage-sep">&ndash;</span>
+                <span class="spouse">Raynalla Proudholme <span class="dates">(1410&ndash;1429)</span></span>
+                <br><span class="title-role">Lord of Castle Radiance; Founder &amp; High Commander, Order of the Lambent Shield</span>
+                <br><span class="note">Patriarch of the Whitegate family. The most seasoned war veteran in the dale. Lives an austere life of devotion at Castle Radiance.</span>
+                <ul>
+                  <li>
+                    <span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img"><span class="person-name">Solis Whitegate</span></span> <span class="dates">(1429&ndash;1455)</span>
+                    <br><span class="note">Killed in the 1455 wedding massacre.</span>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img"><span class="person-name">Ardelusk Whitegate (II)</span></span> <span class="dates">(1400&ndash;1455)</span>
+                <span class="marriage-sep">&ndash;</span>
+                <span class="spouse">Rayannya Proudholme <span class="dates">(b. 1399)</span></span>
+                <ul>
+                  <li>
+                    <span class="person-name">Blaze Whitegate</span> <span class="dates">(b. 1416)</span>
+                    <span class="marriage-sep">&ndash;</span>
+                    <span class="spouse"><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Dorabell Archer</span> <span class="dates">(1426&ndash;1455)</span></span>
+                    <br><span class="title-role">Bishop of Dagger Falls; highest-ranking Sunlord in the town</span>
+                    <br><span class="note">Chief bureaucrat and civil official in Dagger Falls. Veteran of the Lambent Shield. In his early 60s but looks not a day older than 40&mdash;the &ldquo;Whitegate tendency towards longevity.&rdquo;</span>
+                    <ul>
+                      <li>
+                        <span class="person-name">Lucidus Whitegate</span> <span class="dates">(1444&ndash;1480)</span>
+                        <span class="marriage-sep">&ndash;</span>
+                        <span class="spouse">Sarah Forster <span class="dates">(b. 1460)</span></span>
+                        <br><span class="note">Lucidus died in the Ritual of Corruption, Mirtul 1480.</span>
+                        <ul>
+                          <li>
+                            <span class="note">Three unnamed children (ages 2, 3, and 5 at the time of their deaths). All killed in the Ritual of Corruption. &ldquo;The fates of the children of Lucidus and Sarah Forester, who were two, three, and five years at the time, cannot be reported in detail. They are dead.&rdquo; (<em>The Shadow Lifted, Part 3.</em>)</span>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+
+          <!-- 2nd wife -->
+          <li>
+            <em class="spouse">2nd wife: Becca Weaver <span class="dates">(1381&ndash;1417)</span></em>
+            <ul>
+              <li>
+                <span class="person-name female">Brilliance Whitegate</span> <span class="dates">(1404&ndash;1470)</span>
+                <br><span class="note">Never married, no children.</span>
+              </li>
+              <li>
+                <span class="person-name female">Radiance Whitegate</span> <span class="dates">(1409&ndash;1439)</span>
+                <span class="marriage-sep">&ndash;</span>
+                <span class="spouse">Karrigan Thunderstorm <span class="dates">(1400&ndash;1476)</span></span>
+                <br><span class="note">Thought to be Loedegan&rsquo;s favoured child. Received Foothills Farm as a wedding gift. Her marriage united the Whitegate and Thunderstorm families and produced a prolific line. See &sect;II below.</span>
+              </li>
+            </ul>
+          </li>
+
+          <!-- 3rd wife -->
+          <li>
+            <em class="spouse">3rd wife: <span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Taryara Millstone</span> <span class="dates">(1400&ndash;1455)</span></em>
+            <ul>
+              <li>
+                <span class="person-name">Argent Whitegate</span> <span class="dates">(b. 1419)</span>
+                <span class="marriage-sep">&ndash;</span>
+                <span class="spouse">Sarah Mourn <span class="dates">(1420&ndash;1475)</span></span>
+                <br><span class="title-role">Zenith Lord of Daggerdale&mdash;highest ecclesiastical and civil office in the dale</span>
+                <br><span class="note">Dispensed with any secular title for the dale, assimilating those offices under that of Zenith Lord. Younger half-brother of Luminous.</span>
+                <ul>
+                  <li>
+                    <span class="person-name">Perspicuus Whitegate</span> <span class="dates">(1440&ndash;1477)</span>
+                    <span class="marriage-sep">&ndash;</span>
+                    <span class="spouse">Lanya Forster <span class="dates">(1440&ndash;1480)</span></span>
+                    <br><span class="note">See editorial note on Lanya&rsquo;s parentage below.</span>
+                    <ul>
+                      <li>
+                        <span class="person-name female">Lumina Whitegate</span> <span class="dates">(b. 1455)</span>
+                        <br><span class="title-role">Founder &amp; Captain, the White Cloaks; low-ranking cleric of Amaunator</span>
+                        <br><span class="note">Granddaughter of Argent; grand-niece of Luminous. The only living Whitegate of child-bearing age. Quietly rejects some of the church&rsquo;s strict dogma.</span>
+                      </li>
+                      <li>
+                        <span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img"><span class="person-name">Lumen Whitegate</span></span> <span class="dates">(1457&ndash;1480)</span>
+                        <br><span class="note">Died in the Ritual of Corruption at Liberty Hill, Mirtul 1480. <em>Omitted from DDC 1480&ndash;12; present in Chronicle ch.&nbsp;7 and confirmed in &ldquo;The Shadow Lifted, Part 3.&rdquo;</em></span>
+                      </li>
+                      <li>
+                        <span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img"><span class="person-name">Luminosus Whitegate</span></span> <span class="dates">(1458&ndash;1480)</span>
+                        <br><span class="note">Died in the Ritual of Corruption at Liberty Hill, Mirtul 1480. <em>Same sources as Lumen.</em></span>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <span class="person-name female">Aestus Whitegate</span> <span class="dates">(1441&ndash;1478)</span>
+                    <span class="marriage-sep">&ndash;</span>
+                    <span class="spouse">Decker Blackmane <span class="dates">(b. 1429)</span></span>
+                    <br><span class="note">Her marriage links the Whitegate and Blackmane families. &ldquo;The Blackmane side of the family is also prolific.&rdquo; See &sect;III below.</span>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+
+      <!-- Madigan -->
+      <li>
+        <span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img"><span class="person-name">Madigan Whitegate</span></span> <span class="dates">(1377&ndash;1455)</span>
+        <br><span class="note">Had only one illegitimate daughter; no surviving members of his line. Killed leading a counter-attack at the 1455 wedding massacre.</span>
+      </li>
+    </ul>
+  </li>
+</ul>
+</div>
+</section>
+
+<!-- ================================================================ -->
+<!-- II. THE HOUSE OF THUNDERSTORM                                    -->
+<!-- ================================================================ -->
+
+<section id="thunderstorm">
+<h2 class="era-header">II. The House of Thunderstorm</h2>
+
+<aside class="narrator" aria-label="Editorial introduction to the Thunderstorm family">
+  <p>The Thunderstorm family saw a decline after the Whitegate Epiphany and the rise of Amaunator, but Karrigan&rsquo;s marriage to Radiance Whitegate in 1425 reversed their fortunes. The union produced a large number of family members that have multiplied to a couple of dozen in the present generation. Many still live at Foothills Farm, while others have entered the Church of Amaunator and military service. The Thunderstorms have produced three Sunlords. Some members of the Whitegate family resent the Thunderstorm side, whom they perceive as ambitious and scheming. No Thunderstorm has ever been admitted to the Order of the Lambent Shield.</p>
+</aside>
+
+<h3>Pedigree</h3>
+
+<div class="tree">
+<ul>
+  <li>
+    <span class="person-name">Rewel Thunderstorm</span> <span class="dates">(1333&ndash;1398)</span>
+    <span class="marriage-sep">&ndash;</span>
+    <span class="spouse">Maira Forester <span class="dates">(1361&ndash;1450)</span></span>
+    <br><span class="title-role">High Priest of Lathander in Daggerdale</span>
+    <br><span class="note">Formerly the penultimate clergyman of Lathander in Shadowdale. Broke with High Dawnlord Cassimar over the response to the vortex crisis and led a faction of the faithful to Daggerdale. After his death in 1398, church leadership passed to the Whitegates.</span>
+    <ul>
+      <li>
+        <span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img"><span class="person-name">Riven Thunderstorm</span></span> <span class="dates">(1380&ndash;1455)</span>
+        <span class="marriage-sep">&ndash;</span>
+        <span class="spouse"><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Susa Oakdale</span> <span class="dates">(1383&ndash;1455)</span></span>
+        <ul>
+          <li>
+            <span class="person-name">Karrigan Thunderstorm</span> <span class="dates">(1400&ndash;1476)</span>
+            <span class="marriage-sep">&ndash;</span>
+            <span class="spouse">Radiance Whitegate <span class="dates">(1409&ndash;1439)</span></span>
+            <br><span class="note">Married 1425. Radiance was Loedegan Whitegate&rsquo;s daughter by his second wife. The couple settled at Foothills Farm. &ldquo;A prolific side of the family.&rdquo;</span>
+            <ul>
+              <li>
+                <span class="person-name">Dauntless Thunderstorm</span> <span class="dates">(b. 1426)</span>
+                <br><span class="title-role">General of the Sun Blades; Commander of the Sunblades</span>
+                <br><span class="note">Unmarried, no known children. The eldest and most distinguished of Karrigan&rsquo;s children.</span>
+              </li>
+              <li>
+                <span class="person-name">Warden Thunderstorm</span> <span class="dates">(1428&ndash;1470)</span>
+                <span class="marriage-sep">&ndash;</span>
+                <span class="spouse"><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Eva Dale</span> <span class="dates">(1434&ndash;1455)</span></span>
+                <ul>
+                  <li>
+                    <span class="person-name">Helm Thunderstorm</span> <span class="dates">(b. 1450)</span>
+                    <span class="marriage-sep">&ndash;</span>
+                    <span class="spouse">Sarah Millstone <span class="dates">(b. 1460)</span></span>
+                    <br><span class="title-role">Mayor &amp; Magistrate of Foothills Farm</span>
+                    <br><span class="note">A vivacious and generous young man. His uncle Maddrick (or Maddread&mdash;see note below) is the Dean of the Yellow Abbey.</span>
+                    <ul>
+                      <li>
+                        <span class="person-name female">Radiance Thunderstorm</span> <span class="dates">(b. 1452)</span>
+                        <br><span class="note">Named after her grandmother Radiance Whitegate. <em>Omitted from DDC 1480&ndash;12; present in Chronicle ch.&nbsp;7.</em></span>
+                      </li>
+                      <li>
+                        <span class="person-name female">Sola Thunderstorm</span> <span class="dates">(b. 1455)</span>
+                        <br><span class="note"><em>Omitted from DDC 1480&ndash;12; present in Chronicle ch.&nbsp;7.</em></span>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <span class="person-name">Maddrick Thunderstorm</span> <span class="dates">(b. 1430)</span>
+                <br><span class="title-role">Magistrate of Crossed Blades Farm; Sunlord</span>
+                <br><span class="note">No wives or children. Stationed at Crossed Blades Farm for five years (c. 1474 onward). Described as &ldquo;a typical Magistrate; kind, disciplined, unwavering in his duties.&rdquo; Has had difficulty imposing the new faith on locals invested in Chauntea.</span>
+              </li>
+              <li>
+                <span class="person-name female">Laurel Thunderstorm</span> <span class="dates">(1431&ndash;1470)</span>
+                <span class="marriage-sep">&ndash;</span>
+                <span class="spouse">Castle Dunvegan <span class="dates">(1431&ndash;1470)</span></span>
+                <br><span class="note">Her children kept the Thunderstorm surname. The 8th Company of the Zhentarim Fist was known as &ldquo;Dunvegan&rsquo;s Corsairs&rdquo;&mdash;the finest archers in the garrison. The connection to Castle Dunvegan is unconfirmed, but the shared surname is noteworthy.</span>
+                <ul>
+                  <li>
+                    <span class="person-name">Maddison Thunderstorm</span> <span class="dates">(b. 1450)</span>
+                    <br><span class="note">Took mother&rsquo;s maiden name, as did all of Laurel&rsquo;s children.</span>
+                  </li>
+                  <li>
+                    <span class="person-name">Garnagle</span> <span class="dates">(b. 1452)</span>
+                    <br><span class="note"><em>Omitted from DDC 1480&ndash;12; present in Chronicle ch.&nbsp;7.</em></span>
+                  </li>
+                  <li>
+                    <span class="person-name female">Bethany</span> <span class="dates">(b. 1453)</span>
+                    <br><span class="note"><em>Omitted from DDC 1480&ndash;12; present in Chronicle ch.&nbsp;7.</em></span>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <span class="person-name">Maddread Thunderstorm</span> <span class="dates">(b. 1433)</span>
+                <br><span class="title-role">Magistrate &amp; Dean of the Yellow Abbey</span>
+                <br><span class="note">See editorial note below regarding the Maddrick/Maddread confusion.</span>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+</div>
+
+<div class="contradiction">
+  <strong>Editorial note &ndash; Maddrick vs. Maddread:</strong>
+  Several sources (the &ldquo;Thunderstorm Family&rdquo; article, the &ldquo;Church of Amaunator&rdquo; article, &ldquo;The Journey to Provisioner&rsquo;s Hall&rdquo;) attribute the role of Dean of the Yellow Abbey and the title of Sunlord to &ldquo;Maddrick.&rdquo; The Crossed Blades Farm article spells his name &ldquo;Madrick&rdquo; (single &lsquo;d&rsquo;), adding a further variant. However, the Whitegate &amp; Thunderstorm Pedigrees (DDC 1480&ndash;12) distinguish two brothers: <strong>Maddrick</strong> (b. 1430, Magistrate of Crossed Blades Farm) and <strong>Maddread</strong> (b. 1433, Magistrate and Dean of the Yellow Abbey). The pedigree is the more precise source for distinguishing similarly-named family members. The Dean is most likely Maddread, not Maddrick. In &ldquo;The Journey to Provisioner&rsquo;s Hall,&rdquo; Helm refers to &ldquo;his uncle, Maddrick, who is the Dean of the Yellow Abbey&rdquo;&mdash;but since both Maddrick and Maddread are Helm&rsquo;s uncles, this may simply be a misnaming.
+</div>
+
+<div class="contradiction">
+  <strong>Editorial note &ndash; Karrigan&rsquo;s parentage:</strong>
+  The &ldquo;Thunderstorm Family&rdquo; article describes Karrigan as &ldquo;the son of Rewel Thunderstorm.&rdquo; The pedigree, however, places an intervening generation: Rewel &rarr; Riven &rarr; Karrigan. Karrigan is Rewel&rsquo;s grandson, not his son. The pedigree is the more detailed and authoritative source.
+</div>
+
+<div class="contradiction">
+  <strong>Editorial note &ndash; Incomplete pedigree (DDC 1480&ndash;12 vs. Chronicle ch.&nbsp;7):</strong>
+  The DDC 1480&ndash;12 Whitegate &amp; Thunderstorm Pedigrees&mdash;the standalone document from the Yellow Abbey&mdash;omits several family members that appear in the fuller pedigree reprinted in the Daggerdale Chronicle ch.&nbsp;7. The omissions are: <strong>Lumen Whitegate</strong> (1457&ndash;1480) and <strong>Luminosus Whitegate</strong> (1458&ndash;1480), children of Perspicuus; <strong>Radiance</strong> (b.&nbsp;1452) and <strong>Sola</strong> (b.&nbsp;1455), daughters of Helm Thunderstorm; and <strong>Garnagle</strong> (b.&nbsp;1452) and <strong>Bethany</strong> (b.&nbsp;1453), children of Laurel Thunderstorm and Castle Dunvegan. All six are confirmed by narrative sources. The DDC 1480&ndash;12 pedigree appears to be an abridgement or summary; the Chronicle ch.&nbsp;7 version is the more complete record.
+</div>
+
+<div class="contradiction">
+  <strong>Editorial note &ndash; Aestus / Aestis spelling:</strong>
+  The DDC 1480&ndash;12 pedigree and the Chronicle ch.&nbsp;7 both spell the name <strong>Aestus</strong>. However, the dedicated character file is titled &ldquo;Aestis Blackmane (n&eacute;e Whitegate),&rdquo; and the Hasting Blackmane article uses both forms: &ldquo;Aestus (Whitegate)&rdquo; in one passage and &ldquo;Aestis&rdquo; by implication in the filename. The correct form is uncertain; both are attested.
+</div>
+
+<aside class="narrator" aria-label="Editorial note on Lanya Forester and Madigan Whitegate">
+  <p><strong>Editorial note &ndash; Lanya Forester and Madigan Whitegate:</strong> In Decker Blackmane&rsquo;s account of the Kythorn 1 massacre (<em>Kythorn 1, 1455 DR</em>), the bride Lanya is referred to as Loedegan&rsquo;s &ldquo;favourite niece&rdquo; and Madigan&rsquo;s &ldquo;grand daughter.&rdquo; Madigan is recorded as having &ldquo;only one illegitimate daughter&rdquo; with no surviving members of his line. If Lanya is Madigan&rsquo;s granddaughter, his illegitimate daughter must have married into the Forester family and produced Lanya. This would make the marriage of Perspicuus (Loedegan&rsquo;s grandson through Argent) and Lanya (Loedegan&rsquo;s grand-niece through Madigan) an endogamous union within the extended Whitegate family. The Forester/Forster surname is prominent across all three families: Maira Forester married Rewel Thunderstorm; Lanya Forester married Perspicuus Whitegate; Sarah Forster married Lucidus Whitegate.</p>
+</aside>
+</section>
+
+<!-- ================================================================ -->
+<!-- III. THE BLACKMANE FAMILY                                        -->
+<!-- ================================================================ -->
+
+<section id="blackmane">
+<h2 class="era-header">III. The Blackmane Family</h2>
+
+<aside class="narrator" aria-label="Editorial introduction to the Blackmane family">
+  <p>The Blackmanes are an old Daggerdale family&mdash;Decker&rsquo;s grandfather designed and built the settlement at Tesh Valley Farm. They have long been worshippers of Chauntea and Torm, placing them outside the Amaunatorite establishment. Decker&rsquo;s marriage to Aestus Whitegate (daughter of Zenith Lord Argent) created a blood link to the ruling house, but Decker has been openly hostile to the Whitegate family, resenting what he calls the &ldquo;Whitegate Entitlement.&rdquo; The pedigree notes that &ldquo;the Blackmane side of the family is also prolific,&rdquo; but only Decker and Hasting are named in the archive. The other children have &ldquo;tried to infiltrate the power structure of the Dale, mostly unsuccessful.&rdquo;</p>
+</aside>
+
+<h3>Pedigree</h3>
+
+<div class="tree">
+<ul>
+  <li>
+    <span class="person-name">Cederick Blackmane</span> <span class="dates">(b. c. 1362)</span>
+    <br><span class="note">Present as a small boy at the Battle of Liberty Hill in 1372, accompanying Dorian of Sembia. Almost certainly the grandfather of Decker, who &ldquo;designed and built this settlement&rdquo; at Tesh Valley Farm. Identified by name in Ardelusk Whitegate&rsquo;s memoir (DDC&ndash;1372&ndash;2 / Daggerdale Chronicle ch. 7).</span>
+    <ul>
+      <li>
+        <span class="note">(intervening generation&mdash;not recorded)</span>
+        <ul>
+          <li>
+            <span class="person-name">Decker Blackmane</span> <span class="dates">(b. 1429)</span>
+            <span class="marriage-sep">&ndash;</span>
+            <span class="spouse">Aestus Whitegate <span class="dates">(1441&ndash;1478)</span></span>
+            <br><span class="title-role">Mayor of Tesh Valley Farm</span>
+            <br><span class="note">Worshipper of Chauntea and Torm. Openly hostile to the Whitegate family. Had Aestus buried in the Blackmane family plot at Tesh Valley rather than with the Whitegates at Liberty Hill. &ldquo;Always at odds with the Sun Blades.&rdquo;</span>
+            <ul>
+              <li>
+                <span class="person-name female">Hasting Blackmane</span> <span class="dates">(b. c. 1452)</span>
+                <br><span class="title-role">Steward of Loedegan Close</span>
+                <br><span class="note">Estranged from her father. Took the position of Steward against his wishes at age 25 and has not spoken to him since. Refuses to use the Blackmane surname, calling herself by her mother&rsquo;s name: &ldquo;I am my mother&rsquo;s daughter, am I not?&rdquo; In the narrative &ldquo;The Lady of Loedegan Close,&rdquo; she introduces herself as &ldquo;Ms. Hasting Whitegate, cousin to your dear Lumina.&rdquo; Referred to as &ldquo;Lady Blackmane&rdquo; by the White Cloaks.</span>
+              </li>
+              <li>
+                <span class="note">&ldquo;Many children&rdquo;&mdash;others unnamed in the archive. &ldquo;Tried to infiltrate the power structure of the Dale, mostly unsuccessful.&rdquo;</span>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+</div>
+</section>
+
+<!-- ================================================================ -->
+<!-- IV. CROSS-FAMILY CONNECTIONS                                     -->
+<!-- ================================================================ -->
+
+<section id="connections">
+<h2 class="era-header">IV. Cross-Family Connections</h2>
+
+<aside class="narrator" aria-label="Editorial introduction to cross-family connections">
+  <p>The three families are bound together through two marriages in the generation of Loedegan Whitegate&rsquo;s children and grandchildren. Together, these unions mean that by the 1480s, the Whitegate bloodline persists almost entirely through the Thunderstorm and Blackmane surnames.</p>
+</aside>
+
+<h3>Key Marriages</h3>
+
+<div class="table-wrap">
+<table>
+  <caption>Marriages uniting the Whitegate, Thunderstorm and Blackmane families</caption>
+  <thead>
+    <tr>
+      <th scope="col">Marriage</th>
+      <th scope="col">Date</th>
+      <th scope="col">Families United</th>
+      <th scope="col">Significance</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Karrigan Thunderstorm &amp; Radiance Whitegate</td>
+      <td><time>1425 DR</time></td>
+      <td>Thunderstorm &ndash; Whitegate</td>
+      <td>Revived the Thunderstorm family; produced General Dauntless and a large line still active in the Church and Sun Blades. The Foothills Farm estate was Radiance&rsquo;s wedding gift from Loedegan.</td>
+    </tr>
+    <tr>
+      <td>Decker Blackmane &amp; Aestus Whitegate</td>
+      <td>c. <time>1460s DR</time></td>
+      <td>Blackmane &ndash; Whitegate</td>
+      <td>Linked the Amaunatorite establishment to a Chauntean/Tormish family. Produced a &ldquo;prolific&rdquo; line, though the relationship is acrimonious&mdash;Decker is openly hostile to the Whitegates.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<h3>Key Relationships at a Glance</h3>
+
+<div class="table-wrap">
+<table>
+  <caption>Principal living figures and their relation to the two Whitegate patriarchs</caption>
+  <thead>
+    <tr>
+      <th scope="col">Person</th>
+      <th scope="col">Relation to Luminous Whitegate</th>
+      <th scope="col">Relation to Argent Whitegate</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Lumina Whitegate</td><td>Grand-niece (via half-brother Argent)</td><td>Granddaughter</td></tr>
+    <tr><td>Blaze Whitegate</td><td>Nephew (son of full brother Ardelusk II)</td><td>Half-nephew (son of half-brother Ardelusk II)</td></tr>
+    <tr><td>Dauntless Thunderstorm</td><td>Half-nephew (son of half-sister Radiance)</td><td>Half-nephew (son of half-sister Radiance)</td></tr>
+    <tr><td>Helm Thunderstorm</td><td>Half-great-nephew</td><td>Half-first-cousin once removed</td></tr>
+    <tr><td>Hasting Blackmane</td><td>Half-great-niece (via half-brother Argent)</td><td>Granddaughter</td></tr>
+  </tbody>
+</table>
+</div>
+</section>
+
+<!-- ================================================================ -->
+<!-- V. THE EXTINCTION OF THE WHITEGATE NAME                          -->
+<!-- ================================================================ -->
+
+<section id="extinction">
+<h2 class="era-header">V. The Extinction of the Whitegate Name</h2>
+
+<aside class="narrator" aria-label="Editorial note on the extinction of the Whitegate surname">
+  <p>By the early 1480s, the Whitegate surname is nearing extinction. Two catastrophes, a generation apart, destroyed the family.</p>
+  <p>The first was the massacre of <time>Kythorn 1, 1455 DR</time>&mdash;the attack on the wedding of Perspicuus and Lanya&mdash;which killed Loedegan, Madigan, Solis, Ardelusk II, Dorabell, Taryara, and many others. This left only four Whitegate men: Luminous (widowed since 1429), Argent, Blaze (widowed since 1455), and the young Perspicuus, who was left in charge of Liberty Hill.</p>
+  <p>The second was the Ritual of Corruption at Liberty Hill in Mirtul 1480. &ldquo;Every member of the Whitegate family that resided at the farm perished.&rdquo; Perspicuus had died in 1477; his wife Lanya was tortured to death in the chapel. Their children Lumen (b.&nbsp;1457) and Luminosus (b.&nbsp;1458) were &ldquo;fed to the Ritual of Corruption, dying unthinkable deaths,&rdquo; alongside their cousin Lucidus and his three small children (unnamed, ages 2, 3, and 5). Only Lumina survived&mdash;she was in Dagger Falls at the time.</p>
+  <p>Luminous&rsquo;s grand-nephews and grand-nieces&mdash;&ldquo;Lumen, Luminosus, Lucidus, and the small children of Lucidus&mdash;had been killed in unspeakable ways.&rdquo; The living Whitegate men&mdash;Luminous (elderly), Argent (elderly, widowed since 1475), and Blaze&mdash;have no further heirs. Lumina, granddaughter of Argent, is the only Whitegate of child-bearing age, but she has no children as of 1481.</p>
+  <p>The Whitegate bloodline persists through the Thunderstorm family (via Radiance) and the Blackmane family (via Aestus), but no one in either line bears the Whitegate surname. Hasting Blackmane has claimed her mother&rsquo;s name, but she remains officially a Blackmane. Luminous, the patriarch, &ldquo;is the patriarch of a family that is almost gone, ruling from an inner keep he rarely leaves.&rdquo;</p>
+</aside>
+</section>
+
+</article>
+
+<!-- ================================================================ -->
+<!-- SOURCES                                                          -->
+<!-- ================================================================ -->
+
+<footer>
+  <strong>Sources</strong>
+  <ul>
+    <li>DDC &ndash; 1480 &ndash; 12: Whitegate &amp; Thunderstorm Pedigrees (Yellow Abbeye Booke of Surveys and Measures, 1481 edition)</li>
+    <li>Daggerdale Chronicle ch.&nbsp;7 (Ardelusk&rsquo;s memoir; GFD notes on the 1455 wedding; pedigree reprint&mdash;<em>the fuller pedigree, containing entries omitted from DDC 1480&ndash;12</em>)</li>
+    <li>The Shadow Lifted, Part 3 (Kesh Oakdale; confirms deaths of Lumen, Luminosus, Lucidus, and children of Lucidus in the Ritual of Corruption)</li>
+    <li>From the Archives&mdash;Luminous Whitegate Biography (extended biography; confirms Ritual deaths)</li>
+    <li>Kythorn 1, 1455 DR&mdash;compiled from notes written by Decker Blackmane (eyewitness account of the wedding massacre; identifies Lanya as Madigan&rsquo;s granddaughter)</li>
+    <li>Thunderstorm Family (wiki article)</li>
+    <li>Rewel Thunderstorm (wiki article)</li>
+    <li>Maddrick Thunderstorm (wiki article, with editorial clarification file)</li>
+    <li>Helm Thunderstorm; DDC 1481&ndash;18 Report from Helm Thunderstorm</li>
+    <li>Luminous Whitegate (wiki article); Argent Whitegate; Blaze Whitegate; Lumina Whitegate (wiki articles)</li>
+    <li>Lumen Whitegate (wiki stub&mdash;&#8224; deceased marker only)</li>
+    <li>Decker Blackmane; Hasting Blackmane; Aestis Blackmane (n&eacute;e Whitegate) (wiki articles)</li>
+    <li>The Journey to Provisioner&rsquo;s Hall; Into the Dales (narrative sources)</li>
+    <li>The Lady of Loedegan Close (White Cloaks narrative); Crossed Blades Farm (wiki article)</li>
+    <li>Investigation of Tesh Valley Farm; Loedegan Close; Character Background Information</li>
+  </ul>
+</footer>
+
+</body>
+</html>
