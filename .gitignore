@@ -1,0 +1,46 @@
+# Binary and media files
+*.jpg
+*.jpeg
+*.JPG
+*.JPEG
+*.png
+*.PNG
+*.gif
+*.GIF
+*.bmp
+*.BMP
+*.tif
+*.tiff
+*.psd
+*.ai
+*.svg
+
+# PDFs (large binaries)
+*.pdf
+*.PDF
+
+# Office binaries
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+
+# Archives
+*.zip
+*.tar
+*.gz
+*.rar
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE
+*.swp
+*.swo
+*~
+.vscode/
+.idea/

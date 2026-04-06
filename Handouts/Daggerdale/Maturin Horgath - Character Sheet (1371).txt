@@ -1,0 +1,819 @@
+Brother Maturin "the
+  Grey" Horgath
+Human
+Paladin 8
+���
+Character Name
+Race
+Class
+0
+Ilmater
+34
+Male
+180
+  lbs
+6'
+  2"
+Grey
+blue-grey
+Medium
+Deity
+Age
+Gender
+Weight
+Height
+Hair
+Eyes
+Size
+ABILITY
+  SCORES
+�
+INITIATIVE
+Lawful
+  Good
+30
+Normal
+Current
+Mod
+Original
+Mod
+Total
+Feat
+Dex
+Misc
+[1]
+Alignment
+Movement
+Vision
+STR
+16
++3
+16
++3
++2
+=
+0
++
+2
++
+HIT POINTS
+BASE ATTACK MODIFIERS
+[2]
+DEX
+14
++2
+14
++2
+Total
+Current
+CON
+24
++7
+24
++7
+EXPERIENCE
+[3]
+128
+MELEE
++11/+6
+��
+INT
+13
++1
+13
++1
+Total XP :
+MISSILE
++10/+5
+��
+WIS
+17
++3
+17
++3
+Next Level :
+36,000
+MONK
+  UNARMED
++3
+���
+CHA
+18
++4
+18
++4
+Char Lvl :
+8
++
+  16 hps when in Rage
+MONK
+  DAMAGE
+SAVING THROWS
+ARMOUR CLASS
+SKILLS
+[4]
+Total
+Base
+Ability
+Feat
+Misc
+Total
+Base
+Armour
+[5]
+Dex
+Vs. Touch
+Flat footed
+��
+Skill
+Total
+FORT
+(con)
+21
+=
+12
++
+7
++
+2
++
+21
+=
+10
++
+10
++
+1
+11
+20
+�
+Alchemy
+=
+-
+0
+REF
+(dex)
+10
+=
+8
++
+2
++
+0
++
+No
+Dodge feat
+  gives +1 AC vs one opponent
+�
+Animal
+  Empathy
+=
+-
+0
+WILL
+(wis)
+13
+=
+8
++
+3
++
+2
++
+No
+Mobility feat
+  gives +4 AC vs AoO
+�
+Appraise
+=
+1
+0
++2 to WILL saves when in Rage
+�
+Balance
+=
+2
+0
+WEAPONS
+Damage
+Critical
+Range
+�
+Bluff
+=
+4
+0
+2-Handed
+Masterwork
+  Greataxe +2
+1d12
+  +6
+20/X3
+-
+�
+Climb
+=
+3
+0
++13/+8
+��
+'Raven's
+  bite +2
+�
+Concentration
+=
+7
+0
+Off-Hand
+None
+0
+0
+0
+�
+Craft
+  - choice
+=
+1
+0
+0
+0
+�
+Craft
+  - choice
+=
+1
+0
+Missile
+None
+0
+0
+0
+�
+Decipher
+  Script
+=
+-
+0
+0
+0
+�
+Diplomacy
+=
+12
+8
+Backup
+Masterwork
+  Longsword +1
+1d8 +4
+19-20/X2
+-
+�
+Disable
+  Device
+=
+-
+0
++12/+7
+��
+'Ratbiter'
+  +1/+3 vs. lycanthropes (add 2d6 damage to lycanthropes)
+�
+Disguise
+=
+4
+0
+Gain
+  an additional +0 to attack when in Rage
+Max Dex
+Check Penalty
+Spell Failure
+�
+Escape Artist
+=
+2
+0
+ARMOUR &
+  PROTECTION
+Bonus
+Type
+�
+Forgery
+=
+1
+0
+Armour
+Masterwork
+  & Spiked Full plate
++8
+Heavy
+1
+-5
+35%
+�
+Gather Information
+=
+4
+0
+22
+Silver
+  spikes
+�
+Handle
+  Animal
+=
+-
+0
+35
+Shield
+�
+No Shield
++
+0
+N/A
+0
+0
+�
+Heal
+=
+13
+10
+0
+0
+�
+Hide
+=
+2
+0
+0
+Other
+�
+Innuendo
+=
+-
+0
+0
+����
+Ring of Protection
+�����
++2
+�
+Intimidate
+=
+4
+0
+[6]
+0
+�
+Intuit
+  Direction
+=
+-
+0
+FEATS
+�
+Jump
+=
+3
+0
+0
+Survivor
+  : Ability to persevere, +2 to FORT saves and +2 to all wilderness lore checks
+�
+Knowledge (0)
+=
+-
+0
+Endurance
+�
+: Increase endurance, +4 bonus to
+  endurance checks
+�
+Knowledge - choice
+=
+-
+0
+Iron
+  Will : +2 bonus to WILL saves
+�
+Knowledge (Religion)
+=
+12
+11
+Giant's
+  Toughness : Gain +9 hit points
+�
+Knowledge
+  (Arcana)
+=
+-
+0
+Remain
+  Conscious : When reduced to 0 hit points, may take one partial action each
+  round until reaching -10 hit points.
+�
+Knowledge
+  (Nature)
+=
+-
+0
+�
+�
+Listen
+=
+3
+0
+�
+�
+Move Silently
+=
+2
+0
+�
+�
+Open Lock
+=
+-
+0
+�
+�
+Perform
+=
+4
+0
+�
+�
+Perform
+=
+4
+0
+�
+�
+Pick Pocket
+=
+-
+0
+�
+�
+Profession
+=
+-
+0
+�
+�
+Profession
+=
+-
+0
+�
+�
+Read Lips
+=
+-
+0
+�
+�
+Ride
+=
+11
+9
+�
+�
+Scry
+=
+1
+0
+�
+�
+Search
+=
+1
+0
+�
+�
+Sense Motive
+=
+3
+0
+�
+�
+Spellcraft
+  (Arcane)
+=
+-
+0
+�
+�
+Spellcraft
+  (Divine)
+=
+-
+0
+�
+�
+Spot
+=
+3
+0
+�
+�
+Swim
+=
+3
+0
+�
+�
+Tumble
+=
+-
+0
+�
+�
+Use Magic
+  Device
+=
+-
+0
+�
+�
+Use Rope
+=
+2
+0
+�
+�
+Wilderness Lore
+=
+8
+3
+�
+CLASS
+  ABILITIES
+Paladin
+All armour
+Mark of Ilmater
+All shields
+- Remain
+  Conscious Bonus Feat
+Simple weapons
+- +5 to
+  Constitution Score
+Martial weapons
+- Enhanced
+  Aura of Courage
+Detect Evil
+�����
+- acts as
+bless
+50' radius
+Divine Grace &
+  Health
+�����
+- allies +4 morale save vs. fear
+Lay on Hands (32hp
+  /day)
+�����
+- allies +1 morale to attack
+Aura of Courage &
+  Smite Evil
+- +2
+  divine bonus to all saves
+Turn Undead
+'Ilmater's Boon'
+Remove Disease
+  twice/week
+�����
+- armour does not chafe
+Mark of Ilmater
+RACIAL TRAITS
+  & LANGUAGES
+PRESTIGE
+  CLASS ABILITIES
+1
+  extra feat at 1st level.
+No
+  Prestige Class
+4
+  extra skill points 1st level.
+1
+  extra skill point per level.
+�
+�
+�
+LANGUAGES KNOWN
+Common
+�
+�
+Damaran
+�
+�
+�
+�
+�
+�
+�
+EQUIPMENT
+Backpack
+Carried / Worn
+Other
+MEDICAL
+  KIT:
+WINTER
+  CLOTHING
+Horgath
+  Signet Ring
+Amputation
+  saws
+2
+  pair cloth longjohns
+Holy
+  Symbol of Ilmater
+2
+  Tourniquets
+4
+  pairs woollen socks
+Ring
+  of Detect Poison
+Snips
+2
+  pair woollen breeches
+Beholder'
+  amulet
+limb
+  rod
+2
+  woollen shirts
+Silver
+  collar
+cranial
+  drill
+2
+  pairs mittens
+Ring
+  of Resist Elements (Cold)
+bandages
+1
+  wool scarf
+Ring
+  of Protection +2
+herbs
+1
+  fur-lined surcoat
+knife
+  kit
+1
+  pair high fur-lined boots
+needle
+2
+  winter blankets
+soap
+Bedroll
+gloves
+leather
+  apron
+Waterskin
+3
+  flasks of oil
+fieldglass
+40
+  days rations
+CARRYING
+  LIMITS
+Light Load
+0-76
+  lbs
+Medium Load
+77-153
+  lbs
+Heavy Load
+154-229
+  lbs
+Max Load (Lift over Head)
+230
+  lbs
+Max Load (Lift off Ground)
+460
+  lbs
+Max Load (Push or Drag)
+1150
+  lbs
+ENCUMBRANCE
+Backpack :
+0
+  lbs
+Ammunition
+Weapons :
+[7]
+64
+  lbs
+Armour Worn :
+65
+  lbs
+Total Encumbrance :
+203
+  lbs
+Armour
+Total w/o Backpack :
+150
+  lbs
+Masterwork & Spiked
+  Full plate
+* note that most is
+  carried by my steed
+Masterwork
+  Shield, large, steel +2
+MOUNT /
+  FAMILIAR
+�
+�
+Warburden
+Horse,
+  Heavy War
+LARGE
+60 ft.
+Weapons
+Species
+Size
+Speed
+Masterwork
+  Longsword +1
+STR
+22
++6
+AC
+HD
+HP Total
+HP Current
+Masterwork
+  Greataxe +2
+DEX
+15
++2
+18
+8d10
+107
+Masterwork
+  Greataxe +1
+CON
+19
++4
+Two-Handed
+  Hammer +1
+INT
+7
+-2
+Type
+Total Bonus
+Damage
+Fortitude
++10
+�
+WIS
+15
++2
+Attack One
+2
+  Hooves
++13
+1d8+5
+Reflex
++8
+�
+CHA
+11
+0
+Attack Two
+Bite
++8
+1d4+5
+Will
++5
+�
+Notes
+�
+Listen +10, Spot +10, Scent
+�
+�
+[1]
+Use this to add any bonuses I have not countered
+for.
+[2]
+Based upon classes and ability modifiers.
+[3]
+Enter your XP on the top row and if you have
+another level to apply, then the Next Level Row will turn red.
+[4]
+If a skill cannot be used because it is class
+exclusive (and you are do not belong to that class), or it is unusuable
+untrained (and you have no ranks in it), then it will be greyed out and the
+total will read -.
+[5]
+If Monk includes level and wis bonuses (if they
+have no armour or sheld equipped).
+If humaniod includes natural armour and/or dodge bonuses.
+Also includes bonuses due to Prestige Class.
+[6]
+Includes magical bonus (eg rings etc)
+[7]
+�if attacking with this weapon only.
+[8]
+Includes ammunition
