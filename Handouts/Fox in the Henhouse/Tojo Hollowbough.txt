@@ -1,0 +1,42 @@
+Tomdrill Jon \"Tojo\" Hollowbough is an investigator from Mistledale who is running a \"problem-solving\" business in Archendale.  He hires himself out to anyone looking for an item, a person in the area, information as a private investigator.
+
+He's been working for the last couple of years with a grizzled old half-elf Ranger named Delgren Quarterman. The two met in Mistledale when Delgren hired the young halfling to keep an eye on the back entrance to a kobold cave for a week to make sure that their Orc priest didn't leave while Delgren was scouting the area. Thanks to Tojo, Delgren was able to defeat the Orc priest, and the two of them managed to pick off most of the kobolds in the process.
+
+Since then, Tojo's been training as a ranger and working with Delgren on a few other projects. Lately, Delgren's been pretty much retired, and he's settled in Archendale. Tojo's been selling the private eye angle, and handles all the cases himself, relying on Delgren for advice and non-dangerous information gathering.
+
+== A Flier for Tojo's Investigation Service in White Ford ==
+<br>
+<br>
+<br>
+{{style|\"Who knows? Tojo knows!\"|18|centre|Monotype Corsiva}}
+
+Hollowbough and Quarterman: Halfling Investigators
+
+{|
+| align=\"center\" style=\"background:#f0f0f0;\"|Job
+| align=\"center\" style=\"background:#f0f0f0;\"|Price**
+|-
+| Lost pets||25 sp + expenses
+|-
+| Lost items||1/5 appraised value + expenses
+|-
+| Repossession||1/3 appraised value + expenses
+|-
+| Information retrieval||X + 5 sp/day
+|-
+| Observations||2 gp/day
+|-
+| Missing relatives||3 gp/day + expenses
+|-
+| Other|| X
+|-
+|
+|}
+* X - determined on a case by case basis
+
+* !Half of the quoted price is to be paid on day one of the case. The second half of the quoted price plus the balance of the final price is to be paid upon resolution of the case at hand.
+* !!All payment is final.
+* !!!Eighth-days and feastdays always at double the daily charge.
+* !!!!NO CREDIT
+
+*Inquire at the Hanged Hobgoblin after 1300 hours.
