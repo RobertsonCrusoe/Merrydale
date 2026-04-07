@@ -11,37 +11,37 @@
 
   /* ── Reset & Base ─────────────────────────────────────── */
   :root {
-    --bg-parchment: #f4ead5;
-    --bg-inset: #f7f0e0;
-    --bg-section-header: #ede0c8;
-    --bg-section-gradient: linear-gradient(90deg, #f4ead5, #e8d5b0, #f4ead5);
-    --bg-subsection-gradient: linear-gradient(90deg, #f4ead5, #efe3c8, #f4ead5);
-    --text-body: #2c1e0e;
-    --text-heading: #4a1e08;
-    --text-subheading: #6b2a0a;
-    --text-secondary: #5a3d20;
-    --text-aside: #3a2a15;
-    --accent-border: #8b4513;
-    --accent-border-light: #c9a96e;
-    --accent-link: #3a5a7c;
-    --font-display: 'IM Fell English SC', 'Palatino Linotype', serif;
-    --space-xs: 4px;
-    --space-sm: 8px;
-    --space-md: 16px;
-    --space-lg: 24px;
-    --space-xl: 36px;
+    —bg-parchment: #f4ead5;
+    —bg-inset: #f7f0e0;
+    —bg-section-header: #ede0c8;
+    —bg-section-gradient: linear-gradient(90deg, #f4ead5, #e8d5b0, #f4ead5);
+    —bg-subsection-gradient: linear-gradient(90deg, #f4ead5, #efe3c8, #f4ead5);
+    —text-body: #2c1e0e;
+    —text-heading: #4a1e08;
+    —text-subheading: #6b2a0a;
+    —text-secondary: #5a3d20;
+    —text-aside: #3a2a15;
+    —accent-border: #8b4513;
+    —accent-border-light: #c9a96e;
+    —accent-link: #3a5a7c;
+    —font-display: 'IM Fell English SC', 'Palatino Linotype', serif;
+    —space-xs: 4px;
+    —space-sm: 8px;
+    —space-md: 16px;
+    —space-lg: 24px;
+    —space-xl: 36px;
   }
 
-  @page { background: var(--bg-parchment); }
+  @page { background: var(—bg-parchment); }
   * { margin: 0; padding: 0; box-sizing: border-box; }
 
   body {
     font-family: 'Crimson Text', 'Palatino Linotype', 'Book Antiqua', Palatino, Georgia, serif;
     font-size: 20px;
-    background: var(--bg-parchment);
-    color: var(--text-body);
+    background: var(—bg-parchment);
+    color: var(—text-body);
     line-height: 1.6;
-    padding: var(--space-lg);
+    padding: var(—space-lg);
   }
 
   main {
@@ -52,94 +52,94 @@
   /* ── Typography ───────────────────────────────────────── */
   h1 {
     text-align: center;
-    font-family: var(--font-display);
-    color: var(--text-heading);
+    font-family: var(—font-display);
+    color: var(—text-heading);
     font-size: 2em;
     font-weight: 700;
     letter-spacing: 3px;
-    margin-bottom: var(--space-xs);
+    margin-bottom: var(—space-xs);
   }
 
   h2 {
-    font-family: var(--font-display);
-    color: var(--text-heading);
+    font-family: var(—font-display);
+    color: var(—text-heading);
     font-size: 1.4em;
     padding: 10px 20px;
-    margin: var(--space-xl) 0 var(--space-md) 0;
-    background: var(--bg-section-gradient);
-    border-left: 4px solid var(--accent-border);
-    border-bottom: 1px solid var(--accent-border-light);
+    margin: var(—space-xl) 0 var(—space-md) 0;
+    background: var(—bg-section-gradient);
+    border-left: 4px solid var(—accent-border);
+    border-bottom: 1px solid var(—accent-border-light);
     letter-spacing: 1px;
     page-break-after: avoid;
     break-after: avoid;
   }
 
   h3 {
-    font-family: var(--font-display);
-    color: var(--text-subheading);
+    font-family: var(—font-display);
+    color: var(—text-subheading);
     font-size: 1.15em;
     padding: 8px 16px;
-    margin: var(--space-lg) 0 var(--space-sm) 0;
-    background: var(--bg-subsection-gradient);
-    border-left: 3px solid var(--accent-border-light);
+    margin: var(—space-lg) 0 var(—space-sm) 0;
+    background: var(—bg-subsection-gradient);
+    border-left: 3px solid var(—accent-border-light);
     letter-spacing: 0.5px;
     page-break-after: avoid;
     break-after: avoid;
   }
 
   p {
-    margin-bottom: var(--space-md);
+    margin-bottom: var(—space-md);
     orphans: 3;
     widows: 3;
   }
 
   section p:last-of-type {
-    margin-bottom: var(--space-sm);
+    margin-bottom: var(—space-sm);
   }
 
   em { font-style: italic; }
-  strong { font-weight: 700; font-family: var(--font-display); }
+  strong { font-weight: 700; font-family: var(—font-display); }
 
   /* ── Title Block ──────────────────────────────────────── */
   header[role="banner"] {
     text-align: center;
-    margin-bottom: var(--space-xl);
-    padding-bottom: var(--space-lg);
-    border-bottom: 2px solid var(--accent-border);
+    margin-bottom: var(—space-xl);
+    padding-bottom: var(—space-lg);
+    border-bottom: 2px solid var(—accent-border);
   }
 
   .subtitle {
-    color: var(--text-secondary);
+    color: var(—text-secondary);
     font-size: 0.95em;
     font-style: italic;
-    margin-bottom: var(--space-xs);
+    margin-bottom: var(—space-xs);
   }
 
   .byline {
-    color: var(--text-secondary);
+    color: var(—text-secondary);
     font-size: 0.9em;
-    margin-top: var(--space-sm);
+    margin-top: var(—space-sm);
   }
 
   .date-line {
-    color: var(--text-secondary);
+    color: var(—text-secondary);
     font-size: 0.9em;
-    margin-top: var(--space-xs);
+    margin-top: var(—space-xs);
   }
 
   /* ── Horizontal Rules ─────────────────────────────────── */
   hr {
     border: none;
-    border-top: 1px solid var(--accent-border-light);
-    margin: var(--space-lg) 0;
+    border-top: 1px solid var(—accent-border-light);
+    margin: var(—space-lg) 0;
   }
 
   /* ── Verse (blockquote) ───────────────────────────────── */
   blockquote {
-    background: var(--bg-inset);
-    border-left: 3px solid var(--accent-border);
-    padding: var(--space-md) var(--space-lg);
-    margin: var(--space-md) 0 var(--space-lg) 0;
+    background: var(—bg-inset);
+    border-left: 3px solid var(—accent-border);
+    padding: var(—space-md) var(—space-lg);
+    margin: var(—space-md) 0 var(—space-lg) 0;
     font-size: 0.95em;
     line-height: 1.7;
     page-break-inside: avoid;
@@ -157,7 +157,7 @@
 
   /* ── Narrator / Collector Voice ─────────────────────── */
   .collector-note {
-    margin-bottom: var(--space-md);
+    margin-bottom: var(—space-md);
     font-size: 0.95em;
     line-height: 1.55;
   }
@@ -168,26 +168,26 @@
 
   /* ── Attribution lines ──────────────────────────────── */
   .attribution {
-    color: var(--text-secondary);
+    color: var(—text-secondary);
     font-style: italic;
     font-size: 0.9em;
-    margin-bottom: var(--space-sm);
+    margin-bottom: var(—space-sm);
   }
 
   /* ── Signature blocks ───────────────────────────────── */
   .signature {
     font-style: italic;
-    color: var(--text-secondary);
-    margin-top: var(--space-md);
+    color: var(—text-secondary);
+    margin-top: var(—space-md);
   }
 
   /* ── Footer / Colophon ──────────────────────────────── */
   footer {
-    margin-top: var(--space-xl);
-    padding-top: var(--space-lg);
-    border-top: 2px solid var(--accent-border);
+    margin-top: var(—space-xl);
+    padding-top: var(—space-lg);
+    border-top: 2px solid var(—accent-border);
     font-size: 0.85em;
-    color: var(--text-secondary);
+    color: var(—text-secondary);
     line-height: 1.5;
   }
 
@@ -196,44 +196,44 @@
     background: none;
     border: none;
     padding: 0;
-    margin: 0 0 var(--space-sm) 0;
-    color: var(--text-secondary);
+    margin: 0 0 var(—space-sm) 0;
+    color: var(—text-secondary);
   }
 
   footer p {
-    margin-bottom: var(--space-sm);
+    margin-bottom: var(—space-sm);
   }
 
   footer ul {
-    margin: var(--space-sm) 0 var(--space-md) var(--space-lg);
+    margin: var(—space-sm) 0 var(—space-md) var(—space-lg);
     list-style: disc;
   }
 
   footer li {
-    margin-bottom: var(--space-xs);
+    margin-bottom: var(—space-xs);
   }
 
   /* ── Appendix Headers ───────────────────────────────── */
   .appendix-header {
     background: linear-gradient(90deg, #f4ead5, #e0d0b8, #f4ead5);
-    color: var(--text-secondary);
-    font-family: var(--font-display);
+    color: var(—text-secondary);
+    font-family: var(—font-display);
     font-size: 1.3em;
     padding: 10px 20px;
-    margin: var(--space-xl) 0 var(--space-md) 0;
+    margin: var(—space-xl) 0 var(—space-md) 0;
     border-left: 4px solid #9a8a70;
-    border-bottom: 1px solid var(--accent-border-light);
+    border-bottom: 1px solid var(—accent-border-light);
     letter-spacing: 1px;
     page-break-before: always;
   }
 
   /* ── Table of Contents ────────────────────────────────── */
   nav[aria-label="Table of Contents"] {
-    background: var(--bg-inset);
-    border: 1px solid var(--accent-border-light);
+    background: var(—bg-inset);
+    border: 1px solid var(—accent-border-light);
     border-radius: 4px;
-    padding: var(--space-lg);
-    margin: 0 0 var(--space-xl) 0;
+    padding: var(—space-lg);
+    margin: 0 0 var(—space-xl) 0;
   }
 
   nav[aria-label="Table of Contents"] h2 {
@@ -241,12 +241,12 @@
     background: none;
     border: none;
     padding: 0;
-    margin: 0 0 var(--space-md) 0;
+    margin: 0 0 var(—space-md) 0;
     text-align: center;
     letter-spacing: 2px;
     text-transform: uppercase;
     font-size: 0.85em;
-    color: var(--text-secondary);
+    color: var(—text-secondary);
   }
 
   nav[aria-label="Table of Contents"] ol {
@@ -256,9 +256,9 @@
   }
 
   nav[aria-label="Table of Contents"] li {
-    margin-bottom: var(--space-xs);
+    margin-bottom: var(—space-xs);
     padding: 3px 0;
-    border-bottom: 1px dotted var(--accent-border-light);
+    border-bottom: 1px dotted var(—accent-border-light);
   }
 
   nav[aria-label="Table of Contents"] li:last-child {
@@ -267,35 +267,35 @@
 
   nav[aria-label="Table of Contents"] li.toc-appendix-group {
     border-bottom: none;
-    margin-top: var(--space-md);
+    margin-top: var(—space-md);
     padding-bottom: 0;
   }
 
   nav[aria-label="Table of Contents"] li.toc-appendix-group > span {
-    font-family: var(--font-display);
-    color: var(--text-secondary);
+    font-family: var(—font-display);
+    color: var(—text-secondary);
     font-size: 0.95em;
     letter-spacing: 0.5px;
   }
 
   nav[aria-label="Table of Contents"] ol ol {
-    margin-left: var(--space-lg);
-    margin-top: var(--space-xs);
+    margin-left: var(—space-lg);
+    margin-top: var(—space-xs);
   }
 
   nav[aria-label="Table of Contents"] a {
-    color: var(--text-body);
+    color: var(—text-body);
     text-decoration: none;
     transition: color 0.15s;
   }
 
   nav[aria-label="Table of Contents"] a:hover {
-    color: var(--accent-link);
+    color: var(—accent-link);
   }
 
   nav[aria-label="Table of Contents"] .toc-number {
-    color: var(--text-secondary);
-    font-family: var(--font-display);
+    color: var(—text-secondary);
+    font-family: var(—font-display);
     margin-right: 6px;
   }
 
@@ -309,15 +309,37 @@
   }
 
   @media (max-width: 600px) {
-    body { padding: var(--space-md); }
+    body { padding: var(—space-md); }
     h1 { font-size: 1.6em; }
     h2 { font-size: 1.2em; }
-    blockquote { padding: var(--space-sm) var(--space-md); }
+    blockquote { padding: var(—space-sm) var(—space-md); }
   }
 
-</style>
+
+        .home-link {
+            position: fixed;
+            top: 12px;
+            left: 12px;
+            z-index: 1000;
+            opacity: 0.5;
+            transition: opacity 0.2s;
+        }
+        .home-link:hover {
+            opacity: 1;
+        }
+        .home-link svg {
+            width: 28px;
+            height: 28px;
+        }
+    </style>
 </head>
 <body>
+    <a href="index.html" class="home-link" title="Back to Archive" aria-label="Back to Archive">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#8b4513" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
+            <polyline points="9 22 9 12 15 12 15 22"/>
+        </svg>
+    </a>
 <main>
 
 <header role="banner">
@@ -416,7 +438,7 @@
 <span class="verse-line">Yet doomed nonetheless, but not by Ravensblight.</span>
 <span class="verse-break" aria-hidden="true"></span>
 <span class="verse-line">There was Boregar the Wanderer, accompanying too,</span>
-<span class="verse-line">The roads were unsafe - what else could he do?</span>
+<span class="verse-line">The roads were unsafe — what else could he do?</span>
 <span class="verse-line">A fat man was he, but fattest his heart,</span>
 <span class="verse-line">A wounded companion for miles he’d cart.</span>
 <span class="verse-line">His staff was a whirlwind of parries and blows,</span>
@@ -973,11 +995,11 @@
 </blockquote>
 <hr>
 
-<section id=”ix-silver-talons”>
+<section id="ix-silver-talons">
 <h2>IX. Silver Talons</h2>
-<p class=”attribution”><em>by Beliard Emmarask</em></p>
-<p class=”attribution”><em>Composed on the evening of 8 Flamerule, 1480 DR</em></p>
-<p class=”collector-note”>This short, enigmatic poem reached me through the same channels as Emmarask’s other later compositions. I am told it was written on the same evening as his performance at Quick Axes, though its character could not be more different. Unlike the public lay, which is a meditation on Daggerdale’s landscape, this piece is darker and more allusive: a private work never intended for the tavern stage. Its references to “silver talons” and ravens freed from a cage suggest a political subtext that I confess I have not been able to fully decode, though the final image — of something caged now flying free over the “wooded dales” and the “sandless sea” — is unmistakably hopeful. It is the work of a man who knows more than he is saying, which is, as I have come to understand, Emmarask’s natural condition.</p>
+<p class="attribution"><em>by Beliard Emmarask</em></p>
+<p class="attribution"><em>Composed on the evening of 8 Flamerule, 1480 DR</em></p>
+<p class="collector-note">This short, enigmatic poem reached me through the same channels as Emmarask’s other later compositions. I am told it was written on the same evening as his performance at Quick Axes, though its character could not be more different. Unlike the public lay, which is a meditation on Daggerdale’s landscape, this piece is darker and more allusive: a private work never intended for the tavern stage. Its references to “silver talons” and ravens freed from a cage suggest a political subtext that I confess I have not been able to fully decode, though the final image — of something caged now flying free over the “wooded dales” and the “sandless sea” — is unmistakably hopeful. It is the work of a man who knows more than he is saying, which is, as I have come to understand, Emmarask’s natural condition.</p>
 </section>
 <hr>
 <blockquote>
@@ -1491,7 +1513,9 @@
 <span class="verse-line">Hang, boys, hang.</span>
 </blockquote>
 <hr>
-<p class="attribution"><em>This volume was assembled and transcribed by Tammen Gale of Scardale in the Year of the Awakened Sleepers, 1484 DR. All errors of transcription are the collector’s own. The poems and songs herein are the work of their respective authors and are reproduced without alteration.</em></p>
+<footer>
+<p>This volume was compiled, annotated, and prepared for circulation by Tammen Gale of Scardale in the Year of the Awakened Sleepers, 1484 DR. All verse is reproduced exactly as received; no emendations have been made to the texts. The collector alone is responsible for the contextual notes and for such errors of fact or judgement as may have crept in despite his best efforts. Enquiries, corrections, and contributions of further verse may be directed to the collector at his residence on Chandler’s Row, Scardale Town.</p>
+</footer>
 
 </main>
 </body>
