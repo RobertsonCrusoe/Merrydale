@@ -72,9 +72,11 @@
             font-family: var(--font-display);
             font-size: 1.3em;
             color: var(--text-subheading);
-            margin: 0 0 var(--space-sm) 0;
+            margin: 0 0 var(--space-md) 0;
             font-weight: 400;
             letter-spacing: 0.02em;
+            text-align: center;
+            text-wrap: balance;
         }
 
         header > p {
@@ -226,13 +228,15 @@
         }
 
         .card-command {
-            border-left-color: #b8860b;
-            background-color: #faf6e8;
+            border-left: 5px solid #b8860b;
+            background-color: #f9f4e2;
+            box-shadow: 0 1px 4px rgba(184, 134, 11, 0.12);
         }
 
         .card-company {
-            border-left-color: #6b7c4a;
-            background-color: #f7f6ee;
+            border-left: 5px solid #6b7c4a;
+            background-color: #f5f4e8;
+            box-shadow: 0 1px 4px rgba(107, 124, 74, 0.15);
         }
 
         .card-division {
@@ -374,32 +378,25 @@
             min-width: 280px;
         }
 
-        .concordat-divisions th:nth-child(2),
-        .concordat-divisions td:nth-child(2),
-        .concordat-divisions th:nth-child(3),
-        .concordat-divisions td:nth-child(3),
-        .concordat-divisions th:nth-child(7),
-        .concordat-divisions td:nth-child(7) {
-            min-width: 200px;
+        .concordat-divisions td,
+        .concordat-divisions th {
+            min-width: 0;
+            white-space: normal;
         }
-        .concordat-divisions th:nth-child(1),
         .concordat-divisions td:nth-child(1),
-        .concordat-divisions th:nth-child(4),
+        .concordat-divisions th:nth-child(1),
         .concordat-divisions td:nth-child(4),
-        .concordat-divisions th:nth-child(5),
+        .concordat-divisions th:nth-child(4),
         .concordat-divisions td:nth-child(5),
-        .concordat-divisions th:nth-child(6),
-        .concordat-divisions td:nth-child(6) {
-            min-width: 80px;
-            max-width: 100px;
+        .concordat-divisions th:nth-child(5),
+        .concordat-divisions td:nth-child(6),
+        .concordat-divisions th:nth-child(6) {
+            white-space: nowrap;
+            text-align: center;
         }
-        .concordat-divisions th:nth-child(9),
-        .concordat-divisions td:nth-child(9) {
-            min-width: 250px;
-        }
-        .concordat-divisions th:nth-child(8),
-        .concordat-divisions td:nth-child(8) {
-            min-width: 100px;
+        .concordat-divisions td:nth-child(8),
+        .concordat-divisions th:nth-child(8) {
+            white-space: nowrap;
         }
 
         table caption {
@@ -602,6 +599,9 @@
             font-weight: 600;
             font-family: var(--font-display);
             color: var(--text-subheading);
+            font-variant: small-caps;
+            text-transform: lowercase;
+            letter-spacing: 0.04em;
         }
 
         .narrator {
@@ -637,7 +637,15 @@
         <nav id="toc" class="toc">
             <h3 class="toc-title">Contents</h3>
             <ol class="toc-list">
-                <li><a href="#sun-blades">I. The Sun Blades</a></li>
+                <li><a href="#sun-blades">I. The Sun Blades</a>
+                    <ul class="toc-sublist">
+                        <li><a href="#conscription">Conscription &amp; Service</a></li>
+                        <li><a href="#ranks">Ranks</a></li>
+                        <li><a href="#unit-structure">Unit Structure</a></li>
+                        <li><a href="#religious-command">Religious Command Structure</a></li>
+                        <li><a href="#weapons-tactics">Weapons, Tactics &amp; Standard Issue</a></li>
+                    </ul>
+                </li>
                 <li><a href="#command">II. Command</a>
                     <ul class="toc-sublist">
                         <li><a href="#supreme-authority">Supreme Authority (Pre-Concordat)</a></li>
@@ -648,11 +656,19 @@
                 </li>
                 <li><a href="#companies">III. Companies</a>
                     <ul class="toc-sublist">
+                        <li><a href="#1st-company-dalehearth">1st Company – "Dalehearth"</a></li>
+                        <li><a href="#2nd-company-mountaineers">2nd Company – "Mountaineers"</a></li>
+                        <li><a href="#3rd-company-iron-backs">3rd Company – "Iron Backs"</a></li>
+                        <li><a href="#4th-company-foresters">4th Company – "Foresters"</a></li>
+                        <li><a href="#7th-company-bright-spears">7th Company – "Bright Spears"</a></li>
+                        <li><a href="#8th-company-sun-dragoons">8th Company – "Sun Dragoons"</a></li>
+                        <li><a href="#9th-company-deadly-rain">9th Company – "Deadly Rain"</a></li>
                         <li><a href="#10th-company">10th Company</a></li>
+                        <li><a href="#company-x-shadow-sentinels">Company X – "Shadow Sentinels"</a></li>
                         <li><a href="#11th-14th-companies-recruit-training">11th–14th Companies – Recruit Training</a></li>
                         <li><a href="#16th-company">16th Company</a></li>
                         <li><a href="#18th-company">18th Company</a></li>
-                        <li><a href="#other-personnel">Other Significant Personnel (Unspecified Affiliation)</a></li>
+                        <li><a href="#other-personnel">Other Significant Personnel</a></li>
                     </ul>
                 </li>
                 <li><a href="#concordat">IV. The Daggerdale Concordat</a>
@@ -677,17 +693,17 @@
 
             <p><em>*Malveau Greenleaf, a founding-era veteran, records serving in the 1st Company “when it was originally commissioned in 1403”—seven years before the conventional date. The most likely explanation is that the 1st Company was mustered in 1403 as a single formed unit, and the multi-company institution known as the Sun Blades was formally established in 1410. (Per personal communication with Greenleaf, Tarsakh 1483.)</em></p>
 
-            <h3>Conscription &amp; Service</h3>
+            <h3 id="conscription"><a href="#sun-blades">Conscription &amp; Service</a></h3>
 
             <p>All men in the Dale must serve a minimum of two years (raised to three years at the Greengrass 1480 Strategic Meeting), entering in their 18th year. New cohorts are inducted on Greengrass and train together. Women are not subject to conscription but may volunteer; they comprise approximately 9% of the force. Over two thousand retirees in the Dale keep their weapons and armour and can be summoned within 24–48 hours by any captain or higher officer. The last day of the Sun Blade contractual calendar is 19 Ches. <strong>The Muster</strong> occurs in the tenday following the Vernal Feast (19 Ches): 288 soldiers rotate out and 288 come in. During this period, over five hundred additional young soldiers are present in Dagger Falls. The recruit training companies (11th–14th) absorb incoming conscripts under the Captain of the Recruits.</p>
 
             <p>Soldiers live a near-monastic life in their first two years: no drinking, gambling, fornication, or bawdy songs. They receive 10 days off during the Summer Solstice Festival. More than half of soldiers stay on beyond the mandatory service. When the minimum service term was raised from two years to three at the Greengrass 1480 Strategic Meeting, soldiers slated for release that day were offered pay at one rank above their current grade as a retention incentive. Beyond their own ranks, the Sun Blades are “actively involved in the training of the Militia, which is many times the size of the Sun Blades”—a responsibility that extends the standing army’s influence deep into the civilian population and ensures a baseline of military readiness across the Dale’s settlements.</p>
 
-            <h3>Ranks</h3>
+            <h3 id="ranks"><a href="#sun-blades">Ranks</a></h3>
 
             <p>The Sun Blades maintain a conventional military hierarchy: Footman, Corporal, Sergeant, Lieutenant, Captain, and General. Corporals receive immediate promotion upon re-enlisting beyond the minimum service term; promising soldiers may be promoted directly to Sergeant on re-enlistment. Lieutenants command platoons; Captains command companies; the General commands all companies. <strong>Section IV</strong> discusses the pre-Concordat pay scale and its comparison with the Concordat’s restructured terms of compensation.</p>
 
-            <h3>Unit Structure</h3>
+            <h3 id="unit-structure"><a href="#sun-blades">Unit Structure</a></h3>
 
             <table>
                 <thead>
@@ -718,11 +734,11 @@
 
             <p class="footnote"><span class="nb-label">N.B.</span> Some sources give a smaller “unit” of one sergeant and seven soldiers as a sufficiently adequate force for smaller farm garrisons, and a complement of 32 for larger farms. Strictly speaking, this flexible garrison sizing deviates from the standard deployment, but such contingent stationing is hardly unusual. In practice, companies vary considerably in size: the 2nd “Mountaineers” field five platoons, the 7th “Bright Spears” had ten, while others maintain the standard three.</p>
 
-            <h3>Religious Command Structure</h3>
+            <h3 id="religious-command"><a href="#sun-blades">Religious Command Structure</a></h3>
 
             <p>The Sun Blades maintain a parallel religious chain of command integrated with the military hierarchy. Each <strong>platoon</strong> has a Chaplain attached (a battle-trained priest who lives alongside the lieutenant). Each <strong>company</strong> has a Sunlord attached—a senior battle-priest, often a former soldier, who wears plate armour and shares decision-making with the Captain. The head of this religious structure is the Zenith Lord (Zenith Lord Argent Whitegate holds this title). Orders flow from the Zenith Lord through both chains simultaneously; conflicts between the two are described as “unknown.” About half of squads in the field also have a trainee priest attached. Separately, the Daggerdale Concordat mandates that each <strong>chartered company</strong> (White Cloaks, Redjacks, FDL, etc.) be assigned one <strong>Magistrate from the Yellow Abbey</strong> “to see to the moral rectitude of the Company and to provide aid as needed and appropriate to both the Company and the Sun Blades.” This is the provision under which Magistrate Madigara Dale serves with the 7th Company “Bright Spears,” 4th Platoon at Thistle Ridge.</p>
 
-            <h3>Weapons, Tactics &amp; Standard Issue</h3>
+            <h3 id="weapons-tactics"><a href="#sun-blades">Weapons, Tactics &amp; Standard Issue</a></h3>
 
             <p>All soldiers are trained in <strong>longsword, longspear, and longbow</strong> (issued on joining, kept for life). Standard armour: <strong>chain mail and light shield</strong> (army crest on shield, company crest on cloak). The <strong>yellow tabard</strong> is the distinguishing garment of the Sun Blades. Rank is indicated by <strong>chevrons</strong>. All soldiers are trained in shield-wall and rampart-defence tactics. All receive some training in mounted combat; those excelling are mustered into the Sun Dragoons. Those showing talent for woodland scouting (especially elven speakers) join the Foresters. All captains and many officers carry a <strong>Radiant Blade</strong>—a magical longsword bearing the holy symbol of Amaunator on its hilt, forged at the <strong>Spire Forge</strong> in Castle Radiance. Two to four Radiant Blades are commissioned per year and awarded to officers who have distinguished themselves in service. Sun Blades “don’t act without orders, though they usually have detailed orders with contingencies laid out”—a reliable but somewhat static force. Patrols actively maintain road clearances, cutting back encroaching forest to keep roads approximately 20 feet wide. Field communications include dispatch by <strong>carrier pigeon</strong> and <strong>dove</strong> from farm magistrates to Castle Radiance; bonded culvers (swifts) are also used by individual officers. Bandit justice is severe. The roads into the dale are lined with burned stakes, gibbets, and piles of severed hands, a grim deterrent. A caravan scout’s account records the common belief that “the Sun Blades cut off the hands of all the bandits they catch; they burn one, hang half, and let the other half go.”</p>
 
@@ -783,9 +799,9 @@
         <section>
             <h2 id="companies"><a href="#toc">III. Companies</a></h2>
 
-            <div class=”card card-company”>
-                <h3 id=”1st-company-dalehearth”><a href=”#companies”>1st Company – “Dalehearth”</a></h3>
-                <p class=”card-subtitle”>Garrison of Dagger Falls</p>
+            <div class="card card-company">
+                <h3 id="1st-company-dalehearth"><a href="#companies">1st Company – “Dalehearth”</a></h3>
+                <p class="card-subtitle">Garrison of Dagger Falls</p>
                 <p class="assignment"><strong>ASSIGNMENT:</strong> Dagger Falls – Town walls, Tower, gates</p>
                 <p class="status"><strong>STRENGTH:</strong> 4 platoons</p>
                 <aside class="narrator">
@@ -825,9 +841,9 @@
                 <p><strong>Zelia Oakbough</strong>—Forester, formerly of the 16th Company, 3rd Platoon. Born and raised near Lostholme. Retired from the Sun Blades; now rides ahead of the escort column as a scout. Recruited into the White Cloaks (Ches 1483).</p>
             </div>
 
-            <div class=”card card-company”>
-                <h3 id=”2nd-company-mountaineers”><a href=”#companies”>2nd Company – “Mountaineers”</a></h3>
-                <p class=”card-subtitle”>Mountain Operations</p>
+            <div class="card card-company">
+                <h3 id="2nd-company-mountaineers"><a href="#companies">2nd Company – “Mountaineers”</a></h3>
+                <p class="card-subtitle">Mountain Operations</p>
                 <p class="assignment"><strong>ASSIGNMENT:</strong> Castle Radiance and mountain approaches</p>
                 <p class="status"><strong>STRENGTH:</strong> 5 platoons; “always deployed to Castle Radiance, and on patrol in the Desertsmouth Mountains.” Typically 120 Sun Blades garrisoned at the Castle (in Loedegan’s Hall, alongside 60 Knights of the Order of the Lambent Shield).</p>
                 <aside class="narrator">
@@ -849,9 +865,9 @@
                 <p><strong>Lt. Hardigan</strong> (defected—Sharran convert)—Sun Blade lieutenant who converted to the worship of Shar and betrayed the Dale. In Mirtul 1480, Hardigan and Priestess/Mayor Goering led the White Cloaks into a trap at Liberty Hill, where the two were operating as Sharran agents. One of the “evil Sharrans” responsible for the Liberty Hill conspiracy.</p>
             </div>
 
-            <div class=”card card-company”>
-                <h3 id=”3rd-company-iron-backs”><a href=”#companies”>3rd Company – “Iron Backs”</a></h3>
-                <p class=”card-subtitle”>Fort Luminous Operations</p>
+            <div class="card card-company">
+                <h3 id="3rd-company-iron-backs"><a href="#companies">3rd Company – “Iron Backs”</a></h3>
+                <p class="card-subtitle">Fort Luminous Operations</p>
                 <p class="assignment"><strong>ASSIGNMENT:</strong> Fort Luminous (junction of Mountain Road &amp; Whitegate Mine road)</p>
                 <p class="status"><strong>STRENGTH:</strong> Re-mustered in the winter of 1481 DR</p>
                 <aside class="narrator">
@@ -861,9 +877,9 @@
                 <p><strong>Captain Northman</strong>—Commissioned from the 2nd Mountaineers (Red Platoon, winter 1481). In charge of operations at Fort Luminous.</p>
             </div>
 
-            <div class=”card card-company”>
-                <h3 id=”4th-company-foresters”><a href=”#companies”>4th Company – “Foresters”</a></h3>
-                <p class=”card-subtitle”>Cormanthor Forest Operations</p>
+            <div class="card card-company">
+                <h3 id="4th-company-foresters"><a href="#companies">4th Company – “Foresters”</a></h3>
+                <p class="card-subtitle">Cormanthor Forest Operations</p>
                 <p class="assignment"><strong>ASSIGNMENT:</strong> Cormanthor – deep forest patrols and counter-insurgency</p>
                 <p class="status"><strong>STRENGTH:</strong> 3 platoons</p>
                 <aside class="narrator">
@@ -877,9 +893,9 @@
                 <p><strong>Captain Alaric Swift</strong> (transferred)—10 years as a Forester. Older twin brother of Tuugan Swift (White Cloak/adventurer). Harsh but effective captain and trainer. Promoted out to command the new 9th Company “Deadly Rain.”</p>
             </div>
 
-            <div class=”card card-company”>
-                <h3 id=”7th-company-bright-spears”><a href=”#companies”>7th Company – “Bright Spears”</a></h3>
-                <p class=”card-subtitle”>Farm Settlement Garrisons &amp; Thistle Ridge Reclamation</p>
+            <div class="card card-company">
+                <h3 id="7th-company-bright-spears"><a href="#companies">7th Company – “Bright Spears”</a></h3>
+                <p class="card-subtitle">Farm Settlement Garrisons &amp; Thistle Ridge Reclamation</p>
                 <p class="assignment"><strong>ASSIGNMENT:</strong> Distributed across dale farms: Crossed Blades, Dwimmerholme, Charity Hills, Tesh Valley, and others</p>
                 <p class="status"><strong>STRENGTH:</strong> 10 platoons, 1 at each farm</p>
                 <aside class="narrator">
@@ -924,7 +940,7 @@
                 <h4>2nd Squad – Mounted</h4>
 
                 <p><strong>Sgt. II Buck Harrowbridge</strong>—A Selûnite from Mistledale. Remains of his kin were discovered in the Tower basement (the Beast’s lair); “the discovery of the troubling remains of kin of Sgt. Harrowbridge in the basement was enough for him to walk out against orders.” Lt. Farmountain was fair with the men on this account.</p>
-                <ul class=”roster-list”>
+                <ul class="roster-list">
                 <li>Three spearmen—two killed in siege.</li>
                 <li><strong>Bull</strong> and <strong>Newt</strong>—Deepingdale Mastiffs.</li>
                 </ul>
@@ -969,9 +985,9 @@
 
             <hr>
 
-            <div class=”card card-company”>
-                <h3 id=”8th-company-sun-dragoons”><a href=”#companies”>8th Company – “Sun Dragoons”</a></h3>
-                <p class=”card-subtitle”>Mounted Patrol &amp; Rapid Response</p>
+            <div class="card card-company">
+                <h3 id="8th-company-sun-dragoons"><a href="#companies">8th Company – “Sun Dragoons”</a></h3>
+                <p class="card-subtitle">Mounted Patrol &amp; Rapid Response</p>
                 <p class="assignment"><strong>ASSIGNMENT:</strong> Mobile – deployed as needed across the Dale</p>
                 <p class="status"><strong>STRENGTH:</strong> 3 platoons; “all mounted and expert fighters from horseback”</p>
                 <aside class="narrator">
@@ -981,9 +997,9 @@
                 <p><strong>Lt. Grid Hammerfall</strong>—Commander of a mounted unit (2nd Sun Dragoons, as of 1479). Stoic, aloof leader. Deployed to Tesh Valley Farm to step up patrols. After orc raiders seized the farm’s cattle, personally tracked the raiders’ trail eight miles north along Old Zhent Road and marked the turn-off with three stones spaced 100 yards apart; ordered his men to keep silent, fearing the local militia would pursue recklessly. Escorted the White Cloaks north with a platoon of Sun Dragoons.</p>
             </div>
 
-            <div class=”card card-company”>
-                <h3 id=”9th-company-deadly-rain”><a href=”#companies”>9th Company – “Deadly Rain”</a></h3>
-                <p class=”card-subtitle”>Archer Company (Forming c. 1480)</p>
+            <div class="card card-company">
+                <h3 id="9th-company-deadly-rain"><a href="#companies">9th Company – “Deadly Rain”</a></h3>
+                <p class="card-subtitle">Archer Company (Forming c. 1480)</p>
                 <p class="assignment"><strong>ASSIGNMENT:</strong> Dagger Falls (training), then deployment TBD</p>
                 <p class="status"><strong>STRENGTH:</strong> Planned: at least 4 platoons (96 or more soldiers)</p>
                 <aside class="narrator">
@@ -1004,9 +1020,9 @@
                 <p><strong>Captain Garrick Greenfields</strong>—Led the 10th Company riders to relieve the Bright Spears at The Tower during the Battle of Thistle Ridge. Joined Captain Monarch and Lt. Farmountain for the post-battle accounting.</p>
             </div>
 
-            <div class=”card card-company”>
-                <h3 id=”company-x-shadow-sentinels”><a href=”#companies”>Company X – “Shadow Sentinels”</a></h3>
-                <p class=”card-subtitle”>Liberty Hill Garrison</p>
+            <div class="card card-company">
+                <h3 id="company-x-shadow-sentinels"><a href="#companies">Company X – “Shadow Sentinels”</a></h3>
+                <p class="card-subtitle">Liberty Hill Garrison</p>
                 <p class="assignment"><strong>ASSIGNMENT:</strong> Liberty Hill, under Magistrate Invictus</p>
                 <aside class="narrator">
                     Garrisoned at Liberty Hill. Specially trained to deal with dangerous and cunning enemies. The Shadow Sentinels are also sometimes referred to as Company X; it is unclear whether Greenfields’ 10th Company and the Shadow Sentinels are the same unit or a numbering overlap between eras. No individual members are recorded by name. A separate “specially trained company of Sun Blades” was also allocated to the <strong>Shadow Dam</strong>—a fort hastily constructed over the Shadowfell portal in the Dagger Hills—alongside a good portion of the Order of the Lambent Shield. Whether this is the same company as the Shadow Sentinels or a second specially raised unit is not stated. See the Holy Orders report (Part II) for the Shadow Dam and its operations.
@@ -1083,8 +1099,10 @@
             <h2 id="concordat"><a href="#toc">IV. The Daggerdale Concordat</a></h2>
 
             <div class=”era-note”>
-                <p>In Elesias 1482, the Daggerdale Concordat transferred administrative and financial control of the Sun Blades from the Church of Amaunator to the newly formed Governors’ Assembly. This was not a disbandment or reconstitution of the force—the General remained in command, and the existing companies continued to operate under their traditional names and numbers. What changed was the governance, the funding model, and the imposition of a new divisional superstructure intended to organize the expanded force. The Concordat expanded the Sun Blades from roughly four hundred to a planned Standard Order of 1,296 soldiers plus officers, organized into 18 companies, 54 platoons, and 8 Divisions. Costs are shared across all settlements through a system of 20 “shares.” The General holds a seat on the General Assembly as a Non-Voting Signatory: present and heard, but without a vote. An attack on one signatory is to be considered an attack on all.</p>
+                <p>In Elesias 1482, the Daggerdale Concordat transferred administrative and financial control of the Sun Blades from the Church of Amaunator to the newly formed Governors’ Assembly. This was not a disbandment or reconstitution of the force—the General remained in command, and the existing companies continued to operate under their traditional names and numbers. What changed was the governance, the funding model, and the imposition of a new divisional superstructure intended to organize the expanded force.</p>
             </div>
+
+            <p>The Concordat expanded the Sun Blades from a force of roughly four hundred to a planned Standard Order of 1,296 soldiers plus officers, organized into 18 companies, 54 platoons, and 8 Divisions. Each Division is commanded by a Captain answering to the General. Costs are shared across all settlements through a system of 20 “shares” apportioned among Castle Radiance (4), Dagger Falls (4), each farm (1 each × 9), Charity (1), Tethyamar (1), and Cormyr (1). Settlements seeking Concordat membership must “establish the infrastructure and means to host a company of Sun Blades, in accordance with the Provisions for the Common Defence.” The General of the Sun Blades holds a seat on the General Assembly as a Non-Voting Signatory: present and heard, but without a vote. The Concordat further stipulates that an attack on one signatory is to be considered an attack on all signatories, with provisions for militia deployment across settlement boundaries. Each settlement’s Captain of Militia is a full-time, exclusively martial appointment, paid by the settlement itself.</p>
 
             <h3 id="concordat-chain-of-command"><a href="#concordat">Concordat Chain of Command</a></h3>
 
@@ -1127,14 +1145,14 @@
 
             <p class="footnote"><span class="nb-label">N.B.</span> The Concordat shifted each rank’s level of responsibility upward. Pre-Concordat, Captains commanded companies, Lieutenants commanded platoons, and Sergeants commanded squads. Under the Concordat, Captains command divisions (of one to four companies), Lieutenants command companies, and Sergeants command platoons. The practical effect is a significant increase in the span of command at every level: a Captain who formerly led three platoons now leads up to twelve, without a corresponding increase in rank or, so far as I can determine, pay.</p>
 
-            <h3 id=”concordat-divisions”><a href=”#concordat”>Concordat Divisions – Standard Order of the Sun Blades</a></h3>
+            <h3 id="concordat-divisions"><a href="#concordat">Concordat Divisions – Standard Order of the Sun Blades</a></h3>
 
             <p>The Concordat specifies a standardised unit structure: each Platoon comprises 24 soldiers and one Sergeant; each Company comprises three Platoons and one Lieutenant; each Division comprises one to four Companies under one Captain. Whether this standard has been imposed on the existing companies or merely represents the template for new ones is unclear. In practice, company sizes continue to vary considerably.</p>
 
-            <p class=”footnote”><span class=”nb-label”>N.B.</span> The Concordat does not specify the mapping of existing named companies to their new divisional assignments. The table below includes my best attempt to reconstruct the likely disposition based on known garrisons, operational roles, and geographic assignments. Only Division 4 (Recruits) has an explicit company-to-division link in any available source; the remainder are inferred. I would welcome correction from any officer with direct knowledge of the post-Concordat order of battle.</p>
+            <p class="footnote"><span class="nb-label">N.B.</span> The Concordat does not specify the mapping of existing named companies to their new divisional assignments. The table below includes my best attempt to reconstruct the likely disposition based on known garrisons, operational roles, and geographic assignments. Only Division 4 (Recruits) has an explicit company-to-division link in any available source; the remainder are inferred. I would welcome correction from any officer with direct knowledge of the post-Concordat order of battle.</p>
 
-            <div class=”table-scroll”>
-            <table class=”concordat-divisions”>
+            <div class="table-scroll">
+            <table class="concordat-divisions">
                 <thead>
                     <tr>
                         <th>Div.</th>
@@ -1239,7 +1257,7 @@
                     </tr>
                     <tr>
                         <td>—</td>
-                        <td colspan=”2”>Outside standard divisional structure</td>
+                        <td colspan="2">Outside standard divisional structure</td>
                         <td>—</td>
                         <td>—</td>
                         <td>—</td>
@@ -1248,7 +1266,7 @@
                         <td>Liberty Hill under Magistrate Invictus</td>
                     </tr>
                     <tr>
-                        <td colspan=”3”><strong>TOTAL</strong></td>
+                        <td colspan="3"><strong>TOTAL</strong></td>
                         <td><strong>18</strong></td>
                         <td><strong>54</strong></td>
                         <td><strong>1,296</strong></td>
@@ -1850,7 +1868,7 @@
                             <td>Escort duty, day of Jackson’s Lodge ambush</td>
                         </tr>
                         <tr>
-                            <td><span class=”deceased” title=”Deceased”><img class=”dagger” src=”data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij48cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz48cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz48cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+PHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPjxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+PGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz48bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPjxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+PGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPjwvc3ZnPg==” alt=”Deceased: “ role=”img”>Dale, Dorian</span></td>
+                            <td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij48cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz48cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz48cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+PHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPjxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+PGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz48bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPjxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+PGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPjwvc3ZnPg==" alt="Deceased: " role="img">Dale, Dorian</span></td>
                             <td>Corporal</td>
                             <td>1st “Dalehearth”</td>
                             <td>DF / CR</td>
