@@ -15,6 +15,9 @@
 *.ai
 *.svg
 
+# Allow images used by published HTML documents
+!docs/images/**
+
 # PDFs (large binaries)
 *.pdf
 *.PDF
