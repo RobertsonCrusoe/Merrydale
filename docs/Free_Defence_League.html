@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Free Defence League &mdash; Daggerdale</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=IM+Fell+English+SC&display=swap');
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'Crimson Text', 'Palatino Linotype', 'Book Antiqua', Palatino, Georgia, serif; background: #f4ead5; color: #2c1e0e; padding: 24px; line-height: 1.6; }
+  h1 { text-align: center; font-family: 'IM Fell English SC', 'Palatino Linotype', serif; color: #4a1e08; font-size: 2em; margin-bottom: 4px; letter-spacing: 3px; }
+  .subtitle { text-align: center; color: #6b4c30; font-size: 0.95em; margin-bottom: 32px; font-style: italic; }
+  .era-header { background: linear-gradient(90deg, #f4ead5, #e8d5b0, #f4ead5); color: #4a1e08; font-family: 'IM Fell English SC', 'Palatino Linotype', serif; font-size: 1.5em; padding: 12px 20px; margin: 36px 0 20px 0; border-left: 4px solid #8b4513; border-bottom: 1px solid #c9a96e; letter-spacing: 1px; }
+  .era-note { color: #5a3d20; font-size: 0.9em; padding: 0 20px 16px 20px; max-width: 900px; }
+  .section { margin: 0 0 28px 0; }
+  .section-title { color: #6b2a0a; font-size: 1.15em; padding: 8px 16px; background: #ede0c8; border-left: 3px solid #8b4513; margin-bottom: 12px; }
+  .card-row { display: flex; flex-wrap: wrap; gap: 16px; padding: 0 16px; margin-bottom: 16px; }
+  .card { background: #faf3e4; border: 1px solid #c9a96e; border-radius: 4px; padding: 16px; min-width: 260px; flex: 1 1 300px; max-width: 480px; box-shadow: 1px 2px 4px rgba(100,70,30,0.1); }
+  .card.command { border-color: #8b4513; background: #f7edda; border-width: 2px; }
+  .card.division { border-color: #5b6f8a; }
+  .card.company { border-color: #4a6e4a; }
+  .card.platoon { border-color: #9a8a70; font-size: 0.93em; }
+  .card.veteran { border-color: #8b6a3e; background: #f5ead2; }
+  .card.wide { max-width: 100%; flex: 1 1 100%; }
+  .card-label { font-size: 0.7em; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 6px; }
+  .card-label.gold { color: #8b4513; }
+  .card-label.blue { color: #3a5a7c; }
+  .card-label.green { color: #3a6030; }
+  .card-label.brown { color: #6b4c30; }
+  .card-label.amber { color: #7a4010; }
+  .card h3 { color: #3a1a05; font-size: 1.1em; margin-bottom: 4px; }
+  .card .rank { color: #5a3d20; font-size: 0.85em; }
+  .card .detail { color: #4a3520; font-size: 0.85em; margin-top: 6px; }
+  .card .strength { color: #3a6030; font-size: 0.85em; margin-top: 4px; }
+  .card .assignment { color: #3a5a7c; font-size: 0.85em; margin-top: 4px; }
+  .card .note { color: #7a5a30; font-size: 0.82em; margin-top: 6px; font-style: italic; }
+  .personnel { margin-top: 8px; padding-top: 8px; border-top: 1px solid #d4c0a0; }
+  .person { margin-bottom: 6px; }
+  .person .name { color: #2c1e0e; font-weight: 600; }
+  .person .info { color: #5a4030; font-size: 0.85em; }
+  .legend { background: #faf3e4; border: 1px solid #c9a96e; border-radius: 4px; padding: 16px; margin: 24px 16px; font-size: 0.88em; }
+  .legend h4 { color: #6b2a0a; margin-bottom: 8px; }
+  table { border-collapse: collapse; width: 100%; margin: 8px 0; }
+  th { background: #e8d5b0; color: #4a1e08; text-align: left; padding: 6px 10px; font-size: 0.85em; border-bottom: 2px solid #b09060; }
+  td { padding: 5px 10px; border-bottom: 1px solid #ddd0b8; font-size: 0.88em; }
+  tr:hover td { background: #f0e4cf; }
+  .status-active { color: #2a6020; }
+  .status-retired { color: #7a5a30; }
+  .status-dead { color: #8b2010; }
+  .status-kia { color: #8b2010; }
+  .status-promoted { color: #3a5a7c; }
+  .status-transferred { color: #3a5a7c; }
+  .status-discharged { color: #6a6060; }
+  .status-former { color: #6b5030; }
+  .status-unknown { color: #8a7a60; }
+  hr { border: none; border-top: 1px solid #c9a96e; margin: 24px 16px; }
+  a { color: #3a5a7c; text-decoration: none; }
+</style>
+</head>
+<body>
+
+<h1>&#9876; THE FREE DEFENCE LEAGUE &#9876;</h1>
+<div class="subtitle">Chartered Company of Daggerdale &mdash; Summary &amp; Roster, c. 1479&ndash;1483 DR</div>
+
+<div class="legend">
+  <h4>About This Document</h4>
+  The Free Defence League (FDL) is an independent bounty-hunter and volunteer force headquartered at Castle Radiance. Under the Daggerdale Concordat of Elesias 1482, the FDL Captain holds a seat on the Governors&rsquo; Assembly. This document catalogues the League&rsquo;s known structure, membership, and operations.
+</div>
+
+<!-- ============================================================ -->
+<div class="era-header">I. Summary</div>
+<div class="era-note">
+  <p>The Free Defence League operates from Winter Tower at Castle Radiance, fielding organized adventuring teams that take bounties posted at the castle. General Bargle Battamond founded and leads the League, which numbered nearly 40 members as of the early 1480s. The FDL emphasizes mutual aid and brotherhood among adventurers: all members share supplies and intelligence, provide mandatory assistance to fellow League members in trouble, and return one-third of bounty money to the League treasury.</p>
+  <p style="margin-top:8px;">The League maintains at least three adventuring teams: Gryphon Company, Dragon Company, and a third team (initially designated &ldquo;Mule Company,&rdquo; later known by that name independently). The FDL also employs a garrison of eight hired soldiers at Winter Tower. &ldquo;Ser&rdquo; Reginald Boxfray commands the 14th Company, 1st Platoon &ldquo;Dawnshields&rdquo; (4 squads), indicating the FDL adopted more formal military organization over time or in parallel with its bounty operations.</p>
+  <p style="margin-top:8px;">The FDL fought alongside the Sun Blades at Thistle Ridge in 1483.</p>
+</div>
+
+<!-- ============================================================ -->
+<div class="era-header">II. Command &amp; Leadership</div>
+
+<div class="section">
+  <div class="card-row">
+    <div class="card command">
+      <div class="card-label gold">General &amp; Founder</div>
+      <h3>Bargle Battamond</h3>
+      <div class="rank">&ldquo;General Bargle of the Free Defence League&rdquo; &bull; &ldquo;Bargle Battlemaster&rdquo;</div>
+      <div class="assignment">Winter Tower, Castle Radiance</div>
+      <div class="detail">Old warrior. Addresses his men &ldquo;like old friends.&rdquo; Realistic assessor of talent&mdash;rates new recruits candidly as being &ldquo;at the start of their careers&rdquo; and emphasizes that many adventurers die in the mountains without organization. His philosophy centres on team structure, shared resources, and mutual protection. Also rendered &ldquo;Captain&rdquo; informally. Holds a seat on the Governors&rsquo; Assembly under the Concordat.</div>
+    </div>
+    <div class="card command">
+      <div class="card-label gold">Commander, 14th Company</div>
+      <h3>&ldquo;Ser&rdquo; Reginald Boxfray</h3>
+      <div class="rank">Commander, 1st Platoon &ldquo;Dawnshields&rdquo; (4 squads)</div>
+      <div class="assignment">Field / Castle Radiance</div>
+      <div class="detail">Author of the Memoire of Ser Reginald Boxfray, a primary source for the Thistle Ridge campaign (1483). The &ldquo;Ser&rdquo; honorific and formal company/platoon structure suggests the FDL adopted or was assigned a more military organization by this period.</div>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================================ -->
+<div class="era-header">III. Headquarters &mdash; Winter Tower</div>
+
+<div class="section">
+  <div class="card-row">
+    <div class="card company">
+      <div class="card-label green">Winter Tower</div>
+      <div class="assignment">South end of outer wall, outer bailey, Castle Radiance</div>
+      <div class="detail">Six levels plus a dungeon level. Approximately 60&rsquo; high with an irregular 80&rsquo;&times;80&rsquo; footprint. The south gate location makes it a defensible bulwark.</div>
+    </div>
+    <div class="card company">
+      <div class="card-label green">Layout</div>
+      <div class="detail">
+        <strong>Ground floor:</strong> Huge hall with 20&rsquo; ceiling. Trophy collection from League bounties. Practice area with weapons racks.<br>
+        <strong>2nd level:</strong> 12 rooms for garrison and team members. Kitchens and dining room.<br>
+        <strong>3rd level:</strong> Gryphon Company quarters and armoury.<br>
+        <strong>4th level:</strong> War room for Bargle&rsquo;s meetings. Connection to outer wall battlements.<br>
+        <strong>5th level:</strong> Dragon Company private quarters, armoury, dining, lounge, library.<br>
+        <strong>6th level:</strong> Bargle&rsquo;s private quarters and his assistant&rsquo;s (Mr. Acorn) office.
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================================ -->
+<div class="era-header">IV. Teams &amp; Organization</div>
+
+<div class="section">
+  <div class="card-row">
+    <div class="card division">
+      <div class="card-label blue">Gryphon Company</div>
+      <div class="assignment">3rd level, Winter Tower</div>
+      <div class="detail">One of the League&rsquo;s original adventuring teams. Has its own quarters and armoury on the third level of Winter Tower. Previously had a bounty interfered with by the Redjacks (1478), leading to the Redjacks&rsquo; temporary ban from Castle Radiance.</div>
+      <div class="note">[Personnel roster requires further research]</div>
+    </div>
+    <div class="card division">
+      <div class="card-label blue">Dragon Company</div>
+      <div class="assignment">5th level, Winter Tower</div>
+      <div class="detail">The League&rsquo;s second major adventuring team. Maintains private quarters, armoury, dining room, lounge, and a library on the fifth level of Winter Tower.</div>
+      <div class="note">[Personnel roster requires further research]</div>
+    </div>
+  </div>
+  <div class="card-row">
+    <div class="card division">
+      <div class="card-label blue">Mule Company (Third Team)</div>
+      <div class="detail">Formed as the League&rsquo;s third adventuring team around Greengrass 1479 DR, when a new group of adventurers was recruited under League terms. This team subsequently developed its own identity and extensive narrative, operating independently in many respects while remaining under the League umbrella.</div>
+      <div class="note">Mule Company&rsquo;s full roster and narrative are documented separately.</div>
+    </div>
+    <div class="card division">
+      <div class="card-label blue">14th Company, 1st Platoon &ldquo;Dawnshields&rdquo;</div>
+      <div class="strength">4 squads</div>
+      <div class="detail">Under the command of &ldquo;Ser&rdquo; Reginald Boxfray. Fought at Thistle Ridge (1483). The company/platoon numbering suggests a formal military structure either adopted by the FDL or imposed by the Concordat.</div>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================================ -->
+<div class="era-header">V. Recruitment Terms (c. Greengrass 1479)</div>
+<div class="section">
+  <div class="card-row">
+    <div class="card wide">
+      <div class="detail">
+        As offered to Mule Company at recruitment:<br><br>
+        &bull; Free licensing and room accommodation at League tower<br>
+        &bull; All meals and bounty supplies provided<br>
+        &bull; Loan of starter gear (kept after 2 successful bounties)<br>
+        &bull; One-third of bounty money returned to the League<br>
+        &bull; Share of magical/artifact finds for League surplus gear pool<br>
+        &bull; Mandatory assistance to other League members in trouble<br>
+        &bull; Benefit of having a dozen or more seasoned adventurers as backup
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================================ -->
+<div class="era-header">VI. Known Personnel</div>
+<div class="section">
+  <div class="card-row">
+    <div class="card wide" style="overflow-x:auto;">
+      <table>
+        <tr><th>Name</th><th>Rank / Role</th><th>Team</th><th>Status</th><th>Notes</th></tr>
+        <tr><td>Bargle Battamond</td><td>General / Captain</td><td>Command</td><td class="status-active">Active</td><td>Founder. &ldquo;Battlemaster.&rdquo; Holds Assembly seat.</td></tr>
+        <tr><td>&ldquo;Ser&rdquo; Reginald Boxfray</td><td>Commander, 14th Co. / 1st Plt</td><td>Dawnshields</td><td class="status-active">Active (1483)</td><td>Author of the Memoire. Fought at Thistle Ridge.</td></tr>
+        <tr><td>Mr. Acorn</td><td>Assistant</td><td>Command</td><td class="status-active">Active</td><td>Bargle&rsquo;s personal assistant. Office on 6th level of Winter Tower.</td></tr>
+        <tr><td>Mr. Bollinger</td><td>Artificer &bull; Gondsman</td><td>Mule Company &rarr; Warsmiths</td><td class="status-transferred">Transferred</td><td>Human artificer. Left Mule Company to work with the Wonderbringer Warsmiths at Fort Luminous.</td></tr>
+        <tr><td>Dane Grimwald</td><td>&mdash;</td><td>&mdash;</td><td class="status-former">Left (unfavourable terms)</td><td>Left the FDL under &ldquo;unfavourable terms.&rdquo; Also former Redjack. Sought by Sgt. Alexius Kvanov.</td></tr>
+      </table>
+      <div class="note" style="margin-top:8px;">The League numbers nearly 40 members plus an 8-soldier garrison. Only command-level and notable personnel are currently identified. The Memoire of Ser Reginald Boxfray and Mule Company narratives contain additional personnel to be extracted in subsequent research passes.</div>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================================ -->
+<div class="era-header">VII. Key Events</div>
+<div class="section">
+  <div class="card-row">
+    <div class="card wide">
+      <table>
+        <tr><th>Date</th><th>Event</th><th>Notes</th></tr>
+        <tr><td>1478</td><td>Redjacks interference with Gryphon Company bounty</td><td>Led to Redjacks being banned from Castle Radiance.</td></tr>
+        <tr><td>Greengrass 1479</td><td>Recruitment of Mule Company as third team</td><td>Standard League terms offered.</td></tr>
+        <tr><td>1483</td><td>Battle of Thistle Ridge</td><td>FDL Dawnshields fought alongside Sun Blades.</td></tr>
+      </table>
+    </div>
+  </div>
+</div>
+
+<hr>
+<div style="text-align:center; color:#7a6a50; font-size:0.82em; padding: 16px;">
+  Compiled from Daggerdale Campaign Wiki (Sieges Perilous), the Daggerdale Chronicle, the Memoire of Ser Reginald Boxfray, Winter Tower article, Bargle&rsquo;s Deal, and various narrative archives.<br>
+  Named FDL personnel: 5. Teams documented: 4 (Gryphon, Dragon, Mule, Dawnshields).<br>
+  This document is a scaffold populated with known material. A full multi-pass audit will identify additional personnel, particularly from the Boxfray Memoire and Mule Company narratives.
+</div>
+
+</body>
+</html>

@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="A collection of ballads, songs, and poems from the Reclamation of Thistle Ridge, collected and annotated by Tammen Gale of Scardale.">
+<title>Songs of the Thistle and Other Verses&mdash;Daggerdale Campaign Archive</title>
+<style>
+
+  @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=IM+Fell+English+SC&display=swap');
+
+  /* ── Reset & Base ─────────────────────────────────────── */
+  :root {
+    --bg-parchment: #f4ead5;
+    --bg-inset: #f7f0e0;
+    --bg-section-header: #ede0c8;
+    --bg-section-gradient: linear-gradient(90deg, #f4ead5, #e8d5b0, #f4ead5);
+    --bg-subsection-gradient: linear-gradient(90deg, #f4ead5, #efe3c8, #f4ead5);
+    --text-body: #2c1e0e;
+    --text-heading: #4a1e08;
+    --text-subheading: #6b2a0a;
+    --text-secondary: #5a3d20;
+    --text-aside: #3a2a15;
+    --accent-border: #8b4513;
+    --accent-border-light: #c9a96e;
+    --accent-link: #3a5a7c;
+    --font-display: 'IM Fell English SC', 'Palatino Linotype', serif;
+    --space-xs: 4px;
+    --space-sm: 8px;
+    --space-md: 16px;
+    --space-lg: 24px;
+    --space-xl: 36px;
+  }
+
+  @page { background: var(--bg-parchment); }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Crimson Text', 'Palatino Linotype', 'Book Antiqua', Palatino, Georgia, serif;
+    font-size: 20px;
+    background: var(--bg-parchment);
+    color: var(--text-body);
+    line-height: 1.6;
+    padding: var(--space-lg);
+  }
+
+  main {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  /* ── Typography ───────────────────────────────────────── */
+  h1 {
+    text-align: center;
+    font-family: var(--font-display);
+    color: var(--text-heading);
+    font-size: 2em;
+    font-weight: 700;
+    letter-spacing: 3px;
+    margin-bottom: var(--space-xs);
+  }
+
+  h2 {
+    font-family: var(--font-display);
+    color: var(--text-heading);
+    font-size: 1.4em;
+    padding: 10px 20px;
+    margin: var(--space-xl) 0 var(--space-md) 0;
+    background: var(--bg-section-gradient);
+    border-left: 4px solid var(--accent-border);
+    border-bottom: 1px solid var(--accent-border-light);
+    letter-spacing: 1px;
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+
+  h3 {
+    font-family: var(--font-display);
+    color: var(--text-subheading);
+    font-size: 1.15em;
+    padding: 8px 16px;
+    margin: var(--space-lg) 0 var(--space-sm) 0;
+    background: var(--bg-subsection-gradient);
+    border-left: 3px solid var(--accent-border-light);
+    letter-spacing: 0.5px;
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+
+  p {
+    margin-bottom: var(--space-md);
+    orphans: 3;
+    widows: 3;
+  }
+
+  section p:last-of-type {
+    margin-bottom: var(--space-sm);
+  }
+
+  em { font-style: italic; }
+  strong { font-weight: 700; font-family: var(--font-display); }
+
+  /* ── Title Block ──────────────────────────────────────── */
+  header[role="banner"] {
+    text-align: center;
+    margin-bottom: var(--space-xl);
+    padding-bottom: var(--space-lg);
+    border-bottom: 2px solid var(--accent-border);
+  }
+
+  .subtitle {
+    color: var(--text-secondary);
+    font-size: 0.95em;
+    font-style: italic;
+    margin-bottom: var(--space-xs);
+  }
+
+  .byline {
+    color: var(--text-secondary);
+    font-size: 0.9em;
+    margin-top: var(--space-sm);
+  }
+
+  .date-line {
+    color: var(--text-secondary);
+    font-size: 0.9em;
+    margin-top: var(--space-xs);
+  }
+
+  /* ── Horizontal Rules ─────────────────────────────────── */
+  hr {
+    border: none;
+    border-top: 1px solid var(--accent-border-light);
+    margin: var(--space-lg) 0;
+  }
+
+  /* ── Verse (blockquote) ───────────────────────────────── */
+  blockquote {
+    background: var(--bg-inset);
+    border-left: 3px solid var(--accent-border);
+    padding: var(--space-md) var(--space-lg);
+    margin: var(--space-md) 0 var(--space-lg) 0;
+    font-size: 0.95em;
+    line-height: 1.7;
+    page-break-inside: avoid;
+  }
+
+  blockquote .verse-line {
+    display: block;
+    padding-left: 0;
+  }
+
+  blockquote .verse-break {
+    display: block;
+    height: 0.8em;
+  }
+
+  /* ── Narrator / Collector Voice ─────────────────────── */
+  .collector-note {
+    margin-bottom: var(--space-md);
+    font-size: 0.95em;
+    line-height: 1.55;
+  }
+
+  .collector-note em {
+    font-style: italic;
+  }
+
+  /* ── Attribution lines ──────────────────────────────── */
+  .attribution {
+    color: var(--text-secondary);
+    font-style: italic;
+    font-size: 0.9em;
+    margin-bottom: var(--space-sm);
+  }
+
+  /* ── Signature blocks ───────────────────────────────── */
+  .signature {
+    font-style: italic;
+    color: var(--text-secondary);
+    margin-top: var(--space-md);
+  }
+
+  /* ── Footer / Colophon ──────────────────────────────── */
+  footer {
+    margin-top: var(--space-xl);
+    padding-top: var(--space-lg);
+    border-top: 2px solid var(--accent-border);
+    font-size: 0.85em;
+    color: var(--text-secondary);
+    line-height: 1.5;
+  }
+
+  footer h2 {
+    font-size: 1.1em;
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0 0 var(--space-sm) 0;
+    color: var(--text-secondary);
+  }
+
+  footer p {
+    margin-bottom: var(--space-sm);
+  }
+
+  footer ul {
+    margin: var(--space-sm) 0 var(--space-md) var(--space-lg);
+    list-style: disc;
+  }
+
+  footer li {
+    margin-bottom: var(--space-xs);
+  }
+
+  /* ── Appendix Headers ───────────────────────────────── */
+  .appendix-header {
+    background: linear-gradient(90deg, #f4ead5, #e0d0b8, #f4ead5);
+    color: var(--text-secondary);
+    font-family: var(--font-display);
+    font-size: 1.3em;
+    padding: 10px 20px;
+    margin: var(--space-xl) 0 var(--space-md) 0;
+    border-left: 4px solid #9a8a70;
+    border-bottom: 1px solid var(--accent-border-light);
+    letter-spacing: 1px;
+    page-break-before: always;
+  }
+
+  /* ── Table of Contents ────────────────────────────────── */
+  nav[aria-label="Table of Contents"] {
+    background: var(--bg-inset);
+    border: 1px solid var(--accent-border-light);
+    border-radius: 4px;
+    padding: var(--space-lg);
+    margin: 0 0 var(--space-xl) 0;
+  }
+
+  nav[aria-label="Table of Contents"] h2 {
+    font-size: 1.15em;
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0 0 var(--space-md) 0;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-size: 0.85em;
+    color: var(--text-secondary);
+  }
+
+  nav[aria-label="Table of Contents"] ol {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  nav[aria-label="Table of Contents"] li {
+    margin-bottom: var(--space-xs);
+    padding: 3px 0;
+    border-bottom: 1px dotted var(--accent-border-light);
+  }
+
+  nav[aria-label="Table of Contents"] li:last-child {
+    border-bottom: none;
+  }
+
+  nav[aria-label="Table of Contents"] li.toc-appendix-group {
+    border-bottom: none;
+    margin-top: var(--space-md);
+    padding-bottom: 0;
+  }
+
+  nav[aria-label="Table of Contents"] li.toc-appendix-group > span {
+    font-family: var(--font-display);
+    color: var(--text-secondary);
+    font-size: 0.95em;
+    letter-spacing: 0.5px;
+  }
+
+  nav[aria-label="Table of Contents"] ol ol {
+    margin-left: var(--space-lg);
+    margin-top: var(--space-xs);
+  }
+
+  nav[aria-label="Table of Contents"] a {
+    color: var(--text-body);
+    text-decoration: none;
+    transition: color 0.15s;
+  }
+
+  nav[aria-label="Table of Contents"] a:hover {
+    color: var(--accent-link);
+  }
+
+  nav[aria-label="Table of Contents"] .toc-number {
+    color: var(--text-secondary);
+    font-family: var(--font-display);
+    margin-right: 6px;
+  }
+
+  /* ── Print Styles ───────────────────────────────────── */
+  @media print {
+    body { padding: 12px; background: white; color: black; }
+    h2, h3, .appendix-header { page-break-after: avoid; }
+    blockquote { page-break-inside: avoid; background: #f8f8f8; }
+    header[role="banner"] { border-bottom-color: #333; }
+    footer { border-top-color: #333; }
+  }
+
+  @media (max-width: 600px) {
+    body { padding: var(--space-md); }
+    h1 { font-size: 1.6em; }
+    h2 { font-size: 1.2em; }
+    blockquote { padding: var(--space-sm) var(--space-md); }
+  }
+
+</style>
+</head>
+<body>
+<main>
+
+<header role="banner">
+<h1>Songs of the Thistle and Other Verses</h1>
+<p class="subtitle"><strong>A Collection of Ballads, Songs, and Poems from the Reclamation of Thistle Ridge</strong></p>
+<p class="byline">Collected and Annotated by Tammen Gale of Scardale</p>
+<p class="date-line">Year of the Awakened Sleepers, 1484 DR</p>
+</header>
+
+<nav aria-label="Table of Contents">
+<h2>Contents</h2>
+<ol>
+<li><a href="#collector-s-preface">Collector’s Preface</a></li>
+<li><a href="#i-mumfrey-s-song"><span class="toc-number">I.</span> Mumfrey’s Song</a></li>
+<li><a href="#ii-the-monkey-on-the-mountain"><span class="toc-number">II.</span> The Monkey On the Mountain</a></li>
+<li><a href="#iii-monkey-on-the-mountain"><span class="toc-number">III.</span> Monkey on the Mountain</a></li>
+<li><a href="#iv-beliard-s-favourite-things"><span class="toc-number">IV.</span> Beliard’s Favourite Things</a></li>
+<li><a href="#note-on-omissions">A Note on Omissions</a></li>
+</ol>
+</nav>
+
+
+<section id="collector-s-preface">
+<h2>Collector’s Preface</h2>
+<p class="collector-note">To the reader who has already done me the kindness of acquiring my earlier volume, Songs of the Dagger, I owe both thanks and an explanation. That collection was meant to be comprehensive — a final gathering of the verse that had accumulated around the liberation of Daggerdale and the campaigns that followed. I had thought myself finished. I was wrong.</p>
+<p class="collector-note">Within months of setting down my pen, the Thistle Ridge affair erupted — that strange, dark, exhilarating chapter in which a company of unknowns called Chrysalis rode east from Dagger Falls to reclaim a haunted ruin and stumbled into something far deeper than goblins and old bones. The enterprise produced its own verse with a speed and character quite unlike anything in my earlier collection. Where the liberation ballads were composed after the fact, often by bards working from secondhand accounts, the songs of Thistle Ridge were born in the thick of events — scribbled in taverns, sung at feasts, chanted by crowds in the arena, and muttered by madmen in the streets.</p>
+<p class="collector-note">The centrepiece of this slim supplement is Mumfrey’s Song — the cryptic, bawdy, unsettling composition of Merri Mumfrey, the Town Fool of Dagger Falls, sung on the 19th of Ches 1483 at the Vernal Feast. I confess I do not understand it. Neither, I suspect, does anyone else, though several of the keenest minds in Daggerdale have tried. It is presented here exactly as it was recorded by Brother Vessuvian of the Yellow Abbey, who had the good sense to write it down. Its meaning, if it has one, I leave to the reader.</p>
+<p class="collector-note">The remaining pieces are all the work of Beliard Emmarask — diplomat, spy, bard, and chronic composer — whose earlier contributions graced the parent volume. Beliard’s gifts are undiminished, though his subjects here are lighter: the famous monkey, the Cormyrean war wizard’s humiliation, and a summary of the reclamation’s events set to a tune that I am told originates from a Cormyrean theatrical, though Beliard’s associate Master Hawkford insists it ought to be sung to a Moonsea shipwreck ballad. I leave the matter of musical interpretation to performers of greater talent than myself.</p>
+<p class="collector-note">I have added brief contextual notes before each piece, but I have not presumed to alter so much as a comma of the poems and songs themselves. These are the words of their authors, not mine, and they deserve to be met on their own terms.</p>
+<p class="attribution"><em>Tammen Gale</em> <em>Scardale Town, Marpenoth 1484 DR</em></p>
+</section>
+<hr>
+
+<section id="i-mumfrey-s-song">
+<h2>I. Mumfrey’s Song</h2>
+<p class="attribution"><em>by Merri Mumfrey, Town Fool of Dagger Falls</em></p>
+<p class="attribution"><em>Recorded by Brother Vessuvian of the Yellow Abbey on the 19th of Ches, 1483 DR, at the Vernal Feast.</em></p>
+<p class="collector-note">Of Merri Mumfrey, little is known with certainty. He wanders Dagger Falls unmolested, entering even the Historic Wing while guards look the other way. He claims to hold meetings with the key figures of the dale’s history, and can often be found lying on the floor of the Cathedral with his ear pressed against the Burial Stones of the Departed, muttering to himself. Brother Darred of the Yellow Abbey says that Mumfrey is right about the weather half the time, and the late Brother Phinneas Hoetmer — a man not given to frivolity — took him seriously enough for us to give him consideration.</p>
+<p class="collector-note">The song is arranged in seven stanzas, each invoking a group of three, and moves from the ghostly to the monstrous by way of the bawdy. Those who have attempted to decode it disagree on nearly everything except that the first stanza refers to the three child-spirits haunting the ruins of Thistle Ridge. The rest is disputed. The investigator Lucan Alavandor of Chrysalis Company devoted an evening and two bottles of wine to the problem and emerged with theories but no certainties; his colleague Jasper Hawkford sat up all night afterwards and arrived at rather darker conclusions. Their analysis, which is itself a remarkable piece of the Thistle Ridge literary record, is preserved separately.</p>
+<p class="collector-note">It is presented here complete and unaltered.</p>
+<blockquote>
+<span class="verse-line">There are spirits spirits spirits one-two-three;</span>
+<span class="verse-line">Small but great in wrath and sad betrayal,</span>
+<span class="verse-line">Their tragic story is the key to set them all and others free,</span>
+<span class="verse-line">And expose for good an ancient false portrayal.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">There are maidens maidens maidens one-two-three;</span>
+<span class="verse-line">Their warm breath in the frosty air a haze,</span>
+<span class="verse-line">They sing and dance and tempt the boys with all they have and little poise,</span>
+<span class="verse-line">To consummate in less than ten and fifty days.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">There are shadows shadows shadows one-two-three;</span>
+<span class="verse-line">They are strongest in the west and bend to thee</span>
+<span class="verse-line">These shadows cast a form that stirs a mighty storm</span>
+<span class="verse-line">That darkens river, ridge and road and sea.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">There are mothers mothers mothers one-two-three</span>
+<span class="verse-line">Whose husbands toil in the field and the bough.</span>
+<span class="verse-line">They have welcoming rear-ends and sons with lonely friends,</span>
+<span class="verse-line">Who come and go before the husbands’ turn to plough.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">There are devils devils devils one-two-three;</span>
+<span class="verse-line">Men think that they have got them by the tail.</span>
+<span class="verse-line">We laugh while they are weeping but they dance while we are sleeping,</span>
+<span class="verse-line">And in the cold light of day they may prevail.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">There are nanas nanas nanas one-two-three;</span>
+<span class="verse-line">Whose granddaughters have husbands tall and strong.</span>
+<span class="verse-line">These men blow out the candles, more fun than broom handles,</span>
+<span class="verse-line">Before returning to their young wives’ legs so lithe and long.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">There are monsters monsters monsters one-two-three;</span>
+<span class="verse-line">Who dreamt a man who doesn’t know exactly how to seam,</span>
+<span class="verse-line">There’s an eye that doesn’t close while all the others doze,</span>
+<span class="verse-line">And I think we all might be but a monster’s dream.</span>
+</blockquote>
+</section>
+<hr>
+
+<section id="ii-the-monkey-on-the-mountain">
+<h2>II. The Monkey On the Mountain</h2>
+<p class="attribution"><em>by Beliard Kathklan Emmarask</em></p>
+<p class="attribution"><em>Composed and performed at Quick Axes tavern in Dagger Falls on the evening of the 21st of Ches, 1483 DR.</em></p>
+<p class="collector-note">The first round of the Thistle Ridge Competition was a game of Capture the Flag, played on a specially constructed mountain arena in the centre of Dagger Falls. Chrysalis Company faced the White Cloaks — the favoured team, captained by the seasoned mercenary Alen Reks and featuring the Cormyrean War Wizard Alexandus Ward. What followed was one of the most celebrated spectacles in recent Daggerdale memory: a chaotic scramble of steel, spell, and monkey that ended in Chrysalis’s first victory and the War Wizard’s lasting humiliation. Beliard Emmarask, who was in attendance, composed this ballad the same day and performed it that evening. It is presented here complete and unaltered.</p>
+<blockquote>
+<span class="verse-line">In Dagger Falls, as snowflakes whirled, two teams of valor met,</span>
+<span class="verse-line">Chrysalis bold and Whitecloaks proud, in a challenge fiercely set.</span>
+<span class="verse-line">The field prepared, the flags were placed, excitement ruled the day,</span>
+<span class="verse-line">For boasting rights and victory, the gods would have their say.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">The bell was rung, Ser Rowan leapt  and towards the flag did bound,</span>
+<span class="verse-line">While Mari, quick and small and brave, ran out to find her ground.</span>
+<span class="verse-line">Lucan, laid low by Oakbough’s sting, fell tangled, in dismay,</span>
+<span class="verse-line">But healed by Mari’s fervent prayers, he rose again to join the fray.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Zelia’s arrows flew like hawks, at Ser Rowan aiming true,</span>
+<span class="verse-line">Yet he with heart and girth and ire, the Whitecloak flag from her withdrew.</span>
+<span class="verse-line">Then up the mountain’s lofty peak, with flag in hand, he climbed,</span>
+<span class="verse-line">‘Midst magic spells and arrows’ flight, his valor brightly shined.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Jeska, elf of wit and blade, danced ‘round her flag with grace,</span>
+<span class="verse-line">Her sharp and stinging verbal barbs led the Dales a spritely chase.</span>
+<span class="verse-line">But Tyrell Dale, through melee’s din, advanced with purpose strong,</span>
+<span class="verse-line">To grasp the flag in eager hands, amidst the battle’s song.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">He hurled it to his kin in stride, a toss both bold and fleet,</span>
+<span class="verse-line">Jannus caught it on the rise, their triumph seeming sweet.</span>
+<span class="verse-line">Into the water Jeska plunged, by Tyrell’s hand she fell,</span>
+<span class="verse-line">Yet her spirit, bold and undimmed, rose with stories yet to tell.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Meanwhile, Jannus held the flag, and to the mountain path he raced,</span>
+<span class="verse-line">Dodging slicks of Jasper’s grease, with a skillful, artful pace.</span>
+<span class="verse-line">Up he climbed, the peak in sight, the summit his to claim,</span>
+<span class="verse-line">But Jasper’s wind, with forceful might, soon brought him low again.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Then ‘midst clash of steel and spell and brawn, a monkey took the stage,</span>
+<span class="verse-line">A creature small, yet bold and brave, a true hero for this age.</span>
+<span class="verse-line">The primate, swift and nimble, grabbed the flag with cheeky glee,</span>
+<span class="verse-line">Then leapt from the mountain’s lofty height, as cunning as could be.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Lucan, with his bow in hand, at Zelia and Alexandus aimed,</span>
+<span class="verse-line">But Hilltop’s healing thwarted him, their vigor she reclaimed.</span>
+<span class="verse-line">So he seized the flag anew, and towards his goal, he ran,</span>
+<span class="verse-line">He threw it back to Chrysalis’ zone, a shrewd and clever plan.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Alexandus, the Whitecloak mage, strode towards the arena’s heart,</span>
+<span class="verse-line">To thwart the hedge wizard’s simple ploys, to block his arcane art.</span>
+<span class="verse-line">Yet Jasper, friend to bird and beast, sought the monkey’s sly assist,</span>
+<span class="verse-line">To disrupt the mage’s eldritch plans, and his pride’s fall to enlist.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">The monkey, quick with jest and jape, caught the war mage unawares,</span>
+<span class="verse-line">Its arms were strong, its aim was true, it flung dung into his hair.</span>
+<span class="verse-line">Cormyr’s son, a wizard proud, was thus by a rustic mageling bested,</span>
+<span class="verse-line">His pride was scarred by the monkey’s jibe, his temper sorely tested.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Ser Rowan, up atop the peak, with hammer swung in might,</span>
+<span class="verse-line">Faced the Brothers Dale in a fearsome fray, a truly gallant sight.</span>
+<span class="verse-line">Then Jeska, with her longbow poised, found just the perfect shot,</span>
+<span class="verse-line">“Show me your heart, stag,” she whispered, her aim forgot her not.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">At last, the Whitecloaks, waning, their wills by war were worn.</span>
+<span class="verse-line">Tara Hilltop hailed the end, her team’s defeat was sworn.</span>
+<span class="verse-line">So it was that Team Chryslais claimed their first victory that day,</span>
+<span class="verse-line">Their deeds of bravery, luck, and skill, in my song I do convey.</span>
+</blockquote>
+</section>
+<hr>
+
+<section id="iii-monkey-on-the-mountain">
+<h2>III. Monkey on the Mountain</h2>
+<p class="attribution"><em>(known popularly as “The Munk,” or among the older and crasser boys, “The Monkeyshit Mage“)</em></p>
+<p class="attribution"><em>by Beliard Kathklan Emmarask</em></p>
+<p class="collector-note">A children’s song, composed shortly after the ballad above, which the young folk of Dagger Falls took to singing in the years that followed.</p>
+<p class="collector-note">If the ballad of the Monkey on the Mountain is Beliard’s account of the battle as it happened, this shorter piece is what it became in the mouths of the people. Within days of the competition, the children of Dagger Falls were singing it in the streets, and by the time of the Ches 24 match between the White Cloaks and the Standing Stone League, over a third of the arena crowd joined in a spontaneous rendition when the War Wizard Alexandus Ward attempted his usual strategy of counter-spelling. The effect on Ward’s concentration was devastating; he lost the round. The tune, I am informed, is borrowed from a well-known Cormyrean music-hall number — a detail that would not have been lost on the War Wizard himself.</p>
+<blockquote>
+<span class="verse-line">I went to the Dagger Falls fair,</span>
+<span class="verse-line">The heroes all were there,</span>
+<span class="verse-line">Jasper the Sly, under the sky,</span>
+<span class="verse-line">Was casting his spells in the air,</span>
+<span class="verse-line">You should’ve seen the monk,</span>
+<span class="verse-line">He played in the snowy funk,</span>
+<span class="verse-line">He leaped and swung, the flag he won,</span>
+<span class="verse-line">And that was the win of the monk,</span>
+<span class="verse-line">The monk, the monk, the monk,</span>
+<span class="verse-line">The monk, the monk, the monk!</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">‘Xandus, mage so grand,</span>
+<span class="verse-line">Strode forth with staff in hand,</span>
+<span class="verse-line">He aimed to weave a spell to achieve</span>
+<span class="verse-line">A win over Chrysalis band,</span>
+<span class="verse-line">But then here came the monk,</span>
+<span class="verse-line">With a jest and a leap he dunked,</span>
+<span class="verse-line">He flung with glee, his poo you see,</span>
+<span class="verse-line">And that was the win of the monk,</span>
+<span class="verse-line">The monk, the monk, the monk,</span>
+<span class="verse-line">The monk, the monk, the monk!</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Oh, I went to the Dagger Falls fair,</span>
+<span class="verse-line">The heroes all were there,</span>
+<span class="verse-line">The monkey so small, outdid them all,</span>
+<span class="verse-line">A feat beyond compare,</span>
+<span class="verse-line">You should’ve seen the monk,</span>
+<span class="verse-line">His spirit never once shrunk,</span>
+<span class="verse-line">With daring deed, and cunning speed,</span>
+<span class="verse-line">Oh, that was the win of the monk,</span>
+<span class="verse-line">The monk, the monk, the monk,</span>
+<span class="verse-line">The monk, the monk, the monk!</span>
+</blockquote>
+</section>
+<hr>
+
+<section id="iv-beliard-s-favourite-things">
+<h2>IV. Beliard’s Favourite Things</h2>
+<p class="attribution"><em>by Beliard Kathklan Emmarask</em></p>
+<p class="attribution"><em>Composed at Castle Radiance, sometime after the conclusion of the Thistle Ridge affair.</em></p>
+<p class="collector-note">This piece reached me through the same channels as Beliard’s other later compositions — channels I am not at liberty to disclose. It is a summary of the Thistle Ridge reclamation in its entirety, set to the melody of a Cormyrean theatrical song whose original concerns the enumeration of pleasant trifles. Beliard’s version enumerates rather less pleasant trifles — purple worm sieges, gargoyle incursions, and the schemes of the Netherese — with a cheerfulness that borders on the unhinged. His associate, the wizard Jasper Hawkford, reportedly sang it to the tune of a Moonsea shipwreck ballad instead, which may in fact suit the subject matter better. Beliard himself judged it inferior to “The Munk,” a verdict with which the children of Dagger Falls would doubtless agree.</p>
+<blockquote>
+<span class="verse-line">Sworn band of strangers who take up the gauntlet</span>
+<span class="verse-line">Charity Hills lends a hand as their sponsor,</span>
+<span class="verse-line">Alliances forged with complex legal strings,</span>
+<span class="verse-line">These are a few of our favourite things!</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Bawdy spring revels, new-budding romances,</span>
+<span class="verse-line">Brawls with the locals and nights filled with dances,</span>
+<span class="verse-line">Political currents with intrigue galore,</span>
+<span class="verse-line">Secrets and scandals behind every door!</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">White Cloaks defeated, a rivalry strong,</span>
+<span class="verse-line">Redjacks so brutal, the fights last so long,</span>
+<span class="verse-line">Free Defense falters and Chrysalis wins,</span>
+<span class="verse-line">These are a few of our favourite things!</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">When the curse bites,</span>
+<span class="verse-line">When the witch stings,</span>
+<span class="verse-line">When we’re feeling sad,</span>
+<span class="verse-line">We simply remember our favourite things,</span>
+<span class="verse-line">And then we don’t feel so bad!</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Seances with spirits and grand mayor’s balls,</span>
+<span class="verse-line">Hinterland battles with wasps ten feet tall,</span>
+<span class="verse-line">Fungus-fey creatures and goblin-filled raids,</span>
+<span class="verse-line">These are a few of the quests we have made!</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Purple worm sieges and gargoyle incursions,</span>
+<span class="verse-line">Netheril’s plots and Loki’s diversions,</span>
+<span class="verse-line">Melegaunt’s schemes and the chaos he brings,</span>
+<span class="verse-line">These are a few of our favourite things!</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">When the worm strikes,</span>
+<span class="verse-line">When the wasp stings,</span>
+<span class="verse-line">When we’re feeling mad,</span>
+<span class="verse-line">We simply remember our favourite things,</span>
+<span class="verse-line">And then we don’t feel so bad!</span>
+</blockquote>
+</section>
+<hr>
+
+<section id="note-on-omissions">
+<h2>A Note on Omissions</h2>
+<p class="collector-note">The careful reader will note that this collection does not include the song of Jebediah Greenthumb, the conspiracy-minded Chauntean farmer whose rant about the Whitegate family circulated in Dagger Falls around this period. I have excluded it on the grounds that it is prose, not verse, and that its provenance is uncertain — it was transcribed by one Scribe Elmira Quill, and Greenthumb himself was not available for verification.</p>
+<p class="collector-note">Nor have I included the remarkable investigation notes of Lucan Alavandor and Jasper Hawkford, who between them produced the most thorough analysis of Mumfrey’s Song that I have encountered. Their work is analytical rather than poetic, and deserves a volume of its own — though I note that Alavandor’s uncle’s advice on the subject of consummation (“To consummate, why hesitate? Don’t make her wait — Penetrate!“) has a certain rough meter that might qualify it for inclusion in a less scrupulous anthology.</p>
+<p class="attribution"><em>Tammen Gale</em> <em>Scardale Town, Marpenoth 1484 DR</em></p>
+</section>
+<hr>
+
+<footer>
+<h2>Colophon</h2>
+<p><strong>Document:</strong> Songs of the Thistle and Other Verses <strong>Source:</strong> `Handouts/Daggerdale/Songs of the Thistle - Collected by Tammen Gale of Scardale.txt` <strong>Raw sources for individual pieces:</strong></p>
+<ul>
+<li>I. Mumfrey’s Song — `Handouts/Daggerdale/Not a Conspiracy - Mumfrey’s Song Analysed.txt` (full text embedded in Lucan/Jasper analysis); also `Handouts/Daggerdale/Thistle Ridge Tragedy - Timeline and Mumfrey’s Song Revisited.txt` - II. The Monkey On the Mountain — `Handouts/Daggerdale/The Mountain of Mayhem - Beliard’s Songs of the Mountain.txt` (email thread, Feb 2024); also `Handouts/Daggerdale/Round One to Chrysalis - Tournament Narrative and Song.txt`; also `Handouts/Daggerdale/Memorable Moments in Capture the Flag - Todd’s Notes and the Making of the Ballad.txt` - III. Monkey on the Mountain / “The Munk” — `Handouts/Daggerdale/The Mountain of Mayhem - Beliard’s Songs of the Mountain.txt` (same email thread as II) - IV. Beliard’s Favourite Things — `Handouts/Daggerdale/Beliard’s Favourite Things - A Song from Castle Radiance.txt` (email thread, Sep 2024)</li>
+</ul>
+<p><strong>Relationship to parent volume:</strong> This is a companion/sequel to <em>Songs of the Dagger and Other Verses</em> (Editorial markdown). Tammen Gale’s preface explicitly references the earlier collection and frames this as a “slim supplement.” <strong>Editorial notes:</strong> Transcribed faithfully from the composite source document. All verse reproduced exactly as found. No numbering corrections required — the source document’s numbering (I–IV) is sequential and consistent. The double-space in line 104 of the source (“Ser Rowan leapt  and“) is preserved as found in all source copies. <strong>Editorial pass:</strong> 2026-04-05</p>
+</footer>
+
+</main>
+</body>
+</html>

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Redjacks &mdash; Daggerdale</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=IM+Fell+English+SC&display=swap');
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'Crimson Text', 'Palatino Linotype', 'Book Antiqua', Palatino, Georgia, serif; background: #f4ead5; color: #2c1e0e; padding: 24px; line-height: 1.6; }
+  h1 { text-align: center; font-family: 'IM Fell English SC', 'Palatino Linotype', serif; color: #4a1e08; font-size: 2em; margin-bottom: 4px; letter-spacing: 3px; }
+  .subtitle { text-align: center; color: #6b4c30; font-size: 0.95em; margin-bottom: 32px; font-style: italic; }
+  .era-header { background: linear-gradient(90deg, #f4ead5, #e8d5b0, #f4ead5); color: #4a1e08; font-family: 'IM Fell English SC', 'Palatino Linotype', serif; font-size: 1.5em; padding: 12px 20px; margin: 36px 0 20px 0; border-left: 4px solid #8b4513; border-bottom: 1px solid #c9a96e; letter-spacing: 1px; }
+  .era-note { color: #5a3d20; font-size: 0.9em; padding: 0 20px 16px 20px; max-width: 900px; }
+  .section { margin: 0 0 28px 0; }
+  .section-title { color: #6b2a0a; font-size: 1.15em; padding: 8px 16px; background: #ede0c8; border-left: 3px solid #8b4513; margin-bottom: 12px; }
+  .card-row { display: flex; flex-wrap: wrap; gap: 16px; padding: 0 16px; margin-bottom: 16px; }
+  .card { background: #faf3e4; border: 1px solid #c9a96e; border-radius: 4px; padding: 16px; min-width: 260px; flex: 1 1 300px; max-width: 480px; box-shadow: 1px 2px 4px rgba(100,70,30,0.1); }
+  .card.command { border-color: #8b4513; background: #f7edda; border-width: 2px; }
+  .card.wide { max-width: 100%; flex: 1 1 100%; }
+  .card-label { font-size: 0.7em; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 6px; }
+  .card-label.gold { color: #8b4513; }
+  .card-label.brown { color: #6b4c30; }
+  .card h3 { color: #3a1a05; font-size: 1.1em; margin-bottom: 4px; }
+  .card .rank { color: #5a3d20; font-size: 0.85em; }
+  .card .detail { color: #4a3520; font-size: 0.85em; margin-top: 6px; }
+  .card .strength { color: #3a6030; font-size: 0.85em; margin-top: 4px; }
+  .card .assignment { color: #3a5a7c; font-size: 0.85em; margin-top: 4px; }
+  .card .note { color: #7a5a30; font-size: 0.82em; margin-top: 6px; font-style: italic; }
+  .personnel { margin-top: 8px; padding-top: 8px; border-top: 1px solid #d4c0a0; }
+  .person { margin-bottom: 6px; }
+  .person .name { color: #2c1e0e; font-weight: 600; }
+  .person .info { color: #5a4030; font-size: 0.85em; }
+  .legend { background: #faf3e4; border: 1px solid #c9a96e; border-radius: 4px; padding: 16px; margin: 24px 16px; font-size: 0.88em; }
+  .legend h4 { color: #6b2a0a; margin-bottom: 8px; }
+  table { border-collapse: collapse; width: 100%; margin: 8px 0; }
+  th { background: #e8d5b0; color: #4a1e08; text-align: left; padding: 6px 10px; font-size: 0.85em; border-bottom: 2px solid #b09060; }
+  td { padding: 5px 10px; border-bottom: 1px solid #ddd0b8; font-size: 0.88em; }
+  tr:hover td { background: #f0e4cf; }
+  .status-active { color: #2a6020; }
+  .status-former { color: #6b5030; }
+  .status-unknown { color: #8a7a60; }
+  hr { border: none; border-top: 1px solid #c9a96e; margin: 24px 16px; }
+</style>
+</head>
+<body>
+
+<h1>&#9876; THE REDJACKS &#9876;</h1>
+<div class="subtitle">Chartered Company of Daggerdale &mdash; Summary &amp; Roster, c. 1479&ndash;1483 DR</div>
+
+<div class="legend">
+  <h4>About This Document</h4>
+  The Redjacks are a large mercenary company operating in Daggerdale. Source material for this organization is thin compared to the White Cloaks or the Free Defence League, and this document reflects what is currently known. Under the Daggerdale Concordat of Elesias 1482, the Captain of the Redjacks holds a seat on the Governors&rsquo; Assembly.
+</div>
+
+<!-- ============================================================ -->
+<div class="era-header">I. Summary</div>
+<div class="era-note">
+  <p>The Redjacks are a &ldquo;storied outfit&rdquo; of more than 60 veteran soldiers and adventurers, described as &ldquo;very capable, if somewhat self-interested.&rdquo; They are led by Captain Hastle Blackwater (also rendered &ldquo;Redwater&rdquo; in one Chronicle passage&mdash;a discrepancy that may be a transcription error or an alias). Their footmen are paid two gold coins per day, an exceptionally high rate for 1479 DR, indicating the Redjacks are well-funded.</p>
+  <p style="margin-top:8px;">The company has a history of combat experience in Scardale and of fighting on both sides of the Sembia conflict. They have a contentious relationship with the Free Defence League&mdash;in 1478, they were banned from Castle Radiance for interfering with a Gryphon Company bounty. By 1479 they were permitted to return under the scrutiny of clerk Jonas Millstone. That summer, the Redjacks were stationed at Fort Last Sun for western front operations against Netheril.</p>
+</div>
+
+<!-- ============================================================ -->
+<div class="era-header">II. Known Personnel</div>
+<div class="section">
+  <div class="card-row">
+    <div class="card command">
+      <div class="card-label gold">Captain</div>
+      <h3>Hastle Blackwater</h3>
+      <div class="rank">Captain of the Redjacks</div>
+      <div class="detail">Commander of the company. Holds a seat on the Governors&rsquo; Assembly under the Concordat. Relatively little direct characterisation in available sources beyond his role as leader of an experienced mercenary force.</div>
+      <div class="note">Also rendered &ldquo;Redwater&rdquo; in one Chronicle passage.</div>
+    </div>
+    <div class="card command">
+      <div class="card-label gold">Sergeant</div>
+      <h3>Alexius Kvanov</h3>
+      <div class="rank">Field Sergeant</div>
+      <div class="detail">Aggressive and confrontational personality. Carries a personal grudge against Dane Grimwald for his desertion from the Redjacks. Willing to directly confront high-ranking military figures despite differences in authority.</div>
+    </div>
+  </div>
+  <div class="card-row">
+    <div class="card wide" style="overflow-x:auto;">
+      <table>
+        <tr><th>Name</th><th>Rank / Role</th><th>Status</th><th>Notes</th></tr>
+        <tr><td>Hastle Blackwater</td><td>Captain</td><td class="status-active">Active</td><td>Also &ldquo;Redwater.&rdquo; Holds Assembly seat.</td></tr>
+        <tr><td>Alexius Kvanov</td><td>Sergeant</td><td class="status-active">Active</td><td>Aggressive. Seeks Dane Grimwald.</td></tr>
+        <tr><td>Dane Grimwald</td><td>&mdash;</td><td class="status-former">Left (unfavourable terms)</td><td>Also former FDL member. Left both organizations.</td></tr>
+        <tr><td>Jonas Millstone</td><td>Clerk (oversight)</td><td class="status-active">Active</td><td>Not a Redjack; a Castle Radiance clerk assigned to monitor the Redjacks after their readmission.</td></tr>
+      </table>
+      <div class="note" style="margin-top:8px;">The Redjacks number more than 60 veteran soldiers and adventurers. Only three named members have been identified in available sources. A full audit of the Chronicle and wiki may yield additional personnel.</div>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================================ -->
+<div class="era-header">III. Key Events</div>
+<div class="section">
+  <div class="card-row">
+    <div class="card wide">
+      <table>
+        <tr><th>Date</th><th>Event</th><th>Notes</th></tr>
+        <tr><td>Pre-1479</td><td>Scardale campaigns &amp; Sembia conflict</td><td>Combat experience on both sides of the Sembia conflict.</td></tr>
+        <tr><td>1478</td><td>Banned from Castle Radiance</td><td>Interfered with Gryphon Company (FDL) bounty.</td></tr>
+        <tr><td>1479</td><td>Readmitted to Castle Radiance</td><td>Under clerk Jonas Millstone&rsquo;s scrutiny.</td></tr>
+        <tr><td>Summer 1479</td><td>Deployed to Fort Last Sun</td><td>Western front operations against Netheril alongside Sun Blades.</td></tr>
+        <tr><td>20 Ches 1483</td><td>Tournament: Redjacks vs. Standing Stone League</td><td>Fought in the Ches 1483 tournament.</td></tr>
+      </table>
+    </div>
+  </div>
+</div>
+
+<hr>
+<div style="text-align:center; color:#7a6a50; font-size:0.82em; padding: 16px;">
+  Compiled from Daggerdale Campaign Wiki (Sieges Perilous), the Daggerdale Chronicle, and various narrative archives.<br>
+  Named Redjack personnel: 3 (plus 1 oversight clerk). Strength: 60+.<br>
+  This document is a scaffold. A full multi-pass audit of the source corpus may yield additional personnel and event details.
+</div>
+
+</body>
+</html>

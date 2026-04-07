@@ -1,0 +1,1676 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Organizational structure and personnel of the Sun Blades military force of Daggerdale.">
+    <title>Sun Blades of Daggerdale &ndash; Organizational Chart &mdash; Daggerdale Campaign Archive</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=IM+Fell+English+SC&display=swap');
+
+        :root {
+            --bg-parchment: #f4ead5;
+            --bg-inset: #f7f0e0;
+            --bg-section-header: #ede0c8;
+            --bg-section-gradient: linear-gradient(90deg, #f4ead5, #e8d5b0, #f4ead5);
+            --text-body: #2c1e0e;
+            --text-heading: #4a1e08;
+            --text-subheading: #6b2a0a;
+            --text-secondary: #5a3d20;
+            --text-aside: #3a2a15;
+            --accent-border: #8b4513;
+            --accent-border-light: #c9a96e;
+            --accent-link: #3a5a7c;
+            --bg-subsection-gradient: linear-gradient(90deg, #f4ead5, #efe3c8, #f4ead5);
+            --font-display: 'IM Fell English SC', Palatino Linotype, serif;
+            --space-xs: 4px;
+            --space-sm: 8px;
+            --space-md: 16px;
+            --space-lg: 24px;
+            --space-xl: 36px;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        html {
+            font-size: 20px;
+        }
+
+        body {
+            font-family: 'Crimson Text', Palatino Linotype, Book Antiqua, Palatino, Georgia, serif;
+            background-color: var(--bg-parchment);
+            color: var(--text-body);
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+
+        article {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: var(--space-lg);
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: var(--space-xl);
+            border-bottom: 2px solid var(--accent-border-light);
+            padding-bottom: var(--space-lg);
+        }
+
+        h1 {
+            font-family: var(--font-display);
+            font-size: 2.5em;
+            color: var(--text-heading);
+            margin: var(--space-md) 0;
+            font-weight: 700;
+        }
+
+        header > p {
+            font-style: italic;
+            color: var(--text-secondary);
+            margin: var(--space-sm) 0 0 0;
+        }
+
+        /* Table of Contents */
+        .toc {
+            margin: var(--space-lg) 0;
+            padding: var(--space-md) var(--space-lg);
+            background: linear-gradient(135deg, rgba(74,30,8,0.04), rgba(74,30,8,0.02));
+            border: 1px solid var(--accent-border);
+            border-radius: 4px;
+        }
+
+        .toc-title {
+            font-family: var(--font-display);
+            font-size: 1.3em;
+            color: var(--text-heading);
+            margin: 0 0 var(--space-sm) 0;
+            padding: 0;
+            border: none;
+            background: none;
+        }
+
+        .toc-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            counter-reset: toc-section;
+        }
+
+        .toc-list > li {
+            counter-increment: toc-section;
+            margin: var(--space-xs) 0;
+        }
+
+        .toc-list > li > a {
+            font-family: var(--font-display);
+            font-size: 1.05em;
+            color: var(--text-heading);
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        .toc-list > li > a:hover {
+            text-decoration: underline;
+        }
+
+        .toc-sublist {
+            list-style: none;
+            padding: 0 0 0 var(--space-md);
+            margin: var(--space-xs) 0 0 0;
+            columns: 2;
+            column-gap: var(--space-lg);
+        }
+
+        .toc-sublist > li {
+            margin: 2px 0;
+            break-inside: avoid;
+        }
+
+        .toc-sublist > li > a {
+            font-size: 0.9em;
+            color: var(--text-body);
+            text-decoration: none;
+        }
+
+        .toc-sublist > li > a:hover {
+            text-decoration: underline;
+            color: var(--text-heading);
+        }
+
+        h2 {
+            font-family: var(--font-display);
+            font-size: 1.8em;
+            color: var(--text-heading);
+            margin: var(--space-lg) 0 var(--space-md) 0;
+            padding: var(--space-sm) var(--space-md);
+            border-left: 4px solid var(--accent-border);
+            background: var(--bg-section-gradient);
+        }
+
+        h3 {
+            font-family: var(--font-display);
+            font-size: 1.4em;
+            color: var(--text-subheading);
+            margin: var(--space-md) 0 var(--space-sm) 0;
+            padding: var(--space-xs) var(--space-sm);
+            background: var(--bg-subsection-gradient);
+        }
+
+        .card-command h3,
+        .card-company h3,
+        .card-division h3,
+        .card-default h3 {
+            background: linear-gradient(90deg, rgba(139, 69, 19, 0), rgba(139, 69, 19, 0.08), rgba(139, 69, 19, 0));
+        }
+
+        h4 {
+            font-family: var(--font-display);
+            font-size: 1.1em;
+            color: var(--text-subheading);
+            margin: var(--space-lg) 0 var(--space-xs) 0;
+        }
+
+        p {
+            margin: var(--space-md) 0;
+            text-align: justify;
+        }
+
+        em {
+            font-style: italic;
+        }
+
+        strong {
+            font-weight: 600;
+            font-family: var(--font-display);
+        }
+
+        section {
+            margin: var(--space-lg) 0;
+        }
+
+        hr {
+            border: none;
+            border-top: 1px solid var(--accent-border-light);
+            margin: var(--space-lg) 0;
+        }
+
+        .card {
+            background-color: var(--bg-inset);
+            border-left: 4px solid var(--accent-border);
+            padding: var(--space-md);
+            margin: var(--space-lg) 0;
+        }
+
+        .card-command {
+            border-left-color: #b8860b;
+            background-color: #faf6e8;
+        }
+
+        .card-company {
+            border-left-color: #6b7c4a;
+            background-color: #f7f6ee;
+        }
+
+        .card-division {
+            border-left-color: #4a6a8a;
+            background-color: #f0f3f7;
+        }
+
+        .card-default {
+            border-left-color: var(--accent-border);
+            background-color: var(--bg-inset);
+        }
+
+        .card-subtitle {
+            font-family: var(--font-display);
+            font-style: normal;
+            font-size: 1.1em;
+            letter-spacing: 0.02em;
+            color: var(--text-subheading);
+            margin: var(--space-xs) 0 var(--space-md) 0;
+        }
+
+        .card-note {
+            margin: var(--space-sm) 0;
+            color: var(--text-secondary);
+        }
+
+        .footnote {
+            font-size: 0.95em;
+            font-style: italic;
+            color: var(--text-heading);
+            margin: var(--space-sm) 0;
+        }
+
+        .footnote .nb-label {
+            font-weight: 600;
+            font-style: normal;
+            letter-spacing: 0.04em;
+        }
+
+        .footnote .footnote-marker {
+            font-style: normal;
+            font-weight: normal;
+        }
+
+        dl {
+            margin: var(--space-md) 0;
+            display: grid;
+            grid-template-columns: auto 1fr;
+            gap: var(--space-sm) var(--space-md);
+        }
+
+        dt {
+            font-weight: 600;
+            color: var(--text-subheading);
+            text-align: right;
+        }
+
+        dd {
+            margin: 0;
+            color: var(--text-body);
+        }
+
+        aside {
+            margin: var(--space-sm) 0;
+            padding: var(--space-sm) var(--space-md);
+            background-color: var(--bg-inset);
+            border-left: 3px solid var(--accent-border-light);
+        }
+
+        aside.narrator {
+            color: var(--text-aside);
+        }
+
+        aside.era-note {
+            color: var(--text-aside);
+        }
+
+        .card aside {
+            border-left: none;
+            border: 1px dashed var(--accent-border-light);
+            border-radius: 4px;
+        }
+
+        .deceased {
+            cursor: help;
+        }
+
+        img.dagger {
+            height: 1.1em;
+            width: auto;
+            vertical-align: -0.15em;
+            margin-right: 2px;
+            display: inline;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: var(--space-lg) 0;
+        }
+
+        .table-scroll table {
+            width: auto;
+            min-width: 100%;
+        }
+
+        #personnel-table {
+            min-width: 1200px;
+        }
+
+        td, th {
+            white-space: normal;
+            min-width: 80px;
+        }
+
+        #personnel-table td:first-child,
+        #personnel-table th:first-child {
+            white-space: nowrap;
+            min-width: 160px;
+        }
+
+        #personnel-table td:last-child {
+            min-width: 280px;
+        }
+
+        .concordat-divisions th:nth-child(2),
+        .concordat-divisions td:nth-child(2),
+        .concordat-divisions th:nth-child(3),
+        .concordat-divisions td:nth-child(3),
+        .concordat-divisions th:nth-child(7),
+        .concordat-divisions td:nth-child(7) {
+            min-width: 200px;
+        }
+        .concordat-divisions th:nth-child(1),
+        .concordat-divisions td:nth-child(1),
+        .concordat-divisions th:nth-child(4),
+        .concordat-divisions td:nth-child(4),
+        .concordat-divisions th:nth-child(5),
+        .concordat-divisions td:nth-child(5),
+        .concordat-divisions th:nth-child(6),
+        .concordat-divisions td:nth-child(6) {
+            min-width: 80px;
+            max-width: 100px;
+        }
+
+        table caption {
+            font-weight: 600;
+            color: var(--text-subheading);
+            padding: var(--space-sm) 0;
+            text-align: left;
+        }
+
+        thead {
+            background-color: var(--bg-section-header);
+        }
+
+        th {
+            padding: var(--space-sm) var(--space-md);
+            text-align: left;
+            font-weight: 600;
+            color: var(--text-heading);
+            border-bottom: 2px solid var(--accent-border-light);
+        }
+
+        td {
+            padding: var(--space-sm) var(--space-md);
+            border-bottom: 1px solid var(--accent-border-light);
+        }
+
+        tbody tr:hover {
+            background-color: rgba(139, 69, 19, 0.05);
+        }
+
+        .table-scroll {
+            overflow-x: auto;
+            margin: var(--space-lg) 0;
+        }
+
+        footer {
+            margin-top: var(--space-xl);
+            padding-top: var(--space-lg);
+            border-top: 2px solid var(--accent-border-light);
+            color: var(--text-secondary);
+        }
+
+        @media (max-width: 600px) {
+            html {
+                font-size: 16px;
+            }
+
+            article {
+                padding: var(--space-md);
+            }
+
+            h1 {
+                font-size: 2em;
+            }
+
+            h2 {
+                font-size: 1.4em;
+            }
+
+            h3 {
+                font-size: 1.1em;
+            }
+
+            table {
+                font-size: 0.85em;
+            }
+
+            th, td {
+                padding: var(--space-xs) var(--space-sm);
+            }
+
+            dl {
+                grid-template-columns: 1fr;
+                gap: var(--space-xs);
+            }
+
+            dt {
+                text-align: left;
+            }
+        }
+
+        @media print {
+            body {
+                background-color: white;
+                color: black;
+            }
+
+            article {
+                max-width: 100%;
+                padding: 0;
+            }
+
+            h1, h2, h3, h4 {
+                page-break-after: avoid;
+                color: black;
+            }
+
+            section {
+                page-break-inside: avoid;
+            }
+
+            aside {
+                background-color: white;
+                border: 1px solid #ccc;
+            }
+
+            .card {
+                background-color: white;
+                border: 1px solid #ccc;
+            }
+
+            table {
+                border: 1px solid #ccc;
+            }
+
+            th {
+                background-color: #f5f5f5;
+            }
+        }
+    </style>
+</head>
+<body>
+    <article>
+        <header>
+            <h1>⚔ THE SUN BLADES OF DAGGERDALE ⚔</h1>
+            <p>Part I of The Military Establishment of Daggerdale – A report prepared for His Majesty's Embassy at Castle Radiance by Beliard Kathklan Emmarask, Secretary to the Ambassador</p>
+        </header>
+
+<nav class="toc">
+<h2 class="toc-title">Contents</h2>
+<ol class="toc-list">
+<li><a href="#i-the-sun-blades">I. The Sun Blades</a>
+<ol class="toc-sublist">
+<li><a href="#conscription-service">Conscription & Service</a></li>
+<li><a href="#ranks-pay">Ranks & Pay</a></li>
+<li><a href="#unit-structure">Unit Structure</a></li>
+<li><a href="#religious-command-structure">Religious Command Structure</a></li>
+<li><a href="#weapons-tactics-standard-issue">Weapons, Tactics & Standard Issue</a></li>
+</ol></li>
+<li><a href="#ii-command">II. Command</a>
+<ol class="toc-sublist">
+<li><a href="#lord-luminous-whitegate">Lord Luminous Whitegate</a></li>
+<li><a href="#zenith-lord-argent-whitegate">Zenith Lord Argent Whitegate</a></li>
+<li><a href="#consul-kesh-oakdale">Consul Kesh Oakdale</a></li>
+<li><a href="#bishop-blaze-whitegate">Bishop Blaze Whitegate</a></li>
+<li><a href="#general-command">General Command</a></li>
+<li><a href="#general-dauntless-thunderstorm">General Dauntless Thunderstorm</a></li>
+</ol></li>
+<li><a href="#iii-companies">III. Companies</a>
+<ol class="toc-sublist">
+<li><a href="#1st-company-dalehearth">1st Company – “Dalehearth”</a></li>
+<li><a href="#2nd-company-mountaineers">2nd Company – “Mountaineers”</a></li>
+<li><a href="#3rd-company-iron-backs">3rd Company – “Iron Backs”</a></li>
+<li><a href="#4th-company-foresters">4th Company – “Foresters”</a></li>
+<li><a href="#7th-company-bright-spears">7th Company – “Bright Spears”</a></li>
+<li><a href="#8th-company-sun-dragoons">8th Company – “Sun Dragoons”</a></li>
+<li><a href="#9th-company-deadly-rain">9th Company – “Deadly Rain”</a></li>
+<li><a href="#10th-company">10th Company</a></li>
+<li><a href="#company-x-shadow-sentinels">Company X – “Shadow Sentinels”</a></li>
+<li><a href="#11th14th-companies-recruit-training">11th–14th Companies – Recruit Training</a></li>
+<li><a href="#16th-company">16th Company</a></li>
+<li><a href="#18th-company">18th Company</a></li>
+<li><a href="#other-significant-personnel-unspecified-affiliation">Other Significant Personnel (Unspecified Affiliation)</a></li>
+</ol></li>
+<li><a href="#iv-the-daggerdale-concordat">IV. The Daggerdale Concordat</a>
+<ol class="toc-sublist">
+<li><a href="#concordat-chain-of-command">Concordat Chain of Command</a></li>
+<li><a href="#concordat-divisions-standard-order-of-the-sun-blades">Concordat Divisions – Standard Order of the Sun Blades</a></li>
+<li><a href="#concordat-unit-structure">Concordat Unit Structure</a></li>
+<li><a href="#concordat-pay-costs">Concordat Pay & Costs</a></li>
+</ol></li>
+<li><a href="#v-appendices">V. Appendices</a>
+<ol class="toc-sublist">
+<li><a href="#all-named-sun-blade-personnel">All Named Sun Blade Personnel</a></li>
+<li><a href="#related-military-organizations">Related Military Organizations</a></li>
+</ol></li>
+</ol></nav>
+<section>
+<h2 id="i-the-sun-blades">I. The Sun Blades</h2>
+<p>The Sun Blades are the standing army of Daggerdale, founded in 1410 DR* by the Whitegate family and the Church of Amaunator to replace the patchwork militia that had previously defended the Dale. They are headquartered at Castle Radiance in the Desertsmouth Mountains and maintain garrisons throughout the Dale – at Dagger Falls, the fortified farm settlements, and forward positions along the Netherese frontier. At any given time the force numbers in the hundreds of soldiers, organized into numbered companies with traditional names, under the overall command of a General. Names preceded by <span class="deceased-symbol" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img"></span> in this document denote confirmed or presumed killed in action. The personnel table in Section V includes historical figures alongside contemporary personnel; dates in the status and notes columns distinguish them.</p>
+<p class="footnote"><span class="footnote-marker">*</span>Malveau Greenleaf, a founding-era veteran, records serving in the 1st Company “when it was originally commissioned in 1403”—seven years before the conventional date. The most likely explanation is that the 1st Company was mustered in 1403 as a single formed unit, and the multi-company institution known as the Sun Blades was formally established in 1410. (Per personal communication with Greenleaf, Tarsakh 1483.)</p>
+<h3 id="conscription-service">Conscription & Service</h3>
+<p>All men in the Dale must serve a minimum of two years (raised to three years at the Greengrass 1480 Strategic Meeting), entering in their 18th year. New cohorts are inducted on Greengrass and train together. Women are not subject to conscription but may volunteer; they comprise approximately 9% of the force. Over two thousand retirees in the Dale keep their weapons and armour and can be summoned within 24–48 hours by any captain or higher officer. The last day of the Sun Blade contractual calendar is 19 Ches. <strong>The Muster</strong> occurs in the tenday following the Vernal Feast (19 Ches): 288 soldiers rotate out and 288 come in. During this period, over five hundred additional young soldiers are present in Dagger Falls. The recruit training companies (11th–14th) absorb incoming conscripts under the Captain of the Recruits.</p>
+<p>Soldiers live a near-monastic life in their first two years: no drinking, gambling, fornication, or bawdy songs. They receive 10 days off during the Summer Solstice Festival. More than half of soldiers stay on beyond the mandatory service. When the minimum service term was raised from two years to three at the Greengrass 1480 Strategic Meeting, soldiers slated for release that day were offered pay at one rank above their current grade as a retention incentive. Beyond their own ranks, the Sun Blades are “actively involved in the training of the Militia, which is many times the size of the Sun Blades”—a responsibility that extends the standing army’s influence deep into the civilian population and ensures a baseline of military readiness across the Dale’s settlements.</p>
+<h3 id="ranks-pay">Ranks & Pay</h3>
+<table>
+<thead>
+<tr>
+<th scope="col">Rank</th>
+<th scope="col">Pay (per tenday)</th>
+<th scope="col">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Footman</td>
+<td>10 gp (5 gp if single, held in trust)</td>
+<td>Standard conscript. Families paid while soldier serves</td>
+</tr>
+<tr>
+<td>Corporal</td>
+<td>15 gp</td>
+<td>Immediate promotion for those staying beyond 2-year minimum</td>
+</tr>
+<tr>
+<td>Sergeant</td>
+<td>20 gp</td>
+<td>Promising soldiers promoted directly to Sgt. on re-enlistment</td>
+</tr>
+<tr>
+<td>Lieutenant</td>
+<td>25 gp</td>
+<td>Company-level officer commanding a platoon</td>
+</tr>
+<tr>
+<td>Captain</td>
+<td>30 gp</td>
+<td>Company commander</td>
+</tr>
+<tr>
+<td>General</td>
+<td>40 gp</td>
+<td>Commander of all companies</td>
+</tr>
+</tbody>
+</table>
+<p>Paid at end of every other month. Soldiers may not carry more than 10 gp on their person while on duty.</p>
+<h3 id="unit-structure">Unit Structure</h3>
+<table>
+<thead>
+<tr>
+<th scope="col">Unit</th>
+<th scope="col">Composition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Squad</td>
+<td>11 footmen/corporals + 1 sergeant (12 total)</td>
+</tr>
+<tr>
+<td>Platoon</td>
+<td>3 squads under 1 lieutenant (36 or more)</td>
+</tr>
+<tr>
+<td>Company</td>
+<td>3 platoons (or more/less) under 1 captain</td>
+</tr>
+<tr>
+<td>Army</td>
+<td>All companies under the General</td>
+</tr>
+</tbody>
+</table>
+<p class="footnote"><span class="nb-label">N.B.</span> Some sources give a smaller “unit” of one sergeant and seven soldiers as a sufficiently adequate force for smaller farm garrisons, and a complement of 32 for larger farms. Strictly speaking, this flexible garrison sizing deviates from the standard deployment, but such contingent stationing is hardly unusual. In practice, companies vary considerably in size: the 2nd “Mountaineers” field five platoons, the 7th “Bright Spears” had ten, while others maintain the standard three.</p>
+<h3 id="religious-command-structure">Religious Command Structure</h3>
+<p>The Sun Blades maintain a parallel religious chain of command integrated with the military hierarchy. Each <strong>platoon</strong> has a Chaplain attached (a battle-trained priest who lives alongside the lieutenant). Each <strong>company</strong> has a Sunlord attached – a senior battle-priest, often a former soldier, who wears plate armour and shares decision-making with the Captain. The head of this religious structure is the Zenith Lord (Zenith Lord Argent Whitegate holds this title). Orders flow from the Zenith Lord through both chains simultaneously; conflicts between the two are described as “unknown.” About half of squads in the field also have a trainee priest attached. Separately, the Daggerdale Concordat mandates that each <strong>chartered company</strong> (White Cloaks, Redjacks, FDL, etc.) be assigned one <strong>Magistrate from the Yellow Abbey</strong> “to see to the moral rectitude of the Company and to provide aid as needed and appropriate to both the Company and the Sun Blades.” This is the provision under which Magistrate Madigara Dale serves with the 7th Company “Bright Spears,” 4th Platoon at Thistle Ridge.</p>
+<h3 id="weapons-tactics-standard-issue">Weapons, Tactics & Standard Issue</h3>
+<p>All soldiers are trained in <strong>longsword, longspear, and longbow</strong> (issued on joining, kept for life). Standard armour: <strong>chain mail and light shield</strong> (army crest on shield, company crest on cloak). The <strong>yellow tabard</strong> is the distinguishing garment of the Sun Blades. Rank is indicated by <strong>chevrons</strong>. All soldiers are trained in shield-wall and rampart-defence tactics. All receive some training in mounted combat; those excelling are mustered into the Sun Dragoons. Those showing talent for woodland scouting (especially elven speakers) join the Foresters. All captains and many officers carry a <strong>Radiant Blade</strong> – a magical longsword bearing the holy symbol of Amaunator on its hilt, forged at the <strong>Spire Forge</strong> in Castle Radiance. Two to four Radiant Blades are commissioned per year and awarded to officers who have distinguished themselves in service. Sun Blades “don’t act without orders, though they usually have detailed orders with contingencies laid out” – a reliable but somewhat static force. Patrols actively maintain road clearances, cutting back encroaching forest to keep roads approximately 20 feet wide. Field communications include dispatch by <strong>carrier pigeon</strong> and <strong>dove</strong> from farm magistrates to Castle Radiance; bonded culvers (swifts) are also used by individual officers. Bandit justice is severe. The roads into the Dale are lined with burned stakes, gibbets, and piles of severed hands—a grim deterrent. A caravan scout’s account records the common belief that “the Sun Blades cut off the hands of all the bandits they catch; they burn one, hang half, and let the other half go.”</p>
+<p>Weapons for the army are mass-produced at <strong>Olifsen’s Smithy</strong> in Dagger Falls, a busy establishment now operated by a group of dwarves; Olifsen himself takes only custom commissions. At the Tower in Dagger Falls, the garrison on the walls consists largely of “eagle-eyed young women with short bows”—a distinctive complement to the standard longsword-and-spear infantry.</p>
+<p class="footnote"><span class="nb-label">N.B.</span> The Daggerdale Gazetteer (GFD, 1482) describes Sun Blades in the field as “typically dressed in chain shirts, trained to fight well with swords and axes, and every other man bears a heavy shield.” This differs from the standard issue recorded above (chain mail, light shield, longsword, longspear, and longbow). The primary source itself notes that “many seasoned soldiers replace [their issued equipment] with upgrades, or add to their personal armoury,” and that captains typically carry unique gear—“magical axes or great blades” and distinctive armour. The Gazetteer’s description likely reflects the appearance of a mixed-service force in the field rather than the quartermaster’s standard issue.</p>
+</section>
+<section>
+<h2 id="ii-command">II. Command</h2>
+<aside class="era-note" aria-label="Era note">
+<p>The Sun Blades answer to a dual authority. Before the Daggerdale Concordat, they were a military arm of the Church of Amaunator, answering ultimately to the Whitegate family. After the Concordat (Elesias 1482), administrative and financial control passed to the Governors’ Assembly, though the officer corps remained overwhelmingly Amaunatori.</p>
+</aside>
+<section class="card card-command">
+<p class="card-subtitle">Supreme Authority (Pre-Concordat)</p>
+<h3 id="lord-luminous-whitegate">Lord Luminous Whitegate</h3>
+<aside class="narrator" aria-label="Editorial note">
+<p>Lord of Castle Radiance, Grand Master of the Order of the Lambent Shield. Supreme military and political authority in the Dale pre-Concordat. Commands both the Sun Blades (through the General) and the Order of the Lambent Shield directly.</p>
+</aside>
+<h3 id="zenith-lord-argent-whitegate">Zenith Lord Argent Whitegate</h3>
+<aside class="narrator" aria-label="Editorial note">
+<p>Head of the Church of Amaunator. Luminous’s brother. Opens every Strategic Meeting with prayer. The Sun Blades were originally his church’s military arm. Since the Concordat, Argent has become an increasingly figurehead authority—mostly resident at Castle Radiance, with Bishop Blaze Whitegate handling the daily administration of the church and the town.</p>
+</aside>
+</section>
+<section class="card card-command">
+<p class="card-subtitle">Civilian Authority (Post-Concordat, 1482 onward)</p>
+<h3 id="consul-kesh-oakdale">Consul Kesh Oakdale</h3>
+<dl>
+<dt>RANK</dt>
+<dd>ret. Captain, late of 16th Company Sun Blades</dd>
+</dl>
+<aside class="narrator" aria-label="Editorial note">
+<p>First Consul of the Governors’ Assembly, elected unanimously. Calls the Assembly, maintains order, and serves as the civilian head of the Sun Blades. Term: 15 Elesias 1482 to Shieldmeet 1484. Based in Governor’s Hall, Dagger Falls. Formerly Lt. of the 7th Bright Spears, 3rd Platoon (Dwimmerholme/Charity Hills).</p>
+</aside>
+<h3 id="bishop-blaze-whitegate">Bishop Blaze Whitegate</h3>
+<aside class="narrator" aria-label="Editorial note">
+<p>Bishop of Dagger Falls. Half-nephew of Argent. Runs the Church of Amaunator in daily practice; with Argent increasingly resident at Castle Radiance, Blaze is the effective head of church and civil administration in Dagger Falls. Sits on the Adjudicating Committee—the joint civil-military-ecclesiastical body overseeing the Thistle Ridge Reclamation. Exercises religious authority over Sun Blade chaplains. A veteran of the Order of the Lambent Shield.</p>
+</aside>
+</section>
+<h3 id="general-command">General Command</h3>
+<section class="card card-command">
+<p class="card-subtitle">General of the Sun Blades</p>
+<h3 id="general-dauntless-thunderstorm">General Dauntless Thunderstorm</h3>
+<dl>
+<dt>ASSIGNMENT</dt>
+<dd>Castle Radiance – Madigan’s Hall (War Room)</dd>
+</dl>
+<aside class="narrator" aria-label="Editorial note">
+<p>Highest-ranking military commander of all Sun Blade companies, continuing post-Concordat. Son of Karrigan Thunderstorm and Radiance Whitegate (daughter of Loedegan); thus a member of “the other side” of the Whitegate family. On excellent terms with the Whitegates, which “has actually put him at odds with other members of the Thunderstorm Family, but he carries on his duties as though there is no conflict.” Many present-day Thunderstorms serve in the Sun Blades, though none have joined the Order of the Lambent Shield. He is notably a follower of <strong>Torm</strong> rather than Amaunator, despite commanding an overwhelmingly Amaunatori institution. Attends every Strategic Meeting. Reported to Lord Whitegate before the Concordat; now answers to the Consul. “The General of the Sun Blades makes no oath to the Magistrates” – the General operates with command autonomy from the church’s judicial arm. Member of the Adjudicating Committee for the Thistle Ridge Reclamation (1483). Staff includes quartermasters, intelligence officers, and nine attendants. Personally led ~100 soldiers of the 2nd Company Mountaineers in a dawn assault on the Sons of Bel cult at Foothills Farm (Kythorn 1480); the “Dalehearth Company” volunteered for this mission despite still recovering from Liberty Hill.</p>
+</aside>
+</section>
+</section>
+<section>
+<h2 id="iii-companies">III. Companies</h2>
+<section class="card card-company">
+<p class="card-subtitle">Garrison of Dagger Falls</p>
+<h3 id="1st-company-dalehearth">1st Company – “Dalehearth”</h3>
+<dl>
+<dt>ASSIGNMENT</dt>
+<dd>Dagger Falls – Town walls, Tower, gates</dd>
+</dl>
+<dl>
+<dt>STRENGTH</dt>
+<dd>4 platoons</dd>
+</dl>
+<aside class="narrator" aria-label="Editorial note">
+<p>Primary garrison of the town; “usually deployed in the town and patrolling nearby.” Provides wall guards, gate security, and customs support. Captain Lucius ordered new lights mounted on towers and lantern-bearer patrols against night-flying threats (1480). The Dalehearth Company won renown at the Battle of Liberty Hill: the 2nd Platoon was “first over the wall,” gaining the rampart after driving off Lotus, while the 3rd Platoon was led down the main concourse of the village as the battle closed. Dorian Dale (Corporal, aged 21, Tarsakh 1479) and Lumina Whitegate both served their two-year conscription in the Dalehearth Company; Dorian’s diary records their journey from Dagger Falls to the Castle, where they met Warburton and Troia Trustar.</p>
+</aside>
+<p><strong>Captain Lucius</strong> – Captain of the 1st Company as of 1479. Responded to rumours of things flying overhead at night by commissioning new lights and lantern patrols.</p>
+<p><strong>Captain Hazel Haverstone</strong> (retired) – Captain of the 1st Company over thirty years ago. The first soldier in the Sun Blades to achieve the rank of captain without any battlefield experience, having served mostly in charge of logistics at the Castle. Now a Master Baker running Haverstone’s Bakery in the Old Market of Dagger Falls. Many of her children and grandchildren have served in the Sun Blades; their spears, shields and cloaks adorn the wall behind the bakery’s main counter.</p>
+<p><strong>Sgt. Buck Thistledown</strong> (retired) – Veteran of the Battle at Liberty Hill. Close comrade of Alen Reks. Organized the logistics for the White Cloak Bravo Tourney (Marpenoth 1480).</p>
+<p><strong>Captain Rockland</strong> – Administrative officer at the Dagger Falls barracks. Processed Zephrin’s discharge papers (Ches 1483) and directed him to Solicitor Jeska’s Chrysalis recruitment.</p>
+<p><strong>Sgt. Templeton</strong> – Gate sentry at the Dagger Falls portcullis. Well-respected among the garrison; maintained the brazier at the gate.</p>
+<p><strong>Zephrin</strong> (discharged, Ches 1483) – Dragonborn, originally of Deepingdale. Served four years as gateguard at Dagger Falls—the only Dragonborn in the town, and widely known. Discharged in Ches 1483; Captain Rockland processed his papers and directed him to the Chrysalis recruitment. His subsequent movements are outside the Sun Blades’ records.</p>
+<p><strong>Coutts</strong> – Gate sentry at Dagger Falls, serving alongside Templeton and Zephrin.</p>
+<p><strong>Decker</strong> – Gate sentry at Dagger Falls, serving alongside Templeton and Zephrin.</p>
+<p><strong><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Dorian Dale</span></strong> (KIA, Summer 1479) – Corporal. Served two years; aged 21 at discharge (Tarsakh 1479). Named by his father after Dorian of Sembia, “Greatest Swordsman in the Realms.” Devout Amaunatori. Killed storming the keep at Gang’Dar, leading the charge against the last orcs to free captives. Laid to rest in the catacombs beneath Castle Radiance. <em>Note: A second Dorian Dale (aged 26, alive c. 1483) serves as head of the Cassimar household guard; the “Dale” surname convention for bastards and orphans makes shared names likely.</em></p>
+<h4>1st Company, Escort Platoon – Cormanthor (1483)</h4>
+<aside class="narrator" aria-label="Editorial note">
+<p>A half-platoon of Sun Blades from the 1st Company (“Dalehearth”), escorting parties through Cormanthor to the Thistle Ridge area. Core: eight men with spears and shields in single file, each responsible for a sector. Four women foresters: two ride ahead scouting, one tails at distance, one stays with the main body. The platoon’s average age is about 23; well-trained and disciplined. Lt. Riverstone is deeply knowledgeable about Cormanthor, warning that the forest “doesn’t want us here” and has been “angry about our presence here since we erected the Standing Stone.”</p>
+</aside>
+<p><strong>Lt. Maddy Riverstone</strong> – Commander of 1st & 2nd Platoons, 1st Company (“Dalehearth”). Accompanied Chrysalis on the initial reconnaissance of Greenwood Farm (12 Tarsakh 1483). Also escorted parties from Gribbons’ in Ches 1483 with 12 Sun Blades.</p>
+<p><strong>Sgt. Brendle Vale</strong> – Second most senior officer in the escort platoon.</p>
+<p><strong>Sephany</strong> – Forester, ~20 years old. Curly brown hair, kind round face. Skilled in wilderness survival; stays with the main group and provides instruction. Calm and confident.</p>
+<p><strong>Zelia Oakbough</strong> – Forester, formerly of the 16th Company, 3rd Platoon. Born and raised near Lostholme. Retired from the Sun Blades; now rides ahead of the escort column as a scout. Recruited into the White Cloaks (Ches 1483).</p>
+</section>
+<section class="card card-company">
+<p class="card-subtitle">Mountain Operations</p>
+<h3 id="2nd-company-mountaineers">2nd Company – “Mountaineers”</h3>
+<dl>
+<dt>ASSIGNMENT</dt>
+<dd>Castle Radiance and mountain approaches</dd>
+</dl>
+<dl>
+<dt>STRENGTH</dt>
+<dd>5 platoons; “always deployed to Castle Radiance, and on patrol in the Desertsmouth Mountains.” Typically 120 Sun Blades garrisoned at the Castle (in Loedegan’s Hall, alongside 60 Knights of the Order of the Lambent Shield).</dd>
+</dl>
+<aside class="narrator" aria-label="Editorial note">
+<p>Responsible for mountain patrols and the defence of the approaches to Castle Radiance. Captain Rainyerd attended Strategic Meetings and reported intelligence directly. The company had colour-coded platoons (e.g. “Red Platoon”). Elements of the 2nd Mountaineers also garrison <strong>Fort Last Sun</strong> (two platoons permanently stationed, alongside 30 paladins of the Order of the Lambent Shield) and <strong>Fort Sansum</strong> at the edge of the Netherese Plaguelands. Wagons carrying approximately 30 coffins are dispatched from the Castle once per tenday, a measure of the attrition rate on the Netherese frontier.</p>
+</aside>
+<p><strong>Captain Rainyerd</strong> – Company Captain, as of 1479. Veteran mountain fighter. Noted that Sun Blades needed to adapt tactics for ranged combat against sophisticated orc threats near Old Man’s Tooth.</p>
+<p><strong>Lt. Northman</strong> (promoted) – Led the Red Platoon. Promoted to Captain of the newly re-mustered 3rd Company “Iron Backs” (winter 1481).</p>
+<p><strong>Jannus Dale</strong> (retired) – Served under Lt. Hilltop in the Mountaineers. “Lived most of his life at the Castle.” After service, competed for the White Cloaks at the Thistle Ridge tournament (1483).</p>
+<p><strong>Tyrell Dale</strong> (retired) – Brother of Jannus. Served under Lt. Hilltop in the Mountaineers. “Their spears having found the hearts of orcs, ogres and Shadowvar alike.” Competed for the White Cloaks at Thistle Ridge (1483).</p>
+<p><strong>Chester Hawkford</strong> – Veteran Sun Blade, 12 years of service. Renewing his term during the Muster. Has been at the Castle in the 2nd Company for the last four years. “Much older” than a typical conscript. Married a girl from the Falls; wife Abigail. Children: twins Lionel and Lavinia (nine), Reynard (five). Brother of Jasper Hawkford.</p>
+<p><strong><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Lt. Tara Hilltop</span></strong> (KIA, 2 Tarsakh 1483) – Former Lieutenant of the Mountaineers and a healer associated with the Church of Amaunator. Left the Sun Blades to lead the White Cloaks. Killed during the gargoyle attack at the Thistle Ridge tournament.</p>
+<p><strong>Lt. Hardigan</strong> (defected – Sharran convert) – Sun Blade lieutenant who converted to the worship of Shar and betrayed the Dale. In Mirtul 1480, Hardigan and Priestess/Mayor Goering led the White Cloaks into a trap at Liberty Hill, where the two were operating as Sharran agents. One of the “evil Sharrans” responsible for the Liberty Hill conspiracy.</p>
+</section>
+<section class="card card-company">
+<p class="card-subtitle">Fort Luminous Operations</p>
+<h3 id="3rd-company-iron-backs">3rd Company – “Iron Backs”</h3>
+<dl>
+<dt>ASSIGNMENT</dt>
+<dd>Fort Luminous (junction of Mountain Road & Whitegate Mine road)</dd>
+</dl>
+<dl>
+<dt>STRENGTH</dt>
+<dd>Re-mustered in the winter of 1481 DR</dd>
+</dl>
+<aside class="narrator" aria-label="Editorial note">
+<p>A newly re-mustered company, activated to address the escalation of threats. Assigned to Fort Luminous, a strategic crossroads fort that also hosts the Wonderbringer Warsmiths and their experimental artillery.</p>
+</aside>
+<p><strong>Captain Northman</strong> – Commissioned from the 2nd Mountaineers (Red Platoon, winter 1481). In charge of operations at Fort Luminous.</p>
+</section>
+<section class="card card-company">
+<p class="card-subtitle">Cormanthor Forest Operations</p>
+<h3 id="4th-company-foresters">4th Company – “Foresters”</h3>
+<dl>
+<dt>ASSIGNMENT</dt>
+<dd>Cormanthor – deep forest patrols and counter-insurgency</dd>
+</dl>
+<dl>
+<dt>STRENGTH</dt>
+<dd>3 platoons</dd>
+</dl>
+<aside class="narrator" aria-label="Editorial note">
+<p>Specialized in fighting within Cormanthor forest against orcs, goblins, and other threats. “A specialized company that is deployed to regions of recent conflict. All officers speak elven, and the company has an attached adviser from Myth Drannor who can requisition elven reinforcements.” Long-service veterans were common; Alaric Swift had 10 years as a Forester before his promotion.</p>
+</aside>
+<p><strong>Lt. Leedo Forester</strong> – Commanding officer of a platoon of the 4th Company. In the summer of 1479, his platoon intercepted and destroyed a roaming party of Krinth and captured a Shadowfell goblinoid prisoner for interrogation. Later led 24 Foresters in a joint operation with the White Cloaks against the Sons of Bel cult (Marpenoth 1481), where Mayor Winters—his former commanding officer—directed him to cede tactical authority to White Cloak Sgt. Hennigan Paros.</p>
+<p><strong>Captain Darius Winters</strong> (retired) – Served 10 years as a Forester. Retired circa 1480, elected Mayor of Dwimmerholme Farm. Stout, well-muscled, many scars on arms and head; Chondathan features (brown hair, blue eyes, fair skin). Quiet, speaks in short succinct sentences. Age “perhaps 28 or 29” by physical description. Note: the Yellow Abbey Booke records his age as 44, but this contradicts the physical description and is likely a clerical error.</p>
+<p><strong>Captain Alaric Swift</strong> (transferred) – 10 years as a Forester. Older twin brother of Tuugan Swift (White Cloak/adventurer). Harsh but effective captain and trainer. Promoted out to command the new 9th Company “Deadly Rain.”</p>
+</section>
+<section class="card card-company">
+<p class="card-subtitle">Farm Settlement Garrisons & Thistle Ridge Reclamation</p>
+<h3 id="7th-company-bright-spears">7th Company – “Bright Spears”</h3>
+<dl>
+<dt>ASSIGNMENT</dt>
+<dd>Distributed across dale farms: Crossed Blades, Dwimmerholme, Charity Hills, Tesh Valley, and others</dd>
+</dl>
+<dl>
+<dt>STRENGTH</dt>
+<dd>10 platoons, 1 at each farm</dd>
+</dl>
+<aside class="narrator" aria-label="Editorial note">
+<p>The most widely dispersed company, responsible for garrisoning the fortified farming settlements across the heartland of the Dale. Platoons were deployed to individual farms under local lieutenant command. After the Concordat, a 4th Platoon was formed specifically for the Thistle Ridge Reclamation (1483).</p>
+</aside>
+<p><strong>Lt. Kesh Oakdale</strong> (promoted) – Commander of the 3rd Platoon (bolstered to five squads), stationed at Dwimmerholme Farm. Aged 30. Cooperative with Alystair Dretch’s investigations (1479), helping round up Sharran converts. In Marpenoth 1481, assisted the White Cloaks Bravo Team, going so far as to send men into the field against standing orders. Provided a six-soldier escort detachment to Sgt. Hennigan Paros for the Sons of Bel cave assault (Marpenoth 1481); one unnamed Sun Blade killed in action during the engagement. Later promoted to Captain (16th Company), then retired and elected first Consul of the Governors’ Assembly.</p>
+<p><strong>Lt. Ander Millstone</strong> – Stationed at Tesh Valley Farm. 3rd lieutenant in three years at that posting—Mayor Blackmane is always at odds with the Sun Blades and tends to go through them quickly. Patient, has done a good job ingratiating himself with the locals. Knows the militia often acts outside his chain of command; blames Sgt. Fortune Swift for recent problems but is not accusative. Actually appealed to the White Cloaks for help.</p>
+<p><strong>Sgt. Randall Eversmoore</strong> (formerly Lt.) – Officer in charge of the Sun Blades at Crossed Blades Farm. Young, perhaps 24; big with a square jaw. “Whose family are successful farmers and land owners at the Dwimmerholme Farm, north of Dagger Falls. He has a respect and appreciation for the lifestyle of the people here, and has had a spotless record of service here for two years.” (when still Lt.) Wears plate chest piece (not chain mail) and carries a large axe and a pair of daggers. “A friendly and unassuming way of asking you where you have been”—a natural interrogator. Conducts militia drills every tenday. Organized the pilgrim escort with Sun Blades and White Cloaks (Eleint 1479). Initially held the rank of Lieutenant, but demoted to Sergeant by Eleint 1479. Cause of demotion unknown.</p>
+<p><strong>Chaplain Hammerstone</strong> – Platoon chaplain garrisoned at Crossed Blades Farm. Veteran of many mountain campaigns. Getting older; enjoying the warmer valley posting.</p>
+<p class="footnote"><span class="nb-label">N.B.</span> Crossed Blades Farm maintains a <strong>dual-platoon garrison</strong>: Eversmoore’s infantry platoon (a full-strength platoon of three squads and a lieutenant) plus a second specialized <strong>cavalry platoon of 37 soldiers</strong> that patrols the roads. The cavalry platoon’s commander is not recorded. Approximately 40 retired Sun Blades veterans and ~40 young militia also contribute to the settlement’s defence.</p>
+<h4>7th Company, 4th Platoon – Thistle Ridge Reclamation (1483)</h4>
+<aside class="narrator" aria-label="Editorial note">
+<p>Newly formed platoon raised by order of the Governors’ Assembly (Alturiak 1483) to support the Chrysalis expedition to reclaim Thistle Ridge. Under the terms of the reclamation charter, the platoon was placed under the operational command of Captain Jeska Monarch of Chrysalis for the duration of the campaign. Understrength: three squads plus command element. Saw heavy action at the siege of The Tower and the Battle of Thistle Ridge (1–2 Mirtul 1483). Suffered seven KIA during the siege. By Mirtul 2, approximately 30 Sun Blades remained across both part-platoons holding Thistle Ridge.</p>
+</aside>
+<h4><strong>Command::</strong></h4>
+<p><strong>Lt. I Forge Farmountain</strong> – Platoon commander. Authorized to choose his own junior officers. Marched his exhausted platoon to relieve Chrysalis at Thistle Ridge rather than resting after the siege of The Tower.</p>
+<p><strong>Pt. Fletcher Farmountain</strong> – Brother of Lt. Forge Farmountain. Wounded at the Tower when his ankle triggered a poisoned trap in the basements; the poison was beyond Magistrate Dale’s skill to cure, though “his life is not in danger, we are assured.” In the infirmary as of 20 Tarsakh 1483.</p>
+<p><strong>Magistrate Madigara Dale</strong> – Church magistrate attached to the platoon command. Delivers Prime prayers from the eastern balcony of the Tower each dawn; the Yellow Tooth attacks cease and the enemy vanishes into the shadows when she begins her prayer. “She has challenged the faith of some of the non-Amaunatori with her prayers.”</p>
+<p><strong>Sgt. III Phoebe Birchgrove</strong> – Aide-de-camp to Lt. Farmountain. Author of the Thistle Ridge Expeditionary Record. Travels with her bonded culver, Mareeseah.</p>
+<p><strong>Sgt. I Ivy Thickwickle</strong> – Cook and Quartermaster. Halfling. Her spiced venison stew is “nightly enjoyed with great anticipation” at the Tower. Organized First Breakfast before the expedition’s departure from Gribbons’. Spirited personality; when Lt. Farmountain called it “last breakfast,” she replied: “dear, that is at the very least a pessimistic outlook on these trays of bacon, and at worst an indictment of my ability in the field.”</p>
+<h4><strong>1st Squad – Mounted::</strong></h4>
+<p><strong><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Sgt. II Chastity Dale</span></strong> (KIA) – A Selûnite from Shadowdale. Killed during the siege of The Tower. – Three spearmen – two killed in siege.</p>
+<h4><strong>2nd Squad – Mounted::</strong></h4>
+<p><strong>Sgt. II Buck Harrowbridge</strong> – A Selûnite from Mistledale. Remains of his kin were discovered in the Tower basement (the Beast’s lair); “the discovery of the troubling remains of kin of Sgt. Harrowbridge in the basement was enough for him to walk out against orders.” Lt. Farmountain was fair with the men on this account. – Three spearmen – two killed in siege. – Bull and Newt – Deepingdale Mastiffs.</p>
+<h4><strong>3rd Squad – Foresters::</strong></h4>
+<p><strong>Sgt. I Illya Elderbough</strong> – A Chauntean from Gribbons’ Farm, Ranger 1st Class.</p>
+<p><strong>Pt. Sanza Swift</strong> – While on patrol with 3rd Squad, repelled a Yellow Tooth skirmish party and captured a goblin prisoner, which was interrogated for intelligence on the enemy’s plans. – Three foresters (women).</p>
+<p><strong><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Pvt. III Dunlodan Millstone</span></strong> (KIA) – First of Tethyamar’s folk to serve in the Sun Blades. Both spearmen in this squad killed in the siege.</p>
+<h4><strong>4th Squad – Reserve::</strong></h4>
+<p><strong>Sgt. III Kelya Cordoza</strong> – A Vaasan, Ranger 2nd Class. Her 4th Squad took over the Tower basement cleanup when 1st and 2nd Squads could not stomach the work; “the Vaasan Sgt and the Newharvest girls have set a fine example of courage.”</p>
+<p><strong>Violet Newharvest</strong> – Forester, from Daggerford.</p>
+<p><strong>Daffodil Newharvest</strong> – Forester, from Daggerford. Sister of Violet. – Two spearmen – one killed in siege. – Manny and Chuck – the Newharvest Hounds (Lowstead Wolfhounds).</p>
+<h4>Storied Veterans (c. 1420s–1440s DR)</h4>
+<aside class="era-note" aria-label="Era note">
+<p>The following are drawn from the historical record of Thistle Ridge (c. 1420s–1440s DR). Their names endure in the journals and parish records recovered during the 1483 reclamation campaign. The Thistle Ridge Tragedy occurred on 21 Eleint, 1441 DR.</p>
+</aside>
+<p><strong>Malveau Greenleaf</strong> (retired; recalled as trainer, 1483) – Half-elf druid, adherent of the Old Faith (Silvanite). Daughter of a Cormanthor wood elf (who departed with his people before the Spellplague) and Alexi Greenleaf, a stable maid at Anathar’s Dell. Rescued from orc slavery as a child by Ardelusk Whitegate (1398). Dictated her knowledge of orc language, culture, and military organization to scribes at the Cathedral; the resulting volume remains in print. Served in the Dalehearth Company “when it was originally commissioned in 1403,” creating the archery training curriculum still in use. Spent more than ten years at the Castle and ranging the Plains of Netheril before leaving the Dale for several decades. Returned c. 1480. Conducted the solo reconnaissance of the Thistle Ridge Ruin (Alturiak 6–9, 1483) that provided intelligence for the reclamation campaign. Declined Chrysalis’s offer of employment; currently training archers at Castle Radiance for General Thunderstorm against the gargoyle threat. Last known heading: Fort Last Sun.</p>
+<p><strong><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Lt. Tergus Clarandal</span></strong> – Born 1408, Thistle Ridge Farm. Rose from Sergeant in the 2nd Company (Mountaineers) over five Terms of Service. Commissioned as Lieutenant commanding the 7th Company Bright Spears, 4th Platoon—the original Thistle Ridge garrison (c. 1436 DR). His extensive journals (1423–1439 DR) were recovered by the Chrysalis expedition from the ruins of Clarandal Farm in 1483. These journals reveal a thoughtful, observant soldier who harboured doubts about his family’s claimed Sembian origins and sensed “hidden truths” within the community. Fate uncertain after the Thistle Ridge Tragedy of 1441.</p>
+<p><strong><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Sgt. Claudius Clarandal</span></strong> – Born 1410, Thistle Ridge Farm. Brother of Tergus. Served as Sergeant in the Mountaineers over five Terms of Service. After retiring from the Sun Blades, became the militia captain of Thistle Ridge, leading one of the largest and best-trained militias in the Dale (106 capable men and women). The settlement’s military stores reflected this strength: 100 long spears, 100 long bows, 5,000 arrows, 100 wooden shields, 100 pikes, 24 maces, 24 long swords, and 24 large military hammers. Presumed dead in the Thistle Ridge Tragedy of 1441 DR, if not already deceased by that date.</p>
+<p class="footnote"><span class="nb-label">N.B.</span> Sources describe Claudius as “of the 3rd Company, Mountaineers” rather than the 2nd, which is the usual Mountaineers numbering. This may reflect an older numbering convention or a reorganization.</p>
+</section>
+<hr>
+<section class="card card-company">
+<p class="card-subtitle">Mounted Patrol & Rapid Response</p>
+<h3 id="8th-company-sun-dragoons">8th Company – “Sun Dragoons”</h3>
+<dl>
+<dt>ASSIGNMENT</dt>
+<dd>Mobile – deployed as needed across the Dale</dd>
+</dl>
+<dl>
+<dt>STRENGTH</dt>
+<dd>3 platoons; “all mounted and expert fighters from horseback”</dd>
+</dl>
+<aside class="narrator" aria-label="Editorial note">
+<p>The Sun Dragoons are the mounted arm of the Sun Blades. Units are deployed to hot spots for rapid reinforcement and aggressive patrolling. A full squad was ambushed by ~200 gnolls on the Moonsea Road near Gribbon’s Farm (1480), with half killed.</p>
+</aside>
+<p><strong>Lt. Grid Hammerfall</strong> – Commander of a mounted unit (2nd Sun Dragoons, as of 1479). Stoic, aloof leader. Deployed to Tesh Valley Farm to step up patrols. After orc raiders seized the farm’s cattle, personally tracked the raiders’ trail eight miles north along Old Zhent Road and marked the turn-off with three stones spaced 100 yards apart; ordered his men to keep silent, fearing the local militia would pursue recklessly. Escorted the White Cloaks north with a platoon of Sun Dragoons.</p>
+</section>
+<section class="card card-company">
+<p class="card-subtitle">Archer Company (Forming c. 1480)</p>
+<h3 id="9th-company-deadly-rain">9th Company – “Deadly Rain”</h3>
+<dl>
+<dt>ASSIGNMENT</dt>
+<dd>Dagger Falls (training), then deployment TBD</dd>
+</dl>
+<dl>
+<dt>STRENGTH</dt>
+<dd>Planned: at least 4 platoons (~96+ soldiers)</dd>
+</dl>
+<aside class="narrator" aria-label="Editorial note">
+<p>A new all-archer company formed in response to the need for ranged combat capability, as noted by Captain Rainyerd. A deliberate shift in Sun Blade doctrine away from purely steel-on-steel fighting.</p>
+</aside>
+<p><strong>Captain Alaric Swift</strong> – Older twin brother of Tuugan Swift (White Cloak/adventurer). Formerly a 10-year veteran Forester (4th Company). Not as gentle or patient as his brother. Harsh but effective captain and trainer.</p>
+</section>
+<section class="card card-company">
+<p class="card-subtitle">Cavalry / Rapid Reinforcement</p>
+<h3 id="10th-company">10th Company</h3>
+<dl>
+<dt>ASSIGNMENT</dt>
+<dd>Mobile – deployed to Thistle Ridge (1483)</dd>
+</dl>
+<aside class="narrator" aria-label="Editorial note">
+<p>Led the cavalry relief at the Battle of Thistle Ridge (1–2 Mirtul 1483), riding into the valley and clearing the flanks of the Torn Cheek goblins besieging The Tower. The 10th Company’s arrival was the turning point of the siege.</p>
+</aside>
+<p><strong>Captain Garrick Greenfields</strong> – Led the 10th Company riders to relieve the Bright Spears at The Tower during the Battle of Thistle Ridge. Joined Captain Monarch and Lt. Farmountain for the post-battle accounting.</p>
+</section>
+<section class="card card-company">
+<p class="card-subtitle">Liberty Hill Garrison</p>
+<h3 id="company-x-shadow-sentinels">Company X – “Shadow Sentinels”</h3>
+<dl>
+<dt>ASSIGNMENT</dt>
+<dd>Liberty Hill, under Magistrate Invictus</dd>
+</dl>
+<aside class="narrator" aria-label="Editorial note">
+<p>Garrisoned at Liberty Hill. Specially trained to deal with dangerous and cunning enemies. The Shadow Sentinels are also sometimes referred to as Company X; it is unclear whether Greenfields’ 10th Company and the Shadow Sentinels are the same unit or a numbering overlap between eras. No individual members are recorded by name. A separate “specially trained company of Sun Blades” was also allocated to the <strong>Shadow Dam</strong>—a fort hastily constructed over the Shadowfell portal in the Dagger Hills—alongside a good portion of the Order of the Lambent Shield. Whether this is the same company as the Shadow Sentinels or a second specially raised unit is not stated. See the Holy Orders report (Part II) for the Shadow Dam and its operations.</p>
+</aside>
+</section>
+<section class="card card-company">
+<p class="card-subtitle">Training Pipeline</p>
+<h3 id="11th14th-companies-recruit-training">11th–14th Companies – Recruit Training</h3>
+<dl>
+<dt>ASSIGNMENT</dt>
+<dd>Dagger Falls / Castle Radiance</dd>
+</dl>
+<dl>
+<dt>STRENGTH</dt>
+<dd>4 companies, 12 platoons, 288 soldiers</dd>
+</dl>
+<aside class="narrator" aria-label="Editorial note">
+<p>The four training companies forming the recruitment pipeline for the Sun Blades. Annual intake of 288 at the Muster.</p>
+</aside>
+<p><strong>Captain Jovian Ash</strong> – Captain of the Recruits (Division 4), commanding the four training companies (11th–14th) with four lieutenants under him.</p>
+</section>
+<section class="card card-company">
+<p class="card-subtitle">Foresters / Unspecified</p>
+<h3 id="16th-company">16th Company</h3>
+<dl>
+<dt>ASSIGNMENT</dt>
+<dd>Unknown</dd>
+</dl>
+<dl>
+<dt>STRENGTH</dt>
+<dd>At least 3 platoons</dd>
+</dl>
+<aside class="narrator" aria-label="Editorial note">
+<p>One of the least-documented companies of the pre-Concordat Sun Blades. Two members are recorded: Captain Kesh Oakdale (who had been promoted from the 7th Bright Spears) and Zelia Oakbough, a forester of the 3rd Platoon, born and raised near Lostholme in the Thistle Ridge hinterland. The presence of forester-designated personnel and Oakdale’s prior posting at Dwimmerholme suggest the company may have operated in the southern Cormanthor region, but no assignment or company name is recorded.</p>
+</aside>
+<p><strong>Captain Kesh Oakdale</strong> (promoted, then retired) – Captain of the 16th Company; previously Lt. of the 7th Bright Spears, 3rd Platoon (Dwimmerholme). Retired to become the first Consul of the Governors’ Assembly.</p>
+<p><strong>Zelia Oakbough</strong> (retired) – Forester, 16th Company, 3rd Platoon. Born and raised near Lostholme. Retired from the Sun Blades; recruited into the White Cloaks (Ches 1483). A skilled ranger and dangerous archer, now riding ahead of the 1st Company escort column as a scout in the Cormanthor forest.</p>
+</section>
+<section class="card card-company">
+<p class="card-subtitle">Garrison & Relief (Thistle Ridge)</p>
+<h3 id="18th-company">18th Company</h3>
+<dl>
+<dt>ASSIGNMENT</dt>
+<dd>Greenwood Farm & The Tower (Thistle Ridge area)</dd>
+</dl>
+<aside class="narrator" aria-label="Editorial note">
+<p>Deployed to garrison positions during the Thistle Ridge reclamation (1483). The 2nd Platoon arrived at full strength to relieve Farmountain’s battered 4th Platoon at The Tower on the morning of 2 Mirtul 1483. At The Tower, the 2nd Platoon organized its squads by colour designation—Blue, Green, and Red Squads are recorded—continuing the colour-coded convention attested in the 2nd Mountaineers (pre-Concordat).</p>
+</aside>
+<p><strong>Captain Renley Rawthorn</strong> – Commander of the 1st Platoon. Garrisoning Greenwood Farm as of Mirtul 1483.</p>
+<p><strong>Lt. Williams Waterborne</strong> – Commander of the 2nd Platoon. Garrisoning The Tower as of Mirtul 1483.</p>
+<aside class="era-note" aria-label="Era note">
+<p>The 18th Company’s connection to Thistle Ridge predates the current campaign by nearly forty years. In 1445 DR, the company’s 1st Platoon “Task Masters” (the command platoon of the reserve company) was attached to Magistrate Zoderick Winters’ expedition to investigate the Thistle Ridge ruins, four years after the 1441 Tragedy. The Task Masters’ 24-strong complement was reinforced by 12 Sun Blades from the Gribbons’ garrison and a further 12 militia volunteers.</p>
+</aside>
+<p class="footnote"><span class="footnote-marker">*</span>Thistle Ridge Expedition (21 Eleint, 1445 DR):*</p>
+<p><strong><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Capt. Dexter Broad</span></strong> (KIA, Eleint 1445) – Captain of the 18th Company. Led the 1st Platoon “Task Masters” on the Zoderick Winters expedition. Killed by shadow creatures in the Alavandor Academy. “A stout man from the eastern dales somewhere.”</p>
+<p><strong><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Chaplain Hannah Hillborn</span></strong> (KIA, Eleint 1445) – Company chaplain, from Scardale. “Had answered a Divine Call to come and study at the Abbeye.” Killed alongside Capt. Broad in the Alavandor Academy.</p>
+<p><strong>Sgt. Bella Birtch</strong> – Sergeant, from Lostead. Capable archer, forester, and leader. Assumed command after Broad’s death and marched the survivors back to Gribbons’.</p>
+</section>
+<section class="card card-company">
+<h3 id="other-significant-personnel-unspecified-affiliation">Other Significant Personnel (Unspecified Affiliation)</h3>
+<p><strong>Lt. Marshall</strong> – Charged with leading a wagon train to Castle Radiance the day the Jackson’s Lodge ambush was discovered.</p>
+<p><strong>Corran Altair</strong> (discharged) – Born in Dagger Falls. Showed exceptional aptitude as a recruit; discharged under disciplinary circumstances. Served forced labour at Castle Radiance, then menial duty at Fort Last Sun, before requesting transfer to Fort Sansum at the edge of the Netherese Plaguelands. Returned seven years later as a Paladin of Torm. Now listed as a Sergeant in the Order of the Golden Lion. Member of the Mule Company and the White Cloaks.</p>
+<p><strong>Sammus Weaver</strong> (discharged) – Discharged prior to Marpenoth 1480; described as “fresh out of the Sun Blades” at the Bravo Tourney (5 Marpenoth 1480). 18 years old, from Charity Hills Farm. Competed with a halberd.</p>
+<p><strong>Mayor Latimer Winters</strong> (retired) – 4th Company Foresters (retired). Mayor of Gribbons’ Farm, aged 49.</p>
+<p class="footnote"><span class="nb-label">N.B.</span> Companies 5, 6, 15, and 17 are not individually detailed in the available sources.</p>
+</section>
+</section>
+<section>
+<h2 id="iv-the-daggerdale-concordat">IV. The Daggerdale Concordat</h2>
+<aside class="era-note" aria-label="Era note">
+<p>In Elesias 1482, the Daggerdale Concordat transferred administrative and financial control of the Sun Blades from the Church of Amaunator to the newly formed Governors’ Assembly. This was not a disbandment or reconstitution of the force – the General remained in command, and the existing companies continued to operate under their traditional names and numbers. What changed was the governance, the funding model, and the imposition of a new divisional superstructure intended to organize the expanded force.</p>
+</aside>
+<p>The Concordat expanded the Sun Blades from a force of roughly four hundred to a planned Standard Order of 1,296 soldiers plus officers, organized into 18 companies, 54 platoons, and 8 Divisions. Each Division is commanded by a Captain answering to the General. Costs are shared across all settlements through a system of 20 “shares” apportioned among Castle Radiance (4), Dagger Falls (4), each farm (1 each × 9), Charity (1), Tethyamar (1), and Cormyr (1). Settlements seeking Concordat membership must “establish the infrastructure and means to host a company of Sun Blades, in accordance with the Provisions for the Common Defense.” The General of the Sun Blades holds a seat on the General Assembly as a Non-Voting Signatory—present and heard, but without a vote. The Concordat further stipulates that an attack on one signatory is to be considered an attack on all signatories, with provisions for militia deployment across settlement boundaries. Each settlement’s Captain of Militia is a full-time, exclusively martial appointment, paid by the settlement itself.</p>
+<h3 id="concordat-chain-of-command">Concordat Chain of Command</h3>
+<table>
+<thead>
+<tr>
+<th scope="col">Rank / Position</th>
+<th scope="col">Incumbent</th>
+<th scope="col">Authority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Consul of the Governors’ Assembly</td>
+<td>Cpt. Kesh Oakdale (ret.)</td>
+<td>Civilian head of the Sun Blades. Calls Assembly, maintains order</td>
+</tr>
+<tr>
+<td>2. General</td>
+<td>Gen. Dauntless Thunderstorm</td>
+<td>Military commander of all 18 companies. Staff of 9 (QM, Intel, Attendants)</td>
+</tr>
+<tr>
+<td>3. Captains (×8 Divisions)</td>
+<td>See below</td>
+<td>Division commanders. Can be assigned to answer to local Governors</td>
+</tr>
+<tr>
+<td>4. Lieutenants</td>
+<td>1 per company (18 total)</td>
+<td>Company commanders</td>
+</tr>
+<tr>
+<td>5. Sergeants</td>
+<td>1 per platoon (54 total)</td>
+<td>Platoon leaders. 24 soldiers each</td>
+</tr>
+</tbody>
+</table>
+<h3 id="concordat-divisions-standard-order-of-the-sun-blades">Concordat Divisions – Standard Order of the Sun Blades</h3>
+<div class="table-scroll">
+<table class="concordat-divisions">
+<thead>
+<tr>
+<th scope="col">Division</th>
+<th scope="col">Captain</th>
+<th scope="col">Assignment</th>
+<th scope="col">Co.</th>
+<th scope="col">Plt.</th>
+<th scope="col">Soldiers</th>
+<th scope="col">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Captain of the Castle</td>
+<td>Castle Radiance</td>
+<td>4</td>
+<td>12</td>
+<td>288</td>
+<td>Front line against Netheril. Largest and most battle-ready division</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Captain of the Town</td>
+<td>Dagger Falls</td>
+<td>4</td>
+<td>12</td>
+<td>288</td>
+<td>Wall guards, gate security, Watergate Customs Court, Tower garrison</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Captain of the Rides</td>
+<td>Mobile – dale-wide</td>
+<td>2</td>
+<td>6</td>
+<td>144</td>
+<td>All cavalry. Successor to the Sun Dragoons. Roads, rapid response, escorts</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Captain of the Recruits</td>
+<td>Dagger Falls / Castle Radiance</td>
+<td>4</td>
+<td>12</td>
+<td>288</td>
+<td>Training pipeline (11th–14th Companies). Annual intake of 288 at the Muster</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Captain of the South Settlements</td>
+<td>Southern farms</td>
+<td>1</td>
+<td>3</td>
+<td>72</td>
+<td>Crossed Blades, Dagger Hills area</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Captain of the Near Settlements</td>
+<td>Farms nearest Dagger Falls</td>
+<td>1</td>
+<td>3</td>
+<td>72</td>
+<td>–</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Captain of the West Settlements</td>
+<td>Western farms / mountain approaches</td>
+<td>1</td>
+<td>3</td>
+<td>72</td>
+<td>Foothills, Tesh Valley area</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Captain of the Reserve</td>
+<td>Flexible</td>
+<td>1</td>
+<td>3</td>
+<td>72</td>
+<td>Strategic reserve. Available for reinforcement anywhere in the Dale</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>TOTAL</strong></td>
+<td></td>
+<td><strong>18</strong></td>
+<td><strong>54</strong></td>
+<td><strong>1,296</strong></td>
+<td><strong>+ officers & staff</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="concordat-unit-structure">Concordat Unit Structure</h3>
+<p>The Concordat specifies a standardized unit structure: each Platoon comprises 24 soldiers and one Sergeant; each Company comprises three Platoons and one Lieutenant; each Division comprises one to four Companies under one Captain. Whether this standard has been imposed on the existing companies or merely represents the template for new ones is unclear. In practice, company sizes continue to vary – the 2nd “Mountaineers” maintain five platoons, the 7th “Bright Spears” had 10 before the Concordat, and the 8th “Sun Dragoons” have three. The mapping of existing named companies to their Concordat divisional assignments is not specified in any available source. Division 4 (Recruits) is the only division with an explicit company-to-division link in the available sources.</p>
+<h3 id="concordat-pay-costs">Concordat Pay & Costs</h3>
+<p class="footnote"><span class="nb-label">N.B.</span> Cost per soldier: 183 gp/year (80 gp payable in-kind). Cost per platoon: ~4,527 gp/year. Cost per company: ~13,826 gp/year. Common companies (Rides, Recruits, Reserve = 7 companies) funded by 20 shares across all signatories at ~4,839 gp/share/year.</p>
+<p>The Concordat fundamentally restructured military compensation. Cash wages fell sharply—a soldier’s 26 silver per tenday amounts to roughly 95 gold per year, barely a quarter of the old footman’s rate—but the state now provides lodging, rations, stabling, fodder, and equipment directly. The total cost to the signatories is 183 gold per soldier per year, of which 80 gold may be discharged in kind rather than coin. For the farming settlements that bear most of the burden, this is the critical mechanism: they contribute what they grow and build rather than gold they do not have. The soldier, meanwhile, accumulates far less portable wealth than his predecessor—his material life is provided, but not owned. The old system produced veterans who left service with real savings; the new system produces veterans who leave with their weapons, their armour, and not much else.</p>
+<p><strong>Concordat Ranks & Pay</strong></p>
+<table>
+<thead>
+<tr>
+<th scope="col">Rank</th>
+<th scope="col">Pay</th>
+<th scope="col">Annual equivalent</th>
+<th scope="col">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Soldier</td>
+<td>26 sp/tenday</td>
+<td>~95 gp</td>
+<td>Bulk of compensation is in-kind (see below)</td>
+</tr>
+<tr>
+<td>Sergeant</td>
+<td>3 sp/day</td>
+<td>~109.5 gp</td>
+<td>Platoon leader. 1 per platoon</td>
+</tr>
+<tr>
+<td>Lieutenant</td>
+<td>4 sp/day</td>
+<td>~146 gp</td>
+<td>Company commander. 1 per company</td>
+</tr>
+</tbody>
+</table>
+<p class="footnote"><span class="nb-label">N.B.</span> Captain and General pay rates are not specified in the Concordat; these ranks are presumably negotiated individually. The Consul’s compensation is detailed separately under the Governors’ Assembly.</p>
+<p><strong>Itemized Cost per Soldier (Annual)</strong></p>
+<table>
+<thead>
+<tr>
+<th scope="col">Category</th>
+<th scope="col">Cost (gp)</th>
+<th scope="col">Payable in kind?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Wages</td>
+<td>95</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Rations</td>
+<td>24</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Lodging</td>
+<td>36</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Stabling</td>
+<td>8</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Feed (mounts)</td>
+<td>12</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Armour, weapons & supplies</td>
+<td>8</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>183</strong></td>
+<td><strong>Up to 80 gp may be discharged in kind (Concordat cap)</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Mounts are shared at a ratio of one per two soldiers. Administrative costs are assessed separately: 25 gp per platoon and 100 gp per company per year.</p>
+</section>
+<section>
+<h2 id="v-appendices">V. Appendices</h2>
+<h3 id="all-named-sun-blade-personnel">All Named Sun Blade Personnel</h3>
+<div class="table-scroll">
+<table id="personnel-table">
+<thead>
+<tr>
+<th scope="col">Name</th>
+<th scope="col">Rank</th>
+<th scope="col">Company / Unit</th>
+<th scope="col">Assignment</th>
+<th scope="col">Status</th>
+<th scope="col">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Dauntless Thunderstorm</td>
+<td>General</td>
+<td>All Sun Blades</td>
+<td>Castle Radiance</td>
+<td>Active</td>
+<td>Supreme military commander. Adjudicating Committee member</td>
+</tr>
+<tr>
+<td>Lucius</td>
+<td>Captain</td>
+<td>1st “Dalehearth”</td>
+<td>Dagger Falls</td>
+<td>Active</td>
+<td>Commissioned tower lights and night patrols (1480)</td>
+</tr>
+<tr>
+<td>Hazel Haverstone</td>
+<td>Captain (ret.)</td>
+<td>1st “Dalehearth”</td>
+<td>Dagger Falls (Baker)</td>
+<td>Retired</td>
+<td>First captain without battlefield experience; logistics at the Castle. Now Master Baker, Old Market</td>
+</tr>
+<tr>
+<td>Maddy Riverstone</td>
+<td>Lieutenant</td>
+<td>1st “Dalehearth” / Escort Plt</td>
+<td>Cormanthor</td>
+<td>Active (1483–84)</td>
+<td>Commander of 1st & 2nd Platoons. Forest escort. Recon’d Greenwood Farm (12 Tarsakh)</td>
+</tr>
+<tr>
+<td>Brendle Vale</td>
+<td>Sergeant</td>
+<td>1st “Dalehearth” / Escort Plt</td>
+<td>Cormanthor</td>
+<td>Active (1483)</td>
+<td>Second most senior officer</td>
+</tr>
+<tr>
+<td>Sephany</td>
+<td>Forester</td>
+<td>1st “Dalehearth” / Escort Plt</td>
+<td>Cormanthor</td>
+<td>Active (1483)</td>
+<td>~20 years old. Stays with main body. Wilderness instructor</td>
+</tr>
+<tr>
+<td>Rainyerd</td>
+<td>Captain</td>
+<td>2nd “Mountaineers”</td>
+<td>Castle Radiance / Mountains</td>
+<td>Active</td>
+<td>Advocated for ranged doctrine shift</td>
+</tr>
+<tr>
+<td>Northman</td>
+<td>Lt. → Captain</td>
+<td>2nd → 3rd “Iron Backs”</td>
+<td>Fort Luminous</td>
+<td>Promoted (1481)</td>
+<td>Led Red Platoon; commissioned Capt. of re-mustered 3rd Co.</td>
+</tr>
+<tr>
+<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Tara Hilltop</span></td>
+<td>Lieutenant</td>
+<td>2nd “Mountaineers”</td>
+<td>–</td>
+<td>KIA (1483, as White Cloak)</td>
+<td>Left Sun Blades to lead White Cloaks. Killed in gargoyle attack at Thistle Ridge tournament. Healer, Amaunatori</td>
+</tr>
+<tr>
+<td>Jannus Dale</td>
+<td>–</td>
+<td>2nd “Mountaineers”</td>
+<td>–</td>
+<td>Retired</td>
+<td>Served under Lt. Hilltop. Competed for White Cloaks (1483)</td>
+</tr>
+<tr>
+<td>Tyrell Dale</td>
+<td>–</td>
+<td>2nd “Mountaineers”</td>
+<td>–</td>
+<td>Retired</td>
+<td>Brother of Jannus. Served under Lt. Hilltop</td>
+</tr>
+<tr>
+<td>Chester Hawkford</td>
+<td>–</td>
+<td>2nd “Mountaineers”</td>
+<td>Castle Radiance</td>
+<td>Active</td>
+<td>12-year veteran. Renewing term at the Muster. At the Castle 4 years. Brother of Jasper Hawkford</td>
+</tr>
+<tr>
+<td>Hardigan</td>
+<td>Lieutenant</td>
+<td>2nd “Mountaineers”</td>
+<td>Liberty Hill</td>
+<td>Defected (Sharran)</td>
+<td>Converted to Shar. Betrayed Liberty Hill, Mirtul 1480</td>
+</tr>
+<tr>
+<td>Leedo Forester</td>
+<td>Sgt. → Lt.</td>
+<td>4th “Foresters”</td>
+<td>Cormanthor</td>
+<td>Active</td>
+<td>Destroyed Krinth party (1479). Led Foresters in Sons of Bel operation (Marpenoth 1481)</td>
+</tr>
+<tr>
+<td>Darius Winters</td>
+<td>Captain (ret.)</td>
+<td>4th “Foresters”</td>
+<td>Dwimmerholme (Mayor)</td>
+<td>Retired</td>
+<td>10-year veteran. Elected Mayor ~1480. Age 28–29 (likely clerical error in records listing age 44)</td>
+</tr>
+<tr>
+<td>Kesh Oakdale</td>
+<td>Lt. → Cpt. → Consul</td>
+<td>7th “Bright Spears” → 16th Co.</td>
+<td>Governor’s Hall</td>
+<td>Consul (1482)</td>
+<td>First Consul of the Governors’ Assembly</td>
+</tr>
+<tr>
+<td>Ander Millstone</td>
+<td>Lieutenant</td>
+<td>7th “Bright Spears”</td>
+<td>Tesh Valley Farm</td>
+<td>Active</td>
+<td>3rd Lt. in 3 years at Tesh Valley</td>
+</tr>
+<tr>
+<td>Randall Eversmoore</td>
+<td>Lt. → Sgt. (demoted)</td>
+<td>7th “Bright Spears”</td>
+<td>Crossed Blades Farm</td>
+<td>Active</td>
+<td>Family from Dwimmerholme Farm. Natural interrogator. Demoted from Lt. to Sgt. before Eleint 1479; cause unknown</td>
+</tr>
+<tr>
+<td>Hammerstone</td>
+<td>Chaplain</td>
+<td>7th “Bright Spears”</td>
+<td>Crossed Blades Farm</td>
+<td>Active</td>
+<td>Mountain campaign veteran</td>
+</tr>
+<tr>
+<td>Forge Farmountain</td>
+<td>Lt. I</td>
+<td>7th B.S., 4th Plt</td>
+<td>Thistle Ridge</td>
+<td>Active (1483)</td>
+<td>Platoon commander, Thistle Ridge Reclamation</td>
+</tr>
+<tr>
+<td>Madigara Dale</td>
+<td>Magistrate</td>
+<td>7th B.S., 4th Plt</td>
+<td>Thistle Ridge</td>
+<td>Active (1483)</td>
+<td>Dawn prayers ward off Yellow Tooth attacks</td>
+</tr>
+<tr>
+<td>Phoebe Birchgrove</td>
+<td>Sgt. III</td>
+<td>7th B.S., 4th Plt</td>
+<td>Thistle Ridge</td>
+<td>Active (1483)</td>
+<td>Aide-de-camp; author of Expeditionary Record. Culver: Mareeseah</td>
+</tr>
+<tr>
+<td>Ivy Thickwickle</td>
+<td>Sgt. I</td>
+<td>7th B.S., 4th Plt</td>
+<td>Thistle Ridge</td>
+<td>Active (1483)</td>
+<td>Cook and Quartermaster. Halfling</td>
+</tr>
+<tr>
+<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Chastity Dale</span></td>
+<td>Sgt. II</td>
+<td>7th B.S., 4th Plt (1st Sq)</td>
+<td>Thistle Ridge</td>
+<td>KIA</td>
+<td>Selûnite from Shadowdale. Killed in siege</td>
+</tr>
+<tr>
+<td>Buck Harrowbridge</td>
+<td>Sgt. II</td>
+<td>7th B.S., 4th Plt (2nd Sq)</td>
+<td>Thistle Ridge</td>
+<td>Active (1483)</td>
+<td>Selûnite from Mistledale. Kin found in Tower basement; walked out against orders</td>
+</tr>
+<tr>
+<td>Illya Elderbough</td>
+<td>Sgt. I</td>
+<td>7th B.S., 4th Plt (3rd Sq)</td>
+<td>Thistle Ridge</td>
+<td>Active (1483)</td>
+<td>Chauntean from Gribbons’ Farm. Ranger 1st Class</td>
+</tr>
+<tr>
+<td>Kelya Cordoza</td>
+<td>Sgt. III</td>
+<td>7th B.S., 4th Plt (4th Sq)</td>
+<td>Thistle Ridge</td>
+<td>Active (1483)</td>
+<td>Vaasan. Ranger 2nd Class. Led basement cleanup with courage</td>
+</tr>
+<tr>
+<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Dunlodan Millstone</span></td>
+<td>Pvt. III</td>
+<td>7th B.S., 4th Plt (3rd Sq)</td>
+<td>Thistle Ridge</td>
+<td>KIA</td>
+<td>First Tethyamar dwarf in the Sun Blades</td>
+</tr>
+<tr>
+<td>Violet Newharvest</td>
+<td>Forester</td>
+<td>7th B.S., 4th Plt (4th Sq)</td>
+<td>Thistle Ridge</td>
+<td>Active (1483)</td>
+<td>From Daggerford</td>
+</tr>
+<tr>
+<td>Daffodil Newharvest</td>
+<td>Forester</td>
+<td>7th B.S., 4th Plt (4th Sq)</td>
+<td>Thistle Ridge</td>
+<td>Active (1483)</td>
+<td>From Daggerford. Sister of Violet</td>
+</tr>
+<tr>
+<td>Grid Hammerfall</td>
+<td>Lieutenant</td>
+<td>8th “Sun Dragoons”</td>
+<td>Mobile / Tesh Valley</td>
+<td>Active</td>
+<td>Tracked orc raiders 8 mi. north; marked trail with stones</td>
+</tr>
+<tr>
+<td>Alaric Swift</td>
+<td>Captain</td>
+<td>4th → 9th “Deadly Rain”</td>
+<td>Dagger Falls (training)</td>
+<td>Active</td>
+<td>Older twin brother of Tuugan. Harsh but effective</td>
+</tr>
+<tr>
+<td>Garrick Greenfields</td>
+<td>Captain</td>
+<td>10th Company</td>
+<td>Mobile / Thistle Ridge</td>
+<td>Active (1483)</td>
+<td>Led cavalry relief at the Battle of Thistle Ridge</td>
+</tr>
+<tr>
+<td>Zelia Oakbough</td>
+<td>Forester</td>
+<td>16th Co., 3rd Plt → 1st Co. Escort Plt</td>
+<td>Cormanthor</td>
+<td>Retired → White Cloaks (1483)</td>
+<td>Born near Lostholme. Dangerous archer. Scout for escort column</td>
+</tr>
+<tr>
+<td>Jovian Ash</td>
+<td>Captain</td>
+<td>11th–14th Companies (Recruits)</td>
+<td>Dagger Falls / Castle Radiance</td>
+<td>Active</td>
+<td>Captain of the Recruits. Commands 4 training companies with 4 lieutenants</td>
+</tr>
+<tr>
+<td>Renley Rawthorn</td>
+<td>Captain</td>
+<td>18th Company (1st Plt)</td>
+<td>Greenwood Farm</td>
+<td>Active (1483)</td>
+<td>Garrison duty, Thistle Ridge</td>
+</tr>
+<tr>
+<td>Williams Waterborne</td>
+<td>Lieutenant</td>
+<td>18th Company (2nd Plt)</td>
+<td>The Tower</td>
+<td>Active (1483)</td>
+<td>Relieved the Bright Spears at The Tower</td>
+</tr>
+<tr>
+<td>Sanza Swift</td>
+<td>Private</td>
+<td>7th B.S., 4th Plt (3rd Sq)</td>
+<td>Thistle Ridge</td>
+<td>Active (1483)</td>
+<td>Captured a Yellow Tooth goblin prisoner on patrol</td>
+</tr>
+<tr>
+<td>Fletcher Farmountain</td>
+<td>Private</td>
+<td>7th B.S., 4th Plt</td>
+<td>Thistle Ridge</td>
+<td>Wounded (1483)</td>
+<td>Brother of Lt. Forge. Poisoned by trap in Tower basement</td>
+</tr>
+<tr>
+<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Dexter Broad</span></td>
+<td>Captain</td>
+<td>18th Co., 1st Plt “Task Masters”</td>
+<td>Thistle Ridge</td>
+<td>KIA (Eleint 1445)</td>
+<td>Killed by shadow creatures in Alavandor Academy</td>
+</tr>
+<tr>
+<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Hannah Hillborn</span></td>
+<td>Chaplain</td>
+<td>18th Co., 1st Plt “Task Masters”</td>
+<td>Thistle Ridge</td>
+<td>KIA (Eleint 1445)</td>
+<td>Killed alongside Capt. Broad. From Scardale</td>
+</tr>
+<tr>
+<td>Bella Birtch</td>
+<td>Sergeant</td>
+<td>18th Co., 1st Plt “Task Masters”</td>
+<td>Thistle Ridge</td>
+<td>Retired</td>
+<td>Assumed command; led survivors back to Gribbons’. From Lostead</td>
+</tr>
+<tr>
+<td>Marshall</td>
+<td>Lieutenant</td>
+<td>Unspecified</td>
+<td>Wagon train</td>
+<td>Active</td>
+<td>Escort duty, day of Jackson’s Lodge ambush</td>
+</tr>
+<tr>
+<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Dorian Dale</span></td>
+<td>Corporal</td>
+<td>1st “Dalehearth”</td>
+<td>Dagger Falls / Castle Radiance</td>
+<td>KIA (Gang’Dar, 1479)</td>
+<td>Aged 21. Named after Dorian of Sembia. Killed storming Gang’Dar keep. Distinct from the later Cassimar guard of the same name</td>
+</tr>
+<tr>
+<td>Corran Altair</td>
+<td>Sgt. (Order of the Golden Lion)</td>
+<td>Unspecified (Sun Blades) → Golden Lion</td>
+<td>Mobile</td>
+<td>Discharged → Paladin of Torm</td>
+<td>Discharged under disciplinary circumstances. Returned 7 years later as Paladin of Torm. Now Sgt., Golden Lion. Also White Cloaks & Mule Company</td>
+</tr>
+<tr>
+<td>Sammus Weaver</td>
+<td>–</td>
+<td>Unspecified</td>
+<td>–</td>
+<td>Discharged (by Marpenoth 1480)</td>
+<td>Age 18, from Charity Hills Farm. “Fresh out of the Sun Blades” at the Bravo Tourney</td>
+</tr>
+<tr>
+<td>Buck Thistledown</td>
+<td>Sergeant (ret.)</td>
+<td>1st “Dalehearth”</td>
+<td>Dagger Falls</td>
+<td>Retired</td>
+<td>Veteran of Battle at Liberty Hill</td>
+</tr>
+<tr>
+<td>Latimer Winters</td>
+<td>–</td>
+<td>4th “Foresters”</td>
+<td>Gribbons’ Farm (Mayor)</td>
+<td>Retired</td>
+<td>Aged 49</td>
+</tr>
+<tr>
+<td>Rockland</td>
+<td>Captain</td>
+<td>1st “Dalehearth”</td>
+<td>Dagger Falls (barracks)</td>
+<td>Active (1483)</td>
+<td>Administrative officer. Processed Zephrin’s discharge</td>
+</tr>
+<tr>
+<td>Templeton</td>
+<td>Sergeant</td>
+<td>1st “Dalehearth”</td>
+<td>Dagger Falls (gate)</td>
+<td>Active (1483)</td>
+<td>Gate sentry at the portcullis</td>
+</tr>
+<tr>
+<td>Zephrin</td>
+<td>–</td>
+<td>1st “Dalehearth”</td>
+<td>Dagger Falls (gate)</td>
+<td>Discharged (Ches 1483)</td>
+<td>Dragonborn. 4-year gateguard. Joined Chrysalis</td>
+</tr>
+<tr>
+<td>Coutts</td>
+<td>–</td>
+<td>1st “Dalehearth”</td>
+<td>Dagger Falls (gate)</td>
+<td>Active (1483)</td>
+<td>Gate sentry</td>
+</tr>
+<tr>
+<td>Decker</td>
+<td>–</td>
+<td>1st “Dalehearth”</td>
+<td>Dagger Falls (gate)</td>
+<td>Active (1483)</td>
+<td>Gate sentry</td>
+</tr>
+<tr>
+<td>Malveau Greenleaf</td>
+<td>–</td>
+<td>1st “Dalehearth” (founding era)</td>
+<td>Castle Radiance (trainer, 1483)</td>
+<td>Retired; recalled</td>
+<td>Half-elf druid (Silvanite). Served from 1403. Created archery curriculum. Orc-language expert. Recon’d Thistle Ridge Ruin (Alturiak 1483). Training archers for Thunderstorm</td>
+</tr>
+<tr>
+<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Tergus Clarandal</span></td>
+<td>Sgt. → Lieutenant</td>
+<td>2nd “Mountaineers” → 7th B.S., 4th Plt</td>
+<td>Thistle Ridge (original garrison)</td>
+<td>Presumed dead (1441)</td>
+<td>b. 1408. Journals 1423–1439. Five Terms of Service</td>
+</tr>
+<tr>
+<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Claudius Clarandal</span></td>
+<td>Sergeant (ret.)</td>
+<td>Mountaineers</td>
+<td>Thistle Ridge (militia captain)</td>
+<td>Presumed dead (1441)</td>
+<td>b. 1410. Brother of Tergus. Five Terms. Led militia (106 fighters)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<hr>
+<h3 id="related-military-organizations">Related Military Organizations</h3>
+<aside class="era-note" aria-label="Era note">
+<p>The Concordat formalized four categories of military institution in Daggerdale: the Standing Army (Sun Blades), the Holy Orders (Charters Militant), the Chartered Companies, and the Militia. The following are the non–Sun Blade organizations drawn from various sources.</p>
+</aside>
+<h4>Holy Orders – Charters Militant</h4>
+<section class="card card-default">
+<p class="card-subtitle">Order of the Lambent Shield (Amaunator)</p>
+<p>~120 paladins and holy warriors of Amaunator. Led by Grand Master Luminous Whitegate, with Knight Commander Kassius as a senior field officer. Deployed from Castle Radiance against Netheril and the Plaguelands. Funded entirely by the Church. Granted Charter Militant by the Concordat.</p>
+<p class="footnote"><span class="nb-label">N.B.</span> Iolus Warburton (Captain of the White Cloaks) is regularly offered candidacy for the Order of the Lambent Shield, which he declines. See Part II of this report for full coverage.</p>
+</section>
+<section class="card card-default">
+<p class="card-subtitle">Order of the Golden Lion (Torm)</p>
+<p>Holy order dedicated to Torm, the Loyal Fury. Led by Sir Gethard Soulbright (killed at the Second Battle of Anathar’s Dell, 7 Eleint 1372 DR). Known members include Daniel Overcourt (squire to Soulbright; wounded at Anathar’s Dell but survived) and Corran Altair (former Sun Blade, now Paladin of Torm; listed as Sergeant of the Order). See Part II.</p>
+</section>
+<section class="card card-default">
+<p class="card-subtitle">Order of the Lambent Rose (Ilmater)</p>
+<p>Holy order dedicated to Ilmater, the Crying God. Led by Sir Lexinauth (killed by the Baron at the Second Battle of Anathar’s Dell, 7 Eleint 1372 DR) and Father Eisley of St. Collin’s Abbey. Reverend Brother Turan, a Damaran monk-priest and friend of Lord Maturin Horgath, is also a member (last seen working in the medicine tents in Shadowdale, 1372 DR). Involved in refugee care during the 1372 crisis. See Part II.</p>
+</section>
+<section class="card card-default">
+<p class="card-subtitle">Knights of Justice (Tyr)</p>
+<p>Holy order dedicated to Tyr, the Even-Handed. Led by Sir Wildermot Silverlance (killed by the Baron at the Second Battle of Anathar’s Dell, 7 Eleint 1372 DR). Sir Durin Saddlemoor survived Anathar’s Dell but lost his shield arm. Smallest of the four orders. Twenty-one paladins from the assembled orders were slain at Anathar’s Dell and buried there, earning it the name “Paladin’s Grave.” See Part II.</p>
+</section>
+<h4>Chartered Companies</h4>
+<section class="card card-default">
+<p class="card-subtitle">White Cloaks</p>
+<p>The most prominent chartered adventuring company in Daggerdale. Founded by a group that included Lumina Whitegate. Led by Captain Iolus Warburton, a Soldier of Amaunator. Organized into operational sub-teams (Alpha, Bravo, etc.) with letters patent from the Governors’ Assembly. The White Cloaks fielded a large tournament force (the Bravo Tourney, Marpenoth 1480) and have extensive operations across the Dale. Lt. Tara Hilltop left the Sun Blades to join their leadership. Numerous members including Vanion Creed (Sergeant, Tethyamar Team Leader & Quartermaster), Alystair Dretch (Sergeant), Sgt. Hennigan Paros, Imogen Mystral, and Sammus Weaver. The Captain of the White Cloaks holds a seat on the Governors’ Assembly.</p>
+</section>
+<section class="card card-default">
+<p class="card-subtitle">Redjacks</p>
+<p>A large chartered company of veteran soldiers and adventurers, numbering more than 60. Led by Captain Hastle Blackwater (sometimes misnamed “Redwater,” likely due to the association with the Redjacks). Described as “very capable, if somewhat self-interested.” The Captain of the Redjacks holds a seat on the Governors’ Assembly.</p>
+</section>
+<section class="card card-default">
+<p class="card-subtitle">Free Defence League (FDL)</p>
+<p>An independent bounty-hunter and volunteer force, headquartered at Castle Radiance. Led by Captain Bargle Battamond (also “Battlemaster”), with nearly 40 members who take bounties posted at the castle. “Ser” Reginald Boxfray commands the 14th Company, 1st Platoon “Dawnshields” (four squads). The FDL fought alongside the Sun Blades at Thistle Ridge (1483). The Captain of the Free Defence League holds a seat on the Governors’ Assembly.</p>
+</section>
+<h4>Militia & Other</h4>
+<section class="card card-default">
+<p class="card-subtitle">Local Militia</p>
+<p>Each farm maintains its own militia of fighting-aged people (1/5 enrolled at any time, four-year terms, minimum two hours per tenday training). Tesh Valley’s militia under Sgt. Fortune Swift (Tuugan Swift’s uncle) is the largest and best, with ~40 active men, mostly mounted. The historical Thistle Ridge militia under Claudius Clarandal was one of the Dale’s largest, with 106 capable fighters. Militia captains are paid by their settlements. The Concordat requires common militia-readiness drills 4× per year.</p>
+</section>
+<section class="card card-default">
+<p class="card-subtitle">Wonderbringer Warsmiths</p>
+<p>Engineers and artificers based at Fort Luminous. Operate and develop experimental weapons including the great bronze gun. Include gnomish specialists. Not part of the Sun Blades chain of command.</p>
+</section>
+<h4>Foreign Garrison</h4>
+<section class="card card-default">
+<p class="card-subtitle">Purple Dragons of Cormyr</p>
+<p>A garrison of Cormyrean regulars stationed at Castle Radiance, sharing the defence against Netheril. The permanent force comprises 12 Knights and 120 regular soldiers. A small detachment of Purple Dragons is also present at the Cormyrean Embassy in Dagger Falls. At the Greengrass 1480 Strategic Meeting, General Stuart Angleton arrived with “an entire company of Purple Dragons for the common defence of good people against the aggression of Netheril.” Cormyr holds one of the twenty shares in the Concordat’s cost-sharing formula.</p>
+</section>
+<hr>
+</section>
+<footer>
+<p>Sources: <em>The Daggerdale Chronicle</em> (Grafton FitzDecker); the Daggerdale Gazetteer (GFD, DDC 1482-3); <em>A Visitor’s Guide to Dagger Falls</em> (DDC, 1482 DR); Yellow Abbey records and parish registers; the Daggerdale Concordat (DDC 1482-10); Thistle Ridge Expeditionary Records (Sgt. III Phoebe Birchgrove); <em>The Memoire of Ser Reginald Boxfray</em>; the Journals of Lt. Tergus Clarandal (1423–1439 DR); <em>The White Cloak Crisis</em>; <em>19 Ches – The Vernal Feast</em>; <em>30 Alturiak 1483 DR – A Call for Bravery, Endurance and Honour</em>; <em>Report from Alystair Dretch, 14 Kythorn 1480</em>; <em>13 Kythorn 1480 DR</em>; <em>Straight out of Shadowdale…</em>; <em>Exile</em>; <em>Part 1: The White Cloaks – Early Summer 1479 DR</em>; <em>Part 2: Mule Company – Early Summer 1479 DR</em>; <em>Part 4: Mule Company – Late Summer 1479 DR</em>; <em>Report from Hennigan, 8 Marpenoth 1481</em>; <em>Fresh Meat for Castle Radiance</em>; <em>The Paladin and the Pilgrim</em>; <em>Situation Report, Greengrass, 1480 DR</em>; <em>DDC 1481-18: Report from Helm Thunderstorm, Foothills Farm</em>; Embassy correspondence files (compiled; incl. records of Maddrick Thunderstorm’s service); <em>The Reclamation of Thistle Ridge</em> (compiled expedition account); personal communications and depositions held at the Embassy (incl. Malveau Greenleaf’s autobiography, per personal interview, Tarsakh 1483); <em>My Reconnaissance of the Thistle Ridge Ruin</em> (Malveau Greenleaf, 11 Alturiak 1483); <em>Letter from Malveau Greenleaf to Jasper Hawkford</em> (21 Tarsakh 1483); <em>The Daggerdale Chronicle, Chapter 7</em> (Sister Estelmer, Order of the Tome); <em>A Theory of the Hauntings of Thistle Ridge</em> (Magistrate Zoderick Winters, 1445 DR); after-action reports from the Battle of Thistle Ridge (1–2 Mirtul 1483); the Ambassador’s own observations during eighteen months of service at Castle Radiance and three months at Base Camp Silver.</p>
+</footer>
+
+    </article>
+</body>
+</html>

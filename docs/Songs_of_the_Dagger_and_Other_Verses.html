@@ -1,0 +1,1497 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="A collection of ballads, songs, and poems from Daggerdale and the Dalelands, collected and annotated by Tammen Gale of Scardale.">
+<title>Songs of the Dagger and Other Verses&mdash;Daggerdale Campaign Archive</title>
+<style>
+
+  @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=IM+Fell+English+SC&display=swap');
+
+  /* ── Reset & Base ─────────────────────────────────────── */
+  :root {
+    --bg-parchment: #f4ead5;
+    --bg-inset: #f7f0e0;
+    --bg-section-header: #ede0c8;
+    --bg-section-gradient: linear-gradient(90deg, #f4ead5, #e8d5b0, #f4ead5);
+    --bg-subsection-gradient: linear-gradient(90deg, #f4ead5, #efe3c8, #f4ead5);
+    --text-body: #2c1e0e;
+    --text-heading: #4a1e08;
+    --text-subheading: #6b2a0a;
+    --text-secondary: #5a3d20;
+    --text-aside: #3a2a15;
+    --accent-border: #8b4513;
+    --accent-border-light: #c9a96e;
+    --accent-link: #3a5a7c;
+    --font-display: 'IM Fell English SC', 'Palatino Linotype', serif;
+    --space-xs: 4px;
+    --space-sm: 8px;
+    --space-md: 16px;
+    --space-lg: 24px;
+    --space-xl: 36px;
+  }
+
+  @page { background: var(--bg-parchment); }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Crimson Text', 'Palatino Linotype', 'Book Antiqua', Palatino, Georgia, serif;
+    font-size: 20px;
+    background: var(--bg-parchment);
+    color: var(--text-body);
+    line-height: 1.6;
+    padding: var(--space-lg);
+  }
+
+  main {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  /* ── Typography ───────────────────────────────────────── */
+  h1 {
+    text-align: center;
+    font-family: var(--font-display);
+    color: var(--text-heading);
+    font-size: 2em;
+    font-weight: 700;
+    letter-spacing: 3px;
+    margin-bottom: var(--space-xs);
+  }
+
+  h2 {
+    font-family: var(--font-display);
+    color: var(--text-heading);
+    font-size: 1.4em;
+    padding: 10px 20px;
+    margin: var(--space-xl) 0 var(--space-md) 0;
+    background: var(--bg-section-gradient);
+    border-left: 4px solid var(--accent-border);
+    border-bottom: 1px solid var(--accent-border-light);
+    letter-spacing: 1px;
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+
+  h3 {
+    font-family: var(--font-display);
+    color: var(--text-subheading);
+    font-size: 1.15em;
+    padding: 8px 16px;
+    margin: var(--space-lg) 0 var(--space-sm) 0;
+    background: var(--bg-subsection-gradient);
+    border-left: 3px solid var(--accent-border-light);
+    letter-spacing: 0.5px;
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+
+  p {
+    margin-bottom: var(--space-md);
+    orphans: 3;
+    widows: 3;
+  }
+
+  section p:last-of-type {
+    margin-bottom: var(--space-sm);
+  }
+
+  em { font-style: italic; }
+  strong { font-weight: 700; font-family: var(--font-display); }
+
+  /* ── Title Block ──────────────────────────────────────── */
+  header[role="banner"] {
+    text-align: center;
+    margin-bottom: var(--space-xl);
+    padding-bottom: var(--space-lg);
+    border-bottom: 2px solid var(--accent-border);
+  }
+
+  .subtitle {
+    color: var(--text-secondary);
+    font-size: 0.95em;
+    font-style: italic;
+    margin-bottom: var(--space-xs);
+  }
+
+  .byline {
+    color: var(--text-secondary);
+    font-size: 0.9em;
+    margin-top: var(--space-sm);
+  }
+
+  .date-line {
+    color: var(--text-secondary);
+    font-size: 0.9em;
+    margin-top: var(--space-xs);
+  }
+
+  /* ── Horizontal Rules ─────────────────────────────────── */
+  hr {
+    border: none;
+    border-top: 1px solid var(--accent-border-light);
+    margin: var(--space-lg) 0;
+  }
+
+  /* ── Verse (blockquote) ───────────────────────────────── */
+  blockquote {
+    background: var(--bg-inset);
+    border-left: 3px solid var(--accent-border);
+    padding: var(--space-md) var(--space-lg);
+    margin: var(--space-md) 0 var(--space-lg) 0;
+    font-size: 0.95em;
+    line-height: 1.7;
+    page-break-inside: avoid;
+  }
+
+  blockquote .verse-line {
+    display: block;
+    padding-left: 0;
+  }
+
+  blockquote .verse-break {
+    display: block;
+    height: 0.8em;
+  }
+
+  /* ── Narrator / Collector Voice ─────────────────────── */
+  .collector-note {
+    margin-bottom: var(--space-md);
+    font-size: 0.95em;
+    line-height: 1.55;
+  }
+
+  .collector-note em {
+    font-style: italic;
+  }
+
+  /* ── Attribution lines ──────────────────────────────── */
+  .attribution {
+    color: var(--text-secondary);
+    font-style: italic;
+    font-size: 0.9em;
+    margin-bottom: var(--space-sm);
+  }
+
+  /* ── Signature blocks ───────────────────────────────── */
+  .signature {
+    font-style: italic;
+    color: var(--text-secondary);
+    margin-top: var(--space-md);
+  }
+
+  /* ── Footer / Colophon ──────────────────────────────── */
+  footer {
+    margin-top: var(--space-xl);
+    padding-top: var(--space-lg);
+    border-top: 2px solid var(--accent-border);
+    font-size: 0.85em;
+    color: var(--text-secondary);
+    line-height: 1.5;
+  }
+
+  footer h2 {
+    font-size: 1.1em;
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0 0 var(--space-sm) 0;
+    color: var(--text-secondary);
+  }
+
+  footer p {
+    margin-bottom: var(--space-sm);
+  }
+
+  footer ul {
+    margin: var(--space-sm) 0 var(--space-md) var(--space-lg);
+    list-style: disc;
+  }
+
+  footer li {
+    margin-bottom: var(--space-xs);
+  }
+
+  /* ── Appendix Headers ───────────────────────────────── */
+  .appendix-header {
+    background: linear-gradient(90deg, #f4ead5, #e0d0b8, #f4ead5);
+    color: var(--text-secondary);
+    font-family: var(--font-display);
+    font-size: 1.3em;
+    padding: 10px 20px;
+    margin: var(--space-xl) 0 var(--space-md) 0;
+    border-left: 4px solid #9a8a70;
+    border-bottom: 1px solid var(--accent-border-light);
+    letter-spacing: 1px;
+    page-break-before: always;
+  }
+
+  /* ── Table of Contents ────────────────────────────────── */
+  nav[aria-label="Table of Contents"] {
+    background: var(--bg-inset);
+    border: 1px solid var(--accent-border-light);
+    border-radius: 4px;
+    padding: var(--space-lg);
+    margin: 0 0 var(--space-xl) 0;
+  }
+
+  nav[aria-label="Table of Contents"] h2 {
+    font-size: 1.15em;
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0 0 var(--space-md) 0;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-size: 0.85em;
+    color: var(--text-secondary);
+  }
+
+  nav[aria-label="Table of Contents"] ol {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  nav[aria-label="Table of Contents"] li {
+    margin-bottom: var(--space-xs);
+    padding: 3px 0;
+    border-bottom: 1px dotted var(--accent-border-light);
+  }
+
+  nav[aria-label="Table of Contents"] li:last-child {
+    border-bottom: none;
+  }
+
+  nav[aria-label="Table of Contents"] li.toc-appendix-group {
+    border-bottom: none;
+    margin-top: var(--space-md);
+    padding-bottom: 0;
+  }
+
+  nav[aria-label="Table of Contents"] li.toc-appendix-group > span {
+    font-family: var(--font-display);
+    color: var(--text-secondary);
+    font-size: 0.95em;
+    letter-spacing: 0.5px;
+  }
+
+  nav[aria-label="Table of Contents"] ol ol {
+    margin-left: var(--space-lg);
+    margin-top: var(--space-xs);
+  }
+
+  nav[aria-label="Table of Contents"] a {
+    color: var(--text-body);
+    text-decoration: none;
+    transition: color 0.15s;
+  }
+
+  nav[aria-label="Table of Contents"] a:hover {
+    color: var(--accent-link);
+  }
+
+  nav[aria-label="Table of Contents"] .toc-number {
+    color: var(--text-secondary);
+    font-family: var(--font-display);
+    margin-right: 6px;
+  }
+
+  /* ── Print Styles ───────────────────────────────────── */
+  @media print {
+    body { padding: 12px; background: white; color: black; }
+    h2, h3, .appendix-header { page-break-after: avoid; }
+    blockquote { page-break-inside: avoid; background: #f8f8f8; }
+    header[role="banner"] { border-bottom-color: #333; }
+    footer { border-top-color: #333; }
+  }
+
+  @media (max-width: 600px) {
+    body { padding: var(--space-md); }
+    h1 { font-size: 1.6em; }
+    h2 { font-size: 1.2em; }
+    blockquote { padding: var(--space-sm) var(--space-md); }
+  }
+
+</style>
+</head>
+<body>
+<main>
+
+<header role="banner">
+<h1>Songs of the Dagger and Other Verses</h1>
+<p class="subtitle"><strong>A Collection of Ballads, Songs, and Poems from Daggerdale and the Dalelands</strong></p>
+<p class="byline">Collected and Annotated by Tammen Gale of Scardale</p>
+<p class="date-line">Year of the Awakened Sleepers, 1484 DR</p>
+</header>
+
+<nav aria-label="Table of Contents">
+<h2>Contents</h2>
+<ol>
+<li><a href="#collector-s-preface">Collector’s Preface</a></li>
+<li><a href="#i-the-saga-of-maturin-the-grey"><span class="toc-number">I.</span> The Saga of Maturin the Grey</a></li>
+<li><a href="#ii-the-ballad-of-maturin-and-the-lion"><span class="toc-number">II.</span> The Ballad of Maturin and the Lion</a></li>
+<li><a href="#iii-the-ballad-of-dagger-falls"><span class="toc-number">III.</span> The Ballad of Dagger Falls</a></li>
+<li><a href="#iv-the-ballad-of-the-north"><span class="toc-number">IV.</span> The Ballad of the North</a></li>
+<li><a href="#v-oberon-s-lament-for-old-netheril"><span class="toc-number">V.</span> Oberon’s Lament for Old Netheril</a></li>
+<li><a href="#vi-dalak-s-homemade-beer"><span class="toc-number">VI.</span> Dalak’s Homemade Beer</a></li>
+<li><a href="#vii-three-ravens"><span class="toc-number">VII.</span> Three Ravens</a></li>
+<li><a href="#viii-beliard-s-lay-at-quick-axes"><span class="toc-number">VIII.</span> Beliard’s Lay at Quick Axes</a></li>
+<li><a href="#ix-a-song-of-ravens"><span class="toc-number">IX.</span> A Song of Ravens</a></li>
+<li><a href="#x-ode-to-denelius-ormath"><span class="toc-number">X.</span> Ode to Denelius Ormath</a></li>
+<li class="toc-appendix-group"><span>Appendix I: Songs of Eastwitch</span>
+<ol>
+<li><a href="#xi-dunlogan-s-song"><span class="toc-number">XI.</span> Dunlogan’s Song</a></li>
+<li><a href="#xii-eugenia-s-lament"><span class="toc-number">XII.</span> Eugenia’s Lament</a></li>
+<li><a href="#xiii-the-new-wardens-of-eastwitch"><span class="toc-number">XIII.</span> The New Wardens of Eastwitch</a></li>
+<li><a href="#xiv-the-tale-of-the-fletcher-expedition"><span class="toc-number">XIV.</span> The Tale of the Fletcher Expedition</a></li>
+</ol>
+</li>
+<li class="toc-appendix-group"><span>Appendix II: Songs of Freeport</span>
+<ol>
+<li><a href="#xv-the-gaffer-s-tune"><span class="toc-number">XV.</span> The Gaffer’s Tune</a></li>
+<li><a href="#xvi-zechary-s-song"><span class="toc-number">XVI.</span> Zechary’s Song</a></li>
+<li><a href="#xvii-salazar-s-shanty"><span class="toc-number">XVII.</span> Salazar’s Shanty</a></li>
+</ol>
+</li>
+</ol>
+</nav>
+
+
+<section id="collector-s-preface">
+<h2>Collector’s Preface</h2>
+<p class="collector-note">To the reader who holds this volume, I offer a confession: I am a man possessed. For the better part of a decade, I have wandered the roads between Scardale and Shadowdale, through Dagger Falls and into the hill country beyond, collecting scraps of song and verse from tavern-keepers, soldiers, priests, and the occasional obliging bard. The result of that labour, such as it is, you hold in your hands.</p>
+<p class="collector-note">I am Tammen Gale, of the Scardale Gales — a family once of some mercantile distinction, now of somewhat reduced circumstances. The occupation and its aftermath, which I shall not dwell upon, left my family with little but a name and a modest house on Chandler’s Row. What it left me, specifically, was an ear tuned to the songs of other people’s sorrows and triumphs, for we had few enough of our own to sing about. I trained as a bard in the old tradition — not at any great college, but under Aldus Greymere, a half-blind Oghmanite who could still pick out a false note at forty paces and who insisted that every song worth remembering was a piece of history with the dust shaken off.</p>
+<p class="collector-note">Old Aldus was right, of course. The songs collected here are not mere entertainments, though several of them entertain mightily. They are the living memory of Daggerdale and its people during a period of extraordinary trial — from the liberation of Dagger Falls in 1372 DR to the present struggle against the Netherese shadow. In these verses one hears the authentic voice of the Dalelands: defiant, grieving, comic, profane, and shot through with a stubborn insistence that courage matters and that the names of the brave deserve to be remembered.</p>
+<p class="collector-note">The collection is arranged roughly by chronology, beginning with the great Harper ballads of the liberation era and proceeding to more recent compositions. The centrepiece of this volume, and its reason for being, is the Saga of Maturin the Grey, composed by no less a figure than Dorian of Sembia — the Count of Castle Daggerdale himself — whose manuscript was recovered at some peril from the library of the castle after his disappearance. That a warrior-count of such renown should also have been a poet of genuine feeling is one of the more remarkable facts of recent Dalelands history. His saga is presented here in full, exactly as found, with all its rough edges and idiosyncratic spellings preserved, for I hold that a collector who polishes his sources is no better than a forger.</p>
+<p class="collector-note">The companion pieces to the Maturin saga — the stirring Ballad of Maturin and the Lion, Boregar the Wanderer’s rollicking account of the Battle of Dagger Falls, and Maturin Horgath’s own immortal drinking song — were gathered from Harper sources and from the oral tradition of the Dalelands, where they are still sung in taverns from Anathar’s Dell to the banks of the Ashaba.</p>
+<p class="collector-note">The Ballad of the North, by the remarkable Oberon of Netheril, belongs to a parallel tradition: the songs of the Neverwinter expedition against the Zhentarim wizard Malkor. I have included it here because the Daggerdale and Neverwinter campaigns were twin prongs of a single great effort, and because the ballad is too fine a thing to leave out of any collection that aspires to completeness.</p>
+<p class="collector-note">The later pieces present a different character. The compositions of Beliard Emmarask — diplomat, spy, and bard of extraordinary gifts — belong to the new era of Daggerdale, the age of Castle Radiance and the Free Defense League. His performance at the tavern of Quick Axes in Dagger Falls, which I was fortunate enough to witness some few years ago, remains one of the most remarkable displays of bardic craft I have encountered. His lay is a meditation on Daggerdale itself — its landscapes, its dangers, its stubborn beauty. The other Emmarask pieces were obtained through channels I am not at liberty to disclose, but I vouch for their authenticity.</p>
+<p class="collector-note">Finally, by way of appendices, I have included several pieces from the Eastwitch country — a region far removed from the Dalelands in both geography and character, but whose traditions of dark balladry and frontier song deserve wider currency. Dunlogan’s Song, in particular, is a masterwork of frontier verse, and I should be remiss to exclude it from any anthology of this kind. The lighter songs of the young bard Bin Fletcher offer a welcome counterpoint, and a reminder that even on the edge of the Wild, there is room for laughter. A further appendix collects three sea shanties from the southern archipelagos, transcribed by a correspondent during the festival of Raidfest. These rough and bawdy sailors’ songs belong to a different world entirely, but they are too good to leave out.</p>
+<p class="collector-note">I have added brief contextual notes before each piece, but I have not presumed to alter so much as a comma of the poems and songs themselves. These are the words of their authors, not mine, and they deserve to be met on their own terms.</p>
+<p class="collector-note">If this little volume finds its way to the shelves of Candlekeep, or even to a few appreciative tavern-keepers who might be moved to have their house bards learn a verse or two, I shall consider my labours well repaid.</p>
+<p class="attribution"><em>Tammen Gale</em> <em>Scardale Town, Marpenoth 1484 DR</em></p>
+</section>
+<hr>
+
+<section id="i-the-saga-of-maturin-the-grey">
+<h2>I. The Saga of Maturin the Grey</h2>
+<p class="attribution"><em>by Dorian of Sembia, Count of Castle Daggerdale</em></p>
+<p class="attribution"><em>Notes found in the library of Castle Daggerdale after the disappearance of Dorian of Sembia.</em></p>
+<p class="collector-note">Of all the compositions to emerge from the liberation of Daggerdale, none is more ambitious or more personal than this long narrative poem by Dorian of Sembia — warrior, exile, and ultimately Count of Castle Daggerdale. Written in the voice of Maturin Horgath, the Paladin of Ilmater whose fall and redemption form the poem’s great arc, the saga recounts the full sweep of the campaign: the council at Waterdeep, the long march east, the battles with Grimwald’s hunters, the horrors of Anauroch, and the first terrible encounter with Grandfather Lion. The recurring refrain shifts between speakers — brother, father — suggesting that the saga was intended for performance in sections, perhaps at different occasions. It is presented here complete and unaltered.</p>
+</section>
+<hr>
+<h3 id="prologue">Prologue</h3>
+<blockquote>
+<span class="verse-line">“Well, where have you been, Maturin, my son?</span>
+<span class="verse-line">What were your deeds? What have you done?</span>
+<span class="verse-line">Did you cross the seas of blue?</span>
+<span class="verse-line">Did you fight the battles true?</span>
+<span class="verse-line">Did you see the righteous through?</span>
+<span class="verse-line">Come now, Maturin, tell me of you!</span>
+</blockquote>
+<h3 id="introduction">Introduction</h3>
+<blockquote>
+<span class="verse-line">“Well, brother, I’ll tell you where I have been,</span>
+<span class="verse-line">I’ll tell you of heroes and horrors I’ve seen.</span>
+<span class="verse-line">This is the story of many a man,</span>
+<span class="verse-line">Of Nobles, and rascals, and a failed Zhent plan.</span>
+<span class="verse-line">This is a story of monsters and war.</span>
+<span class="verse-line">This is the story of my long journey far.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">A Council we held in the Jewel of the North,</span>
+<span class="verse-line">Heroes, three groups, set out and went forth.</span>
+<span class="verse-line">Ours was the longest, a trip to the Dales,</span>
+<span class="verse-line">Not destined to see the waves’ happy sails.</span>
+<span class="verse-line">For us was the desert, the great Anauroch,</span>
+<span class="verse-line">No pleasantly swaying ships on the dock.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Eastward we strode, with our armour a’ gleaming,</span>
+<span class="verse-line">With courage and honour, our hearts were yet beaming</span>
+<span class="verse-line">There was Raven the Ranger, leading the way,</span>
+<span class="verse-line">(Not long it would be ‘ere the close of his day).</span>
+<span class="verse-line">He was a Raventree noble, with a hunger for fight,</span>
+<span class="verse-line">Yet doomed nonetheless, but not by Ravensblight.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">There was Boregar the Wanderer, accompanying too,</span>
+<span class="verse-line">The roads were unsafe - what else could he do?</span>
+<span class="verse-line">A fat man was he, but fattest his heart,</span>
+<span class="verse-line">A wounded companion for miles he’d cart.</span>
+<span class="verse-line">His staff was a whirlwind of parries and blows,</span>
+<span class="verse-line">Villains he vanquished in rows upon rows.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Sparrow the mageling, priest of the Lady.</span>
+<span class="verse-line">He’d always a spell or a trick at the ready.</span>
+<span class="verse-line">But true was his quest, and truer his aim,</span>
+<span class="verse-line">He didn’t seek gold, nor glory nor fame.</span>
+<span class="verse-line">He ventured with us, pursuing his goal,</span>
+<span class="verse-line">With spells and his wits, he’d vanquish Yarkul.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Also with us was a man who was bold,</span>
+<span class="verse-line">He could turn himself purple, he could turn into mould.</span>
+<span class="verse-line">Hanibal ‘the Wild’ was the name of this man,</span>
+<span class="verse-line">Of reason and safety, he was not the greatest fan.</span>
+<span class="verse-line">Nevertheless, he was one of our mages,</span>
+<span class="verse-line">Wild or not, he was one for the ages.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Corrina the gnome, small and brokenhearted,</span>
+<span class="verse-line">She’d left her true love, and sadly departed.</span>
+<span class="verse-line">She managed the horses, and spoke to the beasts,</span>
+<span class="verse-line">And could turn our poor rations into sumptuous feasts.</span>
+<span class="verse-line">Of illusions she weaved, and knew more than most,</span>
+<span class="verse-line">Of Dragons, and demons, and Riders, and ghosts.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">So this was the troupe, that took up the quest.</span>
+<span class="verse-line">For hundreds of miles we would walk from the West.</span>
+<span class="verse-line">We would venture to mountain and desert and town,</span>
+<span class="verse-line">To take from the Zhents Randal’s lost crown.</span>
+<span class="verse-line">Remember their names, O Brother, my dear,</span>
+<span class="verse-line">For this is the story, of which you will hear.</span>
+</blockquote>
+<h3 id="canto-i">Canto I</h3>
+<blockquote>
+<span class="verse-line">“Well, brother, I’ll tell you where I have been,</span>
+<span class="verse-line">I’ll tell you of heroes and horrors I’ve seen.</span>
+<span class="verse-line">This is the story of many a man,</span>
+<span class="verse-line">Of Nobles, and rascals, and a failed Zhent plan.</span>
+<span class="verse-line">This is a story of monsters and war.</span>
+<span class="verse-line">This is the story of my long journey far.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">We started our quest, with a price on our heads,</span>
+<span class="verse-line">The blood that was spilled turned the trail to red.</span>
+<span class="verse-line">Grimwald the Sheriff longed for our death;</span>
+<span class="verse-line">He would draw from our Ranger his life’s final breath.</span>
+<span class="verse-line">But we battled, and jousted, and fought tooth and nail,</span>
+<span class="verse-line">And in Secomber-town, his hunters would fail.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">The sheriff was brave, and quick with his gun,</span>
+<span class="verse-line">But his days as a villain were soon to be done.</span>
+<span class="verse-line">We vanquished his forces, brought him to his knees,</span>
+<span class="verse-line">We thwarted his effort to collect on his fees.</span>
+<span class="verse-line">Grimwald was judged, and brought to his end,</span>
+<span class="verse-line">But the loss of our Ranger, his death could not mend.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">For Raven had died, from a shot to his chest,</span>
+<span class="verse-line">I hope that in slumber, he’s found final rest.</span>
+<span class="verse-line">And Hanibal, my friend, vanished from sight,</span>
+<span class="verse-line">I know that he died, turning wrong into right.</span>
+<span class="verse-line">To be claimed by our foes, these were the first,</span>
+<span class="verse-line">But I thank Great Ilmater that they suffered no thirst.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">For the desert awaited, and soon we’d not drink,</span>
+<span class="verse-line">Its hotter, and harsher, than you’d ever think,</span>
+<span class="verse-line">Anauroch, O Anauroch, where I met my fate,</span>
+<span class="verse-line">It was there that He stalked and He hunted in wait...</span>
+<span class="verse-line">But Raven and Hanibal, great men that had died,</span>
+<span class="verse-line">For their souls and their families, I cried and I cried.</span>
+</blockquote>
+<h3 id="canto-ii">Canto II</h3>
+<blockquote>
+<span class="verse-line">So, Brother I’m telling you, of where I have been.</span>
+<span class="verse-line">I’m telling of heroes, and horrors I’ve seen.</span>
+<span class="verse-line">This is the story, of many a man,</span>
+<span class="verse-line">Nobles and rascals, and a failed Zhent plan.</span>
+<span class="verse-line">This is the story of monsters and war,</span>
+<span class="verse-line">This is the story of my journey so far.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">In Secomber-town, we bolstered our ranks,</span>
+<span class="verse-line">And cleaned off the blood on the river’s wide banks.</span>
+<span class="verse-line">Help we would need, and so help we sought,</span>
+<span class="verse-line">From a Chauntean Druid (or so we first thought).</span>
+<span class="verse-line">But, he was no Druid, we could see his plate mail,</span>
+<span class="verse-line">But rather a bandit, expelled from his Dale.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Dorian the warrior, joined in our fight,</span>
+<span class="verse-line">His honour I hoped would soon come to light.</span>
+<span class="verse-line">But alone he was not, for he came with our Dalak,</span>
+<span class="verse-line">A Dwarf with an axe, who missed his dear Balak.</span>
+<span class="verse-line">Dalak was proud, with a look that was savage,</span>
+<span class="verse-line">He’d rant and he’d drink and soon he would ravage.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">O Dalak the Dwarf, the greatest of cobblers,</span>
+<span class="verse-line">Many a Zhent with his axe he would clobber.</span>
+<span class="verse-line">So these were our allies, and help for the quest,</span>
+<span class="verse-line">And so we departed again from the west.</span>
+<span class="verse-line">Dalak, and Sparrow and Dorian too,</span>
+<span class="verse-line">With Boregar, Corrina and myself we were true.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Eastward we went, onwards our path;</span>
+<span class="verse-line">We’d show those foul villains the weight of our wrath!</span>
+<span class="verse-line">But trouble awaited, from foes we’d not seen,</span>
+<span class="verse-line">In the mountains we stumbled on Hill Giants mean.</span>
+<span class="verse-line">To defeat we came (almost), as spells started flying,</span>
+<span class="verse-line">And a Demon appeared, while the heroes fell dying!</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">But our end was not there, for it was not written,</span>
+<span class="verse-line">Nay, to the desert we’d go, where we’d get bitten.</span>
+<span class="verse-line">O Anauroch, Anauroch, where I met my fate,</span>
+<span class="verse-line">‘Twas there where He hunted and prowled in wait.</span>
+<span class="verse-line">So, Father pray, listen up and hear this brave tale,</span>
+<span class="verse-line">For soon we shall hear of Ilmater’s great wail.</span>
+</blockquote>
+<h3 id="canto-iii">Canto III</h3>
+<blockquote>
+<span class="verse-line">So, Brother I’m telling you, of where I have been.</span>
+<span class="verse-line">I’m telling of heroes, and horrors I’ve seen.</span>
+<span class="verse-line">This is the story, of many a man,</span>
+<span class="verse-line">Nobles and rascals, and a failed Zhent plan.</span>
+<span class="verse-line">This is the story of monsters and war,</span>
+<span class="verse-line">This is the story of my journey so far.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">The desert sands welcomed us with hatred and fear,</span>
+<span class="verse-line">But not yet was the time when I’d get this grey tear.</span>
+<span class="verse-line">But all our great endings must have a foul start,</span>
+<span class="verse-line">And soon was to be the first test of my heart.</span>
+<span class="verse-line">O, Anauroch, cursed Anauroch, damned be your sands,</span>
+<span class="verse-line">You gave us the plague that I spread with my hands.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">We went out of the heat to a canyon so right,</span>
+<span class="verse-line">But we heard a great roar that gave us a fright!</span>
+<span class="verse-line">Grandfather Lion, Hunter and King,</span>
+<span class="verse-line">I knew he was evil, so I took the first swing.</span>
+<span class="verse-line">The battle was bloody, the most horrible so far,</span>
+<span class="verse-line">His infectious claws; my soul they would mar!</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">The day was a loss, and we were all broken,</span>
+<span class="verse-line">The beast, all he’d wanted, was a horse as a token.</span>
+<span class="verse-line">All of us were bloody and battered and dying.</span>
+<span class="verse-line">But all I could hear was the Gods’ mournful crying.</span>
+<span class="verse-line">Our task was not finished, rather only just begun,</span>
+<span class="verse-line">I’d meet him once more before our quest was done...</span>
+</blockquote>
+<hr>
+
+<section id="ii-the-ballad-of-maturin-and-the-lion">
+<h2>II. The Ballad of Maturin and the Lion</h2>
+<p class="attribution"><em>A Harper composition, sung in the Dalelands c. 1373 DR</em></p>
+<p class="collector-note">Where the Saga tells Maturin’s story in his own voice, this companion ballad recounts it in the third person, in the formal style of the Harper tradition. It is the more widely known of the two compositions, sung from Shadowdale to Berdusk, and its escalating refrain — from “I will endure” to “He will endure” to the thunderous communal “We will endure” — never fails to bring an audience to its feet. The six cantos trace the full arc: the ride from Waterdeep, the lycanthropic horror in Anauroch, Shildevan’s prophecy, the liberation of Dagger Falls, the desert campaign of the Eastern Storm, and the climactic single combat between Maturin and Grandfather Lion.</p>
+</section>
+<hr>
+<h3 id="i">I</h3>
+<blockquote>
+<span class="verse-line">Maturin was a Paladin who rode out of the East</span>
+<span class="verse-line">An exile from Damara to secure his nation’s peace</span>
+<span class="verse-line">A soldier of Ilmater and a healer of the poor,</span>
+<span class="verse-line">He made his way to Waterdeep, on Faerûn’s western shore.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">‘Gainst slavery and suffering, Ilmater’s son was called,</span>
+<span class="verse-line">With five brave friends from Waterdeep, to ride for Dagger Falls.</span>
+<span class="verse-line">But a villain’s bounty on their heads brought Grimwald and his men,</span>
+<span class="verse-line">‘Til a bitter night in Secomber, where the Sheriff met his end.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">House Raventree there lost a son, and Hanibal was gone,</span>
+<span class="verse-line">But with Dorian and Dalak now, the party soldiered on.</span>
+<span class="verse-line">The road they took grew grimmer still, through Loudwater and Llorkh,</span>
+<span class="verse-line">Towards destiny and danger, towards wailing Anauroch.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">I will endure. I will endure.</span>
+<span class="verse-line">Maturin and the Lion.</span>
+</blockquote>
+<h3 id="ii">II</h3>
+<blockquote>
+<span class="verse-line">The desert burned away their flesh, their horses died of thirst,</span>
+<span class="verse-line">They were poisoned by the Zhentarim, they were hunted, they were cursed.</span>
+<span class="verse-line">The Grandfather of Lions came upon them in the dunes,</span>
+<span class="verse-line">And dread grew on them daily, with the waxing of the moon.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">The full moon rose, all Hell broke loose, and in the dying light</span>
+<span class="verse-line">From heroes in the desert’s sun, came lions in the night.</span>
+<span class="verse-line">The Green-Eyed God grinned on the scene of murder, strife and gore</span>
+<span class="verse-line">As hapless slaves were hunted down, as Zhents were rent and torn.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Maturin woke beneath the sun; his wounds had all been healed.</span>
+<span class="verse-line">A night beyond remembrance, the corpse-strewn ground revealed.</span>
+<span class="verse-line">His noble steed fled from his touch into the barren sands.</span>
+<span class="verse-line">Ilmater had forsaken him; he knew then that he was damned.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">I will endure. I will endure.</span>
+<span class="verse-line">Maturin and the Lion.</span>
+</blockquote>
+<h3 id="iii">III</h3>
+<blockquote>
+<span class="verse-line">In that bloody night of carnage, two more friends had disappeared,</span>
+<span class="verse-line">Three men and a raging dwarf pressed forward, through their fears</span>
+<span class="verse-line">‘Til mad and roaming Shildevan, a prophet and a saint,</span>
+<span class="verse-line">Came to them at the next full moon, to cleanse the lion’s taint.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">‘You will hearken to your duty, you will go into the East,</span>
+<span class="verse-line">But when Dagger Falls is free then you must answer to my geis.</span>
+<span class="verse-line">Boregar, you’ll set to rights the wrongs you’ve left behind.</span>
+<span class="verse-line">Dorian, you’ll a pauper be, ‘til you’ve foiled Beholder-kind.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Maturin, Ilmater weeps to see your low disgrace,</span>
+<span class="verse-line">But all may be redeemed and if you would once more take your place,</span>
+<span class="verse-line">Return unto the desert, for alone to face your foe</span>
+<span class="verse-line">In single combat slay the Lion, and thereby save your soul.”</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">I will endure. I will endure.</span>
+<span class="verse-line">Maturin and the Lion.</span>
+</blockquote>
+<h3 id="iv">IV</h3>
+<blockquote>
+<span class="verse-line">Two months in the desert, then another two of war</span>
+<span class="verse-line">But none of these brave heroes forgot what they were fighting for.</span>
+<span class="verse-line">The mines were closed, the slaves were freed, and Yarkul put to death.</span>
+<span class="verse-line">But yet there lurked in Dagger Falls an unseen, silent threat.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Maturin’s dreams were clouded then, the God of Lies appeared,</span>
+<span class="verse-line">“Go into the desert, now, your fate awaits you there.”</span>
+<span class="verse-line">His prayers went still unanswered, and he was plagued anew with doubt,</span>
+<span class="verse-line">But Daggerdale could not be free ‘til the evil was cast out.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">The walking dead and demon-knights and all things dark and weird,</span>
+<span class="verse-line">Came boiling from dark temple crypts, but the Heroes persevered.</span>
+<span class="verse-line">Victory at Harvestide was the conclusion of their quest.</span>
+<span class="verse-line">But a desert wind rose up that night, and Maturin could not rest.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">I will endure. I will endure.</span>
+<span class="verse-line">Maturin and the Lion.</span>
+</blockquote>
+<h3 id="v">V</h3>
+<blockquote>
+<span class="verse-line">They rode into the desert then, five brothers of the sword:</span>
+<span class="verse-line">Boregar and Garrik, Count Dorian the Lord,</span>
+<span class="verse-line">Gaebril the Crusader and Maturin the Grey</span>
+<span class="verse-line">No foe could stand before them; no blade could block their way.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">That Eastern Storm whipped through the sands, a purifying gale.</span>
+<span class="verse-line">It swept through Zhentish citadels, it cleansed the desert trails.</span>
+<span class="verse-line">The disciples of the God of Lies were slaughtered to a man,</span>
+<span class="verse-line">But their quarry still eluded them, the Tyrant’s caravan.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">At length they reached the ruined place where they had fought and killed,</span>
+<span class="verse-line">Midwinter was upon them then and they sheltered from the chill.</span>
+<span class="verse-line">Maturin stared into the dunes, hand clenched upon his sword,</span>
+<span class="verse-line">And somewhere in the desert night, they heard a lion roar...</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">I will endure. I will endure.</span>
+<span class="verse-line">Maturin and the Lion.</span>
+</blockquote>
+<h3 id="vi">VI</h3>
+<blockquote>
+<span class="verse-line">The Lion came into the keep, the winter stormed without</span>
+<span class="verse-line">Maturin stood before it and he gave a mighty shout</span>
+<span class="verse-line">“I’ve sworn by all that’s holy to end your foul plague.</span>
+<span class="verse-line">Forsake your Green-Eyed Master now and answer to my rage.”</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">The Lion roared, its claws lashed out, its fierce teeth opened wide</span>
+<span class="verse-line">Maturin raged with passion, and he fought with all his might</span>
+<span class="verse-line">And in that clash of silver, muscle, steel, tooth, and blood,</span>
+<span class="verse-line">A man warred with a lion; god made war with god.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Abruptly then, as silence fell, both bodies fell to ground.</span>
+<span class="verse-line">Maturin’s friends rushed to his side, and on seeing him, they found</span>
+<span class="verse-line">A small grey tear beneath one eye, and a smile ‘pon his face,</span>
+<span class="verse-line">He whispered out a prayer then, and I swear they heard him say...</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">I will endure. I will endure.</span>
+<span class="verse-line">Maturin and the Lion.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">He will endure. He will endure.</span>
+<span class="verse-line">Maturin and the Lion.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">We will endure. We will endure!!</span>
+<span class="verse-line">Maturin and the Lion.</span>
+</blockquote>
+<hr>
+
+<section id="iii-the-ballad-of-dagger-falls">
+<h2>III. The Ballad of Dagger Falls</h2>
+<p class="attribution"><em>by Boregar the Wanderer</em></p>
+<p class="attribution"><em>One of many Harper ballads about the Liberation of Dagger Falls, c. 1372 DR</em></p>
+<p class="collector-note">Boregar the Wanderer — Harper agent, lycanthrope survivor, and wielder of what may be the most feared quarterstaff in the Dalelands — composed this rousing piece in a style deliberately modelled on an old marching song. Its irreverent tone and infectious chorus made it an immediate favourite among the soldiers and freemen of the liberated Dale. The reference to “guns” is a Mistledale colloquialism for crossbows.</p>
+</section>
+<hr>
+<blockquote>
+<span class="verse-line">“In 1372 we took a little trip,</span>
+<span class="verse-line">Across the desert Anauroch, to take away the whips,</span>
+<span class="verse-line">We had the hero Dorian, and Maturin the Grey,</span>
+<span class="verse-line">With Sparrow and a Dwarven Dread</span>
+<span class="verse-line">The Fat Man led the way</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">“We lost our guns but the Zhents they kept a’comin’</span>
+<span class="verse-line">There wasn’t quite as many as there was a while ago</span>
+<span class="verse-line">With one heroic strike, we sent the Zhents a’runnin’</span>
+<span class="verse-line">Across the mighty desert to the nine hells far below.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">“Ol’ Sparrow said we could take them by surprise</span>
+<span class="verse-line">If he killed their mighty wizard while the sleep was in his eyes</span>
+<span class="verse-line">The Harpers helped to destroy the snakes with wings</span>
+<span class="verse-line">And we cleared the Town of Dagger Falls of all the evil things.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">“We lost our guns but the Zhents they kept a’comin’</span>
+<span class="verse-line">There wasn’t quite as many as there was a while ago</span>
+<span class="verse-line">With one heroic strike, we sent the Zhents a’runnin’</span>
+<span class="verse-line">Across the mighty desert to the nine hells far below.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">“We freed the slaves and returned them to their towns</span>
+<span class="verse-line">But the slabs were off for Anauroch b’fore the snows came down</span>
+<span class="verse-line">Shar had sent a paladin, with Garrik it made five</span>
+<span class="verse-line">To free the sands of Anauroch and leave no Zhents alive</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">“We lost our guns but the Zhents they kept a’comin’</span>
+<span class="verse-line">There wasn’t quite as many as there was a while ago</span>
+<span class="verse-line">With one heroic strike, we sent the Zhents a’runnin’</span>
+<span class="verse-line">Across the mighty desert to the nine hells far below.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">“O we fought through the guards,</span>
+<span class="verse-line">We fought through the gen’rals,</span>
+<span class="verse-line">We fought all the leaders of each mighty Zhent outpost</span>
+<span class="verse-line">We fought so hard that the Zhents’ll not forget us</span>
+<span class="verse-line">The Five brave fighters who came on them in the snow.”</span>
+</blockquote>
+<hr>
+
+<section id="iv-the-ballad-of-the-north">
+<h2>IV. The Ballad of the North</h2>
+<p class="attribution"><em>by Oberon of Netheril</em></p>
+<p class="attribution"><em>A composition on the travails and fortunes of the heroes who thwarted the Zhentarim wizard Malkor, spring 1372 DR</em></p>
+<p class="collector-note">Oberon of Netheril is one of the most extraordinary figures in recent bardic history — a man (if man he truly be) some five thousand years old, rescued from magical stasis in an ancient Netherese dungeon. His ballad of the Neverwinter expedition against the Zhentarim wizard Malkor Githeas is sung to a melody of great beauty and melancholy, and its chorus is among the most recognizable in the North. The piece was composed in Neverwinter in the aftermath of the battle, and is still performed at the annual commemoration beneath the great statue on the Southern High Road Gate.</p>
+</section>
+<hr>
+<p class="attribution"><strong>Chorus</strong></p>
+<blockquote>
+<span class="verse-line">Ah, for just one time, I would ride for Neverwinter</span>
+<span class="verse-line">To smite the hand of Luskan, reaching from the Trackless Sea;</span>
+<span class="verse-line">Tracing one warm line through Frontier both wild and bitter</span>
+<span class="verse-line">As Neverwinter’s Heroes did for thee.</span>
+</blockquote>
+<p class="attribution"><strong>Verses</strong></p>
+<blockquote>
+<span class="verse-line">I have a tale to tell you, unmatched in all Faerûn</span>
+<span class="verse-line">A tale of woe and glory, a tender tragic tune.</span>
+<span class="verse-line">You who would be heroes, who would set aright the wrong</span>
+<span class="verse-line">Listen to my words and hear my song.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Northward from Roark’s Tavern ‘tis there ‘twas said to lie,</span>
+<span class="verse-line">The road to Neverwinter for which the Harpers died:</span>
+<span class="verse-line">The Road Mage and Bloodshoulder, fairest Laurel Dawn.</span>
+<span class="verse-line">The Zhents’ deceit flows thick and black and on.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Beljuril and Rufus, the last of that great band,</span>
+<span class="verse-line">Set out with Mae and Oliver, and Fazil the Grand.</span>
+<span class="verse-line">Sheriff Grimwald’s men came after, tracked us through hill and vale,</span>
+<span class="verse-line">‘Till Selûne brought down thunder on their tails.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Then through the night, at Leilon’s gates, through wizard’s base deceit</span>
+<span class="verse-line">We ran afoul of folly, as orcs rained down like sleet.</span>
+<span class="verse-line">Locked inside a prison, facing oil and smoke and fire</span>
+<span class="verse-line">Atemnon planned a ghastly fun’ral pyre.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Beshaba’s breath was on us, as we came out of that place.</span>
+<span class="verse-line">But likewise had the Sheriff’s men felt Maevri’s lethal taste</span>
+<span class="verse-line">The city fell behind us, as the Red Shields led the way</span>
+<span class="verse-line">But darkness was to rise against the day.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Insidious enchantments corrupt the best of men</span>
+<span class="verse-line">And Shar’s brood came before us, rising upwards from the plain.</span>
+<span class="verse-line">In defiance and in glory, Selûne’s blade in his hand,</span>
+<span class="verse-line">Rufus led the charge, and we scattered them like sand.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">At Neverwinter Harbour, hidden safe from sight,</span>
+<span class="verse-line">We found the nest of Malkor and made ready for to fight.</span>
+<span class="verse-line">But not illusions, songs, or arrows, nor prayers, art, or faith</span>
+<span class="verse-line">Could stop that madman’s rain of fire and death.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">To sea we put to hound the fiend, who’d cut so many down,</span>
+<span class="verse-line">We swore that Rufus’ killer had seen the last of solid ground.</span>
+<span class="verse-line">Forsaken then by Luskan, his ship was set ablaze,</span>
+<span class="verse-line">An arrow’s lonely flight cut short his days.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">The world of men is fleeing; I’ve seen thousands turn to dust.</span>
+<span class="verse-line">But legends live forever, and our songs recall the just.</span>
+<span class="verse-line">Endings are beginnings, and Neverwinter’s free</span>
+<span class="verse-line">Now sing of heroes, death and hope with me.</span>
+</blockquote>
+<p class="attribution"><em>[all sing together]</em></p>
+<blockquote>
+<span class="verse-line">Ah, for just one time, I would ride for Neverwinter</span>
+<span class="verse-line">To smite the hand of Luskan reaching from the Trackless Sea.</span>
+<span class="verse-line">Tracing one warm line through Frontier both wild and bitter</span>
+<span class="verse-line">As Neverwinter’s heroes did for me.</span>
+</blockquote>
+<hr>
+
+<section id="v-oberon-s-lament-for-old-netheril">
+<h2>V. Oberon’s Lament for Old Netheril</h2>
+<p class="attribution"><em>by Oberon of Netheril</em></p>
+<p class="collector-note">This short, fierce poem accompanies the Ballad of the North as a second specimen of Oberon’s art, and a markedly different one. Where the Ballad is narrative and communal, the Lament is private and philosophical — a meditation on the difference between minor and major poetry, and an implicit claim for the tradition to which Oberon himself belongs. Coming from a man who watched the fall of Netheril and slept through five thousand years of history, the final image of mad blind hands reaching into the night to drag forth “mad, monstrous nightmare shapes” carries a weight that no younger poet could give it.</p>
+</section>
+<hr>
+<blockquote>
+<span class="verse-line">The little poets sing of little things:</span>
+<span class="verse-line">Hope, cheer, and faith,</span>
+<span class="verse-line">small queens and puppet kings;</span>
+<span class="verse-line">Lovers who kissed and then were made as one,</span>
+<span class="verse-line">And modest flowers waving in the sun.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">The mighty poets write in blood and tears</span>
+<span class="verse-line">And agony that, flame-like, bites and sears.</span>
+<span class="verse-line">They reach their mad blind hands into the night,</span>
+<span class="verse-line">To plumb abysses dead to human sight;</span>
+<span class="verse-line">To drag from gulfs where lunacy lies curled,</span>
+<span class="verse-line">Mad, monstrous nightmare shapes to blast the world.</span>
+</blockquote>
+<hr>
+
+<section id="vi-dalak-s-homemade-beer">
+<h2>VI. Dalak’s Homemade Beer</h2>
+<p class="attribution"><em>A drinking song composed by Maturin Horgath during the long night of his fall from grace</em></p>
+<p class="collector-note">That a paladin of Ilmater should compose a drinking song is remarkable enough; that the song should be this good is little short of miraculous. Maturin wrote it during the dark period of his lycanthropic curse, when his prayers went unanswered and his god seemed to have turned His face away. The song commemorates the dwarven warrior Dalak Quickaxe’s legendary homebrew — a concoction of such ferocity that even Boregar the Wanderer, a man of heroic appetites, could not keep it down. It is best sung loudly, with a full tankard, and with diminishing accuracy as the verses progress.</p>
+</section>
+<hr>
+<p class="attribution"><strong>First Verse</strong></p>
+<blockquote>
+<span class="verse-line">O, the year was 1372 (I wish I’d never tried it now)</span>
+<span class="verse-line">And Anauroch’s sun might’ve been the shade</span>
+<span class="verse-line">To the scummiest brew that’s ever been made...</span>
+</blockquote>
+<p class="attribution"><strong>Chorus</strong></p>
+<blockquote>
+<span class="verse-line">Tyr damn us all! I was told</span>
+<span class="verse-line">This ale was worth its weight in gold.</span>
+<span class="verse-line">We’d feel no pain, shed no tears</span>
+<span class="verse-line">But it’s a foolish man who shows no fear</span>
+<span class="verse-line">At a glass of Dalak’s homemade beer.</span>
+</blockquote>
+<p class="attribution"><strong>Verses</strong></p>
+<blockquote>
+<span class="verse-line">Dalak Quickaxe brought forth the jug (I wish I’d never tried it now)</span>
+<span class="verse-line">For three brave men, all warriors who</span>
+<span class="verse-line">Would taste for him the gut shakin’ brew.</span>
+</blockquote>
+<p class="attribution"><em>[chorus]</em></p>
+<blockquote>
+<span class="verse-line">Dorian was the first to drink (I wish I’d never tried it now)</span>
+<span class="verse-line">The brew brought forth such chokes and gags,</span>
+<span class="verse-line">Like a lion had ripped his throat to rags.</span>
+</blockquote>
+<p class="attribution"><em>[chorus]</em></p>
+<blockquote>
+<span class="verse-line">Boregar next, belly hard and vast (I wish I’d never tried it now)</span>
+<span class="verse-line">He was seven foot tall, and eight foot wide</span>
+<span class="verse-line">He growled “Pass that jug or I’ll tan your hide!”</span>
+</blockquote>
+<p class="attribution"><em>[chorus]</em></p>
+<blockquote>
+<span class="verse-line">He swallowed down then spewed it up (I wish I’d never tried it now)</span>
+<span class="verse-line">Dalak was smashed with a gutful of dregs</span>
+<span class="verse-line">And his breath set fire to both me legs.</span>
+</blockquote>
+<p class="attribution"><em>[chorus]</em></p>
+<blockquote>
+<span class="verse-line">A Paladin drunk is a Paladin not (I wish I’d never tried it now)</span>
+<span class="verse-line">But Ilmater’s away, and I’m pretty sure</span>
+<span class="verse-line">There ain’t a hangover I can’t endure.</span>
+</blockquote>
+<p class="attribution"><em>[chorus]</em></p>
+<blockquote>
+<span class="verse-line">So here I lie with me twenty-third beer (I wish I’d never tried it now)</span>
+<span class="verse-line">The Gutshaker’s great, but soon it’ll be</span>
+<span class="verse-line">Grandfather, Ilmater, the desert and me.</span>
+</blockquote>
+<p class="attribution"><em>[chorus]</em></p>
+<hr>
+
+<section id="vii-three-ravens">
+<h2>VII. Three Ravens</h2>
+<p class="attribution"><em>From an old Mistledale poem</em></p>
+<p class="collector-note">This grim little verse circulates in several forms throughout the Dalelands. The version presented here is a particular favourite of Beliard Emmarask, suggesting that the Cormyrean bard had an interest in the older poetic traditions of the region. Its theme — the faithlessness of the living and the indifference of nature to the fallen warrior — is characteristic of a strain of Dalelands poetry far older than the Harper tradition.</p>
+</section>
+<hr>
+<blockquote>
+<span class="verse-line">Raven doth to ravens fly,</span>
+<span class="verse-line">Raven doth to ravens cry:</span>
+<span class="verse-line">Raven, where is carrion tender?</span>
+<span class="verse-line">What shall be the day’s provender?</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Raven answers raven thus:</span>
+<span class="verse-line">Well I know of meat for us;</span>
+<span class="verse-line">On the fallow, by the willow</span>
+<span class="verse-line">Lies a knight, a clod his pillow.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Why he died, who dealt the blow,</span>
+<span class="verse-line">That his hawk alone can know,</span>
+<span class="verse-line">And the sable mare who bore him.</span>
+<span class="verse-line">And his bride who rode before him.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">But the hawk now sails the air,</span>
+<span class="verse-line">And the foe bestrode the mare,</span>
+<span class="verse-line">And the bride a wreath is wreathing</span>
+<span class="verse-line">For a new love, warm and breathing.</span>
+</blockquote>
+<hr>
+
+<section id="viii-beliard-s-lay-at-quick-axes">
+<h2>VIII. Beliard’s Lay at Quick Axes</h2>
+<p class="attribution"><em>Performed by Beliard Emmarask at the tavern of Quick Axes, Dagger Falls</em></p>
+<p class="attribution"><em>8 Flamerule, 1480 DR</em></p>
+<p class="collector-note">I was nineteen years old when I heard Beliard Emmarask sing. My father had brought me to Dagger Falls on a trading run, and we found ourselves in the great taproom of Quick Axes on a night when the Cormyrean caravans had come in and the hall was packed to the rafters. Emmarask had talked his way into the evening’s entertainment — displacing, I later learned, the hired minstrel who had failed to appear — and after a comic ode to the caravan-master Denelius Ormath that had the room in stitches, he mounted the table and began to sing.</p>
+<p class="collector-note">I have never forgotten it. The room fell silent — three hundred souls, traders and soldiers and dwarves and carters, all of them holding their breath. His voice was low and rich and full of a sorrow that had nothing theatrical about it. The song was Daggerdale itself — its roads and rivers, its dangers and beauties, the weight of its history and the stubbornness of its people. When he finished, a crash from the kitchen broke the spell, and three elves walked in from the night, and the evening took a different turn entirely. But the song stayed with me. It has stayed with me for twenty years.</p>
+</section>
+<hr>
+<h3 id="the-lay">The Lay</h3>
+<blockquote>
+<span class="verse-line">A stick, a stone, it’s the end of the road, it’s the rest of a stump, it’s a little alone,</span>
+<span class="verse-line">It’s a sliver of glass, it is life, it’s Selûne, it is night, it is death, it’s a trap, it’s a rune.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">The oak when it blooms, a fox in the brush, a knot in the wood, the song of a thrush,</span>
+<span class="verse-line">The wood of the wind, a tower, a fall, a scratch, a lump, it is nothing at all.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">It’s the wind blowing free, it’s the end of the slope, it’s a gleam, it’s a void, it’s a hunch, it’s a hope,</span>
+<span class="verse-line">Where the River Tesh crosses the Tethyamar trail, it’s the end of a journey, it’s the start of the tale.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">The foot, the ground, the flesh and the bone, the beat of the drum, a slingshot’s stone,</span>
+<span class="verse-line">A fish, a flash, a silvery glow, a fight, a bet, the range of a bow.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">The bed of the well, the end of the line, the dismay in the face, it’s a loss, it’s a find,</span>
+<span class="verse-line">A spear, a spike, a point, a nail, a drip, a drop, the end of the tale.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">A cartload of hay in the soft morning light, the howl of a wolf in the dead of the night,</span>
+<span class="verse-line">A mile, a must, a thrust, a blow, it’s a girl, it’s a rhyme, it’s a troll, it’s the snow.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">The plan of the castle, the body in bed, and the cart that got stuck, it’s the mud, it’s the mud,</span>
+<span class="verse-line">Afloat, adrift, a flight, a wing, a hawk, a quail, the promise of spring.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Where the River Tesh crosses the Tethyamar trail, it’s the end of a journey, it’s the start of the tale.</span>
+<span class="verse-line">A stick, a stone, it’s the end of the road, it’s the rest of a stump, it’s a little alone.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">A shadow, a snake, it is Shar, it is fear, it’s a thorn in your hand and a lie in your ear,</span>
+<span class="verse-line">A point, a blade, a bee, a bite, a blink, a buzzard, a thief in the night.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">A pin, a needle, a sting, a pain, a snail, a riddle, a wasp, a stain,</span>
+<span class="verse-line">A pass in the mountains, a horse and a mule, in the distance the elves, three shadows of blue.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Where the River Tesh crosses the Tethyamar trail, it’s the end of a journey, it’s the start of the tale.</span>
+<span class="verse-line">A stick, a stone, the end of the road, the rest of a stump, a lonesome road,</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">A sliver of glass, a life, the sun, a knife, a death, the end of the run,</span>
+<span class="verse-line">Where the River Tesh crosses the Tethyamar trail, it’s the end of a journey, it’s the start of the tale.</span>
+</blockquote>
+<hr>
+
+<section id="ix-a-song-of-ravens">
+<h2>IX. A Song of Ravens</h2>
+<p class="attribution"><em>by Beliard Emmarask</em></p>
+<p class="attribution"><em>From the journal of Emmarask, 8 Flamerule, 1480 DR</em></p>
+<p class="collector-note">This short, enigmatic poem was found in Emmarask’s private journal, written on the same evening as his performance at Quick Axes. Unlike the public lay, which is a meditation on Daggerdale’s landscape, this piece is darker and more allusive. Its references to “silver talons” and ravens freed from a cage suggest a political subtext that I confess I have not been able to fully decode, though the final image — of something caged now flying free over the “wooded dales” and the “sandless sea” — is unmistakably hopeful.</p>
+</section>
+<hr>
+<blockquote>
+<span class="verse-line">A dagger falls in Dagger Falls</span>
+<span class="verse-line">A stranger’s blood to spill —</span>
+<span class="verse-line">A death unstaid by haggard calls</span>
+<span class="verse-line">To conscience good or ill.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">No stone unturned, no task undone,</span>
+<span class="verse-line">No hand be left to chance</span>
+<span class="verse-line">No night god’s knight nor sun god’s son</span>
+<span class="verse-line">Can stay Rauthauvyr’s lance.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">The ravens from their cage fly free,</span>
+<span class="verse-line">Their silver talons bright</span>
+<span class="verse-line">The wooded dales, the sandless sea,</span>
+<span class="verse-line">Are theirs once more tonight.</span>
+</blockquote>
+<hr>
+
+<section id="x-ode-to-denelius-ormath">
+<h2>X. Ode to Denelius Ormath</h2>
+<p class="attribution"><em>by Beliard Emmarask</em></p>
+<p class="attribution"><em>Performed at Quick Axes, Dagger Falls, 8 Flamerule, 1480 DR</em></p>
+<p class="collector-note">Strictly speaking, this comic piece has already been mentioned in context as part of Beliard’s performance at Quick Axes, but it deserves separate recognition as a specimen of the bard’s gift for flattery so extravagant as to become its own form of satire. Denelius Ormath is a caravan-master of some local reputation — a man whose leadership of the Cormyrean trading convoy to Dagger Falls had apparently been an ordeal that few of his charges would care to repeat. Beliard’s ode transformed this unpromising material into a triumph of audience manipulation, goading Ormath into buying ale for the entire taproom. The piece is given here in its verse form only; the prose patter that surrounded it was improvised and is lost.</p>
+</section>
+<hr>
+<blockquote>
+<span class="verse-line">Who thunders ‘cross the Thunder Peaks? Why, Denelius Ormath!</span>
+<span class="verse-line">Who knows what every merchant seeks? Why, Denelius Ormath!</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Will he be stayed by bandit swarms? Not Denelius Ormath!</span>
+<span class="verse-line">By orc marauders? Or fire or storms? Not Denelius Ormath!</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Who carts the cargo and lugs the loads? It’s Denelius Ormath!</span>
+<span class="verse-line">He’s the iron captain of the roads, is Great Denelius Ormath!</span>
+</blockquote>
+<hr>
+
+<section id="appendix-i-songs-of-eastwitch" class="appendix">
+<h2 class="appendix-header">Appendix I: Songs of Eastwitch</h2>
+<p class="collector-note">The pieces that follow belong to a tradition far removed from the Dalelands, both in geography and in character. The Eastwitch country is a frontier settlement on the edge of the Wild — a place where civilization clings by its fingernails to a hostile landscape, and where the old darkness of the forest presses in on every side. Its poetry reflects this duality: where the Daggerdale tradition celebrates heroism and resistance, the Eastwitch songs range from the haunted and elegiac to the raucously comic, and are concerned alike with the terrible intimacy of violence in small communities and with the defiant good cheer of those who live in its shadow. I include them here because they are fine poems that deserve to be more widely known, and because the collector’s art, like the bard’s, sometimes requires a change of key.</p>
+<h3 id="xi-dunlogan-s-song">XI. Dunlogan’s Song</h3>
+<p class="attribution"><em>Part I: Lyrics by Benjamin Wrightson, 1684</em></p>
+<p class="attribution"><em>Part II: Verses added in 1690, author unknown</em></p>
+<p class="collector-note">Dunlogan’s Song is a masterwork of frontier balladry, and I do not use the word lightly. Benjamin Wrightson’s original composition tells the story of Ridge Dunlogan, a farmer on the Heights whose death at the jaws of a wolf pack left his five young daughters orphaned, and of the monstrous Zebulon Kavenaugh, who married the eldest girl for her land and met a justice more terrible than any court could deliver. The anonymous second part, added six years later, shifts from narrative to elegy, and its closing image of Ruth Ann Dunlogan’s ghost humming to her father’s pipes is among the most haunting passages in the literature of the frontier.</p>
+</section>
+<hr>
+<p class="attribution"><strong>Part I</strong></p>
+<blockquote>
+<span class="verse-line">In the autumn bleak of ‘sixty-four</span>
+<span class="verse-line">At the farm up on the Heights,</span>
+<span class="verse-line">Good Ridge Dunlogan hung pipes that play</span>
+<span class="verse-line">For miles on wind-swept nights.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">In the slightest breeze, the pipes would moan</span>
+<span class="verse-line">Through the orchards fair and long;</span>
+<span class="verse-line">That ghostly air still sounds today,</span>
+<span class="verse-line">And sings Dunlogan’s Song.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">The few who’ve heard would fain forget</span>
+<span class="verse-line">That weird and woeful wail,</span>
+<span class="verse-line">And if you’d learn their lone lament,</span>
+<span class="verse-line">Turn your ears unto this tale.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Good Ridge Dunlogan, of Eastwitch born</span>
+<span class="verse-line">Was a stoic soul indeed,</span>
+<span class="verse-line">With an orchard large and sheep to tend,</span>
+<span class="verse-line">And five small mouths to feed.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">His days were long but he seldom frowned</span>
+<span class="verse-line">When labour bent his back,</span>
+<span class="verse-line">His toiling ceased one autumn night,</span>
+<span class="verse-line">When he fell to a ravening pack.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">The baleful beasts bayed, ferociously foaming,</span>
+<span class="verse-line">Their wicked eyes windows to Hell.</span>
+<span class="verse-line">As Dunlogan fought, far away in the gloaming,</span>
+<span class="verse-line">His pipes played their master’s death knell.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Thus Ruth Ann Dunlogan, young, winsome and wan</span>
+<span class="verse-line">Was orphaned by wolves at fifteen,</span>
+<span class="verse-line">Charged with four sisters, a flock and a farm,</span>
+<span class="verse-line">In a year when the harvest was lean.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">A matriarch maiden, Ruth saw to her sisters,</span>
+<span class="verse-line">But the unwanted charge wore her raw.</span>
+<span class="verse-line">When she turned to her kinfolk, as the fox to the coop,</span>
+<span class="verse-line">Came the wretch Zebulon Kavenaugh.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">At Zebulon’s birth, his mother’d expired</span>
+<span class="verse-line">And his father, struck senseless by loss</span>
+<span class="verse-line">Hideously hanged himself high by the neck</span>
+<span class="verse-line">As his babe bayed beneath Canaan’s Cross.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Thus orphaned, unwanted and scorned by the world</span>
+<span class="verse-line">The boy cringed and crept through his life.</span>
+<span class="verse-line">He grew up as cruel as a midwinter storm</span>
+<span class="verse-line">He grew up as sharp as a knife.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Fortune recoiled from that evil-eyed son,</span>
+<span class="verse-line">No gesture came gracious or kind,</span>
+<span class="verse-line">Naught came from friends, so friends came to naught</span>
+<span class="verse-line">In Zebulon Kavenaugh’s mind.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Zebulon courted his young cousin Ruth</span>
+<span class="verse-line">And he hungered for Dunlogan’s land</span>
+<span class="verse-line">He flatter’d with falsehoods, ‘till, in spite of herself</span>
+<span class="verse-line">Ruth reluctantly gave him her hand.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Lonely and lean was the small ceremony,</span>
+<span class="verse-line">For the Heights are a solid day’s ride,</span>
+<span class="verse-line">Kavenaugh’s kinfolk cared naught for the nuptials;</span>
+<span class="verse-line">Ruth’s sisters played maids for the bride.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Five wedding bells chimed as the five sisters wept</span>
+<span class="verse-line">Five mockingbirds sang from their perch</span>
+<span class="verse-line">And high on the barn, old Dunlogan’s pipes</span>
+<span class="verse-line">Conducted the desolate dirge.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">His concern so settled, the registrar rode out</span>
+<span class="verse-line">As soon as the couple was wed,</span>
+<span class="verse-line">Then Zebulon Kavenaugh, with a leer in his eye</span>
+<span class="verse-line">Pulled Dunlogan’s daughter to bed.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Refusing her husband, Ruth hied from the house,</span>
+<span class="verse-line">To take to the trees in her flight</span>
+<span class="verse-line">But Zebulon Kavenaugh ran her to ground,</span>
+<span class="verse-line">That violent conjugal night.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">The sinister spouse’s degenerate thirst</span>
+<span class="verse-line">Was slaked on his newlywed bride,</span>
+<span class="verse-line">But his lot had been cast ‘neath Saint Canaan’s Cross</span>
+<span class="verse-line">And Fortune was not on his side.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">The deed duly done, ‘neath a mist-covered moon,</span>
+<span class="verse-line">The pipes pining low in the air.</span>
+<span class="verse-line">That unearthly music was joined in lament</span>
+<span class="verse-line">As Ruth Ann wept cold bitter tears.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">But at the wan woman’s wailing, the gale grew fierce,</span>
+<span class="verse-line">The pipes sounded shrill through the Wild,</span>
+<span class="verse-line">And from the dark drew a drove of dastardly orcs,</span>
+<span class="verse-line">To doom the cruel groom and the child.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Zebulon cowered, Ruth screamed in fear,</span>
+<span class="verse-line">The stench of the beasts choked their chests,</span>
+<span class="verse-line">But a westerly wind met the gathering storm,</span>
+<span class="verse-line">A grim wind of steel and of death.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">A Warden’s black blades begged no pardon that day,</span>
+<span class="verse-line">Not from flesh, nor from bone, nor from blood.</span>
+<span class="verse-line">The screams of Or’uk joined in Dunlogan’s Song,</span>
+<span class="verse-line">As it wailed on the winds through the wood.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">The Warden’s dread dance did deliberately slow,</span>
+<span class="verse-line">As his gaze caught Zebulon’s eye.</span>
+<span class="verse-line">With a face quite as cold as a corpse in the snow</span>
+<span class="verse-line">He strode to the sad scoundrel’s side.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Frantically the fiends fled, fully afraid</span>
+<span class="verse-line">As the stalwart stood guard o’er the knave,</span>
+<span class="verse-line">But he strangely stayed silent as they bore off the bride</span>
+<span class="verse-line">To a fate in their festering cave.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">The rapist was rescued; the lass led away!</span>
+<span class="verse-line">Surely a more terrible theme,</span>
+<span class="verse-line">Cannot been found in the foulest of fables,</span>
+<span class="verse-line">Yet such was the grim Warden’s scheme.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Zebulon Kavenaugh looked up in dread,</span>
+<span class="verse-line">To look on the conquering Shade,</span>
+<span class="verse-line">And he flinched at the eyes that flamed fierce in the foxlight,</span>
+<span class="verse-line">As the forester made known his fate.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">“You’ve murdered that maiden,” the Warden spoke softly,</span>
+<span class="verse-line">“You’ll bear the full weight of your wrong,</span>
+<span class="verse-line">And I’ll punish you best by permitting you breath</span>
+<span class="verse-line">So long as the winds play this song.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">“For your woman’s been won by those wretched Or’Uk</span>
+<span class="verse-line">She’ll be worked as a slave and to breed.</span>
+<span class="verse-line">Such suffering she’ll know to the edge of her grave</span>
+<span class="verse-line">For your sin of ungovernable greed.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">“Hark to the music that haunts the Heights here</span>
+<span class="verse-line">And weep when it whispers its song</span>
+<span class="verse-line">And if ever you tamper with Dunlogan’s pipes</span>
+<span class="verse-line">You’ll die seven deaths before dawn.”</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Thus Zebulon Kavenaugh’s sole gift in life –</span>
+<span class="verse-line">The only he ever received,</span>
+<span class="verse-line">Was the gaunt Warden’s sentence of sorrowful song</span>
+<span class="verse-line">On the night he was wed, and bereaved.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Cravenly Kavenaugh fled through the night</span>
+<span class="verse-line">His features grown haggard and drawn.</span>
+<span class="verse-line">And from that day forward, he hid on the Heights</span>
+<span class="verse-line">And hearkened to Dunlogan’s Song.</span>
+</blockquote>
+<p class="attribution"><strong>Part II</strong></p>
+<p class="attribution"><em>Verses added in 1690, author unknown</em></p>
+<blockquote>
+<span class="verse-line">The pipes on the barn up at Dunlogan’s Farm</span>
+<span class="verse-line">Still sound their sad song in the south,</span>
+<span class="verse-line">Though Kavenaugh’s form is now food for the worm,</span>
+<span class="verse-line">And the tale turned to rumour from truth.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Though wise folk will race now away from that place</span>
+<span class="verse-line">Where Dunlogan’s pipes gently play,</span>
+<span class="verse-line">His girl Ruth, it is sworn, still walks in some form</span>
+<span class="verse-line">‘Round the farm of her childhood days.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">In ethereal guise her spectre now flies,</span>
+<span class="verse-line">Through the trees by the house on the Heights,</span>
+<span class="verse-line">And once in a while, her ghostly face smiles</span>
+<span class="verse-line">As she hums to her father’s sad pipes.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">She surveys the lands that Dunlogan’s hands</span>
+<span class="verse-line">Once laboured to nurture and grow,</span>
+<span class="verse-line">And there’s a tear in her eye, at the memory why,</span>
+<span class="verse-line">It was lost to them long years ago.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">The dead will know best why they never can rest</span>
+<span class="verse-line">When grief and sorrow run strong.</span>
+<span class="verse-line">And for Ruth Ann Dunlogan, the sorrow unspoken</span>
+<span class="verse-line">Sings softly in Dunlogan’s Song.</span>
+</blockquote>
+<p class="attribution"><em>Fin.</em></p>
+<hr>
+<h3 id="xii-eugenia-s-lament">XII. Eugenia’s Lament</h3>
+<p class="attribution"><em>Sometimes known as Woman’s Scorn</em></p>
+<p class="attribution"><em>A folk poem of the Eastwitch country</em></p>
+<p class="collector-note">This spare, bitter lyric tells of a woman courted and abandoned by a Warden of Eastwitch — one of the grim forest rangers who patrol the frontier between civilization and the Wild. The poem’s power lies in its restraint: the speaker’s grief is conveyed almost entirely through understatement and irony, and the shift to third person in the final stanza, where “her lips grew pale and wan,” has the quality of a death observed from a great distance. The identity of Eugenia, if she existed, is unknown.</p>
+<hr>
+<blockquote>
+<span class="verse-line">A Warden courted me</span>
+<span class="verse-line">Nine months and longer</span>
+<span class="verse-line">He fairly won my heart</span>
+<span class="verse-line">His heart was stronger</span>
+<span class="verse-line">With his axe-blade in his hand</span>
+<span class="verse-line">He looked quite clever</span>
+<span class="verse-line">And if I was with my love</span>
+<span class="verse-line">I’d live forever.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">But where is my love gone</span>
+<span class="verse-line">With his eyes like weather</span>
+<span class="verse-line">And his strange brown token on</span>
+<span class="verse-line">Decked out in wolf’s leather</span>
+<span class="verse-line">I’m afraid the darkling Wild</span>
+<span class="verse-line">Has robbed me of his beauty</span>
+<span class="verse-line">And if I was with my love</span>
+<span class="verse-line">I’d do my duty.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Strange news is come to town</span>
+<span class="verse-line">Strange news is carried</span>
+<span class="verse-line">Strange news flies up and down</span>
+<span class="verse-line">That my love is buried.</span>
+<span class="verse-line">I wish his brethren joy</span>
+<span class="verse-line">Though they can’t hear me</span>
+<span class="verse-line">And may the Wild reward them well</span>
+<span class="verse-line">For the slighting of me.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">They don’t remember when</span>
+<span class="verse-line">He lay beside me</span>
+<span class="verse-line">And he said he’d marry me</span>
+<span class="verse-line">And not deny me.</span>
+<span class="verse-line">No witness have I none</span>
+<span class="verse-line">Save the Wild murky</span>
+<span class="verse-line">And may It reward them all</span>
+<span class="verse-line">For the slighting of me.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Her lips grew pale and wan</span>
+<span class="verse-line">It made a poor heart wonder</span>
+<span class="verse-line">To see the Wildwood yon</span>
+<span class="verse-line">Twist her love asunder.</span>
+</blockquote>
+<hr>
+<h3 id="xiii-the-new-wardens-of-eastwitch">XIII. The New Wardens of Eastwitch</h3>
+<p class="attribution"><em>by Bin Fletcher</em></p>
+<p class="attribution"><em>A favourite at the Green Grizzly</em></p>
+<p class="collector-note">Bin Fletcher is the youngest composer represented in this collection, and perhaps the most improbable. A boy performer of the Eastwitch country, naïve and irrepressibly cheerful, Bin possesses a natural bardic gift that manifests less as polished craft than as an infectious, guileless enthusiasm. This rollcall verse celebrates his companions among the Wardens of Eastwitch — the grim frontier rangers who patrol the boundary between civilization and the Wild. Each Warden receives a couplet suited to his character, and the closing lines have the quality of a toast or a battle-cry. It is a favourite at the Green Grizzly tavern, where Bin is something of a local celebrity.</p>
+<hr>
+<blockquote>
+<span class="verse-line">Brave Bin Fletcher, Warden of the Dale</span>
+<span class="verse-line">With a jaunty bit of playin’, I’ll spin a Warden tale.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Turik Grimwood, Warden of the Thicket</span>
+<span class="verse-line">He’s always usin’ Warden ways to aggravate the wicked.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Gen’ral Clem MacDiarmid, Warden of the Field</span>
+<span class="verse-line">He’ll strategize a thousand ways to bring his foes to heel.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Ol’ Doc Miller, Warden of the Hamlet</span>
+<span class="verse-line">He’s sewin’ up the Wardens’ wounds as good as near as dammit.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Wyatt and his buddy Zieg, Warden Wonder Twins,</span>
+<span class="verse-line">Wyatt cuts the mustard, and Zieg ain’t what he seems.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Dargar Fiddich, Warden of the Rocks.</span>
+<span class="verse-line">If you’re needin’ any wardin’, Dargar’s got the chops.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">It’s ill luck to our enemies, and Fortune to our friends,</span>
+<span class="verse-line">When the goodly folk of Eastwitch call the Wardens for defense!</span>
+</blockquote>
+<hr>
+<h3 id="xiv-the-tale-of-the-fletcher-expedition">XIV. The Tale of the Fletcher Expedition</h3>
+<p class="attribution"><em>by Bin Fletcher</em></p>
+<p class="attribution"><em>Performed at the Green Grizzly, Eastwitch</em></p>
+<p class="collector-note">This longer performance piece was sung by Bin Fletcher at the Green Grizzly tavern on the evening that he and his companions — Dargar Fiddich, Wyatt Fletcher, and Zieg — returned from their expedition into the Wild, where they had discovered the fate of an earlier Fletcher expedition and fought a running battle with orcs. The song was preceded by Bin’s characteristic call to drink, which I include here as it is integral to the performance. The verses that follow recount the battle itself, with Bin’s customary generosity toward his companions and rather less modesty about his own contributions than the facts may warrant. The aside about Zieg and his brew refers to an incident earlier in the evening that had already become tavern legend by the time the song was finished.</p>
+<hr>
+<blockquote>
+<span class="verse-line">So raise your tankard, raise your cup, raise your mug to young Bin</span>
+<span class="verse-line">‘Cause I want to see the bottom of them before I even begin</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Now raise your cups again because you know I really don’t believe</span>
+<span class="verse-line">That those drinks are really empty now raise your cups to Zieg!</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">And the Orcs who had taken our arrows were giving them back to bring</span>
+<span class="verse-line">But to our dismay they were giving them back from the twang of their bow strings</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">My arrows were ready to send right back through the skill of my great longbow</span>
+<span class="verse-line">The craftsmanship of the Fletcher arrows and the Fletcher behind them dropped many a foe</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Dargar’s axe cut down many Orcs, his might so terrible and bold</span>
+<span class="verse-line">If I could I’d fill his cap with gems and dip his beard in gold</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Oh Wyatt whirled and swung his spears as fast as he is brave</span>
+<span class="verse-line">Oh Wyatt cut down twenty Orcs and sent a Troll or two to its grave</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Zieg did all right that battle that night, that is definitely very true</span>
+<span class="verse-line">But not nearly as good as he’s doing tonight at the bottom of his brew</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">We fought back hard, and we fought back long and the battle raged on</span>
+<span class="verse-line">And the bravery of Bin and his companions soon saw their foes gone</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">As you can see by my companions over there we didn’t come out without a scratch</span>
+<span class="verse-line">But an inspiring whistle and song from Bin got us through that dangerous match</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">So raise your drinks again and again raise them through the highs and lows</span>
+<span class="verse-line">And raise your drinks to the time that Bin and his friends became Eastwitch heroes</span>
+</blockquote>
+<hr>
+
+<section id="appendix-ii-songs-of-freeport" class="appendix">
+<h2 class="appendix-header">Appendix II: Songs of Freeport</h2>
+<p class="collector-note">The three shanties that follow were not collected by me at all, but were transcribed by a correspondent — a priestess of Selûne, no less — who had occasion to witness a remarkable evening of song on a beach somewhere in the southern archipelagos, during the festival known as Raidfest. These are sailors’ songs, rough and bawdy and magnificent in their way, and they belong to a tradition as old as the sea itself. I include them because a collection of songs that confines itself to landlocked heroism is only half the story, and because the Gaffer’s whisky shanty, Zechary Mudge’s cautionary ballad of the Waterdeep girls, and the enigmatic Salazar’s hanging song are too good to leave mouldering in a priestess’s correspondence.</p>
+<h3 id="xv-the-gaffer-s-tune">XV. The Gaffer’s Tune</h3>
+<p class="attribution"><em>A whisky shanty, sung at Raidfest</em></p>
+<p class="collector-note">The Gaffer is a figure of some notoriety in the southern seas — a man whose singing voice is, by all accounts, as terrible as his looks, but whose enthusiasm for whisky and for song is beyond question. This shanty, a call-and-response drinking piece of the classic form, was sung around a beach fire while the meat was grilling. It requires no further commentary.</p>
+</section>
+<hr>
+<blockquote>
+<span class="verse-line">Whisky is the life of man,</span>
+<span class="verse-line">Whisky Johnnie.</span>
+<span class="verse-line">Oh! Whisky is the life of many,</span>
+<span class="verse-line">Whisky for my Johnnie.</span>
+<span class="verse-line">I’ll drink whisky when I can,</span>
+<span class="verse-line">Whisky Johnnie.</span>
+<span class="verse-line">I’ll drink it out of an old tin can,</span>
+<span class="verse-line">Whisky for my Johnnie.</span>
+<span class="verse-line">Whisky gave me a broken nose,</span>
+<span class="verse-line">Whisky Johnnie.</span>
+<span class="verse-line">Whisky made me pawn my clothes,</span>
+<span class="verse-line">Whisky for my Johnnie.</span>
+<span class="verse-line">Whisky drove me around the jungles of Chult,</span>
+<span class="verse-line">Whisky Johnnie.</span>
+<span class="verse-line">I was gone many a month, but bonnie twasn’t me fault,</span>
+<span class="verse-line">Whisky for my Johnnie.</span>
+<span class="verse-line">I thought I heard the old man say,</span>
+<span class="verse-line">Whisky Johnnie.</span>
+<span class="verse-line">‘I’ll treat my crew in a decent way,'</span>
+<span class="verse-line">Whisky for my Johnnie.</span>
+<span class="verse-line">A glass of grog for every man,</span>
+<span class="verse-line">Whisky Johnnie.</span>
+<span class="verse-line">And a bottleful for the chanteyman,</span>
+<span class="verse-line">Whisky for my Johnnie.</span>
+</blockquote>
+<hr>
+<h3 id="xvi-zechary-s-song">XVI. Zechary’s Song</h3>
+<p class="attribution"><em>Sometimes known as The Waterdeep Girls</em></p>
+<p class="attribution"><em>Sung by Zechary Mudge at Raidfest</em></p>
+<p class="collector-note">Zechary Mudge is a scoundrel of the seafaring kind, and this bawdy ballad of a sailor’s misadventure in Waterdeep is apparently a favourite of his. The street names and taverns are authentic — Sail Street, Belnimbra’s Street, the Dripping Dagger — which lends the piece a documentary quality beneath its comic surface. The ‘Dhavian girls’ of the final verse are the women of the City of Splendors, though the song has clearly been adapted to suit whichever port the singer finds himself in.</p>
+<hr>
+<blockquote>
+<span class="verse-line">As I walked out on Sail Street,</span>
+<span class="verse-line">a fair maid I did meet</span>
+<span class="verse-line">Who asked me please to see her home</span>
+<span class="verse-line">she lived on Belnimbra’s Street</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">And away, you Johnny,</span>
+<span class="verse-line">my dear honey</span>
+<span class="verse-line">Oh you Waterdeep girls,</span>
+<span class="verse-line">you love us for our money</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">I said, “My dear young lady,</span>
+<span class="verse-line">I’m a stranger here in town</span>
+<span class="verse-line">I left my ship just yesterday,</span>
+<span class="verse-line">from Candlekeep I was bound.”</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">I took her out to Tiffany’s,</span>
+<span class="verse-line">I spared her no fib</span>
+<span class="verse-line">I bought her two gold earrings,</span>
+<span class="verse-line">they cost me five nibs.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">She said, “Come with me, dearie,</span>
+<span class="verse-line">I’ll stand you to a treat</span>
+<span class="verse-line">I’ll buy you rum and brandy,</span>
+<span class="verse-line">dear, and tab-nabs for to eat.”</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">And when we reached the Dripping Dagger, boys,</span>
+<span class="verse-line">the drinks was handed round</span>
+<span class="verse-line">That liquor was so awful strong,</span>
+<span class="verse-line">my head went round and round.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">When the drinking it was over,</span>
+<span class="verse-line">we straight to bed did go</span>
+<span class="verse-line">And little did I ever think</span>
+<span class="verse-line">she’d prove my overthrow</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">When I came to next morning,</span>
+<span class="verse-line">I had an aching head</span>
+<span class="verse-line">And there was I, Jack-all-alone,</span>
+<span class="verse-line">stark naked on the bed</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">I looked all around the room,</span>
+<span class="verse-line">but nothing could I see</span>
+<span class="verse-line">But a lady’s shift and apron</span>
+<span class="verse-line">which now belonged to me</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Everything was silent,</span>
+<span class="verse-line">the hour was eight o’clock</span>
+<span class="verse-line">I put my shift and apron on</span>
+<span class="verse-line">and headed for the dock</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">My shipmates seein’ me come aboard,</span>
+<span class="verse-line">these words to me did say</span>
+<span class="verse-line">“well well, old chap, you’ve lost your cap</span>
+<span class="verse-line">since last you went away.”</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">“Is this the new spring fashion</span>
+<span class="verse-line">the ladies wear ashore?</span>
+<span class="verse-line">Where is the shop that sells it?</span>
+<span class="verse-line">Have they got any more?”</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">The Old Man cried, “why Jack, my boy,</span>
+<span class="verse-line">I’m sure I could have sold</span>
+<span class="verse-line">A better suit than that, by far,</span>
+<span class="verse-line">to buy for eighty gold.”</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">So come all you bully sailormen,</span>
+<span class="verse-line">take warning when ashore</span>
+<span class="verse-line">Or else you’ll meet some charming girl</span>
+<span class="verse-line">who’s nothing but a whore</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Your hard-earned cash will disappear,</span>
+<span class="verse-line">your rig and boots as well</span>
+<span class="verse-line">For ‘Dhavian girls are tougher than</span>
+<span class="verse-line">the other side of Hell.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">And away, you Johnny,</span>
+<span class="verse-line">my dear honey</span>
+<span class="verse-line">Oh you Waterdeep girls,</span>
+<span class="verse-line">you love us for our money</span>
+</blockquote>
+<hr>
+<h3 id="xvii-salazar-s-shanty">XVII. Salazar’s Shanty</h3>
+<p class="attribution"><em>Sometimes known as Hanging Johnnie</em></p>
+<p class="attribution"><em>Sung by Salazar at Raidfest</em></p>
+<p class="collector-note">The last song of the evening belonged to Salazar himself — a man apparently unaccustomed to adulation of any shape, whose performance of this grim little work-song was so well received that the rest of the whisky was emptied after it was done. The song is a hauling shanty, used to time the pulling of ropes, and its cheerful litany of people the singer would like to hang gives it a quality somewhere between gallows humour and genuine menace. Who Salazar is, and what he hangs for, my correspondent does not say.</p>
+<hr>
+<blockquote>
+<span class="verse-line">They call me Hanging Johnnie,</span>
+<span class="verse-line">Horray, Hooray!</span>
+<span class="verse-line">They call me Hanging Johnnie,</span>
+<span class="verse-line">Hang, boys, hang.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">They say I hang for money,</span>
+<span class="verse-line">Horray, Hooray!</span>
+<span class="verse-line">But saying so is funny;</span>
+<span class="verse-line">Hang, boys, hang.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">I’d hang the highway robber,</span>
+<span class="verse-line">Horray, Hooray!</span>
+<span class="verse-line">I’d hang the burglar jobber;</span>
+<span class="verse-line">Hang, boys, hang.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">I’d hang a noted liar,</span>
+<span class="verse-line">Horray, Hooray!</span>
+<span class="verse-line">I’d hang a bloated friar;</span>
+<span class="verse-line">Hang, boys, hang.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">Come hang, come haul together,</span>
+<span class="verse-line">Horray, Hooray!</span>
+<span class="verse-line">Come hang for finer weather,</span>
+<span class="verse-line">Hang, boys, hang.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">I’d hang a brutal mother,</span>
+<span class="verse-line">Horray, Hooray!</span>
+<span class="verse-line">I’d hang her and no other;</span>
+<span class="verse-line">Hang, boys, hang.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">I’d hang to make things jolly,</span>
+<span class="verse-line">Horray, Hooray!</span>
+<span class="verse-line">I’d hang all wrong and folly;</span>
+<span class="verse-line">Hang, boys, hang.</span>
+<span class="verse-break" aria-hidden="true"></span>
+<span class="verse-line">They call me Hanging Johnnie.</span>
+<span class="verse-line">Horray, Hooray!</span>
+<span class="verse-line">They call me Hanging Johnnie,</span>
+<span class="verse-line">Hang, boys, hang.</span>
+</blockquote>
+<hr>
+<p class="attribution"><em>This volume was assembled and transcribed by Tammen Gale of Scardale in the Year of the Awakened Sleepers, 1484 DR. All errors of transcription are the collector’s own. The poems and songs herein are the work of their respective authors and are reproduced without alteration.</em></p>
+
+</main>
+</body>
+</html>
