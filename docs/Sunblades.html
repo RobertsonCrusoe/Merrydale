@@ -475,6 +475,32 @@
                 background-color: #f5f5f5;
             }
         }
+
+        /* Sortable table headers */
+        #personnel-table th[data-sort] {
+            cursor: pointer;
+            user-select: none;
+            position: relative;
+            padding-right: 20px;
+        }
+        #personnel-table th[data-sort]:hover {
+            background: #e8d5b0;
+        }
+        #personnel-table th[data-sort]::after {
+            content: '⇅';
+            position: absolute;
+            right: 6px;
+            opacity: 0.35;
+            font-size: 0.8em;
+        }
+        #personnel-table th[data-sort].sort-asc::after {
+            content: '▲';
+            opacity: 0.7;
+        }
+        #personnel-table th[data-sort].sort-desc::after {
+            content: '▼';
+            opacity: 0.7;
+        }
     </style>
 </head>
 <body>
@@ -686,7 +712,7 @@
 <p><strong>Zephrin</strong> (discharged, Ches 1483) – Dragonborn, originally of Deepingdale. Served four years as gateguard at Dagger Falls—the only Dragonborn in the town, and widely known. Discharged in Ches 1483; Captain Rockland processed his papers and directed him to the Chrysalis recruitment. His subsequent movements are outside the Sun Blades’ records.</p>
 <p><strong>Coutts</strong> – Gate sentry at Dagger Falls, serving alongside Templeton and Zephrin.</p>
 <p><strong>Decker</strong> – Gate sentry at Dagger Falls, serving alongside Templeton and Zephrin.</p>
-<p><strong><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Dorian Dale</span></strong> (KIA, Summer 1479) – Corporal. Served two years; aged 21 at discharge (Tarsakh 1479). Named by his father after Dorian of Sembia, “Greatest Swordsman in the Realms.” Devout Amaunatori. Killed storming the keep at Gang’Dar, leading the charge against the last orcs to free captives. Laid to rest in the catacombs beneath Castle Radiance. <em>Note: A second Dorian Dale (aged 26, alive c. 1483) serves as head of the Cassimar household guard; the “Dale” surname convention for bastards and orphans makes shared names likely.</em></p>
+<p><strong><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Dale, Dorian</span></strong> (KIA, Summer 1479) – Corporal. Served two years; aged 21 at discharge (Tarsakh 1479). Named by his father after Dorian of Sembia, “Greatest Swordsman in the Realms.” Devout Amaunatori. Killed storming the keep at Gang’Dar, leading the charge against the last orcs to free captives. Laid to rest in the catacombs beneath Castle Radiance. <em>Note: A second Dorian Dale (aged 26, alive c. 1483) serves as head of the Cassimar household guard; the “Dale” surname convention for bastards and orphans makes shared names likely.</em></p>
 <h4>1st Company, Escort Platoon – Cormanthor (1483)</h4>
 <aside class="narrator" aria-label="Editorial note">
 <p>A half-platoon of Sun Blades from the 1st Company (“Dalehearth”), escorting parties through Cormanthor to the Thistle Ridge area. Core: eight men with spears and shields in single file, each responsible for a sector. Four women foresters: two ride ahead scouting, one tails at distance, one stays with the main body. The platoon’s average age is about 23; well-trained and disciplined. Lt. Riverstone is deeply knowledgeable about Cormanthor, warning that the forest “doesn’t want us here” and has been “angry about our presence here since we erected the Standing Stone.”</p>
@@ -1155,17 +1181,17 @@
 <table id="personnel-table">
 <thead>
 <tr>
-<th scope="col">Name</th>
-<th scope="col">Rank</th>
-<th scope="col">Company / Unit</th>
-<th scope="col">Assignment</th>
-<th scope="col">Status</th>
+<th scope="col" data-sort="0">Name</th>
+<th scope="col" data-sort="1">Rank</th>
+<th scope="col" data-sort="2">Company / Unit</th>
+<th scope="col" data-sort="3">Assignment</th>
+<th scope="col" data-sort="4">Status</th>
 <th scope="col">Notes</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Dauntless Thunderstorm</td>
+<td>Thunderstorm, Dauntless</td>
 <td>General</td>
 <td>All Sun Blades</td>
 <td>Castle Radiance</td>
@@ -1181,7 +1207,7 @@
 <td>Commissioned tower lights and night patrols (1480)</td>
 </tr>
 <tr>
-<td>Hazel Haverstone</td>
+<td>Haverstone, Hazel</td>
 <td>Captain (ret.)</td>
 <td>1st “Dalehearth”</td>
 <td>Dagger Falls (Baker)</td>
@@ -1189,7 +1215,7 @@
 <td>First captain without battlefield experience; logistics at the Castle. Now Master Baker, Old Market</td>
 </tr>
 <tr>
-<td>Maddy Riverstone</td>
+<td>Riverstone, Maddy</td>
 <td>Lieutenant</td>
 <td>1st “Dalehearth” / Escort Plt</td>
 <td>Cormanthor</td>
@@ -1197,7 +1223,7 @@
 <td>Commander of 1st & 2nd Platoons. Forest escort. Recon’d Greenwood Farm (12 Tarsakh)</td>
 </tr>
 <tr>
-<td>Brendle Vale</td>
+<td>Vale, Brendle</td>
 <td>Sergeant</td>
 <td>1st “Dalehearth” / Escort Plt</td>
 <td>Cormanthor</td>
@@ -1229,7 +1255,7 @@
 <td>Led Red Platoon; commissioned Capt. of re-mustered 3rd Co.</td>
 </tr>
 <tr>
-<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Tara Hilltop</span></td>
+<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Hilltop, Tara</span></td>
 <td>Lieutenant</td>
 <td>2nd “Mountaineers”</td>
 <td>–</td>
@@ -1237,7 +1263,7 @@
 <td>Left Sun Blades to lead White Cloaks. Killed in gargoyle attack at Thistle Ridge tournament. Healer, Amaunatori</td>
 </tr>
 <tr>
-<td>Jannus Dale</td>
+<td>Dale, Jannus</td>
 <td>–</td>
 <td>2nd “Mountaineers”</td>
 <td>–</td>
@@ -1245,7 +1271,7 @@
 <td>Served under Lt. Hilltop. Competed for White Cloaks (1483)</td>
 </tr>
 <tr>
-<td>Tyrell Dale</td>
+<td>Dale, Tyrell</td>
 <td>–</td>
 <td>2nd “Mountaineers”</td>
 <td>–</td>
@@ -1253,7 +1279,7 @@
 <td>Brother of Jannus. Served under Lt. Hilltop</td>
 </tr>
 <tr>
-<td>Chester Hawkford</td>
+<td>Hawkford, Chester</td>
 <td>–</td>
 <td>2nd “Mountaineers”</td>
 <td>Castle Radiance</td>
@@ -1269,7 +1295,7 @@
 <td>Converted to Shar. Betrayed Liberty Hill, Mirtul 1480</td>
 </tr>
 <tr>
-<td>Leedo Forester</td>
+<td>Forester, Leedo</td>
 <td>Sgt. → Lt.</td>
 <td>4th “Foresters”</td>
 <td>Cormanthor</td>
@@ -1277,7 +1303,7 @@
 <td>Destroyed Krinth party (1479). Led Foresters in Sons of Bel operation (Marpenoth 1481)</td>
 </tr>
 <tr>
-<td>Darius Winters</td>
+<td>Winters, Darius</td>
 <td>Captain (ret.)</td>
 <td>4th “Foresters”</td>
 <td>Dwimmerholme (Mayor)</td>
@@ -1285,7 +1311,7 @@
 <td>10-year veteran. Elected Mayor ~1480. Age 28–29 (likely clerical error in records listing age 44)</td>
 </tr>
 <tr>
-<td>Kesh Oakdale</td>
+<td>Oakdale, Kesh</td>
 <td>Lt. → Cpt. → Consul</td>
 <td>7th “Bright Spears” → 16th Co.</td>
 <td>Governor’s Hall</td>
@@ -1293,7 +1319,7 @@
 <td>First Consul of the Governors’ Assembly</td>
 </tr>
 <tr>
-<td>Ander Millstone</td>
+<td>Millstone, Ander</td>
 <td>Lieutenant</td>
 <td>7th “Bright Spears”</td>
 <td>Tesh Valley Farm</td>
@@ -1301,7 +1327,7 @@
 <td>3rd Lt. in 3 years at Tesh Valley</td>
 </tr>
 <tr>
-<td>Randall Eversmoore</td>
+<td>Eversmoore, Randall</td>
 <td>Lt. → Sgt. (demoted)</td>
 <td>7th “Bright Spears”</td>
 <td>Crossed Blades Farm</td>
@@ -1317,7 +1343,7 @@
 <td>Mountain campaign veteran</td>
 </tr>
 <tr>
-<td>Forge Farmountain</td>
+<td>Farmountain, Forge</td>
 <td>Lt. I</td>
 <td>7th B.S., 4th Plt</td>
 <td>Thistle Ridge</td>
@@ -1325,7 +1351,7 @@
 <td>Platoon commander, Thistle Ridge Reclamation</td>
 </tr>
 <tr>
-<td>Madigara Dale</td>
+<td>Dale, Madigara</td>
 <td>Magistrate</td>
 <td>7th B.S., 4th Plt</td>
 <td>Thistle Ridge</td>
@@ -1333,7 +1359,7 @@
 <td>Dawn prayers ward off Yellow Tooth attacks</td>
 </tr>
 <tr>
-<td>Phoebe Birchgrove</td>
+<td>Birchgrove, Phoebe</td>
 <td>Sgt. III</td>
 <td>7th B.S., 4th Plt</td>
 <td>Thistle Ridge</td>
@@ -1341,7 +1367,7 @@
 <td>Aide-de-camp; author of Expeditionary Record. Culver: Mareeseah</td>
 </tr>
 <tr>
-<td>Ivy Thickwickle</td>
+<td>Thickwickle, Ivy</td>
 <td>Sgt. I</td>
 <td>7th B.S., 4th Plt</td>
 <td>Thistle Ridge</td>
@@ -1349,7 +1375,7 @@
 <td>Cook and Quartermaster. Halfling</td>
 </tr>
 <tr>
-<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Chastity Dale</span></td>
+<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Dale, Chastity</span></td>
 <td>Sgt. II</td>
 <td>7th B.S., 4th Plt (1st Sq)</td>
 <td>Thistle Ridge</td>
@@ -1357,7 +1383,7 @@
 <td>Selûnite from Shadowdale. Killed in siege</td>
 </tr>
 <tr>
-<td>Buck Harrowbridge</td>
+<td>Harrowbridge, Buck</td>
 <td>Sgt. II</td>
 <td>7th B.S., 4th Plt (2nd Sq)</td>
 <td>Thistle Ridge</td>
@@ -1365,7 +1391,7 @@
 <td>Selûnite from Mistledale. Kin found in Tower basement; walked out against orders</td>
 </tr>
 <tr>
-<td>Illya Elderbough</td>
+<td>Elderbough, Illya</td>
 <td>Sgt. I</td>
 <td>7th B.S., 4th Plt (3rd Sq)</td>
 <td>Thistle Ridge</td>
@@ -1373,7 +1399,7 @@
 <td>Chauntean from Gribbons’ Farm. Ranger 1st Class</td>
 </tr>
 <tr>
-<td>Kelya Cordoza</td>
+<td>Cordoza, Kelya</td>
 <td>Sgt. III</td>
 <td>7th B.S., 4th Plt (4th Sq)</td>
 <td>Thistle Ridge</td>
@@ -1381,7 +1407,7 @@
 <td>Vaasan. Ranger 2nd Class. Led basement cleanup with courage</td>
 </tr>
 <tr>
-<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Dunlodan Millstone</span></td>
+<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Millstone, Dunlodan</span></td>
 <td>Pvt. III</td>
 <td>7th B.S., 4th Plt (3rd Sq)</td>
 <td>Thistle Ridge</td>
@@ -1389,7 +1415,7 @@
 <td>First Tethyamar dwarf in the Sun Blades</td>
 </tr>
 <tr>
-<td>Violet Newharvest</td>
+<td>Newharvest, Violet</td>
 <td>Forester</td>
 <td>7th B.S., 4th Plt (4th Sq)</td>
 <td>Thistle Ridge</td>
@@ -1397,7 +1423,7 @@
 <td>From Daggerford</td>
 </tr>
 <tr>
-<td>Daffodil Newharvest</td>
+<td>Newharvest, Daffodil</td>
 <td>Forester</td>
 <td>7th B.S., 4th Plt (4th Sq)</td>
 <td>Thistle Ridge</td>
@@ -1405,7 +1431,7 @@
 <td>From Daggerford. Sister of Violet</td>
 </tr>
 <tr>
-<td>Grid Hammerfall</td>
+<td>Hammerfall, Grid</td>
 <td>Lieutenant</td>
 <td>8th “Sun Dragoons”</td>
 <td>Mobile / Tesh Valley</td>
@@ -1413,7 +1439,7 @@
 <td>Tracked orc raiders 8 mi. north; marked trail with stones</td>
 </tr>
 <tr>
-<td>Alaric Swift</td>
+<td>Swift, Alaric</td>
 <td>Captain</td>
 <td>4th → 9th “Deadly Rain”</td>
 <td>Dagger Falls (training)</td>
@@ -1421,7 +1447,7 @@
 <td>Older twin brother of Tuugan. Harsh but effective</td>
 </tr>
 <tr>
-<td>Garrick Greenfields</td>
+<td>Greenfields, Garrick</td>
 <td>Captain</td>
 <td>10th Company</td>
 <td>Mobile / Thistle Ridge</td>
@@ -1429,7 +1455,7 @@
 <td>Led cavalry relief at the Battle of Thistle Ridge</td>
 </tr>
 <tr>
-<td>Zelia Oakbough</td>
+<td>Oakbough, Zelia</td>
 <td>Forester</td>
 <td>16th Co., 3rd Plt → 1st Co. Escort Plt</td>
 <td>Cormanthor</td>
@@ -1437,7 +1463,7 @@
 <td>Born near Lostholme. Dangerous archer. Scout for escort column</td>
 </tr>
 <tr>
-<td>Jovian Ash</td>
+<td>Ash, Jovian</td>
 <td>Captain</td>
 <td>11th–14th Companies (Recruits)</td>
 <td>Dagger Falls / Castle Radiance</td>
@@ -1445,7 +1471,7 @@
 <td>Captain of the Recruits. Commands 4 training companies with 4 lieutenants</td>
 </tr>
 <tr>
-<td>Renley Rawthorn</td>
+<td>Rawthorn, Renley</td>
 <td>Captain</td>
 <td>18th Company (1st Plt)</td>
 <td>Greenwood Farm</td>
@@ -1453,7 +1479,7 @@
 <td>Garrison duty, Thistle Ridge</td>
 </tr>
 <tr>
-<td>Williams Waterborne</td>
+<td>Waterborne, Williams</td>
 <td>Lieutenant</td>
 <td>18th Company (2nd Plt)</td>
 <td>The Tower</td>
@@ -1461,7 +1487,7 @@
 <td>Relieved the Bright Spears at The Tower</td>
 </tr>
 <tr>
-<td>Sanza Swift</td>
+<td>Swift, Sanza</td>
 <td>Private</td>
 <td>7th B.S., 4th Plt (3rd Sq)</td>
 <td>Thistle Ridge</td>
@@ -1469,7 +1495,7 @@
 <td>Captured a Yellow Tooth goblin prisoner on patrol</td>
 </tr>
 <tr>
-<td>Fletcher Farmountain</td>
+<td>Farmountain, Fletcher</td>
 <td>Private</td>
 <td>7th B.S., 4th Plt</td>
 <td>Thistle Ridge</td>
@@ -1477,7 +1503,7 @@
 <td>Brother of Lt. Forge. Poisoned by trap in Tower basement</td>
 </tr>
 <tr>
-<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Dexter Broad</span></td>
+<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Broad, Dexter</span></td>
 <td>Captain</td>
 <td>18th Co., 1st Plt “Task Masters”</td>
 <td>Thistle Ridge</td>
@@ -1485,7 +1511,7 @@
 <td>Killed by shadow creatures in Alavandor Academy</td>
 </tr>
 <tr>
-<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Hannah Hillborn</span></td>
+<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Hillborn, Hannah</span></td>
 <td>Chaplain</td>
 <td>18th Co., 1st Plt “Task Masters”</td>
 <td>Thistle Ridge</td>
@@ -1493,7 +1519,7 @@
 <td>Killed alongside Capt. Broad. From Scardale</td>
 </tr>
 <tr>
-<td>Bella Birtch</td>
+<td>Birtch, Bella</td>
 <td>Sergeant</td>
 <td>18th Co., 1st Plt “Task Masters”</td>
 <td>Thistle Ridge</td>
@@ -1509,7 +1535,7 @@
 <td>Escort duty, day of Jackson’s Lodge ambush</td>
 </tr>
 <tr>
-<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Dorian Dale</span></td>
+<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Dale, Dorian</span></td>
 <td>Corporal</td>
 <td>1st “Dalehearth”</td>
 <td>Dagger Falls / Castle Radiance</td>
@@ -1517,7 +1543,7 @@
 <td>Aged 21. Named after Dorian of Sembia. Killed storming Gang’Dar keep. Distinct from the later Cassimar guard of the same name</td>
 </tr>
 <tr>
-<td>Corran Altair</td>
+<td>Altair, Corran</td>
 <td>Sgt. (Order of the Golden Lion)</td>
 <td>Unspecified (Sun Blades) → Golden Lion</td>
 <td>Mobile</td>
@@ -1525,7 +1551,7 @@
 <td>Discharged under disciplinary circumstances. Returned 7 years later as Paladin of Torm. Now Sgt., Golden Lion. Also White Cloaks & Mule Company</td>
 </tr>
 <tr>
-<td>Sammus Weaver</td>
+<td>Weaver, Sammus</td>
 <td>–</td>
 <td>Unspecified</td>
 <td>–</td>
@@ -1533,7 +1559,7 @@
 <td>Age 18, from Charity Hills Farm. “Fresh out of the Sun Blades” at the Bravo Tourney</td>
 </tr>
 <tr>
-<td>Buck Thistledown</td>
+<td>Thistledown, Buck</td>
 <td>Sergeant (ret.)</td>
 <td>1st “Dalehearth”</td>
 <td>Dagger Falls</td>
@@ -1541,7 +1567,7 @@
 <td>Veteran of Battle at Liberty Hill</td>
 </tr>
 <tr>
-<td>Latimer Winters</td>
+<td>Winters, Latimer</td>
 <td>–</td>
 <td>4th “Foresters”</td>
 <td>Gribbons’ Farm (Mayor)</td>
@@ -1589,7 +1615,7 @@
 <td>Gate sentry</td>
 </tr>
 <tr>
-<td>Malveau Greenleaf</td>
+<td>Greenleaf, Malveau</td>
 <td>–</td>
 <td>1st “Dalehearth” (founding era)</td>
 <td>Castle Radiance (trainer, 1483)</td>
@@ -1597,7 +1623,7 @@
 <td>Half-elf druid (Silvanite). Served from 1403. Created archery curriculum. Orc-language expert. Recon’d Thistle Ridge Ruin (Alturiak 1483). Training archers for Thunderstorm</td>
 </tr>
 <tr>
-<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Tergus Clarandal</span></td>
+<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Clarandal, Tergus</span></td>
 <td>Sgt. → Lieutenant</td>
 <td>2nd “Mountaineers” → 7th B.S., 4th Plt</td>
 <td>Thistle Ridge (original garrison)</td>
@@ -1605,7 +1631,7 @@
 <td>b. 1408. Journals 1423–1439. Five Terms of Service</td>
 </tr>
 <tr>
-<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Claudius Clarandal</span></td>
+<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="Deceased: " role="img">Clarandal, Claudius</span></td>
 <td>Sergeant (ret.)</td>
 <td>Mountaineers</td>
 <td>Thistle Ridge (militia captain)</td>
@@ -1672,5 +1698,40 @@
 </footer>
 
     </article>
+<script>
+(function() {
+  var table = document.getElementById('personnel-table');
+  if (!table) return;
+  var thead = table.tHead;
+  var tbody = table.tBodies[0];
+  var headers = thead.querySelectorAll('th[data-sort]');
+  var currentCol = -1;
+  var ascending = true;
+
+  headers.forEach(function(th) {
+    th.addEventListener('click', function() {
+      var col = parseInt(this.getAttribute('data-sort'));
+      if (col === currentCol) {
+        ascending = !ascending;
+      } else {
+        currentCol = col;
+        ascending = true;
+      }
+      headers.forEach(function(h) { h.classList.remove('sort-asc', 'sort-desc'); });
+      this.classList.add(ascending ? 'sort-asc' : 'sort-desc');
+
+      var rows = Array.from(tbody.rows);
+      rows.sort(function(a, b) {
+        var aText = a.cells[col].textContent.trim().toLowerCase();
+        var bText = b.cells[col].textContent.trim().toLowerCase();
+        if (aText < bText) return ascending ? -1 : 1;
+        if (aText > bText) return ascending ? 1 : -1;
+        return 0;
+      });
+      rows.forEach(function(row) { tbody.appendChild(row); });
+    });
+  });
+})();
+</script>
 </body>
 </html>
