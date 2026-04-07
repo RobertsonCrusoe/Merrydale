@@ -3,97 +3,98 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="The Charters Militant of the Daggerdale Concordat &mdash; holy orders granted military charters under the 1482 agreement.">
 <title>Holy Orders of Daggerdale &mdash; Charters Militant</title>
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=IM+Fell+English+SC&display=swap');
-  @page { background: #f4ead5; }
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  body { font-family: 'Crimson Text', 'Palatino Linotype', 'Book Antiqua', Palatino, Georgia, serif; background: #f4ead5; color: #2c1e0e; padding: 24px; line-height: 1.45; letter-spacing: -0.01em; word-spacing: -0.02em; }
-  h1 { text-align: center; font-family: 'IM Fell English SC', 'Palatino Linotype', serif; color: #4a1e08; font-size: 2em; margin-bottom: 4px; letter-spacing: 3px; }
-  .subtitle { text-align: center; color: #6b4c30; font-size: 0.95em; margin-bottom: 8px; font-style: italic; }
-  .byline { text-align: center; color: #5a3d20; font-size: 0.88em; margin-bottom: 32px; }
-  .era-header { background: linear-gradient(90deg, #f4ead5, #e8d5b0, #f4ead5); color: #4a1e08; font-family: 'IM Fell English SC', 'Palatino Linotype', serif; font-size: 1.5em; padding: 10px 20px; margin: 24px 0 14px 0; border-left: 4px solid #8b4513; border-bottom: 1px solid #c9a96e; letter-spacing: 1px; page-break-before: always; page-break-after: avoid; break-after: avoid; }
-  .era-note { color: #5a3d20; font-size: 0.9em; padding: 0 20px 10px 20px; max-width: 900px; letter-spacing: -0.015em; word-spacing: -0.03em; }
-  .sub-era { background: #ede0c8; color: #4a1e08; font-family: 'IM Fell English SC', 'Palatino Linotype', serif; font-size: 1.15em; padding: 8px 16px; margin: 18px 0 10px 0; border-left: 3px solid #c9a96e; letter-spacing: 1px; page-break-after: avoid; break-after: avoid; }
-  .sub-era-minor { color: #5a3d20; font-family: 'IM Fell English SC', 'Palatino Linotype', serif; font-size: 1.05em; padding: 6px 16px; margin: 14px 0 8px 0; border-left: 2px solid #c9a96e; letter-spacing: 0.5px; page-break-after: avoid; break-after: avoid; }
-  .brotherhood-box { background: #f7f0e0; border: 1px solid #d4c0a0; border-left: 3px solid #a08050; border-radius: 4px; padding: 16px; margin: 12px 16px 16px 16px; }
-  .brotherhood-box .bh-title { color: #5a3d20; font-family: 'IM Fell English SC', 'Palatino Linotype', serif; font-size: 1.05em; margin: 0 0 10px 0; letter-spacing: 0.5px; border-bottom: 1px solid #d4c0a0; padding-bottom: 6px; page-break-after: avoid; break-after: avoid; }
-  .brotherhood-box .card-row { padding: 0; margin-bottom: 8px; }
-  .brotherhood-box .card { background: #faf3e4; border-color: #d4c0a0; }
-  .section { margin: 0 0 16px 0; }
-  .section-title { color: #6b2a0a; font-size: 1.15em; padding: 8px 16px; background: #ede0c8; border-left: 3px solid #8b4513; margin-bottom: 12px; page-break-after: avoid; break-after: avoid; }
-  .card-row { display: flex; flex-wrap: wrap; gap: 12px; padding: 0 16px; margin-bottom: 12px; }
-  .card { background: #faf3e4; border: 1px solid #c9a96e; border-radius: 4px; padding: 16px; min-width: 260px; flex: 1 1 300px; max-width: 480px; box-shadow: 1px 2px 4px rgba(100,70,30,0.1); }
-  .card.command { border-color: #8b4513; background: #f7edda; border-width: 2px; }
-  .card.wide { max-width: 100%; flex: 1 1 100%; }
-  .card-label { font-size: 0.7em; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 6px; }
-  .card-label.gold { color: #8b4513; }
-  .card-label.blue { color: #3a5a7c; }
-  .card-label.brown { color: #6b4c30; }
-  .card-label.amber { color: #7a4010; }
-  .card h3 { color: #3a1a05; font-size: 1.1em; margin-bottom: 4px; }
-  .card .rank { color: #5a3d20; font-size: 0.85em; }
-  .card .detail { color: #4a3520; font-size: 0.85em; margin-top: 6px; letter-spacing: -0.015em; word-spacing: -0.03em; line-height: 1.55; }
-  .card .strength { color: #3a6030; font-size: 0.85em; margin-top: 4px; }
-  .card .assignment { color: #3a5a7c; font-size: 0.85em; margin-top: 4px; }
-  .card .note { color: #7a5a30; font-size: 0.82em; margin-top: 6px; font-style: italic; letter-spacing: -0.015em; word-spacing: -0.03em; line-height: 1.55; }
-  .narrator { background: #f7f0e0; border-left: 3px solid #8b6a3e; padding: 14px 18px; margin: 0 16px 16px 16px; font-size: 0.92em; color: #3a2a15; line-height: 1.5; letter-spacing: -0.015em; word-spacing: -0.03em; }
-  .narrator p { margin-bottom: 10px; }
-  .narrator p:last-child { margin-bottom: 0; }
-  .narrator .sig { text-align: right; margin-top: 12px; font-style: italic; color: #5a3d20; }
-  .legend { background: #faf3e4; border: 1px solid #c9a96e; border-radius: 4px; padding: 16px; margin: 24px 16px; font-size: 0.88em; }
-  .legend h4 { color: #6b2a0a; margin-bottom: 8px; }
-  .ops-summary { background: #f7f0e0; border: 1px solid #d4c0a0; border-left: 3px solid #8b6a3e; border-radius: 0 4px 4px 0; padding: 16px 20px; margin: 12px 16px 20px 16px; }
-  .ops-summary h4 { color: #6b2a0a; font-size: 0.95em; margin-bottom: 8px; letter-spacing: 1px; text-transform: uppercase; page-break-after: avoid; break-after: avoid; }
-  .ops-summary p { margin-bottom: 10px; font-size: 0.9em; letter-spacing: -0.015em; word-spacing: -0.03em; line-height: 1.55; }
-  .ops-summary p:last-child { margin-bottom: 0; }
-  .contradiction { background: #fdf5e6; border: 1px dashed #b89050; border-radius: 4px; padding: 10px 14px; margin: 8px 16px 16px 16px; font-size: 0.85em; color: #5a3d20; }
-  .contradiction strong { color: #8b4513; }
-  table { border-collapse: collapse; width: 100%; margin: 8px 0; }
-  table.fitted { width: auto; margin: 12px auto; }
-  th { background: #e8d5b0; color: #4a1e08; text-align: left; padding: 6px 10px; font-size: 0.85em; border-bottom: 2px solid #b09060; }
-  td { padding: 5px 10px; border-bottom: 1px solid #ddd0b8; font-size: 0.88em; }
-  tr:hover td { background: #f0e4cf; }
-  .status-active { color: #2a6020; }
-  .status-retired { color: #7a5a30; }
-  .status-dead { color: #8b2010; }
-  .status-kia { color: #8b2010; }
-  .status-promoted { color: #3a5a7c; }
-  .status-transferred { color: #3a5a7c; }
-  .status-discharged { color: #6a6060; }
-  .status-former { color: #6b5030; }
-  .status-unknown { color: #8a7a60; }
-  hr { border: none; border-top: 1px solid #c9a96e; margin: 24px 16px; }
-  a { color: #3a5a7c; text-decoration: none; }
-  img.dagger { height: 1.1em; width: auto; vertical-align: -0.15em; margin-right: 2px; display: inline; }
-  .appendix-header { background: linear-gradient(90deg, #f4ead5, #e0d0b8, #f4ead5); color: #5a3d20; font-family: 'IM Fell English SC', 'Palatino Linotype', serif; font-size: 1.3em; padding: 10px 20px; margin: 24px 0 14px 0; border-left: 4px solid #9a8a70; border-bottom: 1px solid #c9a96e; letter-spacing: 1px; page-break-before: always; }
-  p { orphans: 3; widows: 3; }
-  .sub-era + .narrator, .sub-era + .section, .sub-era + .era-note { break-before: avoid; page-break-before: avoid; }
-  .sub-era-minor + .narrator, .sub-era-minor + .section, .sub-era-minor + .era-note { break-before: avoid; page-break-before: avoid; }
-  .section-title + .card-row { break-before: avoid; page-break-before: avoid; }
-  .appendix-header + .narrator { break-before: avoid; page-break-before: avoid; }
-  @media print {
-    body { padding: 12px; }
-    .era-header, .appendix-header { page-break-before: always; }
-    .card, table { page-break-inside: avoid; }
-    .sub-era, .section-title, .era-header, .appendix-header, h4 { page-break-after: avoid; }
-    .card-row { display: block; margin: 0; padding: 0; }
-    .card { max-width: 100%; margin: 0 0 12px 0; padding: 12px 16px; }
-    .section { margin: 0; }
-    .section-title { margin-bottom: 8px; }
-  }
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=IM+Fell+English+SC&display=swap');
+@page { background: #f4ead5; }
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: 'Crimson Text', 'Palatino Linotype', 'Book Antiqua', Palatino, Georgia, serif; background: #f4ead5; color: #2c1e0e; padding: 24px; line-height: 1.45; letter-spacing: -0.01em; word-spacing: -0.02em; }
+h1 { text-align: center; font-family: 'IM Fell English SC', 'Palatino Linotype', serif; color: #4a1e08; font-size: 2em; margin-bottom: 4px; letter-spacing: 3px; }
+.subtitle { text-align: center; color: #6b4c30; font-size: 0.95em; margin-bottom: 8px; font-style: italic; }
+.byline { text-align: center; color: #5a3d20; font-size: 0.88em; margin-bottom: 32px; }
+.era-header { background: linear-gradient(90deg, #f4ead5, #e8d5b0, #f4ead5); color: #4a1e08; font-family: 'IM Fell English SC', 'Palatino Linotype', serif; font-size: 1.5em; padding: 10px 20px; margin: 24px 0 14px 0; border-left: 4px solid #8b4513; border-bottom: 1px solid #c9a96e; letter-spacing: 1px; page-break-before: always; page-break-after: avoid; break-after: avoid; }
+.era-note { color: #5a3d20; font-size: 0.9em; padding: 0 20px 10px 20px; max-width: 900px; letter-spacing: -0.015em; word-spacing: -0.03em; }
+.sub-era { background: linear-gradient(90deg, #f4ead5, #efe3c8, #f4ead5); color: #4a1e08; font-family: 'IM Fell English SC', 'Palatino Linotype', serif; font-size: 1.15em; padding: 8px 16px; margin: 18px 0 10px 0; border-left: 3px solid #c9a96e; letter-spacing: 1px; page-break-after: avoid; break-after: avoid; }
+.sub-era-minor { color: #5a3d20; font-family: 'IM Fell English SC', 'Palatino Linotype', serif; font-size: 1.05em; padding: 6px 16px; margin: 14px 0 8px 0; border-left: 2px solid #c9a96e; letter-spacing: 0.5px; page-break-after: avoid; break-after: avoid; }
+.brotherhood-box { background: #f7f0e0; border: 1px solid #d4c0a0; border-left: 3px solid #a08050; border-radius: 4px; padding: 16px; margin: 12px 16px 16px 16px; }
+.brotherhood-box .bh-title { color: #5a3d20; font-family: 'IM Fell English SC', 'Palatino Linotype', serif; font-size: 1.05em; margin: 0 0 10px 0; letter-spacing: 0.5px; border-bottom: 1px solid #d4c0a0; padding-bottom: 6px; page-break-after: avoid; break-after: avoid; }
+.brotherhood-box .card-row { padding: 0; margin-bottom: 8px; }
+.brotherhood-box .card { background: #faf3e4; border-color: #d4c0a0; }
+.section { margin: 0 0 16px 0; }
+.section-title { color: #6b2a0a; font-size: 1.15em; padding: 8px 16px; background: linear-gradient(90deg, #f4ead5, #efe3c8, #f4ead5); border-left: 3px solid #8b4513; margin-bottom: 12px; page-break-after: avoid; break-after: avoid; }
+.card-row { display: flex; flex-wrap: wrap; gap: 12px; padding: 0 16px; margin-bottom: 12px; }
+.card { background: #faf3e4; border: 1px solid #c9a96e; border-radius: 4px; padding: 16px; min-width: 260px; flex: 1 1 300px; max-width: 480px; box-shadow: 1px 2px 4px rgba(100,70,30,0.1); }
+.card.command { border-color: #8b4513; background: #f7edda; border-width: 2px; }
+.card.wide { max-width: 100%; flex: 1 1 100%; }
+.card-label { font-size: 0.7em; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 6px; }
+.card-label.gold { color: #8b4513; }
+.card-label.blue { color: #3a5a7c; }
+.card-label.brown { color: #6b4c30; }
+.card-label.amber { color: #7a4010; }
+.card h3 { color: #3a1a05; font-size: 1.1em; margin-bottom: 4px; }
+.card .rank { color: #5a3d20; font-size: 0.85em; }
+.card .detail { color: #4a3520; font-size: 0.85em; margin-top: 6px; letter-spacing: -0.015em; word-spacing: -0.03em; line-height: 1.55; }
+.card .strength { color: #3a6030; font-size: 0.85em; margin-top: 4px; }
+.card .assignment { color: #3a5a7c; font-size: 0.85em; margin-top: 4px; }
+.card .note { color: #7a5a30; font-size: 0.82em; margin-top: 6px; font-style: italic; letter-spacing: -0.015em; word-spacing: -0.03em; line-height: 1.55; }
+.narrator { background: #f7f0e0; border-left: 3px solid #8b6a3e; padding: 14px 18px; margin: 0 16px 16px 16px; font-size: 0.92em; color: #3a2a15; line-height: 1.5; letter-spacing: -0.015em; word-spacing: -0.03em; }
+.narrator p { margin-bottom: 10px; }
+.narrator p:last-child { margin-bottom: 0; }
+.narrator .sig { text-align: right; margin-top: 12px; font-style: italic; color: #5a3d20; }
+.legend { background: #faf3e4; border: 1px solid #c9a96e; border-radius: 4px; padding: 16px; margin: 24px 16px; font-size: 0.88em; }
+.legend h4 { color: #6b2a0a; margin-bottom: 8px; }
+.ops-summary { background: #f7f0e0; border: 1px solid #d4c0a0; border-left: 3px solid #8b6a3e; border-radius: 0 4px 4px 0; padding: 16px 20px; margin: 12px 16px 20px 16px; }
+.ops-summary h4 { color: #6b2a0a; font-size: 0.95em; margin-bottom: 8px; letter-spacing: 1px; text-transform: uppercase; page-break-after: avoid; break-after: avoid; }
+.ops-summary p { margin-bottom: 10px; font-size: 0.9em; letter-spacing: -0.015em; word-spacing: -0.03em; line-height: 1.55; }
+.ops-summary p:last-child { margin-bottom: 0; }
+.contradiction { background: #fdf5e6; border: 1px dashed #b89050; border-radius: 4px; padding: 10px 14px; margin: 8px 16px 16px 16px; font-size: 0.85em; color: #5a3d20; }
+.contradiction strong { color: #8b4513; }
+table { border-collapse: collapse; width: 100%; margin: 8px 16px; }
+table.fitted { width: auto; margin: 12px auto; }
+caption { font-family: 'IM Fell English SC', 'Palatino Linotype', serif; color: #4a1e08; font-size: 0.95em; margin-bottom: 6px; caption-side: top; text-align: left; padding-left: 0; }
+thead th { background: #e8d5b0; color: #4a1e08; text-align: left; padding: 6px 10px; font-size: 0.85em; border-bottom: 2px solid #b09060; }
+td { padding: 5px 10px; border-bottom: 1px solid #ddd0b8; font-size: 0.88em; }
+tr:hover td { background: #f0e4cf; }
+.status-active { color: #2a6020; }
+.status-kia { color: #8b2010; }
+hr { border: none; border-top: 1px solid #c9a96e; margin: 24px 16px; }
+a { color: #3a5a7c; text-decoration: none; }
+img.dagger { height: 1.1em; width: auto; vertical-align: -0.15em; margin-right: 2px; display: inline; }
+.deceased { cursor: help; }
+.appendix-header { background: linear-gradient(90deg, #f4ead5, #e0d0b8, #f4ead5); color: #5a3d20; font-family: 'IM Fell English SC', 'Palatino Linotype', serif; font-size: 1.3em; padding: 10px 20px; margin: 24px 0 14px 0; border-left: 4px solid #9a8a70; border-bottom: 1px solid #c9a96e; letter-spacing: 1px; page-break-before: always; }
+.footnote { font-size: 0.95em; font-style: italic; color: #4a1e08; }
+.footnote .nb-label { font-style: normal; font-weight: bold; }
+p { orphans: 3; widows: 3; }
+.sub-era + .narrator, .sub-era + .section, .sub-era + .era-note { break-before: avoid; page-break-before: avoid; }
+.sub-era-minor + .narrator, .sub-era-minor + .section, .sub-era-minor + .era-note { break-before: avoid; page-break-before: avoid; }
+.section-title + .card-row { break-before: avoid; page-break-before: avoid; }
+.appendix-header + .narrator { break-before: avoid; page-break-before: avoid; }
+footer { margin-top: 24px; padding: 16px 20px; border-top: 1px solid #c9a96e; font-size: 0.82em; color: #5a3d20; line-height: 1.5; }
+@media (max-width: 600px) {
+  h1 { font-size: 1.6em; }
+  .card-row { flex-direction: column; }
+  .card { max-width: 100%; }
+  body { padding: 16px; }
+}
+@media print {
+  body { padding: 12px; }
+  .era-header, .appendix-header { page-break-before: always; }
+  .card, table { page-break-inside: avoid; }
+  .sub-era, .section-title, .era-header, .appendix-header, h4 { page-break-after: avoid; }
+  .card-row { display: block; margin: 0; padding: 0; }
+  .card { max-width: 100%; margin: 0 0 12px 0; padding: 12px 16px; }
+  .section { margin: 0; }
+  .section-title { margin-bottom: 8px; }
+}
 </style>
 </head>
 <body>
-
 <h1>&#9876; HOLY ORDERS OF DAGGERDALE &#9876;</h1>
 <div class="subtitle">The Charters Militant of the Daggerdale Concordat</div>
 <div class="byline">A report prepared for the files of His Majesty&rsquo;s Embassy at Castle Radiance<br>
 by Beliard Kathklan Emmarask, Secretary to the Ambassador</div>
 
-<!-- ================================================================ -->
-<!-- BELIARD'S INTRODUCTION                                           -->
-<!-- ================================================================ -->
 <div class="narrator">
   <p>The Daggerdale Concordat, ratified in Elesias of the year 1482 DR, established a constitutional framework for the common defence of the dale. Among its provisions is a mechanism by which holy orders of knights, paladins and other warriors may be granted a <em>Charter Militant</em> by four-fifths majority vote of the Governors&rsquo; Assembly. The Concordat specifies that such orders &ldquo;will be paid for entirely by their Churches, and will extract no mandatory payments from the people of Daggerdale.&rdquo; Each Charter Militant is subject to review in advance of each Shieldmeet, requiring three-fifths majority approval for the subsequent four years.</p>
 
@@ -107,348 +108,373 @@ by Beliard Kathklan Emmarask, Secretary to the Ambassador</div>
   Castle Radiance</span></div>
 </div>
 
-<!-- ================================================================ -->
-<!-- CHARTER MILITANT SUMMARY TABLE                                   -->
-<!-- ================================================================ -->
-<div class="section" style="padding: 0 16px; margin-top: 20px;">
-  <table style="font-size: 0.95em;">
-    <tr><th colspan="4" style="background: #4a1e08; color: #f4ead5; font-family: 'IM Fell English SC', serif; font-size: 1.05em; letter-spacing: 1px; padding: 8px 10px; border-bottom: 2px solid #c9a96e; white-space: nowrap;">Charters Militant &mdash; Daggerdale Concordat</th></tr>
-    <tr><th>Order</th><th>Patron Deity</th><th>Charter Militant</th><th>Present Strength</th></tr>
-    <tr><td><strong>Order of the Lambent Shield</strong></td><td>Amaunator</td><td class="status-active">Granted (1482)</td><td>160+ knights, paladins and supplicants</td></tr>
-    <tr><td><strong>Order of the Golden Lion</strong></td><td>Torm</td><td class="status-active">Granted (1482)</td><td>Handful of individual members; no unit strength</td></tr>
-    <tr><td><strong>Order of the Lambent Rose</strong></td><td>Ilmater</td><td class="status-active">Granted (1482)</td><td>Unknown; no 15th-century members documented</td></tr>
-    <tr><td><strong>Knights of Justice</strong></td><td>Tyr</td><td class="status-active">Granted (1482)</td><td>Unknown; no 15th-century members documented</td></tr>
-  </table>
-</div>
-
-<!-- ================================================================ -->
-<!-- I. ORDER OF THE LAMBENT SHIELD                                   -->
-<!-- ================================================================ -->
-<div class="era-header" style="page-break-before: auto;">I. Order of the Lambent Shield (Amaunator)</div>
+<hr>
+<div class="era-header">I. Order of the Lambent Shield (Amaunator)</div>
 <div class="narrator">
-  <p>If any single institution embodies the character of Daggerdale in our time, it is the Order of the Lambent Shield. Founded in 1419 DR by Luminous Whitegate &mdash; the grandson of Ardelusk, who escaped Zhent slavery, discovered the mountain ruins and built the first fortification at what would become Castle Radiance &mdash; the Order draws most of its soldiers from the ranks of the Sun Blades, though in recent decades its reputation has drawn men and women from far beyond the dale. The Chronicle describes them as &ldquo;one of the most battle-hardened fighting forces in Faerun in Our Time,&rdquo; noting that &ldquo;even the lowest ranking men and women being veterans of scores of major battles.&rdquo; They are elsewhere described as &ldquo;silent, vigilant and frightening,&rdquo; and having seen them drill in the Inner Bailey, I can attest that the description is, if anything, restrained.</p>
-
-  <p>The Order is an extremely fanatical brotherhood &mdash; and I use the word advisedly, for fanaticism is their chief virtue and their defining hazard. They are headquartered in the Fortress Cathedral at Castle Radiance, funded entirely by the Church of Amaunator, and constitute the elite fighting arm of the dale&rsquo;s military establishment. Where the Sun Blades are the professional standing army, the Lambent Shield are the templars: fewer in number, better equipped, and permitted an individuality in arms and tactics that the regimented Sun Blades are not.</p>
+<p>If any single institution embodies the character of Daggerdale in our time, it is the Order of the Lambent Shield. Founded in 1419 DR by Luminous Whitegate &mdash; the grandson of Ardelusk, who escaped Zhent slavery, discovered the mountain ruins and built the first fortification at what would become Castle Radiance &mdash; the Order draws most of its soldiers from the ranks of the Sun Blades, though in recent decades its reputation has drawn men and women from far beyond the dale. The Chronicle describes them as “one of the most battle-hardened fighting forces in Faerun in Our Time," noting that “even the lowest ranking men and women being veterans of scores of major battles.” They are elsewhere described as “silent, vigilant and frightening," and having seen them drill in the Inner Bailey, I can attest that the description is, if anything, restrained.</p>
+<p>The Order is an extremely fanatical brotherhood &mdash; and I use the word advisedly, for fanaticism is their chief virtue and their defining hazard. They are headquartered in the Fortress Cathedral at Castle Radiance, funded entirely by the Church of Amaunator, and constitute the elite fighting arm of the dale’s military establishment. Where the Sun Blades are the professional standing army, the Lambent Shield are the templars: fewer in number, better equipped, and permitted an individuality in arms and tactics that the regimented Sun Blades are not.</p>
 </div>
-
-<!-- Religious Structure (moved to first subsection) -->
-<div class="sub-era" style="page-break-before: always;">Religious Structure &amp; Chaplains</div>
+<div class="sub-era">Religious Structure & Chaplains</div>
 <div class="narrator">
-  <p>The nominal head of the Order is the Zenith Lord of Daggerdale, Argent Whitegate, who gives orders to the Grand Master. In practice, however, Luminous is the more experienced warrior, and the arrangement is more collaborative than hierarchical. Like the Sun Blades, chaplains are assigned to the Order &mdash; usually one per Brotherhood. These chaplains are experienced and battle-hardened. They hold no authority over the knights they are attached to, and answer directly to the Master Knight of their Brotherhood or to the Grand Master.</p>
-
-  <p>Bishop Blaze Whitegate, grand-nephew of Argent, has exercised field authority alongside the Order on at least one occasion &mdash; at the Saint&rsquo;s Battle of Liberty Hill, he ordered the Dark Garden priestess Belladonna taken alive, with the support of Knight Commander Pauldron. This suggests a degree of ecclesiastical override in matters of theological significance, even over military officers in the field.</p>
+<p>The nominal head of the Order is the Zenith Lord of Daggerdale, Argent Whitegate, who gives orders to the Grand Master. In practice, however, Luminous is the more experienced warrior, and the arrangement is more collaborative than hierarchical. Like the Sun Blades, chaplains are assigned to the Order &mdash; usually one per Brotherhood. These chaplains are experienced and battle-hardened. They hold no authority over the knights they are attached to, and answer directly to the Master Knight of their Brotherhood or to the Grand Master.</p>
+<p>Bishop Blaze Whitegate, grand-nephew of Argent, has exercised field authority alongside the Order on at least one occasion &mdash; at the Saint’s Battle of Liberty Hill, he ordered the Dark Garden priestess Belladonna taken alive, with the support of Knight Commander Pauldron. This suggests a degree of ecclesiastical override in matters of theological significance, even over military officers in the field. Bishop Whitegate is himself a veteran of the Order of the Lambent Shield, and now serves as the chief bureaucrat and highest-ranked Sunlord in the town of Dagger Falls, where he holds the near-unanimous approval of the population. His career illustrates the pattern noted above: the Order’s alumni do not merely retire &mdash; they assume positions of civic authority throughout the dale.</p>
 </div>
-
-<!-- Founding & Grand Master -->
-<div class="sub-era">Grand Master &amp; Founding</div>
-<div class="section">
-  <div class="card-row">
-    <div class="card command">
-      <div class="card-label gold">Grand Master &bull; Lord of Castle Radiance</div>
-      <h3>Lord Luminous Whitegate</h3>
-      <div class="rank">Founder and Grand Master of the Order of the Lambent Shield</div>
-      <div class="assignment">Castle Radiance &mdash; Inner Keep</div>
-      <div class="detail">Born 1399 DR. Grandson of Ardelusk Whitegate (c. 1340&ndash;1399), who discovered the ruins and built the first fortification. Married Raynalla Proudholme (1410&ndash;1429). Probably the most seasoned war veteran in the dale. Though the wealthiest man in the dale by virtue of his family&rsquo;s primacy, he has known no comforts in his life and continues to live a disciplined and austere existence devoted to his knights and the castle. Meets every morning after First Light Service in the War Room in Madigan&rsquo;s Hall with his highest military and clerical officials, as well as the captains and emissaries of the various organizations in the castle. Described as &ldquo;a mountain&rdquo; of a man, &ldquo;nearly a head taller&rdquo; than Captain Warburton, with &ldquo;the light of Amaunator burning inside&rdquo; him. Was stationed on the western front alongside most of the upper command, and &ldquo;saw combat almost daily throughout the summer&rdquo; of 1480.</div>
-      <div class="note">Also rendered &ldquo;High Commander of the Order of the Lambent Shield&rdquo; and &ldquo;Lord Commander&rdquo; in various sources. The Zenith Lord, Argent Whitegate, is technically the head of the Order as head of the Church, but Luminous is the more experienced warrior and the operational commander. Luminous &ldquo;undertakes no actions without the consent of his younger brother.&rdquo;</div>
-    </div>
-  </div>
+<div class="sub-era">Grand Master & Founding</div>
+<div class="card-row">
+<div class="card command"><div class="card-label gold">Grand Master • Lord of Castle Radiance</div><h3>Lord Luminous Whitegate</h3><div class="rank">Founder and Grand Master of the Order of the Lambent Shield</div><div class="assignment">Castle Radiance &mdash; Inner Keep</div><div class="detail">Born 1399 DR. Grandson of Ardelusk Whitegate (c. 1340&ndash;1399), who discovered the ruins and built the first fortification. Married Raynalla Proudholme (1410&ndash;1429). Probably the most seasoned war veteran in the dale. Though the wealthiest man in the dale by virtue of his family’s primacy, he has known no comforts in his life and continues to live a disciplined and austere existence devoted to his knights and the castle. Meets every morning after First Light Service in the War Room in Madigan’s Hall with his highest military and clerical officials, as well as the captains and emissaries of the various organizations in the castle. Described as “a mountain” of a man, “nearly a head taller” than Captain Warburton, with “the light of Amaunator burning inside” him. Was stationed on the western front alongside most of the upper command, and “saw combat almost daily throughout the summer” of 1480.</div><div class="note">Also rendered “High Commander of the Order of the Lambent Shield” and “Lord Commander” in various sources. The Zenith Lord, Argent Whitegate, is technically the head of the Order as head of the Church, but Luminous is the more experienced warrior and the operational commander. Luminous “undertakes no actions without the consent of his younger brother.”</div></div>
 </div>
-
-<!-- Rank Structure & Organization -->
-<div class="sub-era">Rank Structure &amp; Organization</div>
+<div class="sub-era">Rank Structure & Organization</div>
 <div class="narrator">
-  <p>The Order&rsquo;s rank structure is straightforward. Knights are paid not in wages but in shares of war prizes, a system that both reduces the Church&rsquo;s financial burden and provides considerable incentive for aggressive campaigning. The structure is as follows:</p>
-
-  <table class="fitted">
-    <tr><th>Rank</th><th>Pay (Shares of War Prizes)</th><th>Command Responsibility</th></tr>
-    <tr><td>Supplicant</td><td>None</td><td>Probationary member; assigned to a Unit</td></tr>
-    <tr><td>Knight</td><td>1 share</td><td>Full member; 4 Knights compose a Unit</td></tr>
-    <tr><td>Knight Commander</td><td>2 shares</td><td>Commands a Ride (3 Units + KC = 13+)</td></tr>
-    <tr><td>Master Knight</td><td>4 shares</td><td>Commands a Brotherhood (3 Rides + MK = 40+)</td></tr>
-    <tr><td>Grand Master</td><td>8 shares</td><td>Commands the Chapter (3 Brotherhoods + GM = 121+)</td></tr>
-  </table>
-
-  <p>The basic tactical unit is the <em>Unit</em>: any number of Supplicants plus four Knights. Three Units and a Knight Commander form a <em>Ride</em> (thirteen or more). Three Rides and a Master Knight form a <em>Brotherhood</em> (forty or more). Three Brotherhoods and the Grand Master form the full <em>Chapter</em> (one hundred and twenty-one or more). There are currently over 160 members in the Order, exceeding the full complement of 121 with the surplus composed largely of Supplicants.</p>
-
-  <p>The usual deployment is one Unit, often accompanying a company of Sun Blades, though not always. This gives the dale&rsquo;s commanders considerable flexibility in how they weight their patrols and garrisons.</p>
+<p>The Order’s rank structure is straightforward. Knights are paid not in wages but in shares of war prizes, a system that both reduces the Church’s financial burden and provides considerable incentive for aggressive campaigning. The structure is as follows:</p>
 </div>
-
-<!-- Weapons and Tactics -->
-<div class="sub-era">Weapons &amp; Tactics</div>
+<table>
+<thead>
+<tr>
+<th scope="col">Rank</th>
+<th scope="col">Pay (Shares of War Prizes)</th>
+<th scope="col">Command Responsibility</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>Supplicant</td><td>None</td><td>Probationary member; assigned to a Unit</td></tr>
+<tr><td>Knight</td><td>1 share</td><td>Full member; 4 Knights compose a Unit</td></tr>
+<tr><td>Knight Commander</td><td>2 shares</td><td>Commands a Ride (3 Units + KC = 13+)</td></tr>
+<tr><td>Master Knight</td><td>4 shares</td><td>Commands a Brotherhood (3 Rides + MK = 40+)</td></tr>
+<tr><td>Grand Master</td><td>8 shares</td><td>Commands the Chapter (3 Brotherhoods + GM = 121+)</td></tr>
+</tbody>
+</table>
 <div class="narrator">
-  <p>The Order departs sharply from the Sun Blades in one respect: there is no strict dogma of warfare. Most knights come to the Order with long and storied military careers, and rather than imposing a uniform fighting style, they are free to use whatever weapons and tactics they already know. All Knights are required to be proficient fighting from horseback, but beyond that, tactics vary by unit. Some units are composed entirely of knights in plate armour with shields and longswords; others are full of axemen or spearmen; yet others mix their weapons completely and &ldquo;look more like small adventuring parties.&rdquo; The Chronicle notes that they are &ldquo;typically found dressed in half plate armour and wielding magical longswords&rdquo; but that they &ldquo;also display a high degree of individualism in their gear and tactics.&rdquo;</p>
-
-  <p>In the field, Knight Commander Kassius has demonstrated the use of a mounted defensive wedge formation against cavalry and herd charges &mdash; a tactic he describes as having been &ldquo;learned through the misfortune of scores of good soldiers.&rdquo; On at least one occasion, this formation was credited with saving his entire combined force from annihilation during an encounter with Nether Sable herds on the approach to Vaer&rsquo;Lith Katahr.</p>
+<p>The basic tactical unit is the <em>Unit</em>: any number of Supplicants plus four Knights. Three Units and a Knight Commander form a <em>Ride</em> (thirteen or more). Three Rides and a Master Knight form a <em>Brotherhood</em> (forty or more). Three Brotherhoods and the Grand Master form the full <em>Chapter</em> (one hundred and twenty-one or more). There are currently over 160 members in the Order, exceeding the full complement of 121 with the surplus composed largely of Supplicants.</p>
+<p>The usual deployment is one Unit, often accompanying a company of Sun Blades, though not always. This gives the dale’s commanders considerable flexibility in how they weight their patrols and garrisons.</p>
 </div>
-
-<!-- The Three Brotherhoods -->
+<div class="sub-era">Weapons & Tactics</div>
+<div class="narrator">
+<p>The Order departs sharply from the Sun Blades in one respect: there is no strict dogma of warfare. Most knights come to the Order with long and storied military careers, and rather than imposing a uniform fighting style, they are free to use whatever weapons and tactics they already know. All Knights are required to be proficient fighting from horseback, but beyond that, tactics vary by unit. Some units are composed entirely of knights in plate armour with shields and longswords; others are full of axemen or spearmen; yet others mix their weapons completely and “look more like small adventuring parties.” The Chronicle notes that they are “typically found dressed in half plate armour and wielding magical longswords” but that they “also display a high degree of individualism in their gear and tactics.”</p>
+<p>In the field, Knight Commander Kassius has demonstrated the use of a mounted defensive wedge formation against cavalry and herd charges &mdash; a tactic he describes as having been “learned through the misfortune of scores of good soldiers.” On at least one occasion, this formation was credited with saving his entire combined force from annihilation during an encounter with Nether Sable herds on the approach to Vaer’Lith Katahr.</p>
+</div>
 <div class="sub-era">The Three Brotherhoods</div>
 <div class="era-note">
-  <p>Brotherhoods are always named after the Master Knight who founded them. All three are based out of the Fortress Cathedral, but entire Brotherhoods may be deployed to remote garrisons for extended periods.</p>
+<p>Brotherhoods are always named after the Master Knight who founded them. All three are based out of the Fortress Cathedral, but entire Brotherhoods may be deployed to remote garrisons for extended periods.</p>
 </div>
-
-<!-- Sansum's Brotherhood -->
-<div class="brotherhood-box">
-  <div class="bh-title">Sansum&rsquo;s Brotherhood &mdash; Fort Sunset</div>
-  <div class="card-row">
-    <div class="card command">
-      <div class="card-label gold">Master Knight</div>
-      <h3>Master Knight Sansum</h3>
-      <div class="rank">Commander, Sansum&rsquo;s Brotherhood</div>
-      <div class="assignment">Fort Sunset (current deployment)</div>
-      <div class="detail">Commands Sansum&rsquo;s Brotherhood, presently garrisoned at Fort Sunset indefinitely. Fort Sansum, the frontier post at the edge of the Netherese Plaguelands north-west of Castle Radiance, is separately attested as a posting location (Corran Altair served there, drawing voluntary patrol duties with the 2nd Mountaineers and the knights under Sansum&rsquo;s command, eventually eating his noon meal with Sansum himself). Whether Fort Sansum and Fort Sunset are the same location under different names or distinct frontier posts is not resolved in available sources.</div>
-    </div>
-  </div>
+<div class=”brotherhood-box”>
+<div class=”bh-title”>Sansum&rsquo;s Brotherhood &mdash; Fort Sunset</div>
+<div class=”card-row”>
+<div class=”card command”><div class=”card-label gold”>Master Knight</div><h3>Master Knight Sansum</h3><div class=”rank”>Commander, Sansum&rsquo;s Brotherhood</div><div class=”assignment”>Fort Sunset (current deployment)</div><div class=”detail”>Commands Sansum&rsquo;s Brotherhood, presently garrisoned at Fort Sunset indefinitely. Fort Sansum, the frontier post at the edge of the Netherese Plaguelands north-west of Castle Radiance, is separately attested as a posting location (Corran Altair served there, drawing voluntary patrol duties with the 2nd Mountaineers and the knights under Sansum&rsquo;s command, eventually eating his noon meal with Sansum himself). Whether Fort Sansum and Fort Sunset are the same location under different names or distinct frontier posts is not resolved in available sources.</div></div>
 </div>
-
-<!-- Grendel's Brotherhood -->
-<div class="brotherhood-box">
-  <div class="bh-title">Grendel&rsquo;s Brotherhood &mdash; Fort Last Sun</div>
-  <div class="card-row">
-    <div class="card command">
-      <div class="card-label gold">Master Knight</div>
-      <h3>Master Knight Grendel</h3>
-      <div class="rank">Commander, Fort Last Sun</div>
-      <div class="assignment">Fort Last Sun (western frontier)</div>
-      <div class="detail">Commands the Brotherhood garrisoned at Fort Last Sun, the principal western frontier fortress. Most of his brotherhood &mdash; &ldquo;about 30 paladins and many other soldiers from the Order of the Lambent Shield&rdquo; &mdash; and two platoons of Sun Blades are permanently garrisoned there. The fort falls directly under Grendel&rsquo;s control. Fort Last Sun faced division-strength Netherese formations from early Tarsakh 1480, and the strategic pressure was sufficient that Grendel was unable to dispatch a second force toward Vaer&rsquo;Lith Katahr once Kassius&rsquo;s reconnaissance returned.</div>
-    </div>
-  </div>
-  <div class="card-row">
-    <div class="card command">
-      <div class="card-label gold">Knight Commander</div>
-      <h3>Knight Commander Kassius</h3>
-      <div class="rank">Knight Commander &bull; Grendel&rsquo;s Brotherhood</div>
-      <div class="assignment">Fort Sansum / Field operations</div>
-      <div class="detail">A &ldquo;respected and accomplished warrior with 2 decades of experience in battle.&rdquo; Heads a special task force attempting to prevent Netheril from locating the West Gate of Tethyamar. Delivered a crucial intelligence briefing at the Loedegan&rsquo;s Hall situation report (Ches 28, 1481 DR), arriving after a hard ride through mountain paths. Described with a &ldquo;barely perceptible nimbus about his crown&rdquo; and shimmering eyes; a &ldquo;large man, made larger for his prodigious and gleaming plate mail armour,&rdquo; with a face that was &ldquo;a map of battle scars&rdquo; and only one ear remaining. Despite this, he had &ldquo;a bright demeanour&rdquo; and &ldquo;the voice of a patient father rather than an aggressive warrior.&rdquo; Made a pact with Captain Warburton: &ldquo;You punch through from the east. I&rsquo;ll keep Netheril from punching through on the west. Deal?&rdquo;</div>
-      <div class="note">Kassius led a combined force of his ride, a platoon of Sun Blades, and Mule Company to reconnoitre the Netherese fortress at Vaer&rsquo;Lith Katahr. En route, the force survived a Nether Sable stampede (defensive wedge formation), an overnight Krinth assault led by Curator Loki Mouvranesh herself (broken by Corran Altair&rsquo;s solo charge against Loki), and then charged a Netherese supply column at the gallop, killing hundreds and burning wagons in a single pass. &ldquo;Daggerdale!&rdquo; was the battle cry. Kassius publicly defended Corran against a Redjack sergeant&rsquo;s insult with the threat: &ldquo;I will gut you and deliver your head to Sir Corran as an apology.&rdquo;</div>
-    </div>
-  </div>
 </div>
-
-<!-- Derfel's Brotherhood -->
-<div class="brotherhood-box">
-  <div class="bh-title">Derfel&rsquo;s Brotherhood &mdash; Shadow Dam</div>
-  <div class="card-row">
-    <div class="card command">
-      <div class="card-label gold">Master Knight</div>
-      <h3>Master Knight Derfel</h3>
-      <div class="rank">Commander, Shadow Dam</div>
-      <div class="assignment">Shadow Dam (Dagger Hills)</div>
-      <div class="detail">Commands the Brotherhood garrisoned at the Shadow Dam, the fort constructed over the Shadowfell portal in the Dagger Hills. Described as a man with long silver hair worn in a thick braid, a bushy silver beard, and twin-stacked chevrons of white on his yellow tabard indicating his Master Knight rank. Knight Commander Pauldron commands one of Derfel&rsquo;s Rides. Chaplain Banitt Harbaugh is assigned to Derfel&rsquo;s Brotherhood, recruited personally by Derfel at the Grand Master&rsquo;s suggestion.</div>
-    </div>
-  </div>
-  <div class="card-row">
-    <div class="card command">
-      <div class="card-label gold">Knight Commander</div>
-      <h3>Knight Commander Pauldron</h3>
-      <div class="rank">Knight Commander &bull; Derfel&rsquo;s Brotherhood</div>
-      <div class="assignment">Shadow Dam / Field operations</div>
-      <div class="detail">Commands a Ride that is &ldquo;smaller than most, having the least number of Supplicants in the entire Chapter,&rdquo; because Pauldron &ldquo;is not known to be the most rigid adherent to the rules and orders of the organization,&rdquo; making him &ldquo;suitable for tasks that require flexibility and impromptu planning.&rdquo; Commanded the military camp at Silver Tail Cave (Shadowfell portal) after the White Cloaks&rsquo; expedition: three units of paladins (one Ride) plus one unit of Sun Blades, with military command under Pauldron and ecclesiastical authority under Magistrate Madrick. On Kythorn 1, 1480 DR, joined the Army of the White Saint at Crossed Blades Farm with &ldquo;a ride of Knights, and a company of volunteer militia from the already-beleaguered farm.&rdquo;</div>
-    </div>
-    <div class="card">
-      <div class="card-label brown">Chaplain</div>
-      <h3>Banitt Harbaugh</h3>
-      <div class="rank">Priest of Amaunator &bull; Chaplain to Derfel&rsquo;s Brotherhood</div>
-      <div class="assignment">Shadow Dam (Dagger Hills)</div>
-      <div class="detail">Originally from Icewind Dale. Arrived in the dale on pilgrimage to Castle Radiance to see the tomb of Ardelusk Whitegate. A man of unusual physical strength and apparent divine gifts &mdash; as a child he reportedly healed his father of mortal injuries by laying on hands in the light of the sun. Recruited as chaplain to Derfel&rsquo;s Brotherhood by Master Knight Derfel himself, at the suggestion of the Grand Master: &ldquo;I am short a chaplain, Banitt. The Grand Master has suggested that you might be a good fit for the Order.&rdquo; At the Saint&rsquo;s Battle, Banitt bore the Blade of the White Saint, an Amaunatori relic once carried by Ardelusk Whitegate himself.</div>
-    </div>
-  </div>
+<div class=”brotherhood-box”>
+<div class=”bh-title”>Grendel&rsquo;s Brotherhood &mdash; Fort Last Sun</div>
+<div class=”card-row”>
+<div class=”card command”><div class=”card-label gold”>Master Knight</div><h3>Master Knight Grendel</h3><div class=”rank”>Commander, Fort Last Sun</div><div class=”assignment”>Fort Last Sun (western frontier)</div><div class=”detail”>Commands the Brotherhood garrisoned at Fort Last Sun, the principal western frontier fortress. Most of his brotherhood &mdash; &ldquo;about 30 paladins and many other soldiers from the Order of the Lambent Shield&rdquo; &mdash; and two platoons of Sun Blades are permanently garrisoned there. The fort falls directly under Grendel&rsquo;s control. Fort Last Sun faced division-strength Netherese formations from early Tarsakh 1480, and the strategic pressure was sufficient that Grendel was unable to dispatch a second force toward Vaer&rsquo;Lith Katahr once Kassius&rsquo;s reconnaissance returned.</div></div>
 </div>
-
-<!-- Associates -->
+<div class=”card-row”>
+<div class=”card command”><div class=”card-label gold”>Knight Commander</div><h3>Knight Commander Kassius</h3><div class=”rank”>Knight Commander &bull; Grendel&rsquo;s Brotherhood</div><div class=”assignment”>Fort Sansum / Field operations</div><div class=”detail”>A &ldquo;respected and accomplished warrior with 2 decades of experience in battle.&rdquo; Heads a special task force attempting to prevent Netheril from locating the West Gate of Tethyamar. Delivered a crucial intelligence briefing at the Loedegan&rsquo;s Hall situation report (Ches 28, 1481 DR), arriving after a hard ride through mountain paths. Described with a &ldquo;barely perceptible nimbus about his crown&rdquo; and shimmering eyes; a &ldquo;large man, made larger for his prodigious and gleaming plate mail armour,&rdquo; with a face that was &ldquo;a map of battle scars&rdquo; and only one ear remaining. Despite this, he had &ldquo;a bright demeanour&rdquo; and &ldquo;the voice of a patient father rather than an aggressive warrior.&rdquo; Made a pact with Captain Warburton: &ldquo;You punch through from the east. I&rsquo;ll keep Netheril from punching through on the west. Deal?&rdquo;</div><div class=”note”>Kassius led a combined force of his ride, a platoon of Sun Blades, and Mule Company to reconnoitre the Netherese fortress at Vaer&rsquo;Lith Katahr. En route, the force survived a Nether Sable stampede (defensive wedge formation), an overnight Krinth assault led by Curator Loki Mouvranesh herself (broken by Corran Altair&rsquo;s solo charge against Loki), and then charged a Netherese supply column at the gallop, killing hundreds and burning wagons in a single pass. &ldquo;Daggerdale!&rdquo; was the battle cry. Kassius publicly defended Corran against a Redjack sergeant&rsquo;s insult with the threat: &ldquo;I will gut you and deliver your head to Sir Corran as an apology.&rdquo;</div></div>
+</div>
+</div>
+<div class=”brotherhood-box”>
+<div class=”bh-title”>Derfel&rsquo;s Brotherhood &mdash; Shadow Dam</div>
+<div class=”card-row”>
+<div class=”card command”><div class=”card-label gold”>Master Knight</div><h3>Master Knight Derfel</h3><div class=”rank”>Commander, Shadow Dam</div><div class=”assignment”>Shadow Dam (Dagger Hills)</div><div class=”detail”>Commands the Brotherhood garrisoned at the Shadow Dam, the fort constructed over the Shadowfell portal in the Dagger Hills. Described as a man with long silver hair worn in a thick braid, a bushy silver beard, and twin-stacked chevrons of white on his yellow tabard indicating his Master Knight rank. Knight Commander Pauldron commands one of Derfel&rsquo;s Rides. Chaplain Banitt Harbaugh is assigned to Derfel&rsquo;s Brotherhood, recruited personally by Derfel at the Grand Master&rsquo;s suggestion.</div></div>
+</div>
+<div class=”card-row”>
+<div class=”card command”><div class=”card-label gold”>Knight Commander</div><h3>Knight Commander Pauldron</h3><div class=”rank”>Knight Commander &bull; Derfel&rsquo;s Brotherhood</div><div class=”assignment”>Shadow Dam / Field operations</div><div class=”detail”>Commands a Ride that is &ldquo;smaller than most, having the least number of Supplicants in the entire Chapter,&rdquo; because Pauldron &ldquo;is not known to be the most rigid adherent to the rules and orders of the organization,&rdquo; making him &ldquo;suitable for tasks that require flexibility and impromptu planning.&rdquo; Commanded the military camp at Silver Tail Cave (Shadowfell portal) after the White Cloaks&rsquo; expedition: three units of paladins (one Ride) plus one unit of Sun Blades, with military command under Pauldron and ecclesiastical authority under Magistrate Madrick. On Kythorn 1, 1480 DR, joined the Army of the White Saint at Crossed Blades Farm with &ldquo;a ride of Knights, and a company of volunteer militia from the already-beleaguered farm.&rdquo;</div></div>
+</div>
+<div class=”card-row”>
+<div class=”card”><div class=”card-label brown”>Chaplain</div><h3>Banitt Harbaugh</h3><div class=”rank”>Priest of Amaunator &bull; Chaplain to Derfel&rsquo;s Brotherhood</div><div class=”assignment”>Shadow Dam (Dagger Hills)</div><div class=”detail”>Originally from Icewind Dale. Arrived in the dale on pilgrimage to Castle Radiance to see the tomb of Ardelusk Whitegate. A man of unusual physical strength and apparent divine gifts &mdash; as a child he reportedly healed his father of mortal injuries by laying on hands in the light of the sun. Recruited as chaplain to Derfel&rsquo;s Brotherhood by Master Knight Derfel himself, at the suggestion of the Grand Master: &ldquo;I am short a chaplain, Banitt. The Grand Master has suggested that you might be a good fit for the Order.&rdquo; At the Saint&rsquo;s Battle, Banitt bore the Blade of the White Saint, an Amaunatori relic once carried by Ardelusk Whitegate himself. Now serves as Magistrate of Liberty Hill and lifelong steward of the Blade.</div></div>
+</div>
+</div>
 <div class="sub-era">Associates</div>
-<div class="section">
-  <div class="card-row">
-    <div class="card">
-      <div class="card-label brown">Candidate (Declined)</div>
-      <h3>Iolus Warburton</h3>
-      <div class="rank">Captain of the White Cloaks</div>
-      <div class="detail">&ldquo;Candidate for the Order of the Lambent Shield, which he regularly turns down.&rdquo; An interesting case of a man who might have been one of their finest, but prefers the independence of his own company.</div>
-    </div>
-  </div>
+<div class="card-row">
+<div class="card"><div class="card-label brown">Candidate (Declined)</div><h3>Iolus Warburton</h3><div class="rank">Captain of the White Cloaks</div><div class="detail">“Candidate for the Order of the Lambent Shield, which he regularly turns down.” An interesting case of a man who might have been one of their finest, but prefers the independence of his own company.</div></div>
 </div>
-
-<!-- Garrison Strength -->
 <div class="sub-era">Garrison Strength</div>
 <div class="narrator">
-  <p>The Order&rsquo;s deployment at Castle Radiance itself numbers approximately 60 Knights, quartered at Loedegan&rsquo;s Hall alongside 120 Sun Blades. At Fort Last Sun, approximately 30 paladins and additional soldiers from the Order are permanently garrisoned under Grendel, with two platoons of Sun Blades. Sansum&rsquo;s Brotherhood is deployed indefinitely at Fort Sunset. Derfel&rsquo;s Brotherhood holds the Shadow Dam. This dispersal of force across four major locations &mdash; the Castle, two western frontier forts, and the Dagger Hills &mdash; speaks to the breadth of the threats that the dale faces and the Order&rsquo;s role as the flexible reserve that plugs the gaps.</p>
+<p>The Order’s deployment at Castle Radiance itself numbers approximately 60 Knights, quartered at Loedegan’s Hall alongside 120 Sun Blades. At Fort Last Sun, approximately 30 paladins and additional soldiers from the Order are permanently garrisoned under Grendel, with two platoons of Sun Blades. Sansum’s Brotherhood is deployed indefinitely at Fort Sunset. Derfel’s Brotherhood holds the Shadow Dam. This dispersal of force across four major locations &mdash; the Castle, two western frontier forts, and the Dagger Hills &mdash; speaks to the breadth of the threats that the dale faces and the Order’s role as the flexible reserve that plugs the gaps.</p>
 </div>
-
-<!-- The Shadow Dam -->
 <div class="sub-era">The Shadow Dam</div>
 <div class="narrator">
-  <p>In summer 1479, the White Cloaks discovered a Shadowfell portal in the Dagger Hills, in the back of a cave previously inhabited by the werewolf Braxus. The portal had been opened &mdash; either deliberately or through a ritual gone wrong &mdash; by the Dark Garden priestess Belladonna, and was leaking Shadowfell creatures into the hills at an alarming rate. The dale&rsquo;s response was the hasty construction of a fort over the portal, &ldquo;appropriately named the Shadow Dam,&rdquo; and the allocation of &ldquo;a good portion of the Order of the Lambent Shield and a new, specially trained company of Sun Blades&rdquo; to garrison it.</p>
-
-  <p>Derfel&rsquo;s Brotherhood was assigned to hold the Shadow Dam, with Knight Commander Pauldron commanding one of the Brotherhood&rsquo;s Rides. The strategic significance of the posting cannot be overstated: the Shadowfell portal threatened to destabilize the dale&rsquo;s heartland from the south-east at the very moment Netheril was pressing from the west. Nevertheless, the Chronicle records bluntly that despite the Order&rsquo;s commitment, &ldquo;the trouble in the hills could not be contained.&rdquo; This was not a failure of the garrison so much as a reflection of the scale of the threat &mdash; the Dagger Hills are a maze of limestone caves and forested ridges, and the Shadowfell creatures proved adept at evading containment.</p>
-
-  <p>The secondary portal site at Silver Tail Cave was also brought under military control after the White Cloaks&rsquo; expedition there. Pauldron established a camp with three units of paladins (one full Ride) and one unit of Sun Blades. The camp operated under a dual command structure: ecclesiastical authority under Magistrate Madrick, military command under Pauldron. Road patrols in the area were reinforced with mixed units of Sun Blades and Order paladins &mdash; an unusual arrangement for the dale, and a sign of how seriously the Church took the threat.</p>
+<p>In summer 1479, the White Cloaks discovered a Shadowfell portal in the Dagger Hills, in the back of a cave previously inhabited by the werewolf Braxus. The portal had been opened &mdash; either deliberately or through a ritual gone wrong &mdash; by the Dark Garden priestess Belladonna, and was leaking Shadowfell creatures into the hills at an alarming rate. The dale’s response was the hasty construction of a fort over the portal, “appropriately named the Shadow Dam," and the allocation of “a good portion of the Order of the Lambent Shield and a new, specially trained company of Sun Blades” to garrison it.</p>
+<p>Derfel’s Brotherhood was assigned to hold the Shadow Dam, with Knight Commander Pauldron commanding one of the Brotherhood’s Rides. The strategic significance of the posting cannot be overstated: the Shadowfell portal threatened to destabilize the dale’s heartland from the south-east at the very moment Netheril was pressing from the west. Nevertheless, the Chronicle records bluntly that despite the Order’s commitment, “the trouble in the hills could not be contained.” This was not a failure of the garrison so much as a reflection of the scale of the threat &mdash; the Dagger Hills are a maze of limestone caves and forested ridges, and the Shadowfell creatures proved adept at evading containment.</p>
+<p>The secondary portal site at Silver Tail Cave was also brought under military control after the White Cloaks’ expedition there. Pauldron established a camp with three units of paladins (one full Ride) and one unit of Sun Blades. The camp operated under a dual command structure: ecclesiastical authority under Magistrate Madrick, military command under Pauldron. Road patrols in the area were reinforced with mixed units of Sun Blades and Order paladins &mdash; an unusual arrangement for the dale, and a sign of how seriously the Church took the threat.</p>
 </div>
-
-<!-- Frontier Infrastructure -->
-<div class="sub-era">Frontier Infrastructure: Shepherd&rsquo;s Crook Tower</div>
+<div class="sub-era">Frontier Infrastructure: Shepherd’s Crook Tower</div>
 <div class="narrator">
-  <p>The road that runs south-west from Castle Radiance through the Desert&rsquo;s Mouth Mountains is called Paladin&rsquo;s Road, and it earned the name. In 1466 and 1467, the Order spent the better part of two years clearing Blue Face Ogres from the gorge between Black Death Mountain and the Old Man&rsquo;s Tooth. Local guides will tell you there is a dead knight for every hundred yards of road that got built there. Whether or not the figure is precise, it reflects a truth: the western approaches were bought with the Order&rsquo;s blood, and the dale has been paying to hold them ever since.</p>
-
-  <p>The tower at Shepherd&rsquo;s Crook is the latest effort to make that sacrifice permanent. It rises sixty feet from a rocky projection where the gorge narrows, halfway between Bald Skull Lake and No Return Lake. The cliff face beside it has been quarried both for building stone and to create a sheer wall. A smaller tower on the edge of the gorge is connected to the main structure by a steep stone bridge, under which the road passes &mdash; forming a gatehouse that commands the eastern approach for at least seventy-five yards with no cover.</p>
-
-  <p>Construction was still underway when a band of orcs &mdash; later identified as the Purple Eye &mdash; began raiding the site, killing four guards and carrying off three masons. A garrison of Sun Blades (2nd Mountaineers, Red Platoon, under Lieutenant Northman) was dispatched to reinforce the tower, but &ldquo;even they suffered significant casualties in a series of ambushes&rdquo; and Northman was ordered to withdraw. The site was eventually cleared by a company of Free Defence League adventurers on a Castle bounty, but the episode is instructive: even on ground the Order bled to open, the dale&rsquo;s hold on the western approaches remains tenuous and expensive.</p>
+<p>The road that runs south-west from Castle Radiance through the Desert’s Mouth Mountains is called Paladin’s Road, and it earned the name. In 1466 and 1467, the Order spent the better part of two years clearing Blue Face Ogres from the gorge between Black Death Mountain and the Old Man’s Tooth. Local guides will tell you there is a dead knight for every hundred yards of road that got built there. Whether or not the figure is precise, it reflects a truth: the western approaches were bought with the Order’s blood, and the dale has been paying to hold them ever since.</p>
+<p>The tower at Shepherd’s Crook is the latest effort to make that sacrifice permanent. It rises sixty feet from a rocky projection where the gorge narrows, halfway between Bald Skull Lake and No Return Lake. The cliff face beside it has been quarried both for building stone and to create a sheer wall. A smaller tower on the edge of the gorge is connected to the main structure by a steep stone bridge, under which the road passes &mdash; forming a gatehouse that commands the eastern approach for at least seventy-five yards with no cover.</p>
+<p>Construction was still underway when a band of orcs &mdash; later identified as the Purple Eye &mdash; began raiding the site, killing four guards and carrying off three masons. A garrison of Sun Blades (2nd Mountaineers, Red Platoon, under Lieutenant Northman) was dispatched to reinforce the tower, but “even they suffered significant casualties in a series of ambushes” and Northman was ordered to withdraw. The site was eventually cleared by a company of Free Defence League adventurers on a Castle bounty, but the episode is instructive: even on ground the Order bled to open, the dale’s hold on the western approaches remains tenuous and expensive.</p>
 </div>
-
-<!-- Operations Summary -->
+<div class="sub-era">The Blade of the White Saint</div>
+<div class="narrator">
+<p>The Order’s most revered possession is not a fortress but a relic: the longsword of Ardelusk Whitegate, known as the Blade of the White Saint. The sword was carried by Ardelusk for most of his career, though when and where he acquired it remains a mystery. It lay in his tomb until Greengrass of 1479, when the Zenith Lord himself drew it from the sarcophagus in a ceremony of considerable solemnity.</p>
+<p>At about three bells on the morning of Greengrass, the pilgrim Banitt Harbaugh was summoned to the tomb and escorted there by Lumina Whitegate and four knights of the Order. He found that Argent and Luminous Whitegate were already present, with another four knights removing the great stone lid from the sarcophagus. As the stale air struck him, Banitt fell to his knees in prayer. When he rose, Argent told him: “We are living in remarkable times, Pilgrim. Remarkable and dangerous. Just as your arrival has heralded the beatification of our ancestor, so too is there a Black Saint in our midst.” The Zenith Lord spoke of the rumours of the Black Hand of Gaebril Tremalkin and the need for “a White Saint to counter the Black.” He then drew the blade from the tomb &mdash; “the longsword illuminates the room with a light like early morning” &mdash; and anointed Banitt as “Guardian of the Tomb, First Pilgrim," charging him with hunting the followers of the Black Saint.</p>
+<p>Captain Warburton’s assessment of this investiture is characteristically blunt: Banitt was “tasked with being the bearer of Ardelusk Whitegate’s holy blade” and now “carries the burden of being the central point of Castle Radiance and Daggerdale’s hope towards a future that is free of Netherese influence.” The investiture was not merely a religious ceremony &mdash; it was a deliberate strategic decision to create a rallying point at a moment when the dale was fighting on two fronts.</p>
+<p>Banitt carried the Blade into battle on Kythorn 1, 1480, at the Saint’s Battle of Liberty Hill, where he faced Belladonna wielding the Black Hand of Gaebril Tremalkin. After the victory, Banitt took the position of Magistrate of Liberty Hill and kept the Blade.</p>
+<p>The sword now rests on an altar in the nave of the Cathedral of Liberty Hill, where anyone may walk up and touch it, or even pick it up. Magistrate Harbaugh is often present to thrust it into the hands of arriving pilgrims. Consul Kesh Oakdale, who has observed the arrangement at close quarters, records that the Magistrate “assures me that the blade is quite safe and secure, and I am obliged to trust in him, though I can’t for the life of me divine what protections he has in place, beyond good will and the forbearance of travellers.” The Crown may wish to form its own view of the security arrangements surrounding what is, by any measure, the most potent religious relic in the dale.</p>
+<p>The relic’s effect on the settlement has been dramatic. On the day Banitt became Magistrate, Liberty Hill numbered 225 souls, most of them orphans. As of the most recent reports, the population is nearly 2,000 &mdash; the third-most-populated area in the region, behind only Dagger Falls and Charity. Several thousand pilgrims have passed through the village since the Battle, drawn by the Blade and the Pilgrim Magistrate’s blessing, and enough have stayed to transform what was a ruined farm village into a prosperous and cosmopolitan settlement. The cathedral has received gifts and donations “from every corner of Faerun.”</p>
+</div>
+<div class="sub-era">The Table of the Sun</div>
+<div class="narrator">
+<p>The Tower of Liberty Hill, and the Table of the Sun that sits atop it, have a more complex present function than their name suggests. After the Saint’s Battle, the Tower was given to the village as public property by Lumina Whitegate, who told Consul Oakdale that “she could not bear to live in the place without her brother, sister, cousins and all the children running about.” The structure now serves three simultaneous purposes: pilgrim hostel, military garrison, and prison.</p>
+<p>The lower levels of the Tower have been converted into a public house with a considerable number of rooms available to pilgrims, “for whatever they can pay (or not).” The upper level accommodates Magistrate Invictus and the dozens of Sun Blades assigned to the defence of the village &mdash; these being from the new 10th Company, the “Shadow Sentinels," a unit specially trained to deal with dangerous and cunning enemies.</p>
+<p>And at the top, confined to the Table of the Sun itself, is the prisoner Belladonna &mdash; the Dark Garden priestess whose necromancy provoked the war in the Dagger Hills and whose defeat at the Saint’s Battle was the climax of the campaign. She is held by “the most powerful prayers and rituals of the clergy and magic of the Warsmiths available.” Every morning, twelve minutes after sunrise, Lumina Whitegate climbs the stairs and speaks with her. Belladonna “just stares back in silent hatred.” Consul Oakdale describes the prisoner’s confinement as a “dark spot” in an otherwise happy place, “carefully caged and vigilantly watched over.”</p>
+<p>The arrangement is remarkable. Pilgrims sleep in the floors below a woman who, months earlier, was raising an undead army to overrun the dale. The Shadow Sentinels garrison a building that doubles as a hostel. And at the summit, a Whitegate confronts the nemesis of her family each morning at the same hour. This is the character of Liberty Hill in microcosm: piety, commerce and war, stacked one atop the other in a single tower.</p>
+</div>
 <div class="sub-era">Summary of Operations</div>
 <div class="ops-summary">
-
-  <p><strong>Western Front (1479&ndash;1480):</strong> From late 1479, Netherese forces massed on the plains west of the mountains. Skirmishes escalated through the winter, and by early Tarsakh 1480, division-strength Netherese formations were a day&rsquo;s march from both Fort Last Sun and Fort Sansum. Most of the Order&rsquo;s upper command, Lord Luminous included, were stationed at the forts and &ldquo;saw combat almost daily throughout the summer.&rdquo; The escalation on the western front was so severe that no troops could be spared for the heartland, leaving the Dark Garden crisis to the White Cloaks.</p>
-
-  <p><strong>Reconnaissance of Vaer&rsquo;Lith Katahr (1479):</strong> Knight Commander Kassius led a combined force &mdash; his ride of paladins, a platoon of Sun Blades, and Mule Company &mdash; on a reconnaissance mission to the Netherese fortress of Vaer&rsquo;Lith Katahr. The force fought through Nether Sable herds and a night ambush by Krinth under Curator Loki Mouvranesh. Upon reaching the objective, Kassius observed eight towers flying Netherese banners, heavy sentry activity, and a supply column approaching from the west: &ldquo;Never have there been this many Netherese Soldiers this close to our borders. War has come.&rdquo; On the return, the force charged the Netherese supply column in wedge formation, killing hundreds and burning wagons in a single pass. This reconnaissance confirmed the scale of the Netherese build-up and precipitated the full mobilization of the western front.</p>
-
-  <p><strong>The Shadow Dam &amp; Dagger Hills (1479&ndash;1480):</strong> The Shadowfell portal discovered by the White Cloaks in summer 1479 destabilized the Dagger Hills. Derfel&rsquo;s Brotherhood and a specially trained company of Sun Blades were allocated to garrison the hastily constructed Shadow Dam. Despite this significant commitment, &ldquo;the trouble in the hills could not be contained.&rdquo; Pauldron&rsquo;s Ride maintained a secondary camp at Silver Tail Cave. Road patrols were reinforced with mixed paladin-Sun Blade units.</p>
-
-  <p><strong>Saint&rsquo;s Battle (Kythorn 1, 1480):</strong> Knight Commander Pauldron joined the Army of the White Saint at Crossed Blades Farm with a ride of Knights, Chaplain Banitt Harbaugh (bearing the Blade of the White Saint), and a company of volunteer militia. Bishop Blaze Whitegate was present and exercised ecclesiastical authority, ordering Belladonna taken alive with Pauldron&rsquo;s support. The broader Order was committed to the western front and could not redeploy in force.</p>
-
-  <p><strong>Siege of Fort Last Sun (Flamerule 19, 1480):</strong> Fort Last Sun, held by some 1,500 men under Grendel&rsquo;s command, withstood an assault by an estimated 20,000 Netherese troops. The garrison held until a surprise intervention by Tethyamar League dwarves, who emerged from concealed positions and routed the Netherese command guard. This engagement effectively ended the Netherese war on the western front.</p>
-
-  <p><strong>The War in the Deep (1481&ndash;):</strong> Knight Commander Kassius reported (Ches 28, 1481) that Netheril had &ldquo;multiplied his efforts to locate the West Gate of Tethyamar,&rdquo; with Curator Loki Mouvranesh conducting excavation operations north of Fort Sansum. Kassius was tasked with stopping Mouvranesh, and described his resources as sufficient to &ldquo;make it difficult for her.&rdquo; He called on others in the dale to commit to the War in the Deep, leading to the White Cloaks&rsquo; declaration for Tethyamar.</p>
+<h4>Western Front (1479&ndash;1480)</h4>
+<p>From late 1479, Netherese forces massed on the plains west of the mountains. Skirmishes escalated through the winter, and by early Tarsakh 1480, division-strength Netherese formations were a day’s march from both Fort Last Sun and Fort Sansum. Most of the Order’s upper command, Lord Luminous included, were stationed at the forts and “saw combat almost daily throughout the summer.” The escalation on the western front was so severe that no troops could be spared for the heartland, leaving the Dark Garden crisis to the White Cloaks.</p>
+<h4>Reconnaissance of Vaer’Lith Katahr (1479)</h4>
+<p>Knight Commander Kassius led a combined force &mdash; his ride of paladins, a platoon of Sun Blades, and Mule Company &mdash; on a reconnaissance mission to the Netherese fortress of Vaer’Lith Katahr. The force fought through Nether Sable herds and a night ambush by Krinth under Curator Loki Mouvranesh. Upon reaching the objective, Kassius observed eight towers flying Netherese banners, heavy sentry activity, and a supply column approaching from the west: “Never have there been this many Netherese Soldiers this close to our borders. War has come.” On the return, the force charged the Netherese supply column in wedge formation, killing hundreds and burning wagons in a single pass. This reconnaissance confirmed the scale of the Netherese build-up and precipitated the full mobilization of the western front.</p>
+<h4>The Shadow Dam & Dagger Hills (1479&ndash;1480)</h4>
+<p>The Shadowfell portal discovered by the White Cloaks in summer 1479 destabilised the Dagger Hills. Derfel’s Brotherhood and a specially trained company of Sun Blades were allocated to garrison the hastily constructed Shadow Dam. Despite this significant commitment, “the trouble in the hills could not be contained.” Pauldron’s Ride maintained a secondary camp at Silver Tail Cave. Road patrols were reinforced with mixed paladin-Sun Blade units.</p>
+<h4>Saint’s Battle (Kythorn 1, 1480)</h4>
+<p>Knight Commander Pauldron joined the Army of the White Saint at Crossed Blades Farm with a ride of Knights, Chaplain Banitt Harbaugh (bearing the Blade of the White Saint), and a company of volunteer militia. Bishop Blaze Whitegate was present and exercised ecclesiastical authority, ordering Belladonna taken alive with Pauldron’s support. The broader Order was committed to the western front and could not redeploy in force.</p>
+<h4>Siege of Fort Last Sun (Flamerule 19, 1480)</h4>
+<p>Fort Last Sun, held by some 1,500 men under Grendel’s command, withstood an assault by an estimated 20,000 Netherese troops. The garrison held until a surprise intervention by Tethyamar League dwarves, who emerged from concealed positions and routed the Netherese command guard. This engagement effectively ended the Netherese war on the western front.</p>
+<h4>The War in the Deep (1481&ndash;)</h4>
+<p>Knight Commander Kassius reported (Ches 28, 1481) that Netheril had “multiplied his efforts to locate the West Gate of Tethyamar," with Curator Loki Mouvranesh conducting excavation operations north of Fort Sansum. Kassius was tasked with stopping Mouvranesh, and described his resources as sufficient to “make it difficult for her.” He called on others in the dale to commit to the War in the Deep, leading to the White Cloaks’ declaration for Tethyamar.</p>
 </div>
-
-<!-- Personnel Roster -->
-<div class="section">
-  <div class="card-row">
-    <div class="card wide" style="overflow-x:auto;">
-      <table>
-        <tr><th colspan="5" style="background: #ede0c8; color: #6b2a0a; font-size: 1.05em; border-left: 3px solid #8b4513; padding: 8px 10px; border-bottom: 2px solid #c9a96e;">Known Personnel &mdash; Order of the Lambent Shield</th></tr>
-        <tr><th>Name</th><th>Rank / Role</th><th>Assignment</th><th>Status</th><th>Notes</th></tr>
-        <tr><td>Lord Luminous Whitegate</td><td>Grand Master</td><td>Castle Radiance</td><td class="status-active">Active</td><td>Founder. Lord of Castle Radiance. Born 1399 DR.</td></tr>
-        <tr><td>Master Knight Sansum</td><td>Master Knight</td><td>Fort Sunset</td><td class="status-active">Active</td><td>Brotherhood deployed indefinitely at Fort Sunset.</td></tr>
-        <tr><td>Master Knight Grendel</td><td>Master Knight</td><td>Fort Last Sun</td><td class="status-active">Active</td><td>~30 paladins + soldiers garrisoned under his command.</td></tr>
-        <tr><td>Master Knight Derfel</td><td>Master Knight</td><td>Shadow Dam</td><td class="status-active">Active</td><td>Silver hair in thick braid. Recruited Banitt as chaplain.</td></tr>
-        <tr><td>Knight Commander Kassius</td><td>Knight Commander</td><td>Fort Sansum / Field</td><td class="status-active">Active</td><td>Task force vs. Netheril at West Gate. Under Grendel. Led charge at Vaer&rsquo;Lith Katahr.</td></tr>
-        <tr><td>Knight Commander Pauldron</td><td>Knight Commander</td><td>Shadow Dam / Field</td><td class="status-active">Active</td><td>Flexible Ride under Derfel. Silver Tail Cave. Saint&rsquo;s Battle.</td></tr>
-        <tr><td>Banitt Harbaugh</td><td>Chaplain</td><td>Shadow Dam</td><td class="status-active">Active</td><td>Priest of Amaunator. Chaplain to Derfel&rsquo;s Brotherhood. Bears the Blade of the White Saint.</td></tr>
-        <tr><td>Iolus Warburton</td><td>&mdash;</td><td>&mdash;</td><td class="status-former">Declines candidacy</td><td>Captain of the White Cloaks. Regularly turns down the Order.</td></tr>
-      </table>
-    </div>
-  </div>
-</div>
-
-<!-- ================================================================ -->
-<!-- II. ORDER OF THE GOLDEN LION                                      -->
-<!-- ================================================================ -->
-<div class="era-header">II. Order of the Golden Lion (Torm)</div>
+<div class="sub-era">Known Personnel — Order of the Lambent Shield</div>
+<table>
+<thead>
+<tr>
+<th scope="col">Name</th>
+<th scope="col">Rank / Role</th>
+<th scope="col">Assignment</th>
+<th scope="col">Status</th>
+<th scope="col">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lord Luminous Whitegate</td>
+<td>Grand Master</td>
+<td>Castle Radiance</td>
+<td>Active</td>
+<td>Founder. Lord of Castle Radiance. Born 1399 DR.</td>
+</tr>
+<tr>
+<td>Master Knight Sansum</td>
+<td>Master Knight</td>
+<td>Fort Sunset</td>
+<td>Active</td>
+<td>Brotherhood deployed indefinitely at Fort Sunset.</td>
+</tr>
+<tr>
+<td>Master Knight Grendel</td>
+<td>Master Knight</td>
+<td>Fort Last Sun</td>
+<td>Active</td>
+<td>~30 paladins + soldiers garrisoned under his command.</td>
+</tr>
+<tr>
+<td>Master Knight Derfel</td>
+<td>Master Knight</td>
+<td>Shadow Dam</td>
+<td>Active</td>
+<td>Silver hair in thick braid. Recruited Banitt as chaplain.</td>
+</tr>
+<tr>
+<td>Knight Commander Kassius</td>
+<td>Knight Commander</td>
+<td>Fort Sansum / Field</td>
+<td>Active</td>
+<td>Task force vs. Netheril at West Gate. Under Grendel. Led charge at Vaer’Lith Katahr.</td>
+</tr>
+<tr>
+<td>Knight Commander Pauldron</td>
+<td>Knight Commander</td>
+<td>Shadow Dam / Field</td>
+<td>Active</td>
+<td>Flexible Ride under Derfel. Silver Tail Cave. Saint’s Battle.</td>
+</tr>
+<tr>
+<td>Banitt Harbaugh</td>
+<td>Chaplain</td>
+<td>Shadow Dam</td>
+<td>Active</td>
+<td>Priest of Amaunator. Chaplain to Derfel’s Brotherhood. Bears the Blade of the White Saint. Magistrate of Liberty Hill.</td>
+</tr>
+<tr>
+<td>Iolus Warburton</td>
+<td>—</td>
+<td>—</td>
+<td>Declines candidacy</td>
+<td>Captain of the White Cloaks. Regularly turns down the Order.</td>
+</tr>
+</tbody>
+</table>
+<div class="era-header">Part II — II. Order of the Golden Lion (Torm)</div>
 <div class="narrator">
-  <p>The Order of the Golden Lion is a Tormite order with at least one chapter beyond the dale &mdash; the Waterdeep Chapter is documented elsewhere. In the 14th century, the Order marched into Shadowdale under Sir Gethard Soulbright to join the liberation of Daggerdale, and was devastated at the Second Battle of Anathar&rsquo;s Dell (see Appendix). In the 15th century, the Order is documented only through individual members rather than any coherent unit structure, and it is not clear whether it maintains any significant strength in the dale. Its Charter Militant may reflect its historical prestige and the Concordat&rsquo;s desire to maintain good relations with the Church of Torm rather than any present military capacity.</p>
+<p>The Order of the Golden Lion is a Tormite order with at least one chapter beyond the dale &mdash; the Waterdeep Chapter is documented elsewhere. In the 14th century, the Order marched into Shadowdale under Sir Gethard Soulbright to join the liberation of Daggerdale, and was devastated at the Second Battle of Anathar’s Dell (see Appendix). In the 15th century, the Order is documented only through individual members rather than any coherent unit structure, and it is not clear whether it maintains any significant strength in the dale. Its Charter Militant may reflect its historical prestige and the Concordat’s desire to maintain good relations with the Church of Torm rather than any present military capacity.</p>
 </div>
-
-<div class="section">
-  <div class="card-row">
-    <div class="card command">
-      <div class="card-label gold">Paladin of Torm &bull; Sergeant</div>
-      <h3>Corran Altair</h3>
-      <div class="rank">Sergeant, Order of the Golden Lion &bull; Paladin of Torm &bull; White Cloak &bull; Mule Company</div>
-      <div class="assignment">Fort Last Sun / Fort Sansum / Field</div>
-      <div class="detail">The most fully documented individual trajectory in the campaign sources. Born in Dagger Falls to devout Amaunatori parents. Conscripted into the Sun Blades at eighteen, where he showed immediate aptitude and was on track for early promotion to Corporal. Discharged after impregnating Myriah Mystral, daughter of the wealthiest farming family in the dale, during the Summer Solstice Festival. Sentenced to labour at Castle Radiance. Upon release, found that the Mystral family had sent Myriah and his infant daughter away. Attacked the Mystral guards in a rage, was imprisoned, and his family was ruined by the Mystrals&rsquo; political influence. Took a posting at Fort Last Sun to earn five gold a tenday &mdash; all paid to his parents. Later transferred to Fort Sansum at the edge of the Plaguelands. Disappeared for seven years, then walked back through the gates of Fort Last Sun as a paladin of Torm, bearing antiquated ceremonial arms with a Torm motif. His reception at Fort Last Sun was initially hostile &mdash; &ldquo;most of the soldiers in the Fort seemed to look down their noses&rdquo; at him &mdash; but Knight Commander Kassius publicly praised him after the reconnaissance of Vaer&rsquo;Lith Katahr, and &ldquo;soldiers from Fort Last Sun never again looked down on the Tormite who received such high praise from a Knight Commander.&rdquo; Afterwards, he chose to return to Fort Sansum rather than remain at Fort Last Sun, drawing voluntary patrol duties with the 2nd Mountaineers and the knights under Master Knight Sansum. He always carries an enchanted scrollcase containing a charcoal sketch of Myriah.</div>
-    </div>
-  </div>
-  <div class="card-row">
-    <div class="card">
-      <div class="card-label blue">Paladin 2nd-Order (Tormite rank)</div>
-      <h3>Adjutant Ganolen Thendolain</h3>
-      <div class="rank">Paladin 2nd-Order &bull; Church of Torm, Uthmere</div>
-      <div class="assignment">Castle Radiance</div>
-      <div class="detail">Sent by Justice Majoris Larson Thesk (Paladin 1st-Order) from the Church of Torm in Uthmere to aid the Amaunatori against the Sharans and Netherese. His mission fulfils the Tormite &ldquo;Penance of Duty&rdquo; &mdash; repaying one of the &ldquo;Three Debts&rdquo; to atone for the persecution other good faiths suffered at the hands of the Church of Torm. Arrived at Castle Radiance after nearly two months of travel by sea (aboard the merchant ship <em>The Wallflower</em>) and overland. His presence represents a formal gesture by the Church of Torm toward the Amaunatori cause.</div>
-    </div>
-    <div class="card">
-      <div class="card-label amber">Battle Chaplain &mdash; Waterdeep Chapter</div>
-      <h3>Shepherd Malaric Adon</h3>
-      <div class="rank">Battle Chaplain &bull; Order of the Golden Lion, Waterdeep Chapter</div>
-      <div class="detail">Sent by Bleskos Thunderstaff, a high-ranking clergyman from the Cathedral of Torm in Waterdeep, to investigate trouble in Loudwater. Organised a citizen militia called &ldquo;The Shields&rdquo; in response to Magistrate Brannikar&rsquo;s &ldquo;The Blades.&rdquo; Prone to long-winded speeches, he recruited more than two score of men willing to fight in the defence of Loudwater, many of whom became devout followers of Torm. His title confirms that the Golden Lion has chapters beyond Daggerdale.</div>
-      <div class="note">Note: Shepherd&rsquo;s activities are documented only in the Loudwater region and may reflect a distant chapter operating independently of the Daggerdale command. He is included here for the evidence his title provides regarding the Order&rsquo;s wider structure.</div>
-    </div>
-  </div>
-  <div style="padding: 0 16px; margin-top: 4px; overflow-x: auto;">
-    <table>
-      <tr><th colspan="5" style="background: #ede0c8; color: #6b2a0a; font-size: 1.05em; border-left: 3px solid #8b4513; padding: 8px 10px; border-bottom: 2px solid #c9a96e;">Known Personnel &mdash; Order of the Golden Lion</th></tr>
-      <tr><th>Name</th><th>Rank / Role</th><th>Era</th><th>Status</th><th>Notes</th></tr>
-      <tr><td><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="†">Sir Gethard Soulbright</td><td>Knight Commander</td><td>14th c.</td><td class="status-kia">KIA (Anathar&rsquo;s Dell, 1372)</td><td>Led the Order. Killed by Baron Drake. See Appendix.</td></tr>
-      <tr><td>Daniel Overcourt</td><td>Squire to Sir Soulbright</td><td>14th c.</td><td class="status-active">Survived (wounded)</td><td>Wounded at Anathar&rsquo;s Dell. See Appendix.</td></tr>
-      <tr><td>Corran Altair</td><td>Sergeant &bull; Paladin of Torm</td><td>15th c.</td><td class="status-active">Active</td><td>Former Sun Blade. White Cloak &amp; Mule Company.</td></tr>
-      <tr><td>Ganolen Thendolain</td><td>Adjutant &bull; Paladin 2nd-Order</td><td>15th c.</td><td class="status-active">Active</td><td>Tormite from Uthmere. Penance of Duty at Castle Radiance.</td></tr>
-      <tr><td>Shepherd Malaric Adon</td><td>Battle Chaplain</td><td>15th c.</td><td class="status-active">Active (Loudwater)</td><td>Waterdeep Chapter. Loudwater campaign.</td></tr>
-    </table>
-  </div>
+<div class="card-row">
+<div class="card command"><div class="card-label gold">Paladin of Torm • Sergeant</div><h3>Corran Altair</h3><div class="rank">Sergeant, Order of the Golden Lion • Paladin of Torm • White Cloak • Mule Company</div><div class="assignment">Fort Last Sun / Fort Sansum / Field</div><div class="detail">The most fully documented individual trajectory in the campaign sources. Born in Dagger Falls to devout Amaunatori parents. Conscripted into the Sun Blades at eighteen, where he showed immediate aptitude and was on track for early promotion to Corporal. Discharged after impregnating Myriah Mystral, daughter of the wealthiest farming family in the dale, during the Summer Solstice Festival. Sentenced to labour at Castle Radiance. Upon release, found that the Mystral family had sent Myriah and his infant daughter away. Attacked the Mystral guards in a rage, was imprisoned, and his family was ruined by the Mystrals’ political influence. Took a posting at Fort Last Sun to earn five gold a tenday &mdash; all paid to his parents. Later transferred to Fort Sansum at the edge of the Plaguelands. Disappeared for seven years, then walked back through the gates of Fort Last Sun as a paladin of Torm, bearing antiquated ceremonial arms with a Torm motif. His reception at Fort Last Sun was initially hostile &mdash; “most of the soldiers in the Fort seemed to look down their noses” at him &mdash; but Knight Commander Kassius publicly praised him after the reconnaissance of Vaer’Lith Katahr, and “soldiers from Fort Last Sun never again looked down on the Tormite who received such high praise from a Knight Commander.” Afterwards, he chose to return to Fort Sansum rather than remain at Fort Last Sun, drawing voluntary patrol duties with the 2nd Mountaineers and the knights under Master Knight Sansum. He always carries an enchanted scrollcase containing a charcoal sketch of Myriah.</div></div>
 </div>
-
-
-<!-- ================================================================ -->
-<!-- APPENDIX: HISTORICAL RECORD                                      -->
-<!-- ================================================================ -->
-<div class="appendix-header">Appendix: Historical Record &mdash; The Daggerdale Expedition (1372 DR)</div>
+<div class="card-row">
+<div class="card"><div class="card-label blue">Paladin 2nd-Order (Tormite rank)</div><h3>Adjutant Ganolen Thendolain</h3><div class="rank">Paladin 2nd-Order • Church of Torm, Uthmere</div><div class="assignment">Castle Radiance</div><div class="detail">Sent by Justice Majoris Larson Thesk (Paladin 1st-Order) from the Church of Torm in Uthmere to aid the Amaunatori against the Sharans and Netherese. His mission fulfils the Tormite “Penance of Duty” &mdash; repaying one of the “Three Debts” to atone for the persecution other good faiths suffered at the hands of the Church of Torm. Arrived at Castle Radiance after nearly two months of travel by sea (aboard the merchant ship <em>The Wallflower</em>) and overland. His presence represents a formal gesture by the Church of Torm toward the Amaunatori cause.</div></div>
+</div>
+<div class="card-row">
+<div class="card"><div class="card-label amber">Battle Chaplain — Waterdeep Chapter</div><h3>Shepherd Malaric Adon</h3><div class="rank">Battle Chaplain • Order of the Golden Lion, Waterdeep Chapter</div><div class="detail">Sent by Bleskos Thunderstaff, a high-ranking clergyman from the Cathedral of Torm in Waterdeep, to investigate trouble in Loudwater. Organised a citizen militia called “The Shields” in response to Magistrate Brannikar’s “The Blades.” Prone to long-winded speeches, he recruited more than two score of men willing to fight in the defence of Loudwater, many of whom became devout followers of Torm. His title confirms that the Golden Lion has chapters beyond Daggerdale.</div><div class="note">Shepherd’s activities are documented only in the Loudwater region and may reflect a distant chapter operating independently of the Daggerdale command. He is included here for the evidence his title provides regarding the Order’s wider structure.</div></div>
+</div>
+<div class="sub-era">Known Personnel — Order of the Golden Lion</div>
+<table>
+<thead>
+<tr>
+<th scope="col">Name</th>
+<th scope="col">Rank / Role</th>
+<th scope="col">Era</th>
+<th scope="col">Status</th>
+<th scope="col">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij48cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz48cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz48cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+PHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPjxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+PGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz48bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPjxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+PGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPjwvc3ZnPg==" alt="Deceased: " role="img">Sir Gethard Soulbright</span></td>
+<td>Knight Commander</td>
+<td>14th c.</td>
+<td>KIA (Anathar’s Dell, 1372)</td>
+<td>Led the Order. Killed by Baron Drake. See Appendix.</td>
+</tr>
+<tr>
+<td>Daniel Overcourt</td>
+<td>Squire to Sir Soulbright</td>
+<td>14th c.</td>
+<td>Survived (wounded)</td>
+<td>Wounded at Anathar’s Dell. See Appendix.</td>
+</tr>
+<tr>
+<td>Corran Altair</td>
+<td>Sergeant • Paladin of Torm</td>
+<td>15th c.</td>
+<td>Active</td>
+<td>Former Sun Blade. White Cloak & Mule Company.</td>
+</tr>
+<tr>
+<td>Ganolen Thendolain</td>
+<td>Adjutant • Paladin 2nd-Order</td>
+<td>15th c.</td>
+<td>Active</td>
+<td>Tormite from Uthmere. Penance of Duty at Castle Radiance.</td>
+</tr>
+<tr>
+<td>Shepherd Malaric Adon</td>
+<td>Battle Chaplain</td>
+<td>15th c.</td>
+<td>Active (Loudwater)</td>
+<td>Waterdeep Chapter. Loudwater campaign.</td>
+</tr>
+</tbody>
+</table>
+<div class="appendix-header">Appendix: Historical Record — The Daggerdale Expedition (1372 DR)</div>
 <div class="narrator">
-  <p>For completeness, I append here a summary of the events of 1372 DR, which are the reason three of the four holy orders hold their Charter Militant today. The principal source for this account is the Daggerdale Chronicle. These events took place over a century before the present day, and none of the named participants are known to survive.</p>
+<p>For completeness, I append here a summary of the events of 1372 DR, which are the reason three of the four holy orders hold their Charter Militant today. The principal source for this account is the Daggerdale Chronicle. These events took place over a century before the present day, and none of the named participants are known to survive.</p>
 </div>
-
 <div class="sub-era">The March into Shadowdale</div>
 <div class="era-note">
-  <p>In the autumn of 1372 DR, three holy orders &mdash; the Order of the Golden Lion (Torm), the Order of the Lambent Rose (Ilmater), and the Knights of Justice (Tyr) &mdash; marched into Shadowdale with &ldquo;full pomp and ceremony&rdquo; to join the effort to liberate Daggerdale from Zhentarim occupation. They were preceded two days earlier by the Order of the Broken Blade (Tempus), whose eight knights under Sir Durnbold rode ahead impatiently and were ambushed and slain on the road to Anathar&rsquo;s Dell.</p>
-  <p style="margin-top:8px;">The three surviving orders, accompanied by a retinue of priests of Ilmater and Lathander and a small number of Shadowdale volunteers, mustered a war host and rode west on the morning of Eleint 7. That evening, a great conference was held at the Twisted Tower, hosted by Lord Amcathra, at which Sir Soulbright &ldquo;sued Amcathra for troops,&rdquo; but he could spare none.</p>
+<p>In the autumn of 1372 DR, three holy orders &mdash; the Order of the Golden Lion (Torm), the Order of the Lambent Rose (Ilmater), and the Knights of Justice (Tyr) &mdash; marched into Shadowdale with “full pomp and ceremony” to join the effort to liberate Daggerdale from Zhentarim occupation. They were preceded two days earlier by the Order of the Broken Blade (Tempus), whose eight knights under Sir Durnbold rode ahead impatiently and were ambushed and slain on the road to Anathar’s Dell.</p>
+<p>The three surviving orders, accompanied by a retinue of priests of Ilmater and Lathander and a small number of Shadowdale volunteers, mustered a war host and rode west on the morning of Eleint 7. That evening, a great conference was held at the Twisted Tower, hosted by Lord Amcathra, at which Sir Soulbright “sued Amcathra for troops," but he could spare none.</p>
 </div>
-
-<div class="sub-era">The Second Battle of Anathar&rsquo;s Dell (Eleint 7, 1372 DR)</div>
+<div class="sub-era">The Second Battle of Anathar’s Dell (Eleint 7, 1372 DR)</div>
 <div class="era-note">
-  <p>Twenty miles and most of the day later, the war host came to Anathar&rsquo;s Dell. They found the walled farm village burnt to the ground and the bodies of the slain Knights of the Broken Blade &ldquo;strewn about, defiled and rotting.&rdquo; While the funeral pyres burned, an enemy host gathered on either side of the dell: the Knights of the Black Gauntlet (Bane) to the north, and the Brothers of the Black Fist (Iyachtu Xvim) under Baron Drake to the south.</p>
-  <p style="margin-top:8px;">A brutal battle was joined. The Knights of the Black Gauntlet were utterly destroyed, but the Brothers of the Black Fist were merely repelled. Baron Drake slew several paladins from all three orders before withdrawing. The war host held the field, but at devastating cost: three of the four order commanders were killed, and twenty-one paladins from across the orders were slain. The site earned the name &ldquo;Paladin&rsquo;s Grave.&rdquo;</p>
+<p>Twenty miles and most of the day later, the war host came to Anathar’s Dell. They found the walled farm village burnt to the ground and the bodies of the slain Knights of the Broken Blade “strewn about, defiled and rotting.” While the funeral pyres burned, an enemy host gathered on either side of the dell: the Knights of the Black Gauntlet (Bane) to the north, and the Brothers of the Black Fist (Iyachtu Xvim) under Baron Drake to the south.</p>
+<p>A brutal battle was joined. The Knights of the Black Gauntlet were utterly destroyed, but the Brothers of the Black Fist were merely repelled. Baron Drake slew several paladins from all three orders before withdrawing. The war host held the field, but at devastating cost: three of the four order commanders were killed, and twenty-one paladins from across the orders were slain. The site earned the name “Paladin’s Grave.”</p>
 </div>
-
-<div class="section">
-  <div class="section-title">Battle Roster &mdash; Second Battle of Anathar&rsquo;s Dell</div>
-  <div class="card-row">
-    <div class="card wide" style="overflow-x:auto;">
-      <table>
-        <tr><th>Name</th><th>Order</th><th>Rank / Role</th><th>Outcome</th></tr>
-        <tr><td><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="†">Sir Gethard Soulbright</td><td>Golden Lion (Torm)</td><td>Knight Commander</td><td class="status-kia">Killed by Baron Drake</td></tr>
-        <tr><td><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="†">Sir Lexinauth</td><td>Lambent Rose (Ilmater)</td><td>Knight Commander</td><td class="status-kia">Killed by Baron Drake</td></tr>
-        <tr><td><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="†">Sir Wildermot Silverlance</td><td>Knights of Justice (Tyr)</td><td>Knight Commander</td><td class="status-kia">Killed by Baron Drake</td></tr>
-        <tr><td>Sir Durin Saddlemoor</td><td>Knights of Justice (Tyr)</td><td>Knight</td><td class="status-active">Survived; lost shield arm</td></tr>
-        <tr><td>Daniel Overcourt</td><td>Golden Lion (Torm)</td><td>Squire to Sir Soulbright</td><td class="status-active">Wounded; survived</td></tr>
-        <tr><td>Ethan Saddlemoor</td><td>Knights of Justice (Tyr)</td><td>Squire to Sir Wildermot; son of Sir Durin</td><td class="status-active">Survived; organized return of bodies</td></tr>
-        <tr><td>Father Eisley</td><td>Lambent Rose (Ilmater)</td><td>Co-leader; St. Collin&rsquo;s Abbey</td><td class="status-active">Survived</td></tr>
-        <tr><td>Reverend Brother Turan</td><td>Faithful of Ilmater (attached)</td><td>Damaran monk-priest</td><td class="status-active">Survived; worked in medicine tents</td></tr>
-        <tr><td>Quiggan</td><td>Knights of Justice (Tyr)</td><td>Squire to Sir Durin</td><td class="status-active">Survived; still operating in Shadowdale</td></tr>
-        <tr><td colspan="3"><em><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij4KICA8cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+CiAgPHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+CiAgPGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPgo8L3N2Zz4=" alt="†">18 additional unnamed paladins from the assembled orders</em></td><td class="status-kia">Killed; buried at Paladin&rsquo;s Grave</td></tr>
-      </table>
-      <div class="note" style="margin-top:8px;">The Order of the Broken Blade (Tempus), including Sir Durnbold and 8 knights, was ambushed and destroyed two days earlier on the road. Their bodies were found at the dell and given funeral rites before the battle.</div>
-    </div>
-  </div>
-</div>
-
+<div class="sub-era-minor">Battle Roster — Second Battle of Anathar’s Dell</div>
+<table>
+<thead>
+<tr>
+<th scope="col">Name</th>
+<th scope="col">Order</th>
+<th scope="col">Rank / Role</th>
+<th scope="col">Outcome</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij48cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz48cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz48cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+PHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPjxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+PGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz48bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPjxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+PGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPjwvc3ZnPg==" alt="Deceased: " role="img">Sir Gethard Soulbright</span></td>
+<td>Golden Lion (Torm)</td>
+<td>Knight Commander</td>
+<td>Killed by Baron Drake</td>
+</tr>
+<tr>
+<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij48cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz48cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz48cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+PHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPjxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+PGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz48bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPjxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+PGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPjwvc3ZnPg==" alt="Deceased: " role="img">Sir Lexinauth</span></td>
+<td>Lambent Rose (Ilmater)</td>
+<td>Knight Commander</td>
+<td>Killed by Baron Drake</td>
+</tr>
+<tr>
+<td><span class="deceased" title="Deceased"><img class="dagger" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCA0OCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjQ4Ij48cGF0aCBkPSJNMTIgMCBMMTUgMjggTDEyIDMyIEw5IDI4IFoiIGZpbGw9IiM4YjIwMTAiIHN0cm9rZT0iIzZhMTgxMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz48cGF0aCBkPSJNMTIgNCBMMTMgMjQgTDEyIDI3IEwxMSAyNCBaIiBmaWxsPSIjYTAzMDIwIiBvcGFjaXR5PSIwLjQiLz48cmVjdCB4PSI1IiB5PSIzMCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSIjOGI0NTEzIiBzdHJva2U9IiM2YTM0MTAiIHN0cm9rZS13aWR0aD0iMC40Ii8+PHJlY3QgeD0iMTAiIHk9IjMzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgcng9IjAuOCIgZmlsbD0iIzVhM2QyMCIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPjxsaW5lIHgxPSIxMCIgeTE9IjM1IiB4Mj0iMTQiIHkyPSIzNSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+PGxpbmUgeDE9IjEwIiB5MT0iMzciIHgyPSIxNCIgeTI9IjM3IiBzdHJva2U9IiMzYTJhMTAiIHN0cm9rZS13aWR0aD0iMC4zIiBvcGFjaXR5PSIwLjUiLz48bGluZSB4MT0iMTAiIHkxPSIzOSIgeDI9IjE0IiB5Mj0iMzkiIHN0cm9rZT0iIzNhMmExMCIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuNSIvPjxsaW5lIHgxPSIxMCIgeTE9IjQxIiB4Mj0iMTQiIHkyPSI0MSIgc3Ryb2tlPSIjM2EyYTEwIiBzdHJva2Utd2lkdGg9IjAuMyIgb3BhY2l0eT0iMC41Ii8+PGVsbGlwc2UgY3g9IjEyIiBjeT0iNDQiIHJ4PSIzIiByeT0iMiIgZmlsbD0iIzhiNDUxMyIgc3Ryb2tlPSIjNmEzNDEwIiBzdHJva2Utd2lkdGg9IjAuNCIvPjwvc3ZnPg==" alt="Deceased: " role="img">Sir Wildermot Silverlance</span></td>
+<td>Knights of Justice (Tyr)</td>
+<td>Knight Commander</td>
+<td>Killed by Baron Drake</td>
+</tr>
+<tr>
+<td>Sir Durin Saddlemoor</td>
+<td>Knights of Justice (Tyr)</td>
+<td>Knight</td>
+<td>Survived; lost shield arm</td>
+</tr>
+<tr>
+<td>Daniel Overcourt</td>
+<td>Golden Lion (Torm)</td>
+<td>Squire to Sir Soulbright</td>
+<td>Wounded; survived</td>
+</tr>
+<tr>
+<td>Ethan Saddlemoor</td>
+<td>Knights of Justice (Tyr)</td>
+<td>Squire to Sir Wildermot; son of Sir Durin</td>
+<td>Survived; organised return of bodies</td>
+</tr>
+<tr>
+<td>Father Eisley</td>
+<td>Lambent Rose (Ilmater)</td>
+<td>Co-leader; St. Collin’s Abbey</td>
+<td>Survived</td>
+</tr>
+<tr>
+<td>Reverend Brother Turan</td>
+<td>Faithful of Ilmater (attached)</td>
+<td>Damaran monk-priest</td>
+<td>Survived; worked in medicine tents</td>
+</tr>
+<tr>
+<td>Quiggan</td>
+<td>Knights of Justice (Tyr)</td>
+<td>Squire to Sir Durin</td>
+<td>Survived; still operating in Shadowdale</td>
+</tr>
+<tr>
+<td>*†18 additional unnamed paladins from the assembled orders*</td>
+<td></td>
+<td></td>
+<td>Killed; buried at Paladin&rsquo;s Grave</td>
+</tr>
+</tbody>
+</table>
+<div class="footnote"><span class="nb-label">NB:</span> The Order of the Broken Blade (Tempus), including Sir Durnbold and 8 knights, was ambushed and destroyed two days earlier on the road. Their bodies were found at the dell and given funeral rites before the battle.</div>
 <div class="sub-era">The Cenotaph of Paladin&rsquo;s Grave</div>
 <div class="era-note">
-  <p>A great cenotaph was erected at Anathar&rsquo;s Dell for the twenty-one fallen paladins, constructed by a repentant Dawn Lord Cassimar sometime between 1372 and 1395 DR. In 1395, Ardelusk Whitegate moved the cenotaph and the knights interred beneath it from Anathar&rsquo;s Dell to the western side of his farm at Liberty Hill, before the advancing forest of Cormanthor could overtake the site. The cenotaph stands there today.</p>
-  <p style="margin-top:8px;">In early spring 1480 DR, the necromancer Belladonna began to assemble an undead horde by &ldquo;unearthing the evil paladins and soldiers interred at Anathar&rsquo;s Dell, a place that very few could now find.&rdquo; This suggests that not all of the dead had been moved to Liberty Hill, and that the original site still held remains.</p>
+<p>A great cenotaph was erected at Anathar’s Dell for the twenty-one fallen paladins, constructed by a repentant Dawn Lord Cassimar sometime between 1372 and 1395 DR. In 1395, Ardelusk Whitegate moved the cenotaph and the knights interred beneath it from Anathar’s Dell to the western side of his farm at Liberty Hill, before the advancing forest of Cormanthor could overtake the site. The cenotaph stands there today.</p>
+<p>In early spring 1480 DR, the necromancer Belladonna began to assemble an undead horde by “unearthing the evil paladins and soldiers interred at Anathar’s Dell, a place that very few could now find.” This suggests that not all of the dead had been moved to Liberty Hill, and that the original site still held remains.</p>
 </div>
-
-<!-- 14th-century Lambent Rose detail -->
-<div class="sub-era">Order of the Lambent Rose (Ilmater) &mdash; 14th-Century Detail</div>
+<div class="sub-era">Order of the Lambent Rose (Ilmater) — 14th-Century Detail</div>
 <div class="era-note">
-  <p>The Order of the Lambent Rose marched into Shadowdale under the joint leadership of Sir Lexinauth and Father Eisley of St. Collin&rsquo;s Abbey, accompanied by a tent-train of priests of Ilmater. Both leaders refused to speak with Lord Maturin Horgath at the Twisted Tower conference. After the battle, the remainder of the Order &ldquo;set up many medicine tents and worked around the clock to heal those from the mine.&rdquo; Reverend Brother Turan, a Damaran monk-priest and old friend of Lord Maturin from their army days fighting the Lich King of Vaasa, was last seen &ldquo;working like crazy in the medicine tents in Shadowdale,&rdquo; treating the wounded including the battle rager Dalak with laudanum.</p>
-  <p style="margin-top:8px;">The slow pace of the Ilmatari tent-train had caused the Order of the Broken Blade to ride ahead impatiently to its destruction. The irony was not lost on the survivors: that same delay preserved the main war host by ensuring it arrived in sufficient strength to hold the field.</p>
-  <p style="margin-top:8px;">No named members are documented in 15th-century sources. The Order was granted a Charter Militant under the Concordat, confirming continued institutional recognition.</p>
+<p>The Order of the Lambent Rose marched into Shadowdale under the joint leadership of Sir Lexinauth and Father Eisley of St. Collin’s Abbey, accompanied by a tent-train of priests of Ilmater. Both leaders refused to speak with Lord Maturin Horgath at the Twisted Tower conference. After the battle, the remainder of the Order “set up many medicine tents and worked around the clock to heal those from the mine.” Reverend Brother Turan, a Damaran monk-priest and old friend of Lord Maturin from their army days fighting the Lich King of Vaasa, was last seen “working like crazy in the medicine tents in Shadowdale," treating the wounded including the battle rager Dalak with laudanum.</p>
+<p>The slow pace of the Ilmatari tent-train had caused the Order of the Broken Blade to ride ahead impatiently to its destruction. The irony was not lost on the survivors: that same delay preserved the main war host by ensuring it arrived in sufficient strength to hold the field.</p>
+<p>No named members are documented in 15th-century sources. The Order was granted a Charter Militant under the Concordat, confirming continued institutional recognition.</p>
 </div>
-
-<!-- 14th-century Knights of Justice detail -->
-<div class="sub-era">Knights of Justice (Tyr) &mdash; 14th-Century Detail</div>
+<div class="sub-era">Knights of Justice (Tyr) — 14th-Century Detail</div>
 <div class="era-note">
-  <p>The smallest of the four orders in available sources. Led by Sir Wildermot Silverlance, who was killed at Anathar&rsquo;s Dell by Baron Drake. Sir Durin Saddlemoor survived but lost his shield arm. His son Ethan, who had served as squire to Silverlance, organized the solemn return of the fallen knights&rsquo; bodies to their respective temples. Quiggan, squire to Sir Durin, survived and was still operating in Shadowdale as of last report.</p>
-  <p style="margin-top:8px;">No named members are documented in 15th-century sources. The Order was granted a Charter Militant under the Concordat, confirming continued institutional recognition.</p>
+<p>The smallest of the four orders in available sources. Led by Sir Wildermot Silverlance, who was killed at Anathar’s Dell by Baron Drake. Sir Durin Saddlemoor survived but lost his shield arm. His son Ethan, who had served as squire to Silverlance, organised the solemn return of the fallen knights’ bodies to their respective temples. Quiggan, squire to Sir Durin, survived and was still operating in Shadowdale as of last report.</p>
+<p>No named members are documented in 15th-century sources. The Order was granted a Charter Militant under the Concordat, confirming continued institutional recognition.</p>
 </div>
-
-<!-- ================================================================ -->
-<!-- FOOTER                                                            -->
-<!-- ================================================================ -->
 <hr>
-<div style="text-align:center; color:#7a6a50; font-size:0.78em; padding: 8px 16px; line-height: 1.4;">
-  Compiled from the Daggerdale Chronicle (chapter 7 &amp; elsewhere), the Daggerdale Concordat (DDC&ndash;1482&ndash;2), the Yellow Abbey records, the Order of the Lambent Shield article (Sieges Perilous wiki), individual character records (Luminous Whitegate, Corran Altair, Banitt Harbaugh, Ganolen Thendolain, Shepherd Malaric Adon, Knight Commander Kassius, Knight Commander Pauldron, Sir Gethard Soulbright, Sir Lexinauth, Sir Wildermot Silverlance, Sir Durin Saddlemoor, Daniel Overcourt, Ethan Saddlemoor, Father Eisley, Reverend Brother Turan, Quiggan, Iolus Warburton), narrative archives (Old Man&rsquo;s Tooth, White Cloaks, Mule Company, The Paladin and the Pilgrim), and the observations of the author. Named personnel across all four orders: 18. Orders documented: 4 (plus 1 destroyed: Order of the Broken Blade). Temporal coverage: 14th century (1372 DR) and 15th century (1419&ndash;1483 DR).
-</div>
+
+<footer>
+Compiled from the Daggerdale Chronicle (chapter 7 &amp; elsewhere), the Daggerdale Concordat (DDC&ndash;1482&ndash;2), the Daggerdale Gazetteer (DDC&ndash;1482&ndash;3), the Yellow Abbey records, the Order of the Lambent Shield article (Sieges Perilous wiki), individual character records (Luminous Whitegate, Blaze Whitegate, Corran Altair, Banitt Harbaugh, Ganolen Thendolain, Shepherd Malaric Adon, Knight Commander Kassius, Knight Commander Pauldron, Sir Gethard Soulbright, Sir Lexinauth, Sir Wildermot Silverlance, Sir Durin Saddlemoor, Daniel Overcourt, Ethan Saddlemoor, Father Eisley, Reverend Brother Turan, Quiggan, Iolus Warburton), narrative archives (Old Man&rsquo;s Tooth, White Cloaks, Mule Company, The Paladin and the Pilgrim, Warburton&rsquo;s Journal, Guardian of the Saint&rsquo;s Tomb, The Shadow Lifted, Kythorn 1 1480), the Blade of the White Saint article, and the observations of the author. Named personnel across all four orders: 18. Orders documented: 4 (plus 1 destroyed: Order of the Broken Blade). Temporal coverage: 14th century (1372 DR) and 15th century (1419&ndash;1483 DR).
+</footer>
 
 </body>
 </html>
