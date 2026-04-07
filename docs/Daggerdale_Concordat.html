@@ -10,37 +10,37 @@
 
   /* ── Reset & Base ─────────────────────────────────────── */
   :root {
-    —bg-parchment: #f4ead5;
-    —bg-inset: #f7f0e0;
-    —bg-section-header: #ede0c8;
-    —bg-section-gradient: linear-gradient(90deg, #f4ead5, #e8d5b0, #f4ead5);
-    —bg-subsection-gradient: linear-gradient(90deg, #f4ead5, #efe3c8, #f4ead5);
-    —text-body: #2c1e0e;
-    —text-heading: #4a1e08;
-    —text-subheading: #6b2a0a;
-    —text-secondary: #5a3d20;
-    —text-aside: #3a2a15;
-    —accent-border: #8b4513;
-    —accent-border-light: #c9a96e;
-    —accent-link: #3a5a7c;
-    —font-display: 'IM Fell English SC', 'Palatino Linotype', serif;
-    —space-xs: 4px;
-    —space-sm: 8px;
-    —space-md: 16px;
-    —space-lg: 24px;
-    —space-xl: 36px;
+    --bg-parchment: #f4ead5;
+    --bg-inset: #f7f0e0;
+    --bg-section-header: #ede0c8;
+    --bg-section-gradient: linear-gradient(90deg, #f4ead5, #e8d5b0, #f4ead5);
+    --bg-subsection-gradient: linear-gradient(90deg, #f4ead5, #efe3c8, #f4ead5);
+    --text-body: #2c1e0e;
+    --text-heading: #4a1e08;
+    --text-subheading: #6b2a0a;
+    --text-secondary: #5a3d20;
+    --text-aside: #3a2a15;
+    --accent-border: #8b4513;
+    --accent-border-light: #c9a96e;
+    --accent-link: #3a5a7c;
+    --font-display: 'IM Fell English SC', 'Palatino Linotype', serif;
+    --space-xs: 4px;
+    --space-sm: 8px;
+    --space-md: 16px;
+    --space-lg: 24px;
+    --space-xl: 36px;
   }
 
-  @page { background: var(—bg-parchment); }
+  @page { background: var(--bg-parchment); }
   * { margin: 0; padding: 0; box-sizing: border-box; }
 
   body {
     font-family: 'Crimson Text', 'Palatino Linotype', 'Book Antiqua', Palatino, Georgia, serif;
     font-size: 20px;
-    background: var(—bg-parchment);
-    color: var(—text-body);
+    background: var(--bg-parchment);
+    color: var(--text-body);
     line-height: 1.55;
-    padding: var(—space-lg);
+    padding: var(--space-lg);
   }
 
   main {
@@ -51,51 +51,51 @@
   /* ── Typography ───────────────────────────────────────── */
   h1 {
     text-align: center;
-    font-family: var(—font-display);
-    color: var(—text-heading);
+    font-family: var(--font-display);
+    color: var(--text-heading);
     font-size: 2em;
     font-weight: 700;
     letter-spacing: 3px;
-    margin-bottom: var(—space-xs);
+    margin-bottom: var(--space-xs);
   }
 
   h2 {
-    font-family: var(—font-display);
-    color: var(—text-heading);
+    font-family: var(--font-display);
+    color: var(--text-heading);
     font-size: 1.4em;
     padding: 10px 20px;
-    margin: var(—space-xl) 0 var(—space-md) 0;
-    background: var(—bg-section-gradient);
-    border-left: 4px solid var(—accent-border);
-    border-bottom: 1px solid var(—accent-border-light);
+    margin: var(--space-xl) 0 var(--space-md) 0;
+    background: var(--bg-section-gradient);
+    border-left: 4px solid var(--accent-border);
+    border-bottom: 1px solid var(--accent-border-light);
     letter-spacing: 1px;
     page-break-after: avoid;
     break-after: avoid;
   }
 
   h3 {
-    font-family: var(—font-display);
-    color: var(—text-subheading);
+    font-family: var(--font-display);
+    color: var(--text-subheading);
     font-size: 1.15em;
     padding: 8px 16px;
-    margin: var(—space-lg) 0 var(—space-sm) 0;
-    background: var(—bg-subsection-gradient);
-    border-left: 3px solid var(—accent-border-light);
+    margin: var(--space-lg) 0 var(--space-sm) 0;
+    background: var(--bg-subsection-gradient);
+    border-left: 3px solid var(--accent-border-light);
     letter-spacing: 0.5px;
     page-break-after: avoid;
     break-after: avoid;
   }
 
   h4 {
-    color: var(—text-subheading);
+    color: var(--text-subheading);
     font-size: 1.05em;
-    margin: var(—space-md) 0 var(—space-sm) 0;
+    margin: var(--space-md) 0 var(--space-sm) 0;
     page-break-after: avoid;
     break-after: avoid;
   }
 
   p {
-    margin-bottom: var(—space-md);
+    margin-bottom: var(--space-md);
     orphans: 3;
     widows: 3;
   }
@@ -105,44 +105,44 @@
   }
 
   em { font-style: italic; }
-  strong { font-weight: 700; font-family: var(—font-display); }
+  strong { font-weight: 700; font-family: var(--font-display); }
 
   /* ── Title Block ──────────────────────────────────────── */
   header[role="banner"] {
     text-align: center;
-    margin-bottom: var(—space-xl);
-    padding-bottom: var(—space-lg);
-    border-bottom: 2px solid var(—accent-border);
+    margin-bottom: var(--space-xl);
+    padding-bottom: var(--space-lg);
+    border-bottom: 2px solid var(--accent-border);
   }
 
   .document-ref {
     font-size: 0.85em;
-    color: var(—text-secondary);
+    color: var(--text-secondary);
     letter-spacing: 1px;
-    margin-bottom: var(—space-sm);
+    margin-bottom: var(--space-sm);
   }
 
   .subtitle {
-    color: var(—text-secondary);
+    color: var(--text-secondary);
     font-size: 0.95em;
     font-style: italic;
-    margin-bottom: var(—space-xs);
+    margin-bottom: var(--space-xs);
   }
 
   .date-line {
-    color: var(—text-secondary);
+    color: var(--text-secondary);
     font-size: 0.9em;
-    margin-top: var(—space-sm);
+    margin-top: var(--space-sm);
   }
 
   /* ── Narrator / Editorial Asides ──────────────────────── */
   .narrator {
-    background: var(—bg-inset);
+    background: var(--bg-inset);
     border-left: 3px solid #8b6a3e;
     padding: 14px 18px;
-    margin: var(—space-md) 0 var(—space-lg) 0;
+    margin: var(--space-md) 0 var(--space-lg) 0;
     font-size: 0.92em;
-    color: var(—text-aside);
+    color: var(--text-aside);
     line-height: 1.5;
   }
 
@@ -157,7 +157,7 @@
   .narrator-sig {
     text-align: right;
     font-style: italic;
-    color: var(—text-secondary);
+    color: var(--text-secondary);
     margin-top: 10px;
   }
 
@@ -165,34 +165,34 @@
     font-size: 0.75em;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: var(—accent-border);
-    margin-bottom: var(—space-sm);
+    color: var(--accent-border);
+    margin-bottom: var(--space-sm);
     display: block;
   }
 
   /* ── Legal Provisions ─────────────────────────────────── */
   .provision {
-    padding-left: var(—space-md);
-    margin-bottom: var(—space-lg);
+    padding-left: var(--space-md);
+    margin-bottom: var(--space-lg);
   }
 
   .provision .provision {
-    padding-left: var(—space-md);
-    border-left: 1px solid var(—accent-border-light);
+    padding-left: var(--space-md);
+    border-left: 1px solid var(--accent-border-light);
   }
 
   /* ── Lists ────────────────────────────────────────────── */
   ul, ol {
-    margin: var(—space-sm) 0 var(—space-md) var(—space-lg);
+    margin: var(--space-sm) 0 var(--space-md) var(--space-lg);
   }
 
   li {
-    margin-bottom: var(—space-xs);
+    margin-bottom: var(--space-xs);
   }
 
   ul.signatory-list {
     list-style: none;
-    margin-left: var(—space-md);
+    margin-left: var(--space-md);
   }
 
   ul.signatory-list li {
@@ -205,19 +205,19 @@
     content: "\2726";
     position: absolute;
     left: 0;
-    color: var(—accent-border);
+    color: var(--accent-border);
     font-size: 0.8em;
   }
 
   .footnote {
     font-size: 0.9em;
-    color: var(—text-secondary);
-    margin-top: var(—space-xs);
+    color: var(--text-secondary);
+    margin-top: var(--space-xs);
   }
 
   #approbata-deorum,
   #reprobata-deorum {
-    padding-bottom: var(—space-md);
+    padding-bottom: var(--space-md);
   }
 
   /* ── Chain of Command (nested ordered list) ───────────── */
@@ -228,54 +228,54 @@
   }
 
   ol.chain-of-command > li {
-    margin-bottom: var(—space-sm);
-    padding: var(—space-sm) var(—space-md);
-    background: var(—bg-inset);
-    border-left: 3px solid var(—accent-border);
+    margin-bottom: var(--space-sm);
+    padding: var(--space-sm) var(--space-md);
+    background: var(--bg-inset);
+    border-left: 3px solid var(--accent-border);
     border-radius: 0 4px 4px 0;
   }
 
   ol.chain-of-command ol {
     list-style: none;
-    margin: var(—space-sm) 0 0 var(—space-md);
+    margin: var(--space-sm) 0 0 var(--space-md);
     padding-left: 0;
   }
 
   ol.chain-of-command ol li {
-    padding: var(—space-xs) var(—space-sm);
-    border-left: 2px solid var(—accent-border-light);
-    margin-bottom: var(—space-xs);
+    padding: var(--space-xs) var(--space-sm);
+    border-left: 2px solid var(--accent-border-light);
+    margin-bottom: var(--space-xs);
   }
 
   .unit-detail {
     font-size: 0.88em;
-    color: var(—text-secondary);
+    color: var(--text-secondary);
   }
 
   /* ── Tables ───────────────────────────────────────────── */
   table {
     border-collapse: collapse;
     width: 100%;
-    margin: var(—space-md) 0;
+    margin: var(--space-md) 0;
   }
 
   table.fitted {
     width: auto;
-    margin: var(—space-md) auto;
+    margin: var(--space-md) auto;
   }
 
   caption {
-    font-family: var(—font-display);
-    color: var(—text-subheading);
+    font-family: var(--font-display);
+    color: var(--text-subheading);
     font-size: 1em;
     text-align: left;
-    padding: var(—space-sm) 0;
+    padding: var(--space-sm) 0;
     caption-side: top;
   }
 
   thead th {
-    background: var(—bg-section-header);
-    color: var(—text-heading);
+    background: var(--bg-section-header);
+    color: var(--text-heading);
     text-align: left;
     padding: 6px 12px;
     font-size: 0.88em;
@@ -311,29 +311,29 @@
     border: 1px dashed #b89050;
     border-radius: 4px;
     padding: 10px 14px;
-    margin: var(—space-sm) 0 var(—space-md) 0;
+    margin: var(--space-sm) 0 var(--space-md) 0;
     font-size: 0.85em;
-    color: var(—text-secondary);
+    color: var(--text-secondary);
   }
 
   .truncation-note strong {
-    color: var(—accent-border);
+    color: var(--accent-border);
   }
 
   /* ── Horizontal Rules ─────────────────────────────────── */
   hr {
     border: none;
-    border-top: 1px solid var(—accent-border-light);
-    margin: var(—space-xl) 0;
+    border-top: 1px solid var(--accent-border-light);
+    margin: var(--space-xl) 0;
   }
 
   /* ── Footer ───────────────────────────────────────────── */
   footer[role="contentinfo"] {
-    margin-top: var(—space-xl);
-    padding-top: var(—space-lg);
-    border-top: 2px solid var(—accent-border);
+    margin-top: var(--space-xl);
+    padding-top: var(--space-lg);
+    border-top: 2px solid var(--accent-border);
     font-size: 0.85em;
-    color: var(—text-secondary);
+    color: var(--text-secondary);
   }
 
   footer[role="contentinfo"] h2 {
@@ -342,30 +342,30 @@
     padding: 0;
     background: none;
     border: none;
-    color: var(—text-secondary);
+    color: var(--text-secondary);
     letter-spacing: 1px;
   }
 
   /* ── Links ────────────────────────────────────────────── */
   a {
-    color: var(—accent-link);
+    color: var(--accent-link);
     text-decoration: underline;
     text-decoration-color: rgba(58, 90, 124, 0.3);
   }
 
   a:hover, a:focus {
-    text-decoration-color: var(—accent-link);
+    text-decoration-color: var(--accent-link);
   }
 
   a:focus-visible {
-    outline: 2px solid var(—accent-link);
+    outline: 2px solid var(--accent-link);
     outline-offset: 2px;
   }
 
   /* ── Header Image ─────────────────────────────────────── */
   .header-image {
     text-align: center;
-    margin: 0 0 var(—space-xl) 0;
+    margin: 0 0 var(--space-xl) 0;
   }
 
   .header-image img {
@@ -375,30 +375,30 @@
 
   /* ── Table of Contents ────────────────────────────────── */
   nav[aria-label="Table of Contents"] {
-    background: var(—bg-inset);
-    border: 1px solid var(—accent-border-light);
+    background: var(--bg-inset);
+    border: 1px solid var(--accent-border-light);
     border-radius: 4px;
-    padding: var(—space-md) var(—space-lg);
-    margin: 0 0 var(—space-xl) 0;
+    padding: var(--space-md) var(--space-lg);
+    margin: 0 0 var(--space-xl) 0;
   }
 
   nav[aria-label="Table of Contents"] h2 {
     font-size: 1.05em;
-    margin: 0 0 var(—space-sm) 0;
+    margin: 0 0 var(--space-sm) 0;
     padding: 0;
     background: none;
     border: none;
-    color: var(—text-heading);
+    color: var(--text-heading);
     text-align: center;
   }
 
   nav[aria-label="Table of Contents"] ol {
     list-style: upper-roman;
-    margin: 0 0 0 var(—space-lg);
+    margin: 0 0 0 var(--space-lg);
   }
 
   nav[aria-label="Table of Contents"] li {
-    margin-bottom: var(—space-xs);
+    margin-bottom: var(--space-xs);
     font-size: 0.95em;
   }
 
@@ -412,12 +412,12 @@
 
   /* ── Responsive ───────────────────────────────────────── */
   @media (max-width: 600px) {
-    body { padding: var(—space-md); }
+    body { padding: var(--space-md); }
     h1 { font-size: 1.6em; }
     h2 { font-size: 1.2em; padding: 8px 14px; }
     h3 { font-size: 1.05em; padding: 6px 12px; }
     table { font-size: 0.85em; }
-    .provision { padding-left: var(—space-sm); }
+    .provision { padding-left: var(--space-sm); }
   }
 
   /* ── Print ────────────────────────────────────────────── */

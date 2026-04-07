@@ -167,6 +167,65 @@
   footer ul { list-style: none; padding: 0; margin-top: var(--space-xs); }
   footer li { margin-bottom: var(--space-xs); }
 
+  /* ── Heading navigation links ── */
+  h2 a, h3 a {
+    color: inherit;
+    text-decoration: none;
+  }
+  h2 a:hover, h3 a:hover {
+    text-decoration: underline;
+    text-decoration-color: var(--accent-border-light);
+  }
+
+  /* ── Table of Contents ── */
+  .toc {
+    margin: var(--space-lg) 0;
+    padding: var(--space-md) var(--space-lg);
+    background: linear-gradient(135deg, rgba(74,30,8,0.04), rgba(74,30,8,0.02));
+    border: 1px solid var(--accent-border);
+    border-radius: 4px;
+  }
+  .toc-title {
+    font-family: var(--font-display);
+    font-size: 1.3em;
+    color: var(--text-heading);
+    margin: 0 0 var(--space-sm) 0;
+    padding: 0; border: none; background: none;
+  }
+  .toc-list {
+    list-style: none; padding: 0; margin: 0;
+    counter-reset: toc-section;
+  }
+  .toc-list > li {
+    counter-increment: toc-section;
+    margin: var(--space-xs) 0;
+  }
+  .toc-list > li > a {
+    font-family: var(--font-display);
+    font-size: 1.05em;
+    color: var(--text-heading);
+    text-decoration: none; font-weight: 600;
+  }
+  .toc-list > li > a:hover { text-decoration: underline; }
+  .toc-sublist {
+    list-style: none;
+    padding: 0 0 0 var(--space-md);
+    margin: var(--space-xs) 0 0 0;
+  }
+  .toc-sublist > li {
+    margin: 2px 0;
+    break-inside: avoid;
+  }
+  .toc-sublist > li > a {
+    font-size: 0.9em;
+    color: var(--text-body);
+    text-decoration: none;
+  }
+  .toc-sublist > li > a:hover {
+    text-decoration: underline;
+    color: var(--text-heading);
+  }
+
   /* ── Responsive (§3.5) ── */
   @media (max-width: 600px) {
     h1 { font-size: 1.6em; }
@@ -214,6 +273,34 @@
   <p class="source-note">Compiled from the Yellow Abbeye Booke of Surveys and Measures (<time>1481 DR</time> edition), the Daggerdale Chronicle ch.&nbsp;7, and corroborating records</p>
 </header>
 
+<nav id="toc" class="toc">
+  <h3 class="toc-title">Contents</h3>
+  <ol class="toc-list">
+    <li><a href="#whitegate">The House of Whitegate</a>
+      <ul class="toc-sublist">
+        <li><a href="#whitegate-pedigree">Pedigree</a></li>
+      </ul>
+    </li>
+    <li><a href="#thunderstorm">The House of Thunderstorm</a>
+      <ul class="toc-sublist">
+        <li><a href="#thunderstorm-pedigree">Pedigree</a></li>
+      </ul>
+    </li>
+    <li><a href="#blackmane">The Blackmane Family</a>
+      <ul class="toc-sublist">
+        <li><a href="#blackmane-pedigree">Pedigree</a></li>
+      </ul>
+    </li>
+    <li><a href="#connections">Cross-Family Connections</a>
+      <ul class="toc-sublist">
+        <li><a href="#key-marriages">Key Marriages</a></li>
+        <li><a href="#relationships-glance">Key Relationships at a Glance</a></li>
+      </ul>
+    </li>
+    <li><a href="#extinction">The Extinction of the Whitegate Name</a></li>
+  </ol>
+</nav>
+
 <article>
 
 <!-- ================================================================ -->
@@ -221,13 +308,13 @@
 <!-- ================================================================ -->
 
 <section id="whitegate">
-<h2 class="era-header">I. The House of Whitegate</h2>
+<h2 class="era-header"><a href="#">I. The House of Whitegate</a></h2>
 
 <aside class="narrator" aria-label="Editorial introduction to the Whitegate family">
   <p>The Whitegate family descends from Ardelusk Whitegate, a former Zhentarim slave liberated by Saint Maturin&rsquo;s Liberators. Ardelusk led the famous Whitegate Epiphany that established the church of Amaunator in the dale, and founded the settlement at Liberty Hill. The family has held the highest ecclesiastical and civil offices in Daggerdale ever since, though by the early 1480s the surname is nearing extinction&mdash;the surviving bloodline has dispersed into the Thunderstorm family (through Radiance) and the Blackmane family (through Aestus).</p>
 </aside>
 
-<h3>Pedigree</h3>
+<h3 id="whitegate-pedigree"><a href="#whitegate">Pedigree</a></h3>
 
 <div class="tree">
 <ul>
@@ -366,13 +453,13 @@
 <!-- ================================================================ -->
 
 <section id="thunderstorm">
-<h2 class="era-header">II. The House of Thunderstorm</h2>
+<h2 class="era-header"><a href="#">II. The House of Thunderstorm</a></h2>
 
 <aside class="narrator" aria-label="Editorial introduction to the Thunderstorm family">
   <p>The Thunderstorm family saw a decline after the Whitegate Epiphany and the rise of Amaunator, but Karrigan&rsquo;s marriage to Radiance Whitegate in 1425 reversed their fortunes. The union produced a large number of family members that have multiplied to a couple of dozen in the present generation. Many still live at Foothills Farm, while others have entered the Church of Amaunator and military service. The Thunderstorms have produced three Sunlords. Some members of the Whitegate family resent the Thunderstorm side, whom they perceive as ambitious and scheming. No Thunderstorm has ever been admitted to the Order of the Lambent Shield.</p>
 </aside>
 
-<h3>Pedigree</h3>
+<h3 id="thunderstorm-pedigree"><a href="#thunderstorm">Pedigree</a></h3>
 
 <div class="tree">
 <ul>
@@ -492,13 +579,13 @@
 <!-- ================================================================ -->
 
 <section id="blackmane">
-<h2 class="era-header">III. The Blackmane Family</h2>
+<h2 class="era-header"><a href="#">III. The Blackmane Family</a></h2>
 
 <aside class="narrator" aria-label="Editorial introduction to the Blackmane family">
   <p>The Blackmanes are an old Daggerdale family&mdash;Decker&rsquo;s grandfather designed and built the settlement at Tesh Valley Farm. They have long been worshippers of Chauntea and Torm, placing them outside the Amaunatorite establishment. Decker&rsquo;s marriage to Aestus Whitegate (daughter of Zenith Lord Argent) created a blood link to the ruling house, but Decker has been openly hostile to the Whitegate family, resenting what he calls the &ldquo;Whitegate Entitlement.&rdquo; The pedigree notes that &ldquo;the Blackmane side of the family is also prolific,&rdquo; but only Decker and Hasting are named in the archive. The other children have &ldquo;tried to infiltrate the power structure of the Dale, mostly unsuccessful.&rdquo;</p>
 </aside>
 
-<h3>Pedigree</h3>
+<h3 id="blackmane-pedigree"><a href="#blackmane">Pedigree</a></h3>
 
 <div class="tree">
 <ul>
@@ -539,13 +626,13 @@
 <!-- ================================================================ -->
 
 <section id="connections">
-<h2 class="era-header">IV. Cross-Family Connections</h2>
+<h2 class="era-header"><a href="#">IV. Cross-Family Connections</a></h2>
 
 <aside class="narrator" aria-label="Editorial introduction to cross-family connections">
   <p>The three families are bound together through two marriages in the generation of Loedegan Whitegate&rsquo;s children and grandchildren. Together, these unions mean that by the 1480s, the Whitegate bloodline persists almost entirely through the Thunderstorm and Blackmane surnames.</p>
 </aside>
 
-<h3>Key Marriages</h3>
+<h3 id="key-marriages"><a href="#connections">Key Marriages</a></h3>
 
 <div class="table-wrap">
 <table>
@@ -575,7 +662,7 @@
 </table>
 </div>
 
-<h3>Key Relationships at a Glance</h3>
+<h3 id="relationships-glance"><a href="#connections">Key Relationships at a Glance</a></h3>
 
 <div class="table-wrap">
 <table>
@@ -603,7 +690,7 @@
 <!-- ================================================================ -->
 
 <section id="extinction">
-<h2 class="era-header">V. The Extinction of the Whitegate Name</h2>
+<h2 class="era-header"><a href="#">V. The Extinction of the Whitegate Name</a></h2>
 
 <aside class="narrator" aria-label="Editorial note on the extinction of the Whitegate surname">
   <p>By the early 1480s, the Whitegate surname is nearing extinction. Two catastrophes, a generation apart, destroyed the family.</p>
