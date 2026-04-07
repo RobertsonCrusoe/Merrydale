@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="A collection of ballads, songs, and poems from the Reclamation of Thistle Ridge, collected and annotated by Tammen Gale of Scardale.">
-<title>Songs of the Thistle and Other Verses&mdash;Daggerdale Campaign Archive</title>
+<title>Songs of the Thistle</title>
 <style>
 
   @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=IM+Fell+English+SC&display=swap');
@@ -174,6 +174,21 @@
     margin-bottom: var(--space-sm);
   }
 
+  /* ── Narrator / Editor Voice ─────────────────────────── */
+  .narrator {
+    background: var(--bg-inset);
+    border-left: 3px solid var(--accent-border);
+    padding: var(--space-md) var(--space-lg);
+    margin: var(--space-md) 0 var(--space-lg) 0;
+    font-size: 0.92em;
+    color: var(--text-aside);
+    line-height: 1.55;
+  }
+
+  .narrator p { margin-bottom: 10px; }
+  .narrator p:last-child { margin-bottom: 0; }
+  .narrator .sig { text-align: right; margin-top: 12px; font-style: italic; color: var(--text-secondary); }
+
   /* ── Signature blocks ───────────────────────────────── */
   .signature {
     font-style: italic;
@@ -321,7 +336,7 @@
 <main>
 
 <header role="banner">
-<h1>Songs of the Thistle and Other Verses</h1>
+<h1>Songs of the Thistle</h1>
 <p class="subtitle"><strong>A Collection of Ballads, Songs, and Poems from the Reclamation of Thistle Ridge</strong></p>
 <p class="byline">Collected and Annotated by Tammen Gale of Scardale</p>
 <p class="date-line">Year of the Awakened Sleepers, 1484 DR</p>
@@ -345,7 +360,7 @@
 <p class="collector-note">To the reader who has already done me the kindness of acquiring my earlier volume, Songs of the Dagger, I owe both thanks and an explanation. That collection was meant to be comprehensive — a final gathering of the verse that had accumulated around the liberation of Daggerdale and the campaigns that followed. I had thought myself finished. I was wrong.</p>
 <p class="collector-note">Within months of setting down my pen, the Thistle Ridge affair erupted — that strange, dark, exhilarating chapter in which a company of unknowns called Chrysalis rode east from Dagger Falls to reclaim a haunted ruin and stumbled into something far deeper than goblins and old bones. The enterprise produced its own verse with a speed and character quite unlike anything in my earlier collection. Where the liberation ballads were composed after the fact, often by bards working from secondhand accounts, the songs of Thistle Ridge were born in the thick of events — scribbled in taverns, sung at feasts, chanted by crowds in the arena, and muttered by madmen in the streets.</p>
 <p class="collector-note">The centrepiece of this slim supplement is Mumfrey’s Song — the cryptic, bawdy, unsettling composition of Merri Mumfrey, the Town Fool of Dagger Falls, sung on the 19th of Ches 1483 at the Vernal Feast. I confess I do not understand it. Neither, I suspect, does anyone else, though several of the keenest minds in Daggerdale have tried. It is presented here exactly as it was recorded by Brother Vessuvian of the Yellow Abbey, who had the good sense to write it down. Its meaning, if it has one, I leave to the reader.</p>
-<p class="collector-note">The remaining pieces are all the work of Beliard Emmarask — diplomat, spy, bard, and chronic composer — whose earlier contributions graced the parent volume. Beliard’s gifts are undiminished, though his subjects here are lighter: the famous monkey, the Cormyrean war wizard’s humiliation, and a summary of the reclamation’s events set to a tune that I am told originates from a Cormyrean theatrical, though Beliard’s associate Master Hawkford insists it ought to be sung to a Moonsea shipwreck ballad. I leave the matter of musical interpretation to performers of greater talent than myself.</p>
+<p class="collector-note">The remaining pieces are all the work of Beliard Emmarask — diplomat, courtier, bard, and chronic composer — whose earlier contributions graced the parent volume. Beliard’s gifts are undiminished, though his subjects here are lighter: the famous monkey, the Cormyrean war wizard’s humiliation, and a summary of the reclamation’s events set to a tune that I am told originates from a Cormyrean theatrical, though Beliard’s associate Master Hawkford insists it ought to be sung to a Moonsea shipwreck ballad. I leave the matter of musical interpretation to performers of greater talent than myself.</p>
 <p class="collector-note">I have added brief contextual notes before each piece, but I have not presumed to alter so much as a comma of the poems and songs themselves. These are the words of their authors, not mine, and they deserve to be met on their own terms.</p>
 <p class="attribution"><em>Tammen Gale</em> <em>Scardale Town, Marpenoth 1484 DR</em></p>
 </section>
@@ -558,18 +573,19 @@
 <section id="note-on-omissions">
 <h2>A Note on Omissions</h2>
 <p class="collector-note">The careful reader will note that this collection does not include the song of Jebediah Greenthumb, the conspiracy-minded Chauntean farmer whose rant about the Whitegate family circulated in Dagger Falls around this period. I have excluded it on the grounds that it is prose, not verse, and that its provenance is uncertain — it was transcribed by one Scribe Elmira Quill, and Greenthumb himself was not available for verification.</p>
-<p class="collector-note">Nor have I included the remarkable investigation notes of Lucan Alavandor and Jasper Hawkford, who between them produced the most thorough analysis of Mumfrey’s Song that I have encountered. Their work is analytical rather than poetic, and deserves a volume of its own — though I note that Alavandor’s uncle’s advice on the subject of consummation (“To consummate, why hesitate? Don’t make her wait — Penetrate!“) has a certain rough meter that might qualify it for inclusion in a less scrupulous anthology.</p>
-<p class="attribution"><em>Tammen Gale</em> <em>Scardale Town, Marpenoth 1484 DR</em></p>
+<p class=”collector-note”>Nor have I included the remarkable investigation notes of Lucan Alavandor and Jasper Hawkford, who between them produced the most thorough analysis of Mumfrey’s Song that I have encountered. Their work is analytical rather than poetic, and deserves a volume of its own — though I note that Alavandor’s uncle’s advice on the subject of consummation (“To consummate, why hesitate? Don’t make her wait — Penetrate!”) has a certain rough meter that might qualify it for inclusion in a less scrupulous anthology.</p>
+<p class=”collector-note”>I confess that this volume feels unfinished to me. The parent collection earned its full title — <em>Songs of the Dagger and Other Verses</em> — on the strength of its appendices and the breadth of its supplementary material. This slimmer gathering has not yet earned the same suffix, and I will not pretend otherwise. There are pieces still outstanding: the Alavandor–Hawkford analysis deserves proper treatment; I have heard rumour of a ballad composed by Ser Rowan Whitegate himself after the fall of Castle Daggerdale; and Beliard Emmarask’s channels have a habit of producing new material when one least expects it. I intend to continue this collection as further verse comes to hand. The Thistle Ridge affair is not yet finished with us, and I suspect the songs are not finished either.</p>
+<p class=”attribution”><em>Tammen Gale</em> <em>Scardale Town, Marpenoth 1484 DR</em></p>
 </section>
 <hr>
 
 <footer>
 <h2>Colophon</h2>
-<p><strong>Document:</strong> Songs of the Thistle and Other Verses <strong>Source:</strong> `Handouts/Daggerdale/Songs of the Thistle - Collected by Tammen Gale of Scardale.txt` <strong>Raw sources for individual pieces:</strong></p>
+<p><strong>Document:</strong> Songs of the Thistle <strong>Source:</strong> `Handouts/Daggerdale/Songs of the Thistle - Collected by Tammen Gale of Scardale.txt` <strong>Raw sources for individual pieces:</strong></p>
 <ul>
 <li>I. Mumfrey’s Song — `Handouts/Daggerdale/Not a Conspiracy - Mumfrey’s Song Analysed.txt` (full text embedded in Lucan/Jasper analysis); also `Handouts/Daggerdale/Thistle Ridge Tragedy - Timeline and Mumfrey’s Song Revisited.txt` - II. The Monkey On the Mountain — `Handouts/Daggerdale/The Mountain of Mayhem - Beliard’s Songs of the Mountain.txt` (email thread, Feb 2024); also `Handouts/Daggerdale/Round One to Chrysalis - Tournament Narrative and Song.txt`; also `Handouts/Daggerdale/Memorable Moments in Capture the Flag - Todd’s Notes and the Making of the Ballad.txt` - III. The Win of the Monk — `Handouts/Daggerdale/The Mountain of Mayhem - Beliard’s Songs of the Mountain.txt` (same email thread as II) - IV. Beliard’s Favourite Things — `Handouts/Daggerdale/Beliard’s Favourite Things - A Song from Castle Radiance.txt` (email thread, Sep 2024)</li>
 </ul>
-<p><strong>Relationship to parent volume:</strong> This is a companion/sequel to <em>Songs of the Dagger and Other Verses</em> (Editorial markdown). Tammen Gale’s preface explicitly references the earlier collection and frames this as a “slim supplement.” <strong>Editorial notes:</strong> Transcribed faithfully from the composite source document. All verse reproduced exactly as found. No numbering corrections required — the source document’s numbering (I–IV) is sequential and consistent. The double-space in line 104 of the source (“Ser Rowan leapt  and“) is preserved as found in all source copies. <strong>Editorial pass:</strong> 2026-04-05</p>
+<p><strong>Relationship to parent volume:</strong> This is a companion/sequel to <em>Songs of the Dagger and Other Verses</em> (Editorial markdown). Tammen Gale’s preface explicitly references the earlier collection and frames this as a “slim supplement.” The title omits “and Other Verses” per Gale’s own assessment: the collection is not yet substantial enough to warrant the suffix (see his closing remarks in the Note on Omissions). <strong>Editorial notes:</strong> Transcribed faithfully from the composite source document. All verse reproduced exactly as found. No numbering corrections required — the source document’s numbering (I–IV) is sequential and consistent. The double-space in line 104 of the source (“Ser Rowan leapt  and“) is preserved as found in all source copies. <strong>Editorial pass:</strong> 2026-04-05</p>
 </footer>
 
 </main>
