@@ -12,8 +12,6 @@ material, and administrative files.
 Files are organised by type, then roughly chronologically
 within each section. Sizes are given in KB for convenience.
 Files marked [EMAIL] were archived from email threads.
-Files marked [PLACEHOLDER] require manual extraction of
-attachments.
 
 
 ============================================================
@@ -276,7 +274,7 @@ centring on Jasper (played by Gus Miranda).
   Jasper's Experiments - Lightbringer and Mortimer.txt (5 KB) — Two vignettes: creating the Lightbringer pistol; the botched Mortimer figurine. [EMAIL]
   Jasper and Coventina - Jasper's Speech After Coventina's Death.txt (3 KB) — Jasper's speech after losing Coventina. [EMAIL]
   Letter to Malveau Greenleaf - Jasper Offers Employment.txt (2 KB) — Jasper recruits Malveau. [EMAIL]
-  The Journal of Jasper Hawkford (NEEDS MANUAL EXTRACTION).txt (1 KB) — [PLACEHOLDER] Major character document in .docx (~2MB). Described as "an excellent record of Mari's coup." [EMAIL]
+  The Journal of Jasper Hawkford.txt (17 KB) — In-character journal by Gus (as Jasper), 8th–12th Tarsakh 1483 DR: Vessuvian's commission, the march to Greenwood Farm, first council of war, and the Battle of the Circle of the Dead — where Mari's channel divinity routed the undead. Work-in-progress (as of Oct 2024). [EMAIL]
   A Summary of Jasper's ChatGPT Adventure - Mirrorwatch and Vel-Mirith.txt (3 KB) — AI-generated prequel: Jasper seals a planar rift, traps Vel-Mirith. Not canonical. [EMAIL]
   Jasper's ChatGPT Adventures - AI as Dungeon Master.txt (5 KB) — Meta-discussion of Gus running Level 0 Jasper prequels via ChatGPT. [EMAIL]
   Jasper and Lucan - Early Character Concepts and Alliance.txt (3 KB) — Gus and Stephen's earliest character discussion; Jasper as Matt Smith's Doctor + Doc Brown. [EMAIL]
@@ -411,13 +409,6 @@ XVI. PLAY-BY-POST ARCHIVES (Pre-Tabletop Campaigns)
 ============================================================
 
   Daggerdale Unfinished Tales - Fresh Blood and Abandon Hope (Play-by-Post Archive).txt (98 KB) — Reconstructed play-by-post campaigns from Vanilla Forums (Jan 2011 – Jul 2012). "Fresh Blood" (1480 DR) and "Abandon Hope" (1481 DR). PRIMARY source material: original forum text assembled by AI from database backup. Characters: Beliard Emmarask (Stephen), Tyrian Grey (Todd), Carpathia Twist, the Cormanthor elves. Establishes Castle Radiance, Reks, embassy, Dark Garden, Sons of Bel.
-
-
-============================================================
-XVII. PLACEHOLDERS (Attachment Extraction Required)
-============================================================
-
-  The Journal of Jasper Hawkford (NEEDS MANUAL EXTRACTION).txt — Major ~2MB .docx from Gus; "an excellent record of Mari's coup."
 
 
 ============================================================
