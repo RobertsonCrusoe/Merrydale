@@ -1,8 +1,1 @@
-# Source: The Sieges Perilous wiki (backup 2010-02-21)
-# Wiki page title: The Green
-# Extracted: 2026-04-08 via extract_wiki_xml.py
----
-
 The Green is a large, cultivated forest and park that marks the northern boundary of the city, and melds out into the wilderness. Near the city, The Green is mostly parklands and gardens, with the occasional farm. As it rolls out further north, the Green becomes wilder, and transforms into a forest. This forest is reserved exclusively as a hunting ground for the city's elite, though, in its wilder areas it is said to house escaped convicts and bands of other criminals.
-
-[[Category:Waldheim Neighbourhoods|Green]]

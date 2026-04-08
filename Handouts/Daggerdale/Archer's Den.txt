@@ -1,8 +1,1 @@
-# Source: The Sieges Perilous wiki (backup 2010-02-21)
-# Wiki page title: Archer's Den
-# Extracted: 2026-04-08 via extract_wiki_xml.py
----
-
 Gimbly Daledawn is one of the most renowned bowyers/fletchers in the Dalelands.  He makes long bows and great bows, and his finest works (which there are always several of on display in his small shoppe) count as +1 magic weapons.  They sell for 300-500 gp.
-
-[[Category:Marketplace]]

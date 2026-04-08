@@ -1,9 +1,1 @@
-# Source: The Sieges Perilous wiki (backup 2010-02-21)
-# Wiki page title: Angar Thurl'dan †
-# Extracted: 2026-04-08 via extract_wiki_xml.py
----
-
 An angry ghost met by the members of the original Neverwinter Company. He was bitter about the infestation of orcs and deepspawn near his tomb.
-
-[[Category:NPCs|Thurl'dan, Angar]]
-[[Category:Undead|Thurl'dan, Angar]]

@@ -1,8 +1,3 @@
-# Source: The Sieges Perilous wiki (backup 2010-02-21)
-# Wiki page title: Speculations
-# Extracted: 2026-04-08 via extract_wiki_xml.py
----
-
 <gallery>
 image:Speculations 5.JPG
 image:Speculations 4.JPG
@@ -15,5 +10,3 @@ image:Names 3.JPG
 image:Names 4.JPG
 image:Names 5.JPG
 </gallery>
-
-[[Category:Notes]]

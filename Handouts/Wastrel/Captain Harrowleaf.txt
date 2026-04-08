@@ -1,8 +1,0 @@
-# Source: The Sieges Perilous wiki (backup 2010-02-21)
-# Wiki page title: Captain Harrowleaf
-# Extracted: 2026-04-08 via extract_wiki_xml.py
----
-
-Jondalar Harrowleaf, the articulate and attractive Captain of the Loudwater Wardens; appointed by [[Lady Moonfire]].  It is important to note that an articulate and attractive authority figure might be at a disadvantage in the western borderlands of ancient Anauroch and the Netherese empire. Captain Harrowleaf makes up for those unfortunate quirks by being particularly useless in his role of Captain. Infact; at times he manages to prove himself downright incompetent thereby encouraging those who wish to cause trouble or remedy it to simply move on from Loudwater and find a place less boring.
-
-[[Kethoth Sepret]] seems particularly dismissive of the Captain's abilities to handle things in Loudwater.
