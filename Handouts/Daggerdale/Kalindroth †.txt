@@ -1,3 +1,12 @@
+# Source: The Sieges Perilous wiki (backup 2010-02-21)
+# Wiki page title: Kalindroth †
+# Extracted: 2026-04-08 via extract_wiki_xml.py
+---
+
 Zhentarim mage in charge of Bhaerlith. He was known to be an urban fellow from the west, probably Waterdhavian.
 
 *Status: Slain
+
+[[Category:NPCs]]
+[[Category:Naug-Adar]]
+[[Category:Zhentarim]]

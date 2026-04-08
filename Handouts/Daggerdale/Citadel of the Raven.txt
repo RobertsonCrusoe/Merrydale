@@ -1,1 +1,10 @@
+# Source: The Sieges Perilous wiki (backup 2010-02-21)
+# Wiki page title: Citadel of the Raven
+# Extracted: 2026-04-08 via extract_wiki_xml.py
+---
+
+[[image:citadel.png|thumb|Insignia of the Citadel of the Raven]]
+
 A Zhentarim base that was being rebuilt through the efforts of the forces that occupied Dagger Falls in 1372.
+
+[[Category:Zhentarim]]

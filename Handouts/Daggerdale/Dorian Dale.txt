@@ -1,3 +1,17 @@
-Dorian grew up in the town of Dagger Falls, and was a good friend of Lumina Whitegate. Dorian's father always loved tales of Dorian the Sembian, Greatest Swordsman in the Realms, and named his boy after his hero. His name, however, did not portent. Dorian was killed in the tower of Gang'Dar while flushing out the last orcs from that fort before they could have a chance to slaughter the captives therein.
+# Source: The Sieges Perilous wiki (backup 2010-02-21)
+# Wiki page title: Dorian Dale †
+# Extracted: 2026-04-08 via extract_wiki_xml.py
+---
 
-Dorian, a devout worshiper of Amaunator during his life, was laid to rest in the catacombs beneath Castle Radiance.
+Dorian grew up in the town of Dagger Falls, and was a good friend of [[Lumina Whitegate]]. Dorian's father always loved tales of [[Dorian]] the Sembian, Greatest Swordsman in the Realms, and named his boy after his hero. His name, however, did not portent. Dorian was killed in the tower of [[Gang'Dar]] while flushing out the last orcs from that fort before they could have a chance to slaughter the captives therein.
+
+Dorian, a devout worshiper of Amaunator during his life, was laid to rest in the catacombs beneath [[Castle Radiance]].
+
+== Narratives ==
+
+*[[Arrival at Castle Radiance]]
+
+[[Category:Les]]
+[[Category:White Cloaks]]
+[[Category:Heroes of Daggerdale, 1479 DR|Dale, Dorian]]
+[[Category:Deceased PCs]]

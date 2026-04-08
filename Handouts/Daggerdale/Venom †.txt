@@ -1,3 +1,16 @@
-The half-elven woman known only as Venom is the second-in-command of the Blades of Korombos.
+# Source: The Sieges Perilous wiki (backup 2010-02-21)
+# Wiki page title: Venom †
+# Extracted: 2026-04-08 via extract_wiki_xml.py
+---
 
-Status: Venom went missing during a raid through Undermountain on the Anteos Villa. She has not been seen since 1372 DR.
+The half-elven woman known only as '''Venom''' is the second-in-command of the [[Blades of Korombos]].
+
+'''Status''': Venom went missing during a raid through Undermountain on the Anteos Villa. She has not been seen since 1372 DR.
+
+
+
+'''Meta''': IF YOU GUYS ACTUALLY KNEW WHAT HAPPENED TO VENOM, YOU WOULD ALL QUIT ADVENTURING... (Blacky, June 4, 2003)
+
+
+[[Category:NPCs]]
+[[Category:Blades of Korombos]]

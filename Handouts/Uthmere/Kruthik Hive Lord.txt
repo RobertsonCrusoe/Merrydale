@@ -1,1 +1,8 @@
+# Source: The Sieges Perilous wiki (backup 2010-02-21)
+# Wiki page title: Kruthik Hive Lord
+# Extracted: 2026-04-08 via extract_wiki_xml.py
+---
+
+[[image:Kruthik Hive Lord.png|500px|thumb|Hive Lord stat block.]]
+
 The hive beneath Eastwatch was vanquished on the 6th of Mirtul, 1485 DR when a group of adventurers cut down this Hive Lord.

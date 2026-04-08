@@ -1,3 +1,11 @@
+# Source: The Sieges Perilous wiki (backup 2010-02-21)
+# Wiki page title: Stringer
+# Extracted: 2026-04-08 via extract_wiki_xml.py
+---
+
 A rogue of human descent, hailing from Westgate.
 
 More info will be posted if and when more information is revealed regarding Stringer.
+
+[[Category:Spellgard NPC]]
+[[Category:Mercykillers]]

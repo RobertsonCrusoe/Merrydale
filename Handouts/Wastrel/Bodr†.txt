@@ -1,3 +1,11 @@
+# Source: The Sieges Perilous wiki (backup 2010-02-21)
+# Wiki page title: Bodr
+# Extracted: 2026-04-08 via extract_wiki_xml.py
+---
+
 A fighter of goliath descent, hailing from the northern range of the Graypeak Mountains. 
 
 More info will be posted if and when more information is revealed regarding Bodr.
+
+[[Category:Spellgard NPC]]
+[[Category:Mercykillers]]
