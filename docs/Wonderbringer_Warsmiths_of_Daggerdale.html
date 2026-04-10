@@ -1,0 +1,827 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="The Wonderbringer Warsmiths — Engineers, Artificers and Gondsmen of Daggerdale, based at the Wonderbringer Warforge above Fort Luminous.">
+    <title>The Wonderbringer Warsmiths: Engineers, Artificers &amp; Gondsmen of Daggerdale</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=IM+Fell+English+SC&display=swap');
+
+        :root {
+            --bg-parchment: #f4ead5;
+            --bg-inset: #f7f0e0;
+            --bg-section-header: #ede0c8;
+            --bg-section-gradient: linear-gradient(90deg, #f4ead5, #e8d5b0, #f4ead5);
+            --bg-subsection-gradient: linear-gradient(90deg, #f4ead5, #efe3c8, #f4ead5);
+            --text-body: #2c1e0e;
+            --text-heading: #4a1e08;
+            --text-subheading: #6b2a0a;
+            --text-secondary: #5a3d20;
+            --text-aside: #3a2a15;
+            --accent-border: #8b4513;
+            --accent-border-light: #c9a96e;
+            --accent-link: #3a5a7c;
+            --accent-green: #4a6741;
+            --font-display: 'IM Fell English SC', Palatino Linotype, serif;
+            --space-xs: 4px;
+            --space-sm: 8px;
+            --space-md: 16px;
+            --space-lg: 24px;
+            --space-xl: 36px;
+        }
+
+        * { box-sizing: border-box; }
+
+        body {
+            font-family: 'Crimson Text', Palatino Linotype, Book Antiqua, Palatino, Georgia, serif;
+            font-size: 20px;
+            background-color: var(--bg-parchment);
+            color: var(--text-body);
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+
+        article {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: var(--space-lg);
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: var(--space-xl);
+            border-bottom: 2px solid var(--accent-border-light);
+            padding-bottom: var(--space-lg);
+        }
+
+        h1 {
+            font-family: var(--font-display);
+            font-size: 2.5em;
+            color: var(--text-heading);
+            margin: var(--space-md) 0;
+            font-weight: 700;
+        }
+
+        .document-subtitle {
+            font-family: var(--font-display);
+            font-size: 1.3em;
+            color: var(--text-subheading);
+            margin: 0 0 var(--space-md) 0;
+            font-weight: 400;
+            letter-spacing: 0.02em;
+            text-align: center;
+            text-wrap: balance;
+        }
+
+        header > p {
+            font-style: italic;
+            color: var(--text-secondary);
+            margin: var(--space-sm) 0 0 0;
+        }
+
+        /* Table of Contents */
+        .toc {
+            margin: var(--space-lg) 0;
+            padding: var(--space-md) var(--space-lg);
+            background: linear-gradient(135deg, rgba(74,30,8,0.04), rgba(74,30,8,0.02));
+            border: 1px solid var(--accent-border);
+            border-radius: 4px;
+        }
+
+        .toc-title {
+            font-family: var(--font-display);
+            font-size: 1.3em;
+            color: var(--text-heading);
+            margin: 0 0 var(--space-sm) 0;
+            padding: 0;
+            border: none;
+            background: none;
+        }
+
+        .toc-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            counter-reset: toc-section;
+        }
+
+        .toc-list > li {
+            counter-increment: toc-section;
+            margin: var(--space-xs) 0;
+        }
+
+        .toc-list > li > a {
+            font-family: var(--font-display);
+            font-size: 1.05em;
+            color: var(--text-heading);
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        .toc-list > li > a:hover { text-decoration: underline; }
+
+        .toc-sublist {
+            list-style: none;
+            padding: 0 0 0 var(--space-md);
+            margin: var(--space-xs) 0 0 0;
+            columns: 2;
+            column-gap: var(--space-lg);
+        }
+
+        .toc-sublist > li {
+            margin: 2px 0;
+            break-inside: avoid;
+        }
+
+        .toc-sublist > li > a {
+            font-size: 0.9em;
+            color: var(--text-body);
+            text-decoration: none;
+        }
+
+        .toc-sublist > li > a:hover {
+            text-decoration: underline;
+            color: var(--text-heading);
+        }
+
+        h2 {
+            font-family: var(--font-display);
+            font-size: 1.8em;
+            color: var(--text-heading);
+            margin: var(--space-lg) 0 var(--space-md) 0;
+            padding: var(--space-sm) var(--space-md);
+            border-left: 4px solid var(--accent-border);
+            background: var(--bg-section-gradient);
+        }
+
+        h2 a { color: inherit; text-decoration: none; }
+        h2 a:hover { text-decoration: underline; text-decoration-color: var(--accent-border-light); }
+
+        h3 {
+            font-family: var(--font-display);
+            font-size: 1.4em;
+            color: var(--text-subheading);
+            margin: var(--space-md) 0 var(--space-sm) 0;
+            padding: var(--space-xs) var(--space-sm);
+            background: var(--bg-subsection-gradient);
+        }
+
+        h3 a { color: inherit; text-decoration: none; }
+        h3 a:hover { text-decoration: underline; text-decoration-color: var(--accent-border-light); }
+
+        h4 {
+            font-family: var(--font-display);
+            font-size: 1.1em;
+            color: var(--text-subheading);
+            margin: var(--space-lg) 0 var(--space-xs) 0;
+        }
+
+        p {
+            margin: var(--space-md) 0;
+            text-align: justify;
+        }
+
+        em { font-style: italic; }
+
+        strong {
+            font-weight: 600;
+            font-family: var(--font-display);
+        }
+
+        section { margin: var(--space-lg) 0; }
+
+        hr {
+            border: none;
+            border-top: 1px solid var(--accent-border-light);
+            margin: var(--space-lg) 0;
+        }
+
+        .card {
+            background-color: var(--bg-inset);
+            border-left: 3px solid var(--accent-border);
+            border-top: 1px solid var(--accent-border-light);
+            border-bottom: 1px solid var(--accent-border-light);
+            border-right: 1px solid var(--accent-border-light);
+            border-radius: 0 4px 4px 0;
+            padding: 12px;
+            margin: var(--space-md) 0;
+            position: relative;
+        }
+
+        .card > h3:first-child,
+        .card > h4:first-child { margin-top: 0; }
+
+        .card-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: var(--space-sm);
+            margin: var(--space-xs) 0;
+        }
+
+        .card.command {
+            border-left: 4px solid var(--accent-green);
+            background-color: #f4f7f0;
+            box-shadow: 0 1px 4px rgba(74, 103, 65, 0.12);
+        }
+
+        .card.wide {
+            max-width: 100%;
+            flex: 1 1 100%;
+        }
+
+        .card-label {
+            font-size: 0.7em;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: var(--space-sm);
+            font-weight: 600;
+        }
+
+        .card-label.green { color: var(--accent-green); }
+        .card-label.gold { color: var(--accent-border); }
+        .card-label.blue { color: var(--accent-link); }
+        .card-label.brown { color: #6b4c30; }
+        .card-label.amber { color: #7a4010; }
+
+        .card h3 {
+            background: none;
+            padding: 0;
+            margin: 0 0 var(--space-xs) 0;
+            border: none;
+            font-size: 1.2em;
+        }
+
+        .rank { margin: var(--space-xs) 0; font-weight: normal; }
+        .rank strong {
+            font-weight: 600;
+            font-family: var(--font-display);
+            color: var(--text-subheading);
+        }
+
+        .assignment { margin: var(--space-xs) 0; font-weight: normal; }
+        .assignment strong {
+            font-weight: 600;
+            font-family: var(--font-display);
+            color: var(--text-subheading);
+            font-variant: small-caps;
+            text-transform: lowercase;
+            letter-spacing: 0.04em;
+        }
+
+        .strength { margin: var(--space-xs) 0; font-weight: normal; }
+        .strength strong {
+            font-weight: 600;
+            font-family: var(--font-display);
+            color: var(--text-subheading);
+            font-variant: small-caps;
+            text-transform: lowercase;
+            letter-spacing: 0.04em;
+        }
+
+        .detail {
+            margin: var(--space-sm) 0;
+            color: var(--text-body);
+            line-height: 1.55;
+        }
+
+
+        .narrator {
+            background-color: var(--bg-inset);
+            border-left: 3px solid var(--accent-border-light);
+            padding: var(--space-sm) var(--space-md);
+            margin: var(--space-sm) 0;
+            color: var(--text-aside);
+        }
+
+        .era-note {
+            background-color: var(--bg-inset);
+            border-left: 3px solid var(--accent-border-light);
+            padding: var(--space-sm) var(--space-md);
+            margin: var(--space-sm) 0;
+            color: var(--text-aside);
+            font-size: 0.9em;
+        }
+
+        .footnote {
+            font-size: 0.95em;
+            font-style: italic;
+            color: var(--text-heading);
+            margin: var(--space-sm) 0;
+        }
+
+        .footnote .nb-label {
+            font-weight: 600;
+            font-style: normal;
+            letter-spacing: 0.04em;
+        }
+
+        .appendix-header {
+            background: linear-gradient(90deg, #f4ead5, #e0d0b8, #f4ead5);
+            color: var(--text-secondary);
+            font-family: var(--font-display);
+            font-size: 1.5em;
+            padding: var(--space-sm) var(--space-md);
+            margin: var(--space-lg) 0 var(--space-md) 0;
+            border-left: 4px solid #9a8a70;
+            border-bottom: 1px solid var(--accent-border-light);
+            letter-spacing: 0.5px;
+        }
+
+        .appendix-header a {
+            color: inherit;
+            text-decoration: none;
+        }
+
+        .appendix-header a:hover {
+            text-decoration: underline;
+            text-decoration-color: var(--accent-border-light);
+        }
+
+        .signoff {
+            text-align: right;
+            margin-top: var(--space-lg);
+            font-style: italic;
+            color: var(--text-secondary);
+            line-height: 1.6;
+        }
+
+        .signoff strong {
+            font-style: normal;
+            font-family: var(--font-display);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: var(--space-lg) 0;
+        }
+
+        thead { background-color: var(--bg-section-header); }
+
+        th {
+            padding: var(--space-sm) var(--space-md);
+            text-align: left;
+            font-weight: 600;
+            color: var(--text-heading);
+            border-bottom: 2px solid var(--accent-border-light);
+            font-size: 0.9em;
+        }
+
+        td {
+            padding: var(--space-sm) var(--space-md);
+            border-bottom: 1px solid var(--accent-border-light);
+            font-size: 0.9em;
+        }
+
+        tbody tr:hover { background-color: rgba(139, 69, 19, 0.05); }
+
+        footer {
+            margin-top: var(--space-xl);
+            padding-top: var(--space-lg);
+            border-top: 2px solid var(--accent-border-light);
+            color: var(--text-secondary);
+            font-size: 0.9em;
+        }
+
+        footer p { text-align: center; }
+
+        /* Standard bullet style (§2.8) */
+        ul {
+            list-style: none;
+            padding-left: var(--space-md);
+        }
+
+        ul > li {
+            padding: 3px 0;
+            padding-left: 20px;
+            position: relative;
+        }
+
+        ul > li::before {
+            content: "\2726";
+            position: absolute;
+            left: 0;
+            color: var(--accent-border);
+            font-size: 0.8em;
+        }
+
+        /* Scoped override: TOC sublists keep their own styling */
+        .toc-sublist > li::before { content: none; }
+        .toc-sublist > li { padding-left: 0; }
+
+        /* Scrollable wide tables (§2.9) */
+        .table-scroll {
+            overflow-x: auto;
+            margin: var(--space-lg) 0;
+            cursor: grab;
+        }
+
+        .table-scroll.active {
+            cursor: grabbing;
+            user-select: none;
+        }
+
+        @media (max-width: 600px) {
+            body { font-size: 16px; }
+            article { padding: var(--space-md); }
+            h1 { font-size: 2em; }
+            h2 { font-size: 1.4em; }
+            h3 { font-size: 1.1em; }
+            table { font-size: 0.85em; }
+            th, td { padding: var(--space-xs) var(--space-sm); }
+            .card-row { flex-direction: column; }
+            .card { max-width: 100%; }
+            .toc-sublist { columns: 1; }
+        }
+
+        @media print {
+            body { background-color: white; color: black; }
+            article { max-width: 100%; padding: 0; }
+            h1, h2, h3, h4 { page-break-after: avoid; color: black; }
+            section { page-break-inside: avoid; }
+            .card { background-color: white; border: 1px solid #ccc; }
+            table { border: 1px solid #ccc; }
+            th { background-color: #f5f5f5; }
+        }
+
+        .home-link {
+            position: fixed;
+            top: 12px;
+            left: 12px;
+            z-index: 1000;
+            opacity: 0.5;
+            transition: opacity 0.2s;
+        }
+        .home-link:hover { opacity: 1; }
+        .home-link svg { width: 28px; height: 28px; }
+    </style>
+</head>
+<body>
+    <a href="index.html" class="home-link" title="Back to Archive" aria-label="Back to Archive">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#8b4513" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
+            <polyline points="9 22 9 12 15 12 15 22"/>
+        </svg>
+    </a>
+<article>
+        <header>
+            <h1>&#9876; The Wonderbringer Warsmiths of Daggerdale &#9876;</h1>
+            <p class="document-subtitle">Engineers, Artificers &amp; Gondsmen</p>
+            <p><em>Part III of The Military Establishment of Daggerdale&mdash;A report prepared for His Majesty&rsquo;s Embassy at Castle Radiance by Beliard Kathklan Emmarask, Secretary to the Ambassador</em></p>
+        </header>
+
+        <nav id="toc" class="toc">
+            <h3 class="toc-title">Contents</h3>
+            <ol class="toc-list">
+                <li><a href="#part-i-warsmiths">The Wonderbringer Warsmiths</a>
+                    <ul class="toc-sublist">
+                        <li><a href="#organization">Organization and Character</a></li>
+                        <li><a href="#religious-identity">Religious Identity</a></li>
+                        <li><a href="#warforge">The Warforge</a></li>
+                        <li><a href="#logistics">Logistics and the Mountain Road</a></li>
+                    </ul>
+                </li>
+                <li><a href="#part-ii-personnel">Personnel</a>
+                    <ul class="toc-sublist">
+                        <li><a href="#rafter">Rosetta Rafter</a></li>
+                        <li><a href="#bollinger">Mr. Bollinger</a></li>
+                        <li><a href="#unnamed">Unnamed Personnel</a></li>
+                        <li><a href="#alumni">Alumni and Affiliates</a></li>
+                    </ul>
+                </li>
+                <li><a href="#part-iii-works">Known Works and Contributions</a>
+                    <ul class="toc-sublist">
+                        <li><a href="#great-gun">The Great Bronze Gun</a></li>
+                        <li><a href="#belladonna-wards">Belladonna Confinement Wards</a></li>
+                        <li><a href="#aerial-lights">Counter-Aerial Lighting</a></li>
+                        <li><a href="#gems">The Gems of Insight</a></li>
+                        <li><a href="#rafter-pistol">The Rafter Pistol</a></li>
+                        <li><a href="#wc-armoury">White Cloak Armoury</a></li>
+                    </ul>
+                </li>
+                <li><a href="#part-iv-relations">Relations with Other Organizations</a>
+                    <ul class="toc-sublist">
+                        <li><a href="#iron-backs">Fort Luminous and the Iron Backs</a></li>
+                        <li><a href="#white-cloaks">The White Cloaks</a></li>
+                        <li><a href="#whitegates">The Whitegate Family</a></li>
+                    </ul>
+                </li>
+                <li><a href="#appendix-personnel">Appendix: All Named Personnel</a></li>
+            </ol>
+        </nav>
+
+        <!-- ====================== INTRODUCTION ====================== -->
+
+        <aside class="narrator" aria-label="Introduction by Beliard Emmarask">
+            <p>Your Excellency will recall that the preceding reports on the Sun Blades and the Holy Orders both made passing reference to a small body of engineers and artificers based at the Wonderbringer Warforge above Fort Luminous. These are the Wonderbringer Warsmiths&mdash;a sect of Gond-worshippers, numbering about fifteen souls, who arrived in Daggerdale several years before the events of 1479 DR and have since made themselves indispensable to the Dale&rsquo;s defence in ways not immediately obvious from their size or their position outside the military chain of command.</p>
+
+            <p>I confess that the Warsmiths gave me more trouble than any other institution in this series. They are not soldiers. They hold no Charter Militant. They answer to no captain, general, or magistrate. They are funded by the Whitegates, housed above a Sun Blades garrison, and consulted by the White Cloaks, but they belong to none of these institutions. What they are, as near as I can determine, is a workshop that has become a pillar&mdash;a small, eccentric, fiercely independent body of craftsmen whose products and expertise have woven themselves so deeply into the Dale&rsquo;s military and civil infrastructure that to remove them would leave gaps no one else could fill.</p>
+
+            <p>The reader will notice that the personnel section is thin compared with the Sun Blades or the Lambent Shield. This is the nature of the subject: the Warsmiths are a workshop, not a regiment, and most of their members are known to me only as &ldquo;clever looking men&rdquo; in Dorian Dale&rsquo;s diary or unnamed entries in a census return.</p>
+
+            <div class="signoff">
+                Your obedient servant,<br>
+                <strong>Beliard Kathklan Emmarask</strong><br>
+                Secretary to His Excellency Ambassador John Tunbridge<br>
+                His Majesty&rsquo;s Embassy to the Daggerdale Concordat<br>
+                Castle Radiance
+            </div>
+        </aside>
+
+        <!-- ====================== I. THE WARSMITHS ====================== -->
+
+        <section id="part-i-warsmiths">
+            <h2><a href="#toc">I. The Wonderbringer Warsmiths</a></h2>
+
+            <section id="organization">
+                <h3><a href="#part-i-warsmiths">Organization and Character</a></h3>
+
+                <p>The Wonderbringer Warsmiths are a small sect of highly skilled smiths and inventors who came to Daggerdale to undertake projects funded by the Whitegate family. They arrived at Castle Radiance several years before 1479 DR (the available evidence brackets their arrival to roughly 1475&ndash;1477 DR) and have been based at their own compound, the Wonderbringer Warforge, on the mountainside above Fort Luminous for much of that time. The sect numbers about fifteen members, mostly humans drawn from all over the Realms: &ldquo;a motley collection of every skin, hair and eye colour imaginable, and every type of dress as well, though all are covered in a dizzying array of harnesses and tools.&rdquo;</p>
+
+                <p>The Warsmiths are not part of the Sun Blades&rsquo; chain of command. They are not a chartered company. They hold no commission from the Governors&rsquo; Assembly. Their independence is not merely structural but is actively valued by the Dale&rsquo;s military officers. When Troia Trustar halted her column at Fort Luminous during the Mirtul 1480 crisis, she did so specifically to get &ldquo;an unbiased opinion&rdquo; from the Warsmiths about a possible dragon in the lowlands, independent of Captain Warburton&rsquo;s assessment and the Sun Blades&rsquo; chain of command. The Warsmiths as an independent intelligence source whose value lies precisely in their detachment from the military hierarchy: this appears to be the prevailing view among the officers I have spoken with.</p>
+
+                <p>The entire body of the Warsmiths is compact enough to attend a single feast. On the eve of Greengrass 1481, Captain Warburton&rsquo;s White Cloak column arrived at Fort Luminous to find &ldquo;nearly 200 people, including the entirety of the Wonder Bringer Warsmiths and some families of the soldiers, having a late feast.&rdquo; This is a workshop, not a company.</p>
+            </section>
+
+            <section id="religious-identity">
+                <h3><a href="#part-i-warsmiths">Religious Identity</a></h3>
+
+                <p>The sect professes to worship Gond, the Wonderbringer&mdash;a claim that carries a certain defiance in an age when Gond is widely considered a dead god. &ldquo;For evidence of the power of Gond, they point to all the marvellous inventions and weapons they have created. Some seem to be dead serious about this claim, while others give a wistful smile when they make their case.&rdquo; The Warforge compound includes a small temple to Gond, which makes it the only known Gond shrine in the Desertsmouth Mountains.</p>
+
+                <p>The settlement of Charity is the only other substantial Gond community in the Dale. &ldquo;Gond the Wonderbringer figures heavily into this settlement; Charity has been a home to invention since its founding and remains so today.&rdquo; Whether the Warsmiths maintain formal ties with the Charity Gondsmen is not recorded, but the two communities are the only significant Gond presence in the region.</p>
+
+                <p>The Warsmiths&rsquo; religious tone sets them apart from every other military-adjacent institution in the Dale. The Sun Blades are Amaunatori. The Lambent Shield is fanatically Amaunatori. The White Cloaks are led by a Soldier of Amaunator. Into this overwhelmingly solar establishment, the Warsmiths introduce a Gondish counter-note (pragmatic, inventive, slightly irreverent) and the Dale appears to have absorbed them without friction. It helps, perhaps, that Captain Northman of the 3rd &ldquo;Iron Backs,&rdquo; commanding Fort Luminous, is himself a Chauntean: &ldquo;observant and pragmatic, and not zealous in any regard.&rdquo; A Chauntean captain, a Gondish workshop, and an Amaunatori chain of command above both: the religious stack at Fort Luminous is unusual, and the absence of zealotry at the local command level is probably what makes the arrangement work.</p>
+            </section>
+
+            <section id="warforge">
+                <h3><a href="#part-i-warsmiths">The Warforge</a></h3>
+
+                <div class="card-row">
+                    <div class="card command wide">
+                        <div class="card-label green">Wonderbringer Warforge</div>
+                        <h3 id="warforge-card"><a href="#warforge">The Wonderbringer Warforge</a></h3>
+                        <div class="assignment"><strong>Assignment:</strong> Mountainside above Fort Luminous &ndash; junction of Mountain Road &amp; Whitegate Mine Road</div>
+                        <div class="strength"><strong>Strength:</strong> ~15 members</div>
+                        <div class="detail">The Warforge sits above Fort Luminous, not inside the fort proper. It comprises a foundry, a small temple to Gond, several smaller workshops, a barracks, and some small outbuildings&mdash;an operational installation with its own religious, residential, and industrial components. The physical separation from the fort mirrors the institutional independence: the Warsmiths are guests of the garrison, not part of it.</div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="logistics">
+                <h3><a href="#part-i-warsmiths">Logistics and the Mountain Road</a></h3>
+
+                <p>The Warforge sits on the strategic corridor that connects Dagger Falls to Castle Radiance: Dagger Falls to Daggerford Farm, 30 miles; Daggerford to Rain Hill Mine, 50 miles; Rain Hill Mine to Fort Luminous, 15 miles (this stretch is &ldquo;The Climb&rdquo;); Fort Luminous to Castle Radiance, 35 miles. Total: 130 miles, or one day&rsquo;s ride from Castle Radiance, two days from Dagger Falls under ordinary conditions.</p>
+
+                <p>For urgent traffic, the Warforge serves a more precise function. &ldquo;Urgent packages coming from Dagger Falls arrive in the evening of the second day of travel. This requires a horse-change at the Wonderbringer Warforge.&rdquo; The Warforge is thus a formal station on the urgent-packet route. Fort Luminous was also operating a carrier-pigeon dispatch system by Tarsakh 1479 (pigeons were seen leaving the fort for Castle Radiance on the day a traveller&rsquo;s party departed), and the pigeon and horse-change systems together form a through-route communications chain that Fort Luminous anchors. The Warsmiths, by virtue of their physical location, are embedded in this chain whether they choose to be or not.</p>
+            </section>
+        </section>
+
+        <!-- ====================== II. PERSONNEL ====================== -->
+
+        <section id="part-ii-personnel">
+            <h2><a href="#toc">II. Personnel</a></h2>
+
+            <div class="era-note">
+                <p>Named Warsmith personnel are few. Most members are known only through passing references or census entries. What follows are the named individuals, one unnamed but institutionally significant entry, and one alumnus whose training places him in the Warsmith lineage.</p>
+            </div>
+
+            <section id="rafter">
+                <h3><a href="#part-ii-personnel">Leadership</a></h3>
+
+                <div class="card-row">
+                    <div class="card command wide">
+                        <div class="card-label green">Founder &amp; Leader</div>
+                        <h3 id="rafter-card"><a href="#rafter">Rosetta Rafter</a></h3>
+                        <div class="rank"><strong>Rank:</strong> Leader of the Wonderbringer Warsmiths</div>
+                        <div class="assignment"><strong>Assignment:</strong> Wonderbringer Warforge, above Fort Luminous</div>
+                        <div class="detail">A Waterdhavian woman in her twenties who founded and leads the Wonderbringer Warsmiths. &ldquo;She is young but very confident; she has both the charisma and capability of a venerable guild master, but she is only in her 20&rsquo;s.&rdquo; Her personal craft specialty is firearms. The damasked-steel pistol delivered by Brother Darred to Nathan Gale in Marpenoth 1481 bears Rafter&rsquo;s Maker&rsquo;s Mark: &ldquo;Rafter herself crafted this for a client that didn&rsquo;t survive. No fault of the weapon&rsquo;s, I am sure. It is a marvel of both craftsmanship and dwimmercraft; it is magical, though she wouldn&rsquo;t tell me what it does.&rdquo; The pistol itself, with its reddish exotic-hardwood grip, damasked silver-and-brass barrel, and Gond iconography, places her output at the highest end of the magical-firearm market in the region. Darred&rsquo;s assessment (&ldquo;Sometimes I think she&rsquo;s daft&rdquo;) is affectionate, not dismissive; the weapon&rsquo;s quality speaks for itself.</div>
+                        <div class="footnote"><span class="nb-label">N.B.</span> Rafter&rsquo;s apprenticeship tradition extends beyond pistols to ordnance. &ldquo;Swelter trained under Rafter the cannonmaker&rdquo; ties her directly to the great bronze gun programme. The Yellow Abbey <em>Book of Surveys and Measures</em> (1482 edition) records a &ldquo;Grand Master Tinker&rdquo; at Fort Luminous at the highest pay grade on the table (25 sp/day, equal to Barber-Surgeon and Printer). As leader of the Warforge, Rafter is the most likely holder of this rank.</div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="bollinger">
+                <h3><a href="#part-ii-personnel">Named Personnel</a></h3>
+
+                <div class="card-row">
+                    <div class="card wide">
+                        <h3 id="bollinger-card"><a href="#bollinger">Mr. Bollinger</a></h3>
+                        <div class="rank"><strong>Rank:</strong> Artificer &ndash; Gondsman</div>
+                        <div class="assignment"><strong>Assignment:</strong> Wonderbringer Warforge / White Cloaks Tethyamar Team (seconded, Tarsakh 1481)</div>
+                        <div class="detail">
+                            <p>Human artificer whose career traces the overlap between the Warsmiths and the Dale&rsquo;s broader military establishment. At enrolment into Mule Company on Greengrass 1479 he was described as &ldquo;a nuanced artificer and associate of the Wonder Bringer Warsmiths,&rdquo; already Warsmith-affiliated, not a convert. After Mule Company&rsquo;s disbandment in late summer 1479 he returned to the Warforge: &ldquo;He announced that he had pressing business with the Wonder Bringer Warsmiths, and that all this campaigning in the mountains and deserts and such just wasn&rsquo;t for him.&rdquo;</p>
+
+                            <p>By 1480 he was resident at the Warforge, his personal quarters above Fort Luminous rather than inside the fort, where he crafted the Gems of Insight for Captain Warburton (see Works and Contributions). He refused payment, declaring a moral affiliation with the White Cloaks that was explicitly neither subordination (&ldquo;I do not heed to your authority as a sergeant&rdquo;) nor field membership (&ldquo;I do not accompany the Whitcloaks in the field&rdquo;). He had apparently &ldquo;readied an incantation of similar taste&rdquo; before Warburton described his need, suggesting anti-infiltration craft was a standing project. Eccentric to the point of alarm (compulsive finger-snapping, stream-of-consciousness monologue) but effective when focused. He wore glasses, and his workshop was hazardous: on 23 Mirtul 1480, a visiting column found his door hanging off its lower hinge, smoke spilling out, and &ldquo;a disoriented and charred Bollinger struggling to regain his feet against the far wall of the room.&rdquo;</p>
+
+                            <p>By Tarsakh 1481, Bollinger had accepted a seconded role as artificer on the White Cloaks Tethyamar Team, based at Yarl Orgen&rsquo;s Hall. He served thirty days in the Lower Halls and came out with a chronic untreatable cough. Administrator Reks considered Bollinger&rsquo;s primary post to be &ldquo;the workshop,&rdquo; not Tethyamar, and wanted to send him to &ldquo;the Sisters at Charnel Priory,&rdquo; but the secondment was not his to end. His eccentricity is independently corroborated by two men who know him from different angles: Corran Altair compared the prisoner Alen Reks to Bollinger with a degree of affection; Iolus Warburton&rsquo;s jaw twitched &ldquo;the same way it did whenever he dealt with Bollinger.&rdquo;</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="unnamed">
+                <h3><a href="#part-ii-personnel">Unnamed Personnel</a></h3>
+
+                <aside class="narrator" aria-label="Unnamed personnel">
+                    <p><strong>Gnomish specialists.</strong> The great gun&rsquo;s test-firing crew, observed by Corporal Dorian Dale in Tarsakh 1479, included &ldquo;a couple of gnomes with the strangest tools and clothes like I&rsquo;ve never even heard of.&rdquo; After the shot, two of them argued over the fall of shot through looking glasses: sighting and fire-control crew, not gun-crew muscle. No gnome is named in any available source.</p>
+                </aside>
+            </section>
+
+            <section id="alumni">
+                <h3><a href="#part-ii-personnel">Alumni and Affiliates</a></h3>
+
+                <div class="card-row">
+                    <div class="card wide">
+                        <h3 id="swelter-card"><a href="#alumni">Gamling &ldquo;Swelter&rdquo; Hammerfall</a></h3>
+                        <div class="rank"><strong>Rank:</strong> Chief Engineer, Ridge and River Reclamation Company (Chrysalis)</div>
+                        <div class="assignment"><strong>Assignment:</strong> Thistle Ridge (1483)</div>
+                        <div class="detail">
+                            <p>A dwarven engineer, formerly of the Free Defence League. &ldquo;Swelter trained under Rafter the cannonmaker,&rdquo; placing him squarely in the Warsmith apprenticeship lineage, whatever his later employment. No source places him at the Warforge directly, but his training under the Warsmith leader makes him the only known graduate of that programme now operating independently.</p>
+
+                            <p>By Tarsakh 1483, Swelter heads the Ridge and River Reclamation Company under Chrysalis at Thistle Ridge, with a crew of named tradesmen: Billy Mason (Journeyman Mason, Charity), John Carpenter, Hamish (Dwimmerholme), and Bregendy Chiorlindyl (Apprentice Sawyer, Dwimmerholme Farm). He sits on the Chrysalis council alongside Lt. Forge Farmountain and Ser Reginald Boxfray. His company strength at last report: five staff including three journeymen and one apprentice.</p>
+
+                            <p>Swelter&rsquo;s craft extends beyond construction. He is able to imbue magical items and is a gun-maker in his own right. He has moral limits consistent with Gondish principles: offered a Dagger of Venom, he refused&mdash;&ldquo;That&rsquo;s foul magic, that is.&rdquo; He is addressed as &ldquo;Master Swelter&rdquo; by Chrysalis shareholders.</p>
+                        </div>
+                        <div class="footnote"><span class="nb-label">N.B.</span> Lt. Grid Hammerfall of the 8th &ldquo;Sun Dragoons&rdquo; shares the Hammerfall surname. Grid is a stoic mounted officer deployed to Tesh Valley Farm. Whether this is a family connection is unconfirmed, but the surname is uncommon in the Dale and the coincidence is worth noting.</div>
+                    </div>
+                </div>
+            </section>
+        </section>
+
+        <!-- ====================== III. WORKS ====================== -->
+
+        <section id="part-iii-works">
+            <h2><a href="#toc">III. Known Works and Contributions</a></h2>
+
+            <section id="great-gun">
+                <h3><a href="#part-iii-works">The Great Bronze Gun (c. 1477&ndash;1479 onward)</a></h3>
+
+                <aside class="narrator" aria-label="The Great Bronze Gun">
+                    <p>The Warsmiths&rsquo; signature creation and the reason for their presence in the Dale. The gun is mounted on a tower at Fort Luminous and was being live test-fired by Tarsakh 22, 1479, approximately ten days before Greengrass.</p>
+
+                    <p>The sole eyewitness description comes from Corporal Dorian Dale, who passed through Fort Luminous during its construction on that date. The gun is &ldquo;about as long as 4 horses&rdquo; and &ldquo;totally made of bronze,&rdquo; mounted on &ldquo;a huge crank-type-mechanism under it for turning around and pointing up and down&rdquo;: a traversing and elevating carriage rather than a fixed mount. It is operated by a dozen strong men cranking the lay, with two gnomish sighters using looking glasses to spot the fall of shot. Fire control is whistle-signalled: one whistle to call the firing cycle, a second at which the crew and bystanders cover their ears. On the shot the traveller witnessed, the gun was tested against &ldquo;a huge wooden building on stilts&rdquo; about a quarter-mile distant; it kicked up an enormous smoke cloud and flattened a pine tree near the target.</p>
+
+                    <p>The fort itself was still under construction: &ldquo;walls and towers covered in scaffolding and masons, and there are groups of clever looking men with large pictures of how the place is to be built, just sort of looking at things and yelling at the workers once in a while.&rdquo; The Warsmiths had installed a working artillery piece on an unfinished fort, meaning they were engaged in the fort&rsquo;s construction as engineers, not merely guests on a finished installation.</p>
+
+                    <p>The gun&rsquo;s institutional coupling is with the 3rd Company &ldquo;Iron Backs&rdquo; under Captain Northman, re-mustered in the winter of 1481 and assigned to Fort Luminous specifically.</p>
+                </aside>
+            </section>
+
+            <section id="belladonna-wards">
+                <h3><a href="#part-iii-works">The Belladonna Confinement Wards (1480 onward)</a></h3>
+
+                <aside class="narrator" aria-label="Belladonna Confinement Wards">
+                    <p>Perhaps the most operationally important Warsmith contribution. At the Tower of Liberty Hill, the necromancer Belladonna is confined to the Table of the Sun, held by &ldquo;the most powerful prayers and rituals of the clergy and magic of the Warsmiths available.&rdquo; The Warsmiths contributed the magical component of the confinement wards that keep one of the most dangerous prisoners in the Dale from escaping. This is a concrete, ongoing commitment. If the wards fail, the prisoner walks free.</p>
+                </aside>
+            </section>
+
+            <section id="aerial-lights">
+                <h3><a href="#part-iii-works">Counter-Aerial Lighting for Dagger Falls (c. 1480)</a></h3>
+
+                <aside class="narrator" aria-label="Counter-Aerial Lighting">
+                    <p>Captain Lucius of the 1st Company &ldquo;Dalehearth,&rdquo; responding to rumours of things flying overhead at night, commissioned &ldquo;the Warsmith&rdquo; to build new lights to mount on the towers of the town walls. In the interim, Lucius had &ldquo;scores of lantern-bearers going around at night probing the black skies.&rdquo; The commission shows the Warsmiths taking outside work for the regular forces beyond their Fort Luminous base, contracted directly by a Sun Blades captain rather than through the command channel.</p>
+                </aside>
+            </section>
+
+            <section id="gems">
+                <h3><a href="#part-iii-works">The Gems of Insight (c. 1480)</a></h3>
+
+                <aside class="narrator" aria-label="Gems of Insight">
+                    <p>Five linked gemstones commissioned by Captain Warburton as a counter-infiltration device against the Dark Garden. Bollinger crafted the Gems at his Warforge workshop. Each stone changes colour according to the alignment and truth of a spoken name: good alignment and true name produces a colour match; evil alignment and true name turns the stone black; a false name leaves it clear. Effective range approximately two miles. Warburton offered 440 suns for the five gemstones; Bollinger refused, declaring his moral affiliation with the White Cloaks.</p>
+
+                    <p>During the same encounter, Bollinger displayed a golden feather that he claimed conferred &ldquo;a little fire and light immunity,&rdquo; a countermeasure against the Amaunatori doctrine&rsquo;s core weapons. A prudent piece of Gondish pragmatism.</p>
+                </aside>
+            </section>
+
+            <section id="rafter-pistol">
+                <h3><a href="#part-iii-works">The Rafter Pistol (delivered Marpenoth 1481)</a></h3>
+
+                <aside class="narrator" aria-label="The Rafter Pistol">
+                    <p>A damasked-steel pistol bearing Rafter&rsquo;s Maker&rsquo;s Mark, delivered by Brother Darred of the Order of the Tome to Nathan Gale at Quick Axes tavern in Dagger Falls. Originally crafted for a client who &ldquo;didn&rsquo;t survive.&rdquo; Delivered with 200 rounds of ammunition, cleaning kit, and leather holster. The piece has a reddish exotic-hardwood grip inlaid with brass, a damasked silver-and-brass barrel, and Gond iconography throughout. It is a prestige weapon, selected specifically because Gale was heading to Charity, &ldquo;where people love firearms. This piece is fine, even for them.&rdquo;</p>
+                </aside>
+            </section>
+
+            <section id="wc-armoury">
+                <h3><a href="#part-iii-works">White Cloak Armoury Equipment</a></h3>
+
+                <aside class="narrator" aria-label="White Cloak Armoury Equipment">
+                    <p>A treasure chest in the White Cloak Armoury &ldquo;is Gondsman in origin, and bears the motifs and iconography of the sect.&rdquo; The only Gondsman workshop in the Dale is the Warforge, making this the likely provenance. Its presence indicates that Warsmith-made equipment is in regular use by the White Cloaks.</p>
+                </aside>
+            </section>
+        </section>
+
+        <!-- ====================== IV. RELATIONS ====================== -->
+
+        <section id="part-iv-relations">
+            <h2><a href="#toc">IV. Relations with Other Organizations</a></h2>
+
+            <section id="iron-backs">
+                <h3><a href="#part-iv-relations">Fort Luminous and the Iron Backs</a></h3>
+
+                <aside class="narrator" aria-label="Fort Luminous and the Iron Backs">
+                    <p>The Warsmiths&rsquo; primary institutional relationship is with the Sun Blades garrison at Fort Luminous. The 3rd Company &ldquo;Iron Backs&rdquo; under Captain Northman was re-mustered in the winter of 1481 specifically with Fort Luminous as its assignment: a company purpose-built to garrison the fort that houses the Warsmiths and their gun.</p>
+
+                    <p>Northman&rsquo;s character suits the posting. He is Chauntean, not Amaunatori, and the only company captain known to hold a non-Amaunatori faith. He is &ldquo;not zealous in any regard.&rdquo; In Greengrass 1481, &ldquo;for the first time, there will be a small festival for Green Grass in this normally austere and foreboding fortress.&rdquo; The religious plurality at Fort Luminous is either deliberate or, at any rate, tolerated from the top.</p>
+                </aside>
+            </section>
+
+            <section id="white-cloaks">
+                <h3><a href="#part-iv-relations">The White Cloaks</a></h3>
+
+                <aside class="narrator" aria-label="The White Cloaks">
+                    <p>The Warsmiths&rsquo; relationship with the White Cloaks is the closest thing they have to an institutional alliance, but it operates on fraternal rather than contractual terms. Bollinger considers himself &ldquo;among&rdquo; the White Cloaks even though he holds no rank and does not serve in the field (at least not until the Tethyamar secondment). Warburton commissions work from Bollinger. Corran Altair and Banitt Harbaugh, both Mule Company veterans and later White Cloaks, vouch for him.</p>
+
+                    <p>The fraternal character of this relationship is best illustrated by the Gems of Insight commission. Warburton arrived with 440 gold pieces; Bollinger refused them. &ldquo;For shame, Warburton&mdash;although I do not heed to your authority as a sergeant, and although I do not accompany the Whitcloaks in the field, I still consider myself among you.&rdquo; A voluntary alignment grounded in shared purpose, not in pay or chain of command.</p>
+                </aside>
+            </section>
+
+            <section id="whitegates">
+                <h3><a href="#part-iv-relations">The Whitegate Family</a></h3>
+
+                <aside class="narrator" aria-label="The Whitegate Family">
+                    <p>The Whitegates are the Warsmiths&rsquo; patrons. The Warsmiths came to Daggerdale &ldquo;to undertake some projects that are being funded by the Whitegates.&rdquo; Fort Luminous sits on the road to Whitegate Mine, and the Whitegate family&rsquo;s broader interests in mountain infrastructure (mining, road-building, fortification) align naturally with the Warsmiths&rsquo; engineering capabilities. Beyond the patronage relationship, no direct interactions between named Whitegates and named Warsmiths are recorded.</p>
+                </aside>
+            </section>
+        </section>
+
+        <!-- ====================== APPENDIX ====================== -->
+
+        <section id="appendix-personnel">
+            <div class="appendix-header"><a href="#toc">Appendix: All Named Warsmith Personnel</a></div>
+
+            <div class="table-scroll">
+                <table id="personnel-table">
+                    <caption>All Named Warsmith Personnel</caption>
+                    <thead>
+                        <tr>
+                            <th scope="col">Name</th>
+                            <th scope="col">Role</th>
+                            <th scope="col">Assignment</th>
+                            <th scope="col">Status</th>
+                            <th scope="col">Notes</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Rosetta Rafter</td>
+                            <td>Leader &ndash; Founder</td>
+                            <td>Warforge, above Fort Luminous</td>
+                            <td>Active</td>
+                            <td>Waterdhavian. Firearms specialist. Maker&rsquo;s Mark on the Gale pistol. &ldquo;The cannonmaker.&rdquo; Probable Grand Master Tinker (Yellow Abbey, 1482).</td>
+                        </tr>
+                        <tr>
+                            <td>Mr. Bollinger</td>
+                            <td>Artificer &ndash; Gondsman</td>
+                            <td>Warforge &rarr; White Cloaks Tethyamar Team</td>
+                            <td>Active (seconded, 1481)</td>
+                            <td>Former Mule Company. Creator of the Gems of Insight. Chronic cough post-Lower Halls.</td>
+                        </tr>
+                        <tr>
+                            <td><em>(Unnamed gnomes, &times;2+)</em></td>
+                            <td>Sighters / Fire-control crew</td>
+                            <td>Fort Luminous &ndash; great gun</td>
+                            <td>Attested 1479</td>
+                            <td>&ldquo;Strangest tools and clothes.&rdquo;</td>
+                        </tr>
+                        <tr>
+                            <td>Gamling &ldquo;Swelter&rdquo; Hammerfall</td>
+                            <td>Chief Engineer (alumnus)</td>
+                            <td>Thistle Ridge (Chrysalis, 1483)</td>
+                            <td>Active</td>
+                            <td>Dwarven. Trained under Rafter. Formerly Free Defence League. Gun-maker and magical-item imbuer.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- ====================== COLOPHON ====================== -->
+
+        <footer>
+            <hr>
+            <p>Compiled from the Daggerdale Chronicle (chapter 7 and elsewhere), the Yellow Abbey <em>Book of Surveys and Measures &ndash; Tradesmen of Daggerdale</em> (1482 edition), the White Cloak Armoury inventory, <em>Selections from the Journal of Nathan Gale</em> (Marpenoth 1481), <em>Gems of Insight</em>, <em>Lumina&rsquo;s Charge</em>, <em>The Shadow Lifted Part 2</em>, <em>Gathering Intelligence at the Castle</em> (Capt. Rainyerd), <em>The Journey to Provisioner&rsquo;s Hall</em>, the Mule Company narratives (Parts 2 and 4), <em>A New Group of Heroes Assembles</em>, the Daggerdale Affiliates roster, the Thistle Ridge Expeditionary Record (Sgt. Birchgrove), <em>the Journal of Jasper Hawkford</em> (Tarsakh 1483), <em>Notes from the Memoire of Ser Reginald Boxfray</em>, the diary of Corporal Dorian Dale (<em>Arrival at Castle Radiance</em>, Tarsakh 1479), the <em>Report on the Essential Elements of Charity</em>, and the observations of the author. Named personnel: 3 (plus 1 unnamed attested entry and 1 alumnus). Temporal coverage: 1475&ndash;1483 DR.</p>
+        </footer>
+    </article>
+    <script>
+    document.querySelectorAll('.table-scroll').forEach(el => {
+      let isDown = false, startX, scrollLeft;
+      el.addEventListener('mousedown', e => {
+        if (e.target.closest('a, button, input, [data-sort]')) return;
+        isDown = true;
+        el.classList.add('active');
+        startX = e.pageX - el.offsetLeft;
+        scrollLeft = el.scrollLeft;
+      });
+      el.addEventListener('mouseleave', () => { isDown = false; el.classList.remove('active'); });
+      el.addEventListener('mouseup', () => { isDown = false; el.classList.remove('active'); });
+      el.addEventListener('mousemove', e => {
+        if (!isDown) return;
+        e.preventDefault();
+        el.scrollLeft = scrollLeft - (e.pageX - el.offsetLeft - startX);
+      });
+    });
+    </script>
+</body>
+</html>
