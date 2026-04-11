@@ -21,7 +21,7 @@ Titles and Offices:
 
 Luminous holds two major offices. He is Lord of Castle Radiance, the fortified mountain stronghold that serves as the military headquarters of the dale, positioned close to the Netherese frontier. He is also the founder and Grand Master of the Order of the Lambent Shield, a knightly order of paladins and holy warriors dedicated to Amaunator, numbering about 120 knights at any given time. The Order patrols the roads, defends the frontier against Netheril, and projects military force throughout the region. He is described in the pedigree records as "Lord of Castle Radiance and High Commander of the Order of the Lambent Shield."
 
-He is also referred to as "Lord of Castle Daggerdale" in the Situation Report of Ches 28, 1481 — suggesting that Castle Radiance may also bear this formal name, or that Luminous holds the title more broadly. [This might be from a typo in the wiki data]
+He was referred to as "Lord of Castle Daggerdale" in the Situation Report of Ches 28, 1481, but this has been confirmed as a wiki-era typo — corrected to "Castle Radiance" in the archive files (2026-04-11). See Archive Search Report - Castle Daggerdale.md.
 
 Character and Temperament:
 

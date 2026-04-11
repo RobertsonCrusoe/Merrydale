@@ -1,3 +1,5 @@
+[Editorial note (2026-04-11): One reference to "Castle Daggerdale" in the condensed opening-narrative excerpt below has been corrected to "Castle Radiance." The original wiki/email text used "Castle Daggerdale" for Luminous Whitegate's title; this clearly refers to Castle Radiance, where the scene takes place. See Archive Search Report - Castle Daggerdale.md.]
+
 Hey Investigator! — Todd's Background Hooks and the Old Wiki
 Todd Burry (as Ser Rowan/Garth Shanks) and Stephen Robertson (as Lucan)
 Email thread: "Hey Investigator!", 19-20 Jan 2024
@@ -30,7 +32,7 @@ Also, here is an e-mail from 10 years ago that has much to do with Tethyamar.
 
 Opening Narrative – Iolus at the Situation Report, Ches 28th
 
-You are diligent in your attendance of the daily Situation Report at Loedegan's Hall. So diligent, in fact, that you now have 'your' spot in the Hall; second Tier, behind the Order of the Lambent Shield. Having come every day to the Report, you notice the pointed increase in attendance today... The report begins with the usual prayer from Zenith Lord Whitegate, this morning constantly interrupted by the jostling of late arrivals. The Zenith Lord's older brother and Lord of Castle Daggerdale, Luminous Whitegate then makes his usual address to the crowd...
+You are diligent in your attendance of the daily Situation Report at Loedegan's Hall. So diligent, in fact, that you now have 'your' spot in the Hall; second Tier, behind the Order of the Lambent Shield. Having come every day to the Report, you notice the pointed increase in attendance today... The report begins with the usual prayer from Zenith Lord Whitegate, this morning constantly interrupted by the jostling of late arrivals. The Zenith Lord's older brother and Lord of Castle Radiance, Luminous Whitegate then makes his usual address to the crowd...
 
 [Full opening narrative describes the daily Situation Report at Loedegan's Hall, Knight Commander Cassius's arrival, and the state of military operations in the Tethyamar campaign]
 
