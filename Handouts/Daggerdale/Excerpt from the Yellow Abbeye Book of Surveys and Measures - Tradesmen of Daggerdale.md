@@ -23,15 +23,23 @@ Chandler                 5     1     1       11    8     2
 Cooper                   7     3     1       15    13    1
 Fisherman                15    3     2       31    11    8
 Glassblower/Maker        —     —     —       9     3     1           All in Charity
+
 Lumberjack               10    1     1       61    16    11          One Grand Master in Daggerford Farm
+
 Mason/Stonecutter        14    6     2       41    25    6           Three Grand Master Tethyamari
+
 Miller                   9     6     2       31    8     11          One Grand Master in Liberty Hill
 Plumber                  15    3     1       19    11    3
 Printer                  5     2     1       3     1     1           Only in the Falls and Charity
+
 Sawyer                   5     2     1       25    11    5           One Grand Master in Daggerford Farm
+
 Shoemaker/Cobbler        7     3     2       5     11    2           One Grand Master in Charity
+
 Tailor                   11    5     3       27    15    4           One Grand Master in the Falls
+
 Tanner                   —     —     —       17    12    4           Tanning is not permitted in the Falls
+
 Tinker                   5     2     1       20    2     1           Includes one Grand Master from Fort Luminous
 Weaver                   —     —     —       13    5     2
 

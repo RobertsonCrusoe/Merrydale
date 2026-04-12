@@ -31,6 +31,7 @@ Conflict between Cormyr and Sembia was offically over, had been for years, but i
 Of course, skirmishes and intimidation weren't our only reasons for being there. You didn't get assigned to the Dirty Dozen unless you were a hard, hard man, and that suited our purpose just fine. This world we live in is an awful place, after all. Bad things love the dark, nasty places and it was me and my men's job to keep them right where they belonged, away from the towns and the hamlets and the meadows where children play.
 
 Lizard men and orcs were the least of our concern, but the most common fare. Me and my men received a flat pay each tenday, but if we went out of our way to clear out the... 'harsher' inhabitants of the swamp, we would make fine coin, and nothing got my blood running faster in those days than the sound of a crowded wallet.
+
 The undead, they were everywhere. Same with trolls, and even a few grell. Disgusting things.
 
 My boys and I even took out a hydra once. The beast had the bright idea to head south to the Way of the Manticore. It must have had its way with at least a score of travellers before my men rolled onto the scene and gave it a good what-for. It was tragic, of course.
@@ -136,6 +137,7 @@ When I had finally gathered the Dirty Dozen for the last time, I lashed their re
 Hours...? Days...? I wore on, time passed, and I found myself out of the marshlands and into Cormyr proper. I had no shovel, no means to dig, but I had tinder. I gathered wood, whatever I could find, even the wet stuff. I wasn't thinking right.
 
 The fire was a damned mess, smoke everywhere, the rancid stink choking and blinding. The bodies wouldn't burn... they just...they wouldn't burn. And then the rain started. It was horrific, but my men needed their dignity. I wouldn't leave them, I wouldn't let the jackals have them. Crows perched around me, leering, hungry.
+
 So I dug. And I laughed, laughed like a lunatic. I don't think that smile left my face for a moment that night. If there were any creatures about looking for trouble, they must have heard me and ran, ran for the hills, because under that moon I was a fiend.
 
 Fingers bleeding and broken, I piled the half-melted, half-savaged remains of my friends, my family, into the ground and covered them up once and for all. Mud, stone and my own sweat and blood marked their shallow grave.

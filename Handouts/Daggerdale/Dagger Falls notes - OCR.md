@@ -866,7 +866,9 @@ Two branches: the Garrison and the Fist
 The Garrison is ted by Commander (formerly Constable) Tren Noemfor {IV epaulets).
 
 There are 10 companies of 20 men, plus a captain (ill} and 2 sergeants (Il) each.
+
 {st Garrison is led by Captain Denethor, Randal Mom's captor. They are always at the Tower.
+
 2nd Garrison, led by Captain Innisworth. It is stationed at the First mine (Rainhill).
 
 3rd Garrison is stationed at the Sec ogg mine (Chillhoim). It is ted by Captain Aegis, rumoured to be a half-
@@ -928,6 +930,7 @@ Stationed at the second mine. Bonar ~ Boren took then ove
 {2th Company
 
 Led by Yin-Xu. A group of ogre scounts (?!) led by the relentless Yin-Xu. This company is known to have
+
 done a great deal of damage to The Circle, and is hunting the Wanderer y nA Ku at bev ge
 
 13th to 20th Companies
@@ -961,9 +964,11 @@ Became William Cormaeril’s Hearth Guard before the unmasking of Venisar
 Other Considerations
 
 The Naug-Adar are Yarkul’s mage lackeys. They command companies of the Fist and Garrison and are
+
 individually responsible for assigning ‘priests’ to their company. | believe there are at least ten of them.
 
 . Brothers of the Black Fist. This is the militant wing of the Church of lyachtu Xvim. It is led by the enigmatic
+
 Baron Drake, and | believe they are outside the chain of command in Dagger Falls.
 
 Eleint 9, 1372 DR
@@ -982,6 +987,7 @@ Also, today there was open fighting in the streets between the loca! Xvimites - 
 (a knightly order of Xvimites) - and a bunch of Cyricists. .
 
 Before the 6th Fist Company broke them up (their knees and arms included), { did hear one of the priests of Cyric yell
+
 “Your silly order is but a thumb on Cyric’s Hand.” This priest subsequently lost his head, and the knight completed his
 rebuttal by saying “Your treacherous god has not had all of us Killed. *
 
@@ -994,9 +1000,11 @@ Eleint 21, 1372 DR
 Friends,
 
 Good tidings! The bulk of the Fist has left Daggerdale. | confess that | did not personally see them leave, but { did see
+
 the remainder of the 2nd and 4th Companies ride in two nights ago, and the 3rd Company did not go on patrol as usual.
 
 Itis Morning, and | can find no evidence of any of the Fist Companies normally present, except the Sth and the 9th. The
+
 9th is here still, in either disguise or in decommission, as they do not wear the Fist uniforms.
 
 Also, the 2nd Garrison marched in with all the slaves from that mine last night. The slaves are being held in the Eastern
@@ -1031,16 +1039,20 @@ AAs ABER
 Things are changing here very quickly now, and itis difficult to keep track of it all.
 
 { was personally fooking on yesterday when you and your friends marched those hundreds of slaves out of the Eastern
+
 Bailey and south to freedom. My heart leapt for the first time since | started this assignment, and later | wept, that our
 good work has finally brought about some good.
 
 Well, there is more, though good or bad! cannot say. {tis difficult these days, and with this type of enemy...
 
 First of all, early this moming, Wiliam Cormaeril addressed the town, declaring the rufe of the tyrant Yarkul to be at an
+
 end, and declaring himself the rightful ruler, by birth, of this town. He announced that Yarkul had been killed by a
+
 Harper assassin. | suppose this isn’t true, but whoever did that job has my nomination for certain.
 
 At any rate, the gartison.all:'donned new.tabards of yellow; with a.coat of arms.of four-fields: one.a purple.dragon, one
+
 the Daggerdale coat, one with the Cormaeril sigil, and the fourth quarter a tacky rising sun. The twenty or So men that
 surround Cormaeril wear purple tabards of the same style. ‘
 
@@ -1071,24 +1083,31 @@ Today at about noon, a bunch of the Garrison dressed in yellow tabards marched i
 slaughtered the clergy to the last.
 
 This came about after a man in the town council accused the Banite church of retaining its slaves. | don’t know who it
+
 was that made this accusation, but itis an interesting play; certainly all the Churches in town and likely the Tower itself
+
 still have slaves in them. Nothing would be done about this if not for the publicizing of this fact by a power-elite
 member.
 
 At any rate, 24 more slaves became free men and women today, and the Church of Bane in Dagger Falls is no more.
 
 Related to this, my informant on the Council tells me that he was told in confidence by William himself that he (William)
+
 is worried about the three demons living in Brotherhood Tower (the Xvimite knights’ building). ‘He knows he lacks the
+
 strength to overcome the Baron and his remaining men, and this keeps the voice of Hatemaster Dragkul a very
+
 powerful one on the council. Certainly, we shall not see the people who are enslaved in that horrible place freed
 anytime soon and no accusations have been made against the Xvimites. :
 
 | feel this is something we shall have to deai with ourselves.
 
 The Fist may not be out of the picture yet.. Riders came in this morning from the north road, reporting that they had
+
 been ambushed by a group of gores and hill giants while trying to reach Addas Babar. From the report, ten men were
 
 cut down in secons, and only two managed to escape. From what ! have been told of the tactics used in this encounter,
+
 it sounds like elements of the 5th and 12th Companies are watching the road to ensure that no one will be able to either
 
 follow the ‘Beholder Stones’, trade west of Dagger Falls, or both!

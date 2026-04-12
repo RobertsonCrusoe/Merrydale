@@ -45,9 +45,13 @@ If these three premises hold - portal capability, retained charge through blood 
 QUESTIONS REMAINING / QUESTIONS ARISING
 
 1. Was Verinius glowing while under observation in the Historic Wing? This would be a partial confirmation or refutation. If it were glowing (spent), the theory would fail, and we would need an alternative explanation (e.g., could it have been charged while in the box through a nearby bloodletting/sacrifice?).
+
 2. Why wait until autumn 1482 to recall it? Two years after capture. What changed? Invictus suggests that the date of the theft may be a clue, but if we accept that the theft was remote, we should consider the wider context, rather than just who had access to the Historic Wing.
+
 3. Speaking of dates, when was Verinius last confirmed to be in the box? The gap between the last verification and Invictus's discovery defines the window of disappearance.
+
 4. What else did the Estelmer-Hoetmer report contain? Reks claims never to have seen it, yet he somehow knows details about the orbs' natures and capabilities, Belladonna's use of them, and their current status. How? What's in that report that we haven't seen?
+
 5. Who else knows about the orbs' capabilities? If Reks knows without seeing the report, who told him? Invictus? Or does he have another source?
 
 One final consideration: What does this theory tell us about the fate of Phinneas Hoetmer?

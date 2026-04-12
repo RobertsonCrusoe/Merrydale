@@ -523,6 +523,7 @@ Zephrin looks at the paper in front of him, and then at each of the individuals 
 Zephrin stands, and walks towards the fireplace, leaning on the mantle piece, looking into the flames, his back to the room.
 
 "I will begin simply: my name is Zephrin. Though I have always claimed Deepingdale my home, it has been many years \- perhaps even decades \- since I have been there..."  
+
 Zephrin becomes lost in his own thoughts, but his attention is pulled back, and he turns to face the others in the room.
 
 “I seek gold. Plain and simple. If I am to go home, I would like to do so with more than an axe and a half-witted pup to my name.”

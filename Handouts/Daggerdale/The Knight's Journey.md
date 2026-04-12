@@ -72,6 +72,7 @@ Tyrian listened to the orator's words enthralled.
 Too perplexed from this last statement, Tyrian lets it go, mesmerized by the demagogue before him.
 
 :In a stage whisper, he adds, \"I can, however, tell you, good master, that this man is a favourite of the White Prince. His glorious future is assured, and the favour of your service is sure to pay off in spades!\"
+
 Clapping his confused companion on the back, Beliard smiles brightly at the room - all eyes upon him - stands, and lifts his glass.
 
 :\"Ladies and Gentlemen - the King!\"

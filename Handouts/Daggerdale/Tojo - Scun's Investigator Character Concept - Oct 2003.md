@@ -59,6 +59,7 @@ He is old, 62 to be precise.
 Very skillsy, but knowledge based skillsy. Not a very potent charisma based skillset i.e. bluff, diplomacy, sense motive, intimidate, gather information; all pretty low.
 
 He prefers to study a situation and find conclusions based on his knowledge, he also has very, very keen eyes. More of a CSI, Sherlock Holmes type than a street beatin investigator.
+
 He also, if i remember correctly has no discernable skill at tracking. His position on this is that a person will leave enough clues behind that one can surmise his destination, and if you know his destination, well, why follow his tracks?
 
 He has some skill with a crossbow and carry's two small golden lion statuettes. He has apparently been seen amny times with two large african lions circling him as he walks the streets at night, or sitting watch over him as he searches a scene.
@@ -131,6 +132,7 @@ Disregard which e-mail?
 
 All arrived safe and sound in minty condition.
 We had a little trouble finding the card, we would not have if the packing slip did not indicate the contents of the box.
+
 The Card cover was the exact same colour as the box see, and it was pressed flat against the side. I had completely emp[tied the box and was sure you had forgotten to put the card in, when Tina made her Spot check and saw it.
 
 A good mystery my friend.

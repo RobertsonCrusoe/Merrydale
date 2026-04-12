@@ -33,6 +33,7 @@ Chaos Platemail - The chaos lord's armor is plate mail forged of blackened meteo
 AC 16, Damage Reduction (DR) 1, No upkeep cost
 
 Chaos Flail - The chaos lord's triple-headed flail is topped with blackened iron and ringed with spikes.
+
 +1 to hit, 1d6+1 damage, once per day the wielder of the spiked flail can wreathe the weapon in flames for 3 rounds, inflicting an additional 1d6 points of damage on a successful strike
 
 Value of gold and gems: 3,186 gp

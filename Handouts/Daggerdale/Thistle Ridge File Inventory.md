@@ -4,10 +4,12 @@ Total files: 104
 
    12136  12_Tarsakh_1483_DR.txt
    23569  12_Tarsakh_1483_DR_-Thistle_Ridge_Expeditionary_Record_Phoebe_Birchgrove_Sg.txt
+
    20472  12_Tarsakh_1483_DR_-_Thistle_Ridge_Expeditionary_Record_Phoebe_Birchgrove_S_2.txt
     6303  13_Kythorn_1480_DR.txt
    51792  13_Tarsakh_1483_DR_Discussion_with_Jenwendle_of_Hillsfar.txt
    35595  14_Tarsakh_1483_DR_-A_letter_sent_by_Jasper_Hawkford_via_Brother_Vesuvius.txt
+
     2137  15_Tarsakh_1483_DR_A_Letter_Sent_by_Lucan_Alavandor_to_Brother_Vesuvian.txt
     3024  15_Tarsakh_1483_DR_Jasper_Hawkford_s_Reflections.txt
    28027  16_Tarsakh_1483_DR_Notes_from_the_Memoire_of_Ser_Reginald_Boxfray.txt
@@ -17,13 +19,19 @@ Total files: 104
    65198  20_Tarsakh_1483_DR_-A_letter_from_Jasper_Hawkford_to_the_Lady_Khara_Sulwood.txt
    53382  20_Tarsakh_1483_DR_-Thistle_Ridge_Expeditionary_Record.txt
     4303  20_Tarsakh_1483_DR_-Thistle_Ridge_Expeditionary_Record_Phoebe_Birchgrove_Sg.txt
+
    31723  20_Tarsakh_1483_DR_-_A_letter_from_Jasper_Hawkford_to_the_Lady_Khara_Sulwoo.txt
+
     4310  20_Tarsakh_1483_DR_-_Thistle_Ridge_Expeditionary_Record_Phoebe_Birchgrove_S_2.txt
     7226  21_Marpenoth_1481_DR.txt
     4909  21_Tarsakh_1483_DR_A_Letter_from_Malveau_Greenleaf_to_Jasper_Hawkford.txt
+
     3704  21_Tarsakh_1483_DR_Correspondence_from_Brother_Vesuvian_to_Lucan_Alavandor.txt
+
     6477  23_Tarsakh_1483_DR_A_Letter_from_Coventina_Cassimar_to_Jasper_Hawkford.txt
+
     1187  26_Ches_1483_DR_-Message_to_Lt_Riverstone_from_Zelia_Oakbough_by_Dove_from_.txt
+
     1190  26_Ches_1483_DR_-_Message_to_Lt_Riverstone_from_Zelia_Oakbough_by_Dove_from_2.txt
     3463  27_Ches_1483_DR_-_Clarendal_Farm.txt
     1456  27_Flamerule_1479_DR.txt
@@ -31,6 +39,7 @@ Total files: 104
     7107  29_Tarsakh_1483_DR_My_Surprise_Visit_to_Greenwood_Farm_Ovetchkin_s_Warnings.txt
    44121  7_Hammer_1446_DR.txt
   134325  A_Theory_of_the_Hauntings_of_Thistle_Ridge_by_Magistrate_Zoderick_Winters_1.txt
+
     4701  A_Theory_of_the_Hauntings_of_Thistle_Ridge_by_Magistrate_Zoderick_Winters_1_2.txt
     1138  Alavandor_Family_Tree.txt
   169389  Character_Background_Information.txt
@@ -51,6 +60,7 @@ Total files: 104
      270  DDC_1480_-_11_Report_from_Alystair_Dretch_to_Captain_Warburton_about_the_Da.txt
     5021  DDC_1480_13_The_Kingdom_of_Tethyamar.txt
     1156  DDC_1480_1_Report_from_Report_from_Alystair_Dretch_to_Cpt_Whitegate.txt
+
    16757  DDC_1480_2_A_Discussion_with_Administrator_Reks_about_The_Dark_Garden.txt
     2135  DDC_1480_3_A_Note_from_Curator_Loki_Mouvranesh_to_Deadnettle.txt
     4191  DDC_1481_-_1_A_Letter_from_Andrea_Stuard_to_Alen_Reks.txt
@@ -58,7 +68,9 @@ Total files: 104
      273  DDC_1481_-_3_Administrator_Reks_Welcomes_Us_122.txt
     8140  DDC_1481_-_4_Dwimmerholme_Farm_and_the_Sons_of_Bel.txt
     6417  DDC_1481_-_6_Incomplete_Salvation_A_summary_of_the_closing_events_of_the_Dw_2.txt
+
     3940  DDC_1481_-_9_Correspondence_from_Basil_Muloch_of_Charity_to_Brother_Darred__2.txt
+
     2134  DDC_1481_10_Letter_from_Administrator_Reks_to_White_Cloak_Sgt_Hennigan_Paro.txt
    14534  DDC_1481_11_Abandon_Hope_All_Ye_Who_Enter_Here.txt
    15346  DDC_1481_12_Reports_from_Sgt_Paros.txt
@@ -68,6 +80,7 @@ Total files: 104
     6069  DDC_1481_16_Selections_from_the_Journal_of_Nathan_Gale.txt
     2111  DDC_1481_17_Report_from_Sgt_Paros_172.txt
     5804  DDC_1481_18_Report_from_Helm_Thunderstorm_Foothills_Farm_on_the_Cleansing_o_2.txt
+
     7987  DDC_1481_19_A_Discussion_with_Administrator_Reks_about_the_Sons_of_Bel.txt
     7882  DDC_1481_1_Briefing_Note_on_the_Kingdom_of_Tethyamar.txt
    21604  DDC_1481_2_An_Account_of_the_Beginning_of_the_Reclamation_of_Tethyamar.txt
@@ -91,14 +104,21 @@ Total files: 104
    15421  Greengrass_1423.txt
     2771  Harvestide_1437.txt
     1290  Kythorn_10_1479_Summer_Solstice_and_new_moon_This_was_the_first_successful_.txt
+
    11732  Kythorn_1_1455_DR_Compiled_from_notes_written_by_Decker_Blackmane_many_year.txt
+
    52861  Kythorn_1_1480_The_Army_of_the_White_Saint_arrives_at_Crossed_Blades_Farm_w.txt
    15030  Marpenoth_5_1481_-_From_the_Journal_of_Nathan_Gale.txt
     1572  Mirtul_19_1480_New_moon_I_believe_this_is_the_date_that_the_Ritual_of_Trans.txt
+
     1203  Mirtul_21_1480_Ritual_of_Corruption_begins_The_summoning_of_the_Soul_of_Cor.txt
+
      509  Mirtul_23_1480_Alystair_Dretch_and_Tuugan_Swift_attempt_to_investigate_the_.txt
+
      514  Mirtul_25_1480_Alystair_and_Tuugan_return_to_Dagger_Falls_and_link_up_with_.txt
+
     1427  Mirtul_26_1480_The_investigative_team_of_Whitecloaks_manages_to_out-manouvr.txt
+
      604  Mirtul_28_1480_The_White_Cloaks_return_to_Dagger_Falls_to_find_that_Lumina_.txt
     4470  NPCs_Families_and_Organizations.txt
    56570  Nightal_27_1439.txt

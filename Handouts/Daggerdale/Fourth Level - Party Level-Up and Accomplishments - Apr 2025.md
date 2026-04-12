@@ -25,14 +25,20 @@ Since then, you've done the following according to my notes;
    4. First battle at the Cursed Glade (where you found the Undead Buddy Gorehammer)
    5. Reclaimed the upper reaches of Thistle Ridge Tower (goblin fight)
    6. Reclaimed the lower reaches of Thistle Ridge Tower (Karn and all his traps and rats and slimes and molds)
+
    7. Second battle at the Cursed Glade (where you killed the last of the goblins from Clarandal farm, including their leader Gindlebad)
+
    8. First battle at the Temple of Jannath (where you killed the leader of the next hinterland settlement, Alavandor's Farm, the Wasp Rider Gukk, and many of his strange goblin warband)
    9. Battle at the Blue Glade, rescuing Billy Mason and sending Vainya running
    10. Made a pact with the Fey of the Limestone Court
    11. Battle at the Limestone Court, destroying Dol'Rullian (albeit temporarily), rescuing Contessa Calix, and continuing to have good relations with the Fey, who now furnish you with a great deal of intelligence
+
    12. Shore up the defenses of Thistle Ridge Tower with the 7th co 4th plt Sunblades
+
    13. Attract your first settlers to Greenwood Farm, where there is now a large complete town hall, an abbey being built, and other structures besides
+
    14. Second battle at the Temple of Jannath (where you killed 3 Netherese agents and 8 of their shadow-goblins)
+
    15. Lots of other stuff besides (forming the RnR Co, hiring mercenaries and tradesmen, forging alliances with the FDL and the SSL, giving your first report to the Adjudicating committee and all the fuckery that went along with that, solved an ancient puzzle...)
 
 Given all that, I think we can advance your lot to 4th level.

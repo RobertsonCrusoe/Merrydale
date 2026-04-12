@@ -8,6 +8,7 @@ There are a pair of men that you should know about heading your way.
 #Boregar “The Wanderer”. This fat Harper is a master of the staff, if not personal hygiene or manners.
 
 You will be rewarded 500 gold for each of them, should their heads be brought to my man in Daggerdale.
+
 They also travel with a paladin of Ilmater, a Hanibal Felthian from the Dalelands, a gnome and a shady character named Sparrow. Each of them is worth 100 gp to you.
 
 Use whatever means you can to stop them from reaching Anauroch. Contact the Ebon Spur in Llorkh, and tell them that Duncan Eldoun will no longer be indebted to me, should this task be done.}}

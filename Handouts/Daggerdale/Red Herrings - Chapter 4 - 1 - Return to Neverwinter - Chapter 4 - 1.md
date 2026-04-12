@@ -33,6 +33,7 @@ The Fist
 .  Manshoon
 s Zhents?
 Randal Morn has been reported dead, killed by a man like Yarkul, who leads the fist
+
 A quarry outside of Dagger Falls provides materials for the reconstruction of a local Citadel (haunted?)
 Slave traffic has been increased through Anauroch
 probably Zhentilar trade route from East to west.
@@ -42,6 +43,7 @@ snowing fiercely
 Beljuril, Jeryth, Raven and Boregar arrive in the basement of the Phaulkonmere residence.
 Agamemnon arrives with Khelben Blackstaff in tow.
 Raven, Rufus and Beljuril are inducted as Harper initiates.  The three missions have official Harper sanction.
+
 Zeke, Brandil, and Raven become members fo the Company of the Red Herring, buying shares at 1455 gp a piece.
 Mirtul 5
 Irlingstar, Red Shields and Moonwheels are camped out at Roark
@@ -65,7 +67,9 @@ First encounter with Grimwald
 s rangers. Trouble at camp.  Rufus sees/hears something tear off south, the party hears something in the woods to the west..
 Mirtul 15
 Rufus stays behind the next day.  Two hours after dan, 3 beautiful horses carrying three horses pass by
+
 Shellwynd, Tugan Voun and Derek Swift.  The rangers examine the campsite, but miss Rufus.
+
 Rufus trails them for the day, watches them drink an odd hot liquid (Maztican coffee).  That night it clouds over.
 Rufus calls down lightning on the rangers
 Rangers escape with one horse.
@@ -210,6 +214,7 @@ Sent the three to Luskan in search of Hob, Malkor and a slave caravan
 attacked in Port Llast by Luskan army assassins
 was apparently an associate and friend of Zaltim and the Northern Harpers
 Travelled with Rufus and Raven as far as Amphail, then travelled East (mid Chess) to Loudwater to learn what he could
+
 Arrived in Waterdeep before Greengrass, went first to see Beljuril, then was off to see another friend, newly arrived (Jeryth Phaulkon)
 With Khelben Arunsun, was present at the induction of Rufus, Raven and Beljuril
 Jeryth Phaulkon arrived in Waterdeep, claiming to be the daughter of Lord Phaulkon
@@ -218,6 +223,7 @@ Question:  how did the Dalael
 s find out about the Phaulkon shipment?
 independently
 if Yrakul and the Cult were involved in the ambush, then the Dalael boys likely did too.
+
 there might be some connection with Gotlieb Erlgund, who Thagudl arranged to move the mithril for us
 likely a drow.
 Evidence that Malkor is not an associate of Yarkul
@@ -239,7 +245,9 @@ s ships, belonged to the Helmfast family, known to be associated with Drurginz
 Conclusion: Malkor was an ally of Thagdul, and an enemy of Yarkul
 Where have we seen Xulla / evidence of Xulla?
 The drow letter mentions him as a patron of Ersgul, but also mentions that he directs raids on Ersgul holdings.
+
 He was present in the dark market outside the Xvimite camp, protecting a figure dressed in purple that was inordinately interested in Adenai Lathkule
+
 His sigil was on a note to Malkor that was probably designed to redirect our party
 He was present at the Wavesilver Villa
 He was present at the drow ambush of the Xvimites, and insulted the drow

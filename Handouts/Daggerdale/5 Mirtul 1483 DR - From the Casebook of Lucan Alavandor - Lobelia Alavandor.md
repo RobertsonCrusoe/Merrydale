@@ -35,7 +35,9 @@ ANALYSIS AND SPECULATION: The primary obstacle to this theory was the matter of 
 This principle resolves the contradiction perfectly:
 
 1. Palus, the full-blooded Swamp Hag, passes her signature grey eye trait to her daughter, Lobelia.
+
 2. Lobelia, in turn, passes on her own maternal inheritance - that same grey eye - to her own daughter, Charrah.
+
 3. Charrah's second eye is inherited from her father, the Shadovar, which accounts for her black eye.
 
 The lineage, as told by the eyes, is a perfect match. This theory provides the most logical explanation for the observed facts and reveals the full scope of the conspiracy. The command structure we now face is a monstrous family dynasty: Palus the matriarch, her daughter Loki/Lobelia the Shadovar commander, and her granddaughter Charrah the goblin general.

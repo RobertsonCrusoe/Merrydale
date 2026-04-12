@@ -37,6 +37,7 @@ The next day’s journey went as well as the first's. Turik spotted another bear
 Towards the end of the evening Turik announced that we were now entering Maugrym territory, and this is when the journey took a turn for the worse.
 
 That night I was awoken by Turik’s alarm that we were being attacked. Me and the rest of the sleeping party had been sleeping in a large tent that had been set up by the city folk. By the time I emerged from the tent the perimeter of our camp had nearly been breached from all sides by our attackers. In the darkness I could see a host of orc footmen moving towards us. Further away, there were three orc rangers guiding terribly large cat-like beasts on long leashes. Just as I took my first step out of the tents the grizzly cats were let loose and began their bound towards us. I managed to get one, maybe two shots off before we were surrounded.
+
 There we were, surrounded by charging orcs and these terrifying cats. Timothy was on the northern flank, the Professor was at the east, Mr. Trundles the south, and I was to the west at the foot of the tent. Georgia was still in the tent gathering her gear and Turik was up a tree firing arrows at our attackers. I decided to call out some encouraging words to our party to keep everyone’s morale up or else we might fall to ourselves at this terrible ambush.
 
 Timothy had to take on two of the cats, while another started to make its way up Turik’s tree. Mr. Trundles ended up holding off most of the footmen. It was here that I first saw the terrible strength of Mr. Trundles at work. He cut through orc after orc with a furious ease that made me grimly thankful of his presence in our party. Niles was not much of a fighter so he just defended himself as best as he could.
@@ -54,6 +55,7 @@ I immediately went to our fallen comrades and was able to revive the Professor, 
 === Third Day - The Ruse ===
 
 The party had been dealt a terrible blow, but we decided to go on, figuring that Timothy would have wanted it that way. We had decided that we would have to march through the rest of the night. However, even this would not be enough to ensure our safety as the orcs rangers would be able to track us to our new location. To this end we came up with a plan to split up the party. Turik would take half the mules and hide our trail to try and fool our pursuers.  Not much of a plan, but it was our only hope.
+
 We did a quick search of the orc bodies and found that two of them were carrying elvish weapons similar to my dagger: another dagger and a short sword.
 
 We force marched through the night, burying Timothy a small distance out of our camp. The Professor said that he thought that this was a good place for the burial because this was a good forest.  We marched until we came in sight of a large hill where Turik explained was where the ruins were. From atop the hill, apparently in a large bowl we could make out about ten or so camp fires. Turik whispered to me that this was many more than when he was here last time.

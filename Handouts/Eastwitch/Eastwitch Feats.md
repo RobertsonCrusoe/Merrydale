@@ -1,6 +1,8 @@
 ==Bear Hunter [General]==
 The character is an elite hunter who prefers to use the knife as his or her primary weapon. The hunter engages large opponents by repeatedly stabbing them whilst grappling. This fighting style is very dangerous and dramatic, and only very few hunters actually hunt this way. This feat may only be chosen by characters who have had a great deal of hunting experience with large size creatures such as bears (though it is just as effective with trolls, ogres and the like). The character must have killed at least one large creature in single combat with the knife in order to take this feat, and even then only after the DM’s approval.
+
 ;*Prerequisite: Dex 13+, Str 13+, base attack bonus +5, Jump 5 ranks, weapon focus (knife).
+
 ;*Benefit: The character can initiate a grapple with a creature the same size, or two size categories larger, using Dex as the modifying ability score to the grapple contest. The character must be able to attack it’s opponent’s flank or back, which usually involves surprising it (though not always). Thus, the grapple check is worked out as follows;
 
 *Base attack bonus + Dexterity modifier

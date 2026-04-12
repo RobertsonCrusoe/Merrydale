@@ -25,6 +25,7 @@ Unable to help overhearing the semi-private conversation happening at the next t
 Turning to address Ormath directly, Beliard's voice hardens. \"Now, Master Ormath. Though it pains me to encourage what we can all see to be the less profitable option [this last now dripping with sarcasm], I am on His Majesty's business, and intend to be at Castle Radiance by Flamerule's first ride. Sorry scrollpusher that I am, I should prefer to ride with the strength of numbers, and though I do not command the royal purse, I can extend His Majesty's gratitude for any haste you might be able to muster on my account.\"
 
 He pauses for a second, then his eyes brighten. Turning to gesture at a wide-eyed Tyrian, with whom he has exchanged only a few words so far, he continues: \"In payment, I can offer the axe and strong arm of this fine young knight, for he tells me that he, too, is bound for Castle Radiance.\" He claps Tyrian on the shoulder. \"This young man,
+
 whom I know to be a fine and noble fellow, has sworn an oath of anonymity, and may not name himself until he has found Azoun's Lost Crown!\"
 
 (gasps from the room, now fully enthralled)

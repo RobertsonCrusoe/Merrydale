@@ -78,17 +78,26 @@ Let's boil this down:
 
 Facts:
 1. Letter Discovery: A letter dated 3540 MC (1406 DR) was found, signed "AA," likely written by Alvund Alavandor, my great-grandmother's elder brother.
+
 2. The Deal: Alvund and a figure known as the Old Patriarch struck a deal requiring Alvund's family and another (likely the Clarandals) to "take what we were given and vanish forever."
+
 3. Migration to Thistle Ridge: Alvund and Claudius Clarandal arrived in Thistle Ridge, each with their third wife—Aisling Maeliticus and Saralla Sakurth, respectively.
+
 4. The Phylactery: Aisling Alavandor established the Phylactery, a successful apothecary, and school in Thistle Ridge, known for producing effective fertility medicines.
+
 5. Unusual Fertility: Thistle Ridge was noted for its exceptional fertility and the health of its children, attributed to its "sacred" ground.
+
 6. Suspicious Deaths: Aisling Alavandor ended her own life in 1439 DR after (?) the suspicious deaths of two of her children and a grandson.
 
 Hypotheses:
 1. Family Severance: The Alavandors in Sembia may have severed ties with Alvund due to his involvement with the Maeliticus family.
+
 2. The Old Patriarch's Motive: The Old Patriarch orchestrated the exile of these families from Sembia, possibly to protect or control their offspring.
+
 3. Family Union: The marriages to siblings within the Maeliticus and Sakurth families suggest a deliberate strategy, likely related to fertility or legacy.
+
 4. Netherese Connection: Claudius Clarandal's ties to Daerlun under Netherese influence suggest the families' exile had deeper motives than political alignment.
+
 5. Aisling's Suicide: Aisling's death may have been prompted by uncovering a dark truth related to the family's exile and the influence of Thistle Ridge.
 
 Conclusion: The tragedy of 1441 likely has roots in the complex dealings and alliances formed by the earliest generations of the Alavandors and Clarandals, influenced by the Old Patriarch and possibly tied to a legacy of fertility and secrecy.
@@ -172,8 +181,11 @@ STEPHEN (17 Aug 2024, 00:49) — to Gus, Leslie, Scott, Todd:
 Lucan's to do list, consolidated:
 
 1. Talk to Blaze Whitegate about a) his knowledge of the hunting accident that claimed the lives of Andarl, Abrecia, and Dorian, and b) whether I'm now allowed to see the records of the Alavaxi family members. Could Alaventa Alavaxi be Abrecia's daughter?
+
 2. Find out if there is any record of the investigations into the Phylactery, or of any students who trained there but subsequently left Thistle Ridge
+
 3. Ask Vessuvian or Sanduskin Vale about the likely origins and background of the name Sakurth. I have a hunch about that...
+
 4. Ask someone - maybe Nemia - about the significance of multi-generational twins.
 
 ---
@@ -185,10 +197,13 @@ From the Casebooks of Lucan Alavandor
 I have been a fool. I've been so focused on the absence of a blood relationship between myself and Lilac that I forgot that Lily Clarandal should also have been an Alavandor through her mother. Nemia seemed preternaturally certain that none of the ghosts were Alavandors. Let me explore the ramifications here.
 
 Tenet 1: Alvund and his sister were true siblings, and both bore the name Alavandor.
+
 Tenet 2: I, Lucan Alavandor of Saerloon, am indisputably of the Alavandor line through Alvund's sister.
+
 Tenet 3: I do not share a blood (or whatever ghosts have) connection with either Lilac Alavandor or Lily Clarandal.
 
 Implication 1: Lily's mother Senthia Alavandor was not the true child of Alvund Alavandor
+
 Implication 2: Either a) Lilac was not the true child of Andarl Alavandor or b) Andarl was not the true child of Alvund Alavandor
 
 Applying the principle of parsimony to the above, the most likely secondary implication is that neither Senthia nor Andarl were Alvund's children. The most likely candidate for their paternity (if we do not look elsewhere) is therefore Claudius Clarandal.

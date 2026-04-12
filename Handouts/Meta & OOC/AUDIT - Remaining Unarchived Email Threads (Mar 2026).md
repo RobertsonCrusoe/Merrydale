@@ -179,8 +179,11 @@ REMAINING UNARCHIVED:
 ADDITIONS FROM DND FOLDER AUDIT (Apr 2026):
 
 Reviewed the full DND folder (C:\Users\Stephen\OneDrive\Projects\DND) for unarchived
+
 Daggerdale material. Folder contains material from multiple campaigns (Avilund, Red Herrings,
+
 Crew of The Wastrel, Thesk, Fox in the Henhouse, Eastwitch), published resources, wiki
+
 infrastructure, visual assets, and tools. Most content is not Daggerdale-specific.
 
 Four Daggerdale files identified and archived:
@@ -190,14 +193,20 @@ Four Daggerdale files identified and archived:
 - Character Background - Tyrian Grey of the House of Achres.txt (from root/TyrianGreyBIO.docx)
 
 Excluded (not Daggerdale): So ended Zechary.docx (Wastrel), Tristan Charles Dupont MacIvor.docx
+
 (modern/historical fiction), Irlingstar.docx (Waterdeep campaign email), The plan for Waterdeep.docx,
+
 Mage_Info.doc (Avilund), It is Not Racist if it is the Truth.doc (D&D 4e meta-essay),
 The Cormyr Saga 2 (Cormyr campaign), all Campaigns/ subfolder content.
 
 Excluded (already covered): The+Sieges+Perilous XML (1,897-page MediaWiki export, Feb 2010 —
+
 all Daggerdale content already in project wiki). _Wiki/Backups/Chronicle of the Red Herrings XMLs
+
 (89 Daggerdale pages, all present in project wiki). Daggerdale Forum/daggerdale/ and vanilla/
+
 (Vanilla Forums PHP code, not content — content already in "daggerdale vanilla" export).
+
 Campaign Documents/lineages/ (Whitegate/Thunderstorm pedigrees already in DDC 1480-12).
 
 Excluded (visual assets, not text): Campaign Documents/crests/, scans/, Maps/Dagger Falls 1485/.

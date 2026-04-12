@@ -12,7 +12,9 @@ Jeska approaches silently... her ability to sneak is.. well elvish...
 
 "Yes Mistress? May I be of service?" says the Knight.
  He rolls his head toward her, looks her in the eye, and she stops in her tracks.
+
 Jeska is not surprised as she knows his astounding ability to observe his surroundings.
+
 (I did make a roll.. might have kicked him.. but he gets a +2 to all skill checks as my hireling)
 
 Jeska smiles.

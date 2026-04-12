@@ -11,6 +11,7 @@ SCOTT/TODD's PLANS (compiled by Scott, 25 Jul 2024):
 Mari and Ser Rowan:
 1. Collect remaining 1,250 gold from Ferguson
 2. Ser Rowan wants to commission full plate armor from The Morning Forge, starting with a breastplate; enquire about high-quality armor that can accept runes
+
 3. Mari wants adamantine and cold iron weapons or ingots; if unavailable, find out where to get them
 4. Short term: talk to people about the worm attack
 5. Medium term: work against the spies

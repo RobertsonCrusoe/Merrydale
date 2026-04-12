@@ -5,7 +5,9 @@ Source: DND Scanned Notes / OneDrive DND Scans
 Campaign: Daggerdale (Waterdeep arc — Garth's Journal, 10 Mirtul 1373)
 Date processed: 2026-04-03
 Utility: C (redundant — content matches 'Garth's Journal - Mirtul 1373 - Full Version [unprocessed notes].txt' in Daggerdale archive (47,811 vs 47,882 chars))
+
 Archive counterparts: Garth's Journal - Mirtul 1373 - Full Version [unprocessed notes].txt, Garth_'s Journal_ Confrontation.txt
+
 OCR notes: Clean two-column printed text. Minor OCR artifacts from column-break misreads.
 ---
 

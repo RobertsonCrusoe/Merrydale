@@ -32,12 +32,14 @@ right|450px|thumb|The people of Rain Hill Mine enjoying themselves in a manner t
 The following morning, Greengrass, is a little overcast, but warm. By the time you get going, there are already games being played in the courtyard of the fort. Watching a pair of young blindfolded girls grope around for a dozen young soldiers makes some of you want to stay. However, there is lots of road ahead and likely another day of bad trail to contend with.
 
 It would normally take only a few hours to reach Rain Hill Mine, but again, by the time you get this far, there is not point going further for the day, so you decide to rest the night here. Again, your reputation precedes you, and you are hard-pressed to spend a coin here; your lodgings and food are free, and what few people are here buy you all the drinks you like.
+
 Tonight you are the only travellers at the Inn, but the place has a couple dozen of the miners and their families in the tap room that are wrapping up a day of celebrations. There are a few men passed out in chairs with wreaths resting precariously on their snoring faces, and several boisterous young men and women who are playing a drinking game at the large central table. You are enthusiastically invited to join, and those of you that go to the table are immediately crowned in wreaths by the young women, and given drinks.
 
 ==Rain Hill Mine to Foothills Farm==
 The next day, Mirtul 1, is bright, clear and hot.  This day finds you descending out of the mountains, and down through the foothills, along a similarly muddy and slow road.
 
 Part way through the day, you take a turn from the main path, heading north towards Foothills Farm; though many of you have been to the farm, none have been down this particular road before, and you are indeed the first travellers upon it this season; this road is the worst yet.
+
 This bit of road, called Blackthorn Trail is narrow and rugged.  It is hedged in close about by tall pines which periodically give way to patches of blackberry bushes and other prickly scrub that is torture for both men and mounts.  Seasonally, this road is cut back by the men of the farm, but being the first along it this year, you have the misfortune of having to cut your way through these patches, slowing your pace and covering you with a multitude of lacerations for your efforts.
 
 As the evening wears on, you realize that you won’t be able to make the farm by nightfall.  For some, this is dispiriting; the ground will be slushy and your meal cold.  To make matters worse, the more keen-eyed of your party have spotted glimpses of movement deep through the pines from time to time as the day closes out.
@@ -56,6 +58,7 @@ Similar to the large brute; there are two smaller ones that are grey and brown a
 Long known for their considerable Chauntean presence, Foothills farm is not surprisingly decked out from gate to keep and most doors in between with Green Grass wreaths.  Though it is now long past Green Grass, this farm is still in the middle of celebrations. And despite having been the site of the closing encounter of the Dark Garden affair and the second hardest-hit farm in the region with nearly 100 deaths, the place is vibrant and happy as you arrive.
 
 The White Cloaks are well known to the people of this farm, and the peace delivered by Troia Trustar.  You are welcomed in heartily, and are brought to the Thunderstorm Manor home, where you are given what amounts to a royal welcome here.  The Thunderstorms have been fortunate in their farming and other endeavours, and are able to supply you with an outstanding feast and some of the finest rooms in the dale in their very own home.
+
 Thy mayor of this farm is Helm Thunderstorm; a young man of only 31 years.  He seems to have heard quite a bit about you from his uncle, Maddrick, who is the Dead of the Yellow abbey, and a man some of you came to know quite well during the Dark Garden affair.  Helm is vivacious and generous, and once he’s had a couple of drinks, his suggestions to some of the prettier house staff border on inappropriate, though humerous.
 
 Things have been quiet all winter and spring here, a peace that they roundly thank you for.  They are surprised to hear of giant spiders in the woods, and claim that they haven’t encountered anything of the sort themselves.

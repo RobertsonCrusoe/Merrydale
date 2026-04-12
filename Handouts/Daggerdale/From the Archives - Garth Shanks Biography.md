@@ -62,6 +62,7 @@ Reactions:
 Todd: "Oh man, this cuts deep! There was a lot more of me in Garth than I thought. It's hilariously amazing how our immature college squabbles became such an enriching part of the story. The AI doesn't know that we were just arguing over lewt haha."
 Stephen: "Garth got the coolest portrait, too!"
 Les: "This is a pretty deep dive into Toddy's soul! Garth's too! I had forgotten all about the episode with Max, and had to go digging through my old notebooks to find this. That adventure with the vampires in Little Chessenta was at the tail end of my immature bloodthirsty-DM days. Sorry it was so rough..."
+
 Todd: "That vampire fight was with two OP PCs made during pre-pubescent Sundridge D&D days, and then there was Garth. Those two bastards were jumping and grappling around everywhere while Garth was stuck on the ground surrounded by vampires."
 
 ---

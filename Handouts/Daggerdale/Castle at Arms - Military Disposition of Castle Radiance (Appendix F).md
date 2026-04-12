@@ -4,7 +4,9 @@ A survey of the military disposition of Castle Radiance, compiled by the secreta
 
 To the attention of my correspondent, by the customary channel.
 In this appendix I have endeavoured to set down what I have observed and learned of the military disposition of Castle Radiance during my tenure as secretary to the Embassy. I attended the morning strategic meeting on most days of my posting, and have supplemented my own observations with documents obtained through the usual means.
+
 The reader will note that the military character of this place is unlike anything I have encountered in the service. There is no single chain of command. There is no unified army. What there is, rather, is a constellation of armed bodies — a standing army, a knightly order, a militia of considerable depth, and a shifting roster of independent companies — all of which answer to Lord Whitegate through different channels and under different authorities. That this arrangement functions at all is a testament to the singular personality of the Lord of the Castle, who sits atop every structure simultaneously. Whether it would survive his removal is a question I leave to minds better placed than mine to answer.
+
 I should note that a considerable reorganization took effect in Elesias of 1482, pursuant to the Concordat agreed at the Governors’ Assembly — proceedings which I attended. Where relevant, I have distinguished between the wartime arrangements I observed during the campaigning seasons of 1480 and 1481, and the Concordat settlement that now obtains. The reader should understand that these represent materially different configurations of authority, and that the transition between them is still in its early stages.
 ⬥   ⬥   ⬥
 I.  THE TWO PILLARS
@@ -66,6 +68,7 @@ I have attended this meeting on most mornings of my posting. What the formal rec
 ⬥   ⬥   ⬥
 VI.  THE INDEPENDENT COMPANIES
 The Castle hosts a rotating population of chartered adventuring companies who are not in the military chain of command but who attend the War Room, receive bounties originating from military intelligence, and in extremis are folded into military operations.
+
 The most prominent of these during my posting were the White Cloaks, who held a Charter of the Castle from 1479 and operated out of White Cloak Tower. Their conduct during the Saints’ Battle, where they led platoons alongside regular troops, demonstrates the extent to which these companies can be integrated into military operations during a crisis.
 
 
@@ -73,6 +76,7 @@ The Redjacks, a mercenary outfit of considerable size, and the Free Defence Leag
 ⬥   ⬥   ⬥
 VII.  A FINAL OBSERVATION
 The military strength of Castle Radiance is not to be found in its order of battle, which is modest by the standards of a Cormyrean frontier garrison, nor in its walls, which are formidable but not impregnable. It is to be found in the fact that its Lord has, through decades of war and governance, bound together an army, a knightly order, a militia, a network of forts, and a population of armed civilians into a single defensive organism that responds to his will. The system is effective. It held against the Shadovar in the winter of 1479–80 and broke a Netherese army of twenty thousand at Fort Lastsun in the summer that followed.
+
 It is also, I am compelled to note, entirely dependent on one man. Lord Whitegate is the Grand Master, the supreme commander, the Lord of the Castle, and the personal authority to whom every competing institution ultimately defers. The Concordat of 1482 begins to address this vulnerability by distributing civil-military authority to the Governors’ Assembly, and I have watched its early effects with considerable interest. The Consul is competent; the Assembly is earnest; the mechanisms are sound. But whether these mechanisms will prove adequate to the task of replacing a man who cannot, in truth, be replaced, is the central strategic question facing this dale. I have been here long enough now to suspect that the answer will not come from institutions at all, but from whatever crisis next tests them.
 I commend it to my correspondent’s continued attention.
 — B.K.E.

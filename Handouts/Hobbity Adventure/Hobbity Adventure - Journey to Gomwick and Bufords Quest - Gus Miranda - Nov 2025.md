@@ -103,13 +103,17 @@ Buford provides:
 - A good quality wool travel cloak for each character
 
 For Turnip: "I remember you eyeing this the last time you were here, and you were decent enough to bring it back to me intact. I'd like you to have it as a gift from me. I have a feeling I won't be needing it again, and such things should be in useful hands, not sitting away rotting in a chest. The darts are specially coated with an oil that will cause your target to fall asleep, so be careful not to prick your finger on them."
+
   Blowgun: does no damage, but poisons and other effects can be applied via darts
+
   Sleeping Darts (10): Target AC to hit, then Save vs Poison or fall asleep for 1d6 Turns
 
 For Boffo: "My boy, you're a true champion! I have this elixir to help you when you need it. Drink it down when you feel you're in a pinch and you'll grow twice your size! Just be careful when you use it!"
+
   Potion of Growth: Grow twice your size, double damage in combat. Roll d6: on a 6 the effect is permanent, otherwise it lasts for the number of Turns rolled. Must be drunk in entirety.
 
 For Wedge: "I know you've already got a good axe from Lothar, so I didn't think you'd need another weapon. Instead I got you a quick escape, should you need it. Drink this down and you will vanish from sight long enough to get away."
+
   Potion of Invisibility: Roll 1d6 when drunk for number of Turns it lasts. Can be divided into 3 smaller doses, each lasting 1d6 Rounds.
 
 - A purse of 30 gold coins for travel and outfitting expenses

@@ -56,6 +56,7 @@ I honestly don't believe that my number four likely, but it is significantly pla
 However, when I think on all this just now I see some threads of connection being made. First, we have the Enclyclopedia Ocularis being taken out of the deal. Second, we have the first signs of the Xvimite Cult since we did away with them last summer. Moreover, there is a definite link between the current owner of the encyclopedia and the Xvimite Cult which was previously thought to have been broken (my first hand account saw this very thing occur).
 
 Now, our knowledge of the Zhentarim plot has something happening in the Underdark to drive the Drow out to the surface. Our original assumption was that since this was bad for the Drow then it must be bad for the Dalaels. But, what if this is not so? Afterall, Quevin already has a secure power base on the surface world. If the Drow were to flee to the surface then he would be a natural safe haven for them. And in offering sanctuary to these Drow
+
 Quevin would in turn become more powerful himself. Is this good for the Drow as a whole? I think not; many Drow will be slaughtered as they flee their natural element. But what does Quevin care of his countrymen?
 
 I can only conclude that the Dalael are back in bed with the Xvimites and the Zhentarim plot.

@@ -178,6 +178,7 @@ FLAGGED ISSUES
 
 4. OCR ARTIFACTS IN EXISTING FILES:
    The Tergus Clarandal journal files contain OCR artifacts (e.g., ".nd" for "find",
+
    ".rst" for "first", ".lled" for "filled"). The PDF compilation has cleaner text.
    A cleanup pass using the PDF as reference would improve these files.
 

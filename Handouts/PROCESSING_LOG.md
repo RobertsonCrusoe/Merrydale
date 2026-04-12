@@ -8,6 +8,7 @@ Previous email sweeps used keyword-based searches (campaign names, character nam
 Three Gmail searches were executed:
 1. `from:gus.miranda to:les.blackwell has:attachment after:2024/1/1`
 2. `from:gus.miranda (to:les.blackwell OR to:contact@toddburry OR to:robertsoncrusoe) -subject:"hobbity" -subject:"daggerdale" [etc.] after:2024/1/1`
+
 3. `from:les.blackwell (to:gus.miranda OR to:contact@toddburry) -subject:"hobbity" -subject:"daggerdale" [etc.] after:2024/1/1`
 
 ### Files Created This Run

@@ -1,5 +1,6 @@
 From the Archives: Luminous Whitegate Biography
 CLASSIFICATION: SECONDARY MATERIAL — AI-generated content (Claude) based on campaign wiki archives, not primary email correspondence
+
 by Stephen Robertson (using Claude AI with wiki data), confirmed by Les Blackwell
 Email thread: "Luminosity", 1-2 Mar 2026
 
@@ -66,6 +67,7 @@ Among ordinary Dalesfolk and visitors, Luminous is known as the near-mythic chie
 Reactions:
 Les: "This is spot-on. Great image too. Well done, sir, thanks."
 Les: "That was a perfect read for Luminous. Thagdul was a little less subtle than I envision him, but still very on-theme overall."
+
 Stephen: "I got that image by copying and pasting the whole bio into ChatGPT and saying 'give me a fantasy art portrait of this character.' Same with Thagdul. Crazy times."
 
 ---

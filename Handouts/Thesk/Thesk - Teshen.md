@@ -99,6 +99,7 @@ Spot +2 (+2 Wis),
 Shadow Weave Magic, Combat reflexes, Improved Familiar, Maximize spell, Spell penetration, Still spell, [Insidious Magic], [Tenacious Magic], [Pernicious Magic]
 Shadow Weave Magic
 +1 DC for saves vs. my Enchantment, Illusion, Necromancy and any [darkness] spells
+
 I get a +1 bonus on caster level checks to overcome spell resistance for these spells
 -1 to caster level for Evocation/Transmutation (except any [darkness] spells)
 -2 permanently to Wisdom until I complete the quest, no light spells
@@ -121,6 +122,7 @@ s Cough.  1st
 Net of Shadows, Charm Person, Negative Energy Ray.  2nd Shadow Mask
 Granted Powers:
 Stonecunning - +2 bonus on checks to notice unusual stonework, such as sliding walls, stonework traps, new construction, unsafe stone surfaces, shaky stone ceilings, etc.  Make a check within 10
+
 as if actively searching, using search, can find stonework traps as rogue.  Can intuit depth, sensing approx. depth underground.
 Blindsight
 Domain Spells

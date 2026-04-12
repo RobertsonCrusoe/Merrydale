@@ -25,11 +25,13 @@ These first few years were perhaps the bloodiest.  Those suspected of demonology
 == Watchtower Tenets ==
 
 Loremaster Nestrius gave this inspirational speech during the inception of the Watchtower in the year, 1445 DR, shortly after the Slaughtering of Songhal at the hands of the Fraternity of Tharos,
+
 "My friends, we must know ourselves so that we may know our enemy.  We must seek out the esoteric and learn the texts the righteous forbid.  They harbour the secrets of the Abyss and a means to its annihilation.  In this quest, we must not stare long into the Abyss for the Abyss will stare back into our souls.  So we must steel our will lest we become the enemy we hate.  Know yourself so that you may resist corruption.  All-knower Oghma will provide us with truth.  We will learn our knowledge through that truth, we will receive strength through that knowledge and we will bolster our selves through that strength.  We are the last bastion against the corruption plaguing this nation.  The gates of hell must be watched over and we shall smite any who cross into our world.  We are the Watchtower of Impiltur."
 
 == Watchtower: Present Day ==
 
 A conversation that took place in the summer of 1484 DR between Loremaster Nestrius and Chief Watcher Windspear,
+
 "Dammit!  You're telling me that goristro breeched the gateway and return to the 57th?"  The grey-haired man shouted at the young officer.
 
 "With all due respect, sir, six of our Watchers were Weak-Wills and tried to flee with the Fraternity.  We failed to protect the gate without them."  The officer replied.

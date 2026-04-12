@@ -46,6 +46,7 @@ PLAYERS AND ROLES
 
 Todd Burry - DM (for the Gonzadrel/Fringe campaign)
 Gus Miranda - DM (for the first session, "In Search of the Unknown"); plays Sir Pellias and Owin
+
 Stephen Robertson - plays Liltariel (deceased), Friar Mungo (deceased), Brother Crispin, Muttonchop
 Les Blackwell - plays Fishook the Hazardous and Hurl the Manservant
 Scott Mclaren - mentioned as part of the group

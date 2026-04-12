@@ -7,62 +7,119 @@ Being reproduced here were with permission and additional gratitude.
 -GFD 
 Situation Report, Ches 28th 1481 DR, Loedegan's Hall 
 This morning I was again diligent in my attendance of the daily Situation Report at Loedegan's Hall. So diligent, in fact, that I now have a regular spot in the Hall; second balcony, behind the Order of the Lambent Shield. Having come every day to the Report, I have noticed a pointed increase in attendance today; yesterday there were only a handful of people here, but this morning the place is nearly full. The blessed light of Amuanator has broken through the snows on the trails in the mountains, and the campaigning season has begun. 
+
 The report begins with the requisite benediction from our Zenith Lord Whitegate, this morning constantly interrupted by the jostling of late arrivals whom I hope will be educated in their manners. The Zenith Lord's older brother and Lord of Castle Radiance, Luminous Whitegate then made his usual address to the crowd; it is no different today for the 100 men in the room than it was for the 8 or 9 yesterday. He is brief and to the point, and quickly calls on reports from various scouts. 
+
 A dozen men scattered around the room step forward to give reports, marking significant activity on the huge sand-table map in the centre of the room. There is much activity to report, as the mountains and the hills around them are starting to come to life, and new conflicts are just starting to blossom. 
+
 However, it is the final report that everyone has come to listen to this morning. Knight Commander Cassius of the Order of the Lambent Shield arrived late last night after a hard ride through treacherous mountain paths to deliver his message, and word of his late arrival got around quickly. 
+
 Cassius, like the many other Knights at the report, stands in the first row. His men make way so that this large man, made larger for his prodigious and gleaming plate mail armour, can move past, and into the centre of the room to take a spot before the map. He clasps wrists with the Lord of the Castle, who is also the highest-ranking Knight of his Order. Cassius addresses the room, and with his impressive helm under his arm, the face of the man is clear to all. He is not a handsome man; his is a nose that has been broken and worse a dozen times. His face is a map of battle scars that make for a confounding topography, and the one ear he has left is rugged and cauliflowered. Despite this, the man has a bright demeanour, and when he is at his most enthusiastic in his orations, there is a barely perceptible nimbus about his crown that even the Whitegates become distracted by. Cassius is the very picture of a Knight of the Order, and his sanctity is a crown. 
+
 The voice of the Knight Commander is loud and clear, but he lacks the brashness of many of the leaders of his profession. He takes his time to choose his words, and uses those sparingly and deliberately. His is more the voice of a patient father than an aggressive warrior. 
+
 "I bring intelligence from our north-west" Cassius begins, pointing his sword at the sand-table in the centre of the room, aiming it at a small carved wooden tower that represents Fort Sansum. "Our war with Netheril is not over, but it shall be much different this campaigning season. We will not see armies arrayed against us, or hosts of thousands on the march. Prince Melegaunt does not have the resources to conduct such. 
+
 "However, he has multiplied his efforts to locate the West Gate of Tethyamar. The mountains to the north of Fort Sansum" and with this, he points at several key locations on the sand table, and a yellow- garbed clerk quickly inserts little flags at each one "are crawling with scouts and spies. Excavations are under way at a dozen locations. Melegaunt's Curator, Loki Mouvranesh is conducting this operation. Netheril is aware of the War in the Deep, and Melegaunt has tied his fortunes to this war. 
+
 "Tethyamar is the means by which Netheril could march a host into the heartland of the dale. Contrarywise, it is also the means by which we can place a new ally in an aggressive posture at the edge of Netheril. 
+
 "I, Knight Commander Cassius of the Order of the Lambent Shield, have been given the task of stopping Mouvranesh before she can find the West Gate. I have the resources I need to make it difficult for her, but I think it is time for some of you in this chamber to commit yourselves to the War in the Deep." 
+
 The room is then filled with dozens of voices, some hushed, many not, discussing this development and the advice given by Cassius. There are heated discussions within and between many groups, and clearly, the politics and strategic significance of Tethyamar is a complicated issue. Finally, Lord Whitegate raises his hands and the room falls to silence. 
+
 "Thank you, Knight Commander" Luminous says to his subordinate, who bows and gives off one last nimbus that catches the eye of all in the room. He returns to his spot among his men. Luminous then continues. 
+
 "Cassius is right, and his report is timely. I have been in negotiations with the Embassy of Tethyamar recently. The War in the Deep is not going well; the Lower Halls are held against our dwarven allies, and they are in a defensive posture. I am confident that they will not give ground; who can extract a host of dwarves from a hall of stone?" A short round of chuckles and grunts of approval follows this comment. 
+
 "But Tethyamar is vast, and their numbers few. Currently, they wage war against the monstrous squatters that have violated their home for centuries. These foes are proving to be difficult and intractable at times. Our peril is this; that Tethyamar is not taken before Netheril finds the West Gate, and either eradicates the monstrous denizens therein, or worse, makes allies of them. In either event, we do not want Netheril in there before our dwarven friends and allies can make the West Gate and hold it against them. 
+
 "For our part, the people of Daggerdale will fund the effort to stop Netheril, by waging an intense campaign in the mountains. But we will also need volunteers to assist our friends in the Deep. It is time for us to repay Tethyamar for the Siege of Fort Lastsun. Who will declare themselves for Tethyamar?!" 
+
 With this, the room is again a noisy chaos of dozens of conversations, arguments and gesticulations. Bargle's voice is heard above the din, temporarily bringing silence and focus to the room. "Is there a bounty tied to this call to arms?" True to form, Bargle has turned this into a discussion of payment. All eyes then go to Lord Whitegate. 
+
 Luminous looks Bargle in the eye, and the slightest glimmer of annoyance, or perhaps disappointment, crosses his face. "There is not." 
+
 Again, an eruption of voices interrupts the proceedings. This time, a few captains begin to leave, their clattering armour and weapons and jostling a conspicuous distraction. The meeting is brought to order by the booming voice of Lord Whitegate. 
+
 "Attention!" he booms, his voice now that of the legendary battlefield commander. None can resist his command, and many who were leaving stop dead in their tracks, Compelled. "There will be order here, even if courage and honour are wanting!" The heads of many men bow in shame. 
+
 "There is no bounty tied to the War in the Deep, because it is outside of the jurisdiction of Daggerdale. We recognize Tethyamar as an autonomous state, an ally and friend. We will not usurp their authority with our gold. However, I will let Tethyamar speak on the matter. Give ambassador Gambledin your attention and respect, or I will correct you personally. Ambassador" 
+
 The dwarf that ambles down the steps to stand beside Lord Whitegate is known to many in this room; the Tethyamar League, which the Embassy was known by until this year, posted dozens of bounties, and this dwarf lined the pockets of many a company in this room, including mine own. He is known to be direct and a little gruff, in the manner of his people, but also fair and generous. He is a little red in the face after the admonishment of the crowd on his behalf by Lord Whitegate and begins with an awkward laugh. 
+
 "Well, now that that's settled!" Gambledin begins with a wide-eyed expression of something between surprise and fright. "Tethyamar does in fact need help. The War in the Deep progresses slowly, which is the way our people normally like things. However, this problem with Netheril getting involved changes our timeframe and expectations." As he is saying these words there is a little bit of commotion in the crowd; first, a dwarf standing with Captain Hastle Redwater of the Redjacks says something that makes those nearby all take him and the captain in. Shortly after that, a well-known scholarly-looking fellow named Brother Darred begins to descend the steps. Before Darred reaches the bottom of the steps, the dwarf beside Redwater speaks up. 
+
 "Oi! I'm Crudach Geldrickson! Cousin to Tasster Gellinson! Hammer of Clangedin Silverbeard! I have hired the Redjacks to assist Tasster in reclaiming the Pillars of Moradin, and to defend his claim to the Throne of Tethyamar!" The large, mail-clad dwarf slaps Redwater on the lower back firmly, then raises his hammer in the air and shouts "For Tasster! For Clangedin!" 
+
 Redwater draws his blade and raises it and echoes his new employer's oaths; "For Tasster! For Clangedin!" A barely perceptible grin crosses his lips as he does so. 
+
 This begins a new round of discourse in the aisles of the room which is quickly diminished with a scowl from Luminous. At that moment, the priest from Candlekeep makes the bottom of the steps and bows slightly to Luminous and the dwarf beside him. Gambledin speaks up again. 
+
 "I see that Brother Darred, Emissary from Candlekeep, has taken the floor. Speak your piece, friend!" 
+
 The old monk clears his throat and looks around nervously. The Candlekeep Emissaries aren't known to frequent the situation reports, and only rarely do they give voice. "I speak on behalf of Tezster Gellinson, brother of Tasster and claimant to the throne. He too is ready to find champions among his human allies to help him conduct his campaign in the Deep, to free Tethyamar from the clutches of evil creatures, and to provide a strategic ally in the war against Netheril. Tasster offers friendship, titles and allotments to those who declare for him" His words trail off as there are hushed protests and snorts of amusement and disapproval at the offer. 
+
 Luminous again scowls, reigning in the room as it begins to overtake the timid monk. Again, in his commanding voice, he asks "Who will declare for Tasster? Who will champion this friend and ally?" He looks first to Bargle. Bargle's lips press together tightly in annoyance, before he looks about, sighs, and responds; 
+
 "My men need to work for something with a bit more jingle than friendship and titles. Allotments we are familiar with, but I doubt most men in this room would find thepayment scheduleto their satisfaction." 
+
 Luminous gives the man a contemptuous look that forces Bargle to lower his gaze. The Knights and Sun Blade captains in the room shake their heads in reprimand, sharing the unspoken sentiment of their leader. Now, eyes begin to turn to the Cormyreans. They have a spot on the second balcony of the round chambre, and their host is always noticeable; Purple Dragons in gleaming armour escorting the reputable diplomat, John Tunbridge. Today, John is joined by General Stuart Angleton, head of the military arm of the Cormyrean Embassy. These two men have been having a quiet discussion between themselves every time the room acted up, and now, they find themselves fixed by the gaze of Lord Whitegate. 
+
 John raises his hands a little by way of announcing he is about to speak, then calmly and confidently folds them on the desk in front of him. "The cause of the Tethyamar is just and consequential. 
+
 However, I think that the lances of the Purple Dragons would do more good on the open plains of Netheril and the trails of the mountains than they would in the deep." 
+
 With this, the General gives a frustrated, angry growl, and shoots a glare into the side of the adjacent diplomat's face. "Do not suggest limits for my men, Tunbridge! We will fight in tunnels if need be. I'll march my men into the ocean or upon clouds if that is what's called for!" There is a brief outburst of 
+
 cheers and laughs from the audience, which Lord Whitegate allows to play itself out; he seems to enjoy it. 
+
 "I meant no disrespect for the venerable Order of the Purple Dragons" the diplomat continues, his demeanour seemingly unaffected by the support the general seemed to get from the crowd. "The limitations I suggest are not those of military prowess, but rather political will. King Azoun does not wish to engage his men on a battlefield so distant from his own lands; Castle Radiance is distant already; those mountains north of Fort Sansum are another week away as an army marches. We are too few to commit to such an ambitious theatre of war. I apologize, but I cannot commit the King's men to such an endeavour, even though I must acknowledge the vital importance of it." 
+
 The calm words of the diplomat have a sobering and quieting effect on the room. Brother Darred seems utterly deflated, and Luminous wears a stoic face, trying subtly to scan the audience for a champion for this ally. 
+
 Lord Whitegate continues to scan the room, his clear eyes squinting slightly. "Who?" 
+
 "The White Cloaks will assist with the exploration and cleansing of Tethyamar and will do so, aligned with Tezster Gellinson." I declared. 
+
 With this declaration the room erupts into a brief uproar; there are cheers from the military orders; Cassius himself turns around and looks up at me, nods approval and offers his hand. Many of the Sun Blade captains around the room and their lieutenants likewise give a cheer and offer gratitude. General Angleton, standing on the same level but across the room from me salutes and his four knights do the same in unison, following their leader. 
+
 From the floor, Lord Whitegate smiles and nods; he looks to me then takes in the support from the rest of the room, and marks with a sharp eye, those that do not offer their support. He and Bargle lock gazes for a moment, but Bargle is forced to look away. Bargle collects his sergeants and begins to depart. 
+
 From the third aisle, Geldrickson snorts in derision, and begins to leave as well. Captain Redwater of the Redjacks, who stands across the room from me, catches my eye. He had been cowed by my voice but has again regained himself. He shoots a menacing smile towards me, and lays a finger upside his nose, then points it at me. With this, the Redjacks begin to leave with their dwarven employer. 
+
 Lord Whitegate raises his arms patiently, a call for order. A couple dozen men have filed out of the room by this time, and others are shuffling about. The Situation Report is drawing to a close. Before it does, Whitegate says "We thank Captain Warburton of the White Cloaks, again, for his service and the service of his men. And women, indeed." Lord Whitegate gives me a look of genuine gratitude, which is also mixed with something akin to what I hope might be the pride a father might have for a son. 
+
 "That is all for today, men. Dismissed!" With this, the room begins to empty, but there are, as usual, little groups that form and carry-on conversations between themselves. This morning, being the first fully attended Situation Report, the small group of clerics that was taking notes, marking the sand table and carrying on other duties are formed up by the Zenith Lord, and they begin a melancholy but beautiful chant to see the men on their way. Their unearthly voices fill the large stone room and resonate in the bones of those therein, causing our hair to stand up on the back of the necks. 
+
 Lord Whitegate motions for me to come down to the floor to discuss things. Ambassador Gambledin and Brother Darred are there beside him, as well as Knight Commander Cassius. The lot of them offer their deep gratitude. Luminous crosses the floor to meet me and clasps me on the shoulders; the old Knight is nearly a head taller than me, and decked in his armour such as he is, seems like a mountain next to the me. His face is beaming, and behind his eyes there is a subtle glow; the light of Amaunator burning inside this man, stoked by the presence of another of the faith. 
+
 "If we had ten men like you, Captain Warburton, I think Melegaunt's head would be on a pike outside these walls." I receive another slap on the shoulders from this huge old man. "There is much for me to attend to today. You too, eh? I'll leave you to it and pray for your success!" 
+
 With this, Lord Whitegate, his brother the Zenith Lord, and Knight Commander Cassius begin to depart. Cassius stops briefly, and the other two turn to watch him address me. Again, there is a faint nimbus of light about the man's head, and his eyes shimmer like Lord Whitegates'. He again offers his arm and in the warrior's embrace, says "You punch through from the east. I'll keep Netheril from punching through on the west. Deal?" 
+
 Standing, arm in arm with the Knight Commander limned in divine light, we were the focus of those left in the room; the Whitegates, Ambassador Gambledin, brother Darred, and the few miscellaneous men scattered about the chamber. There is a certain acuity to this witness, and a palpable weight to the 'deal' that Cassius offers; there is something of a divine contract playing out between us. 
+
 "I'll meet you in the middle" I swore. And I will, with Amaunator's guidance and strength. Brother Darred then speaks; 
+
 "I'm sure you're wondering why it is Brother Darred, and not me, asking directly for help. The matter of the Throne is complicated, as you know by now; Tasster and Tezster will not share it between them, and the Silver Council has declared that the first to actually take Thorbardson's Throne will be the King of Tethyamar. That is common knowledge. 
+
 "What isn't so common is this; over a decade ago, Tezster actually spent most of his fortune on establishing the Tethyamar League. He himself appointed me as Ambassador, and I have been spending his money looking for his kingdom ever since. Now that it is found, and the race is on to claim the throne, Tezster finds himself short on money, while his brother is not. I am getting ahead of myself, though, and must remember my new mandate; I am the Ambassador from Tethyamar herself and I serve at the pleasure of the Silver Council. Tezster relinquished any claim to my office willingly, despite his investment. 
+
 "So you see, I cannot choose sides. I am here to assist the reclaiming of our City any way I can, short of getting involved in partisan politics. I will see a dwarven king on our throne, whether it is one or the other. 
+
 "This brings us to Brother Darred and the Candlekeep Emissaries. You have heard Tasster's cousin declare for Clangedin Silverbeard, the warrior-god of our people. Tezster is a little more organized in his approach to life and is a dedicated follower of Dugmaren Brightmantle. Brightmantle's portfolio is difficult to explain to men but suffice it to say that He and Oghma share many interests, as do Tezster and Darred. I have facilitated a long and mutually beneficial exchange of information between these 
+
 two like-minded men, and now that Tezster needs a champion, Brother Darred stepped forward to take up the cause." 
 Brother Darred then spoke; 
 "I have had a long correspondence with Tezster Gellinson. We have supplied each other with lifetimes of discovery, as one professional academic to another. I only know him through is letters, I am ashamed to say; though he has been in the area for many months, his duties keep him below ground, and I will not make myself a liability for him by getting in the way of his campaign. I am no warrior. 
+
 "Someday, though, I will travel to his halls, and spend the days that are left to me translating the histories upon the walls therein. Until such time, I will do what is in my power to help my friend from here. 
+
 "I am clearly biased in the matter of choosing between one Gellinson or the other to be king, but I believe that Tezster is the type of leader Tethyamar needs. If the histories be true, it was military bravado that lost Tethyamar in the first place, when simple planning and wisdom could have kept it safe. 
+
 "As to what help I can offer you now, I must confess it is very little. The timing of this matter is tricky; normally I would have a number of artefacts to offer you to aid in this endeavour, but tomorrow is our auction, and all we have will be put on the block. The timing of the auction itself is beyond our control. Lord Whitegate ordered us to have it before the Greengrass Festival this year. His motivations for this are his own, though some are not difficult to guess. 
+
 "Finally, I will offer the gift I feel is greatest; to the White Cloaks, I offer what knowledge is at the disposal of the Candlekeep Emissaries here in Castle Radiance. We shall offer freely any knowledge asked of us, until the Unmaking, so long as our fellowship persists." 
+
 I accepted the challenge and the help offered and set about rounding up my team to announce our new mandate. We would find a way through Tethyamar, and meet Cassisus in the middle.

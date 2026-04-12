@@ -3,6 +3,7 @@ thumb
 During Harvestide of 1371, Hob departed for Neverwinter to seek out Malkor. It was not difficult to find the man. Hob traveled with a Red Shields caravan, and learned that only Malthoon’s High Road Shippers managed to get along on the High Road unhindered all last year. That had changed ever since ‘those Harpers’ cleaned up the mess. Hob decided to start his searching at Malthoon’s.
 
 There, his searching ended. Malkor, a talented diviner, saw Hob coming and ambushed him in the warehouse with dozens of darkenbeasts. Hob was put in a barrel and taken to Dekanter. There, he was let out, and found that he was one of dozens of slaves. Most of the slaves would have died if not for the efforts of the stalwart Halfling. He clothed and fed the slaves in the exposed pen (it was the beginning of winter when they arrived in Dekanter) and built up their strength for the long march that was ahead of them.
+
 Soon enough, they were marching across Anauroch. Again, Hob kept up the strength of the other slaves by walking the lines and administering drinks to them. After the months-long march, Hob and his comrades were sent to work in the mines west of Dagger Falls, and would not be rescued until the coming of the Heroes from the Sands.
 
 That does not mean that attempts were not made to find him before that…

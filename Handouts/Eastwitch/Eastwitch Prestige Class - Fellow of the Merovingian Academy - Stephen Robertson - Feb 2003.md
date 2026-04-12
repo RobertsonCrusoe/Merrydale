@@ -41,7 +41,9 @@ Skill Points:           4 + Int bonus
 Simple weapon Proficiency
 Spells as existing class
 Lvl 1 - "Harper Knowledge" (as Bardic Knowledge), "Oghma's Insight" (Skill Focus on one Knowledge Skill)
+
 Lvl 2 - "Arcane theory" (Skill Focus feat on either Spellcraft or Knowledge (Arcana))
+
 Lvl 3 - "Extend Spell" (Extend spell at same spell level slot on Cha + 1 spells/day)
 Lvl 4 - "Exchew Materials" (as feat in Forgotten Realms)
 Lvl 5 - "Mystra's Grace" (+2 insight bonus on saves vs. magic effects)

@@ -37,6 +37,7 @@ I surmise that Invictus felt the same. He accused Thunderstorm of being a traito
 The argument between the two men became even more heated, and their discourse turned more insulting. Neither man it seemed was actually thinking at all anymore.
 
 Perhaps the most surprising event of the day was the sudden appearance of Troia between the two men. Whence she arrived, I know not; I had thought that she had stayed behind at Liberty Hills to assist the clean-up.
+
 Nonetheless, there she was, standing firm, like a small piece of iron between the Hammer of Amaunator and the Anvil of Torm. She reached out to each man, and spoke softly to them.
 
 I would love to know what it was she said, as both men immediately began to calm. However, I was not given the opportunity to listen. The closest that any came to actually shedding blood that day were Tuugan and his brother Alaric. I suppose Thunderstorm must have made some admonishment of Chauntea in his anger. The creak of the massive bow Tuugan carries alerted me to the fact that he had the weapon at full draw, and aimed at the head of Thunderstorm. Tuugan’s brother had immediately followed suit, but his bow was aimed at Tuugan.

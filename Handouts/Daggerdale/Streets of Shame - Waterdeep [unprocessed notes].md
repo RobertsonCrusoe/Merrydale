@@ -45,6 +45,7 @@ Gideon (ex-Ersgul) was an Honourable Member in the Fellowship of Salters, Packer
 Ersgul Mlshool (ex-Ersgul) This fellow is now dead, but worth noting. He was a member of the Stonecutters' Guild, and had the title of Foreman. He had 5-10 loyal men under him, and was loyal to Yarkul. He was recently found dead in his well-to-do Castle Ward apartment, along with a dead Drow. These two deaths likely marked the beginning of the adventure/underground commerce season for The City in 1372.
 
 Gotlieb Erlgund (ex-Drurginz) was a favoured member of the Fellowship of Carters and Coachmen in Thagdul’s employ while Company Drurginz was active.
+
 Status: Deceased. He was found dead and floating in the Harbour with his crew of 7 boys, the same morning Gideon was found dead in his warehouse.
 
 A note: “D:  Take your flock to ‘convince’ Ersgul Mlshool to see things our way. He is currently out of the city on a job, and will return two days hence. He should be convinced or eliminated. – AM”
@@ -59,11 +60,15 @@ Evidently AM (Kendal Thorne) put out the hit on EM.
 
 Nero’s theory: 
 The remnants of Companies Ersgul and Drurginz have teamed up, as evidenced by members of the two factions working together at Gideon’s warehouse.
+
 Gideon was tried to double-cross “The Boss” and Ebola, and was rubbed out for this betrayal, as were his accomplices.
+
 Gideon was in league with drow, who are competition for “the Boss”, so the Boss had him killed. 
+
 Gideon was just an idiot who fucked up and got himself killed by the anger of the Boss. The death of Ersgul Mlshool is not connected to the Boss as AM/Ebola never got the note indicating a hit.
 
 Gotlieb Erlgund shows up, giving Gideon a note along with some drow gear. Gideon sees the note and burns it. This takes place after the boss gives Gideon the note we have, which was meant for ‘Ebola’.
+
 A second note from Gotlieb is from Gideon’s drow employer, telling him to set up Ebola for an ambush at Fishgut Court.
 The ambush goes south
 either a) Ebola/The Boss win and the drow are beat back, at which point  Gideon is killed

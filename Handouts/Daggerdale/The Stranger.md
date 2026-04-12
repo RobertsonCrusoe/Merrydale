@@ -57,6 +57,7 @@ His black blade flourished, snicker-snack, and blood sprayed the air red, freezi
 He wasn't cold where the blood touched him.
 
 Unnatural green light began to dance around the swordsman like a fiendish corona, beating back the darkness, illuminating the rough faces of the Nar raiders. Terror and rage danced across their features. 
+
 Durandal leaned down and gazed at the ruined man laying at his feet. Blood bubbled from his lips as he spat his last words.
 
 \"We...will...will suffer no demons... in t-these lands....\"

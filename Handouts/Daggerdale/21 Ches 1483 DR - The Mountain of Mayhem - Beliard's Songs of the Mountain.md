@@ -120,6 +120,7 @@ Stephen's note: "In case none of you are familiar with my inspiration, here's th
 
 Reactions:
 Gus: "Love it! I can't get it out of my head. I've been going around singing 'The monk! The monk! The monk!' to the utter confusion of my wife and youngest daughter."
+
 Les: "Ha, I was singing 'The Monk! The Monk! The Monk!' in the shower last evening, likewise confusing my wife."
 Les: "I love all of this! Let's see what happens in the next round!"
 

@@ -1,5 +1,6 @@
 Clarandal Family Tree 
 This family tree was composed by Magistrate Blaze Whitegate with the help of Clerk Daphne Dale, in late 1440 DR.  Submitted to the Yellow Abbey Archives in 1441 DR after the tragedy at Thistle Ridge Farm. 
+
  Claudius (b. in Sembia, ~1345 DR) -Minerva (nee Maerimmon, b. ? d. before coming to Daggerdale, first wife of Claudius, no known children) -Sandara (nee Sakurth, b. ? d. before coming to Daggerdale, second wife if Claudius, no known children)  Saralla (nee Sakurth, b. ~1391  third wife) 
 o Tergus (b. 1408 in TR Farm)  Senthia (nee Alavandor) 
  

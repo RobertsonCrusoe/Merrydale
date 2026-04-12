@@ -16,6 +16,7 @@ Looking at my bingo card, I only had chaos lord and beastmen.
 
 A few loose ends:
 1. I imagine Sister Pristell and Alwyn settled down in the nearby village and lived long and happy lives.
+
 2. There was a door beyond the frozen chaos brother, and it hurts we never got to open it.
 3. What's the deal with the green-eyed skull? Are its eyes still glowing?
 

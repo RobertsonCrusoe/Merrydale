@@ -45,6 +45,7 @@ Well, perhaps that comparison is a little to unfond, for the Dinghy sails well i
 During the voyage he tells the adventurer’s a little more about this Gaffer:
 
 “His name is Bollyswag Gaffer, but everyone calls him 'the Gaffer'. He and I had a few adventures together back in the day.
+
 Now he’s retired and owns a small archipelago about a half days sail away. Should be a fun time and is a great weekend trip out to his neck of the sea.
 
 He was as gleeful a sea dog as any in his day but navigation was what he was used fer. It was him that showed me how to sail to the Isle of the Lich, an island that not many a salt can get to.
@@ -56,6 +57,7 @@ He’s a bit salty these days, but no more salty than Salazar I’d say.”
 == The Gaffer's Archipelago ==
 
 Noon turns into afternoon and then begins to turn into sunset and the sky lights up in brilliant hues of reds, oranges, and pinks. The dinghy sails towards a distantly cloudy sky. It’s funny how these clouds that are so beautiful now will bring in the hurricanes later. The Dinghy glides across the perfect mirrored glass surface of the water as the adventurers approach the Gaffer's archipelago.
+
 At first, small protrusions of volcanic rock begin to poke out of the water in the distance. Then those protrusions become small rocky islands that begin to form a maze for the channels of water between them. Captain Lydon winks in and says, “Watch closely if ye want ter find ye way out me hearties.”
 
 As he guides the Dinghy through the channels the small rocky islets give way to larger islets with beaches and then still bigger ones with lush tropical trees. Large colourful birds and small tropical mammals watch the boat as they lounge in their topical paradise beneath the setting sun.
@@ -79,6 +81,7 @@ The Gaffer is a little old human of around 90 years of age. His eyes bulge out o
 “Aye, did ya bring the feckin' thing lad?”
 
 “I did, I did,” says Lydon as he pulls out a bottle of what looks to be a bottle of twelve hundred year old whiskey.
+
 Gaffer belts a small cantrip and the cork pops off and lands in his breast pocket. He then grabs a small cup from beneath his cap and pours himself a shot. Taking the shot he has a small coughing fit.
 
 “That’s the good piss. We’ll all be having some tonight. I may even have a gem left somewhere that will duplicate this cum. Anyway, common inside for a bit you lot.”
@@ -100,6 +103,7 @@ The door opens into a small sitting room that is littered with crates covered in
 “Have a seat while I look for my box, mates!”
 
 Salazar sits on a twisted vine-framed thing with absolutely no symmetry in any dimension. Its cushions are thick patches of moss.
+
 May perches atop a narrow phandar wood chair with navy velvet cushions riveted to the chair with duskwood rivets.
 
 Zech jumps back onto a pudgy silken hammock swinging between two statues of naked breasted mermaids.

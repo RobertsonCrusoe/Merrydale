@@ -20,7 +20,9 @@ Scun and Hicks?
 Korrick looks at the man standing by the table with impatience.
 "Yes, you can leave". he states. He then looks back to Nathan.
 "I have said it before, and I will say it again Gale. This 'Order' business will bring you nothing but misery. Not sure why you think you need them. Haven't I had your back when your back needs it?"
+
 He looks to the firearm."Cute Toy though. You want me to sell it so we can travel in style this time? I have said it before, never trust a gift horse!"He looks around the table for the bolt of cloth already secreted away by Gale."Huh, where'd that scrap of cloth go? Got me a hole in my sock, coulda used a patch like that."
+
 If Brother Darred is still present, he is utterly ignored by the Magus. (Note Korrick is obviously not part of "The Order", just a familiar companion to Gale)
 
 [2012-07-12 11:40:16] DM
@@ -41,15 +43,25 @@ Soon after, a few more plates of potatoes and pork, all slathered in a thick gra
 
 [2012-07-17 23:45:44] Beliard
 As the giant cleric Arkadios lumbers behind his diminutive guide into the room shared by Gale and Korrick, a voice from the common hall beyond may be heard to call out in the crisp, canorous accent of the Cormyrean aristocracy - "The Silver Lady lights our way, Zancanelli. I will wager you a sack of steelpence that the men we seek lurk in the shadow of yon colossus. Come, let us follow the wake of those noble thews."
+
 To Balak's chagrin, Beliard and his companion sidle into the back room on the dwaven publican's heels. The bard quickly interposes himself between the  newcomers and the pair already at the table. Replying to Balak's frowning challenge, Beliard laughs.
+
 "What ho, innkeeper. What a pair you make! The titan and the mite - were I a painter your likeness would soon hang in the Royal Gallery in Suzail! As a humble songster, mayhaps I will compose a comic ballad. In any case, you may rest your grizzled mind. My associate and I - " Beliard offers a flourishing bow which somehow incorporates a thumb jerking over his shoulder at Zancanelli, "have every reason to be here, in the storied company of Nathan Gale."
+
 At this mention of the name, Beliard closely watches Gale and Korrick for a reaction. Accepting their suspicious glare as confirmation that he is indeed in the right place, Beliard turns to the dwarf's companion. "By Grumbar's Girdle, moon brother, you are big fellow and true. I am Beliard Kathklan of House Emmarask. How might I address thee?" If he pays attention, Arkadios will be able to see the bard's own Selunite talisman in the form of a silver clasp affixed to an indigo cloak. Although it is obvious he is no priest, the bard shows signs of being a devout follower of the moon goddess.
+
 When introductions have been made, Beliard seats himself and gestures with an air of authority for Zancanelli to do the same. When the dwarf leaves, Beliard's expression changes. His voice lowers, and his characteristic air of blithe affability suddenly vanishes. In a serious and muted tone, he addresses the man he takes to be Nathan Gale. "Now, Master Gale. As you should have received a message not long ago, I believe you are expecting me."
+
 Beliard reaches into the inside pocket of his travelling vest and - slowly, with a wry wink at Korrick - withdraws a somewhat worn piece of parchment. He hands it to Gale, who may unfold it to find that it is a note from Magistrate Hoetmer to Roger Dunland, written before the former's death.
+
 Catching Gale's eye as he glances up, Beliard continues. "I would be very interested in seeing the book that accompanied that note, Mr. Gale. We have a common enemy in these Sons of Bel."
+
 At that moment, the serving girl enters again, and Beliard's attention is distracted from Gale. After she sets down the ale and introduces herself with a curtsy, he grins broadly at her. "Why my young lass, I am astonished. Your father must be the most audacious criminal in the known Realms! Not only to steal the stars from the firmament to brighten your gaze - but to brag about it by naming you! Hah! Well done! I say, well done!" Before the girl has a chance to fluster, he tips back his chair on two legs , puts his feet on the table, whips the lute he carries over his shoulder around into his hands, and starts strumming.
+
 "The king of the thieves, the old rotter,Stole the stars from the skies for his daughter.He set those jewels in her eyes andin a cool advertisementCalled her Stariana - the pride of her father!"
+
 (As the bard's improvised ditty takes effect, the mousy young serving girl's hair seems somehow to become a little less greasy, growing softer and a shade more lustrous. Likewise the sheen of sweat and oil on her cheeks fades, and her pores tighten, clearing her skin. Those with any knowledge of magic who are paying attention will recognize the effects as the result of a prestidigitation on the bard's part).
+
 Letting his chair settle forward, Beliard beams. "Now, pretty one. No doubt in his senescence your master forgot to inform you that I prefer claret to the gutshaker they serve at this establishment. I know that Master Balak has a tun of Saerloon Hills '65 horded away in his cellar. Bring me a goblet and a carafe of that fine vintage, and we may well trade places, for I will be your most obliging servant."
 
 [2012-07-18 19:29:27] DM
@@ -57,13 +69,21 @@ Letting his chair settle forward, Beliard beams. "Now, pretty one. No doubt in h
 
 [2012-07-20 16:32:16] Korrick
 At the arrival of the "intruders" Korrick slouches back in his chair. Utterly disinterested, (Gale deals handily with this sort).
+
 The speaker of the "intruders" touts on as Korrick appears very determined to remove a fruit fly from his glass.
+
 To the talkative man welcoming himself to a chair at the table, without request, Korrick pays no heed.However, when the letter is produced and extended to Gale, the Magus's hand shoots out and snatches the letter. A returned wink follows.  
+
 Korrick allows the newcomer to continue his unabated flirtations with the serving wench.
+
 ((An observant observer would however note the slight rise in his left eyebrow when the "prestidigitation" is cast on the wench.(Spellcraft +10, Knowledge arcana +10).))
+
 When the tirade of flattery abates, and the wench walks from the room, Korrick holds up the letter."As I expected Nate, trouble already."Korrick looks to the newcomer Beliard seated across from him. "An assassin no doubt, who else would so boldly come forth in all such frivolity and yet require not one, but two men at arms?"
+
 He pauses and looks to each man. Then speaks slowly and clearly."Note this, I will now, by magical means peruse this letter for magics of a deathy nature. No offense is meant, just caution."
+
 He looks Beliard in the eye. "Should either of your 'Hulks' touch hand to weapon whilst I cast the aforementioned divination.. said 'Hulk' will till the end of his days need choose between scratching his ass and picking his nose, for with but one hand both at once will be an impossible task."
+
 As he speaks he lays one hand upon the sword at his side.He then drops the letter on the table and casts Detect Magic on it.
 His eyes do not leave the letter.
 
@@ -77,8 +97,11 @@ He then settles back into his chair and allows Gale and Beliard to conduct thei
 
 [2012-07-23 00:04:53] Arkadios_Solaris
 "Arkadios," says the Selunite, with a pat on the back and a broad smile at Beliard, in response to the question.
+
 The big man makes his way into the room and finds a seat next to Korrick.  When the food arrives, he grabs two plates, scrapes the contents of one onto the other, and tucks in to the mound of food, listening attentively to the talkers do their talking.
+
 He'd been around long enough to know that talkers like these ones, on the whole, like to talk.  Get them in the back room of a bar, tavern, or inn, and well... you're in for a lengthy soliloquy or two.  Maybe even a lecture on some historical anomaly.  And if they're a really good talker, and judging by what he'd seen so far, this man Beliard was probably one of the best, well... we might just be in for some epic poetry.  Maybe even a saga.  This wasn't the first time Arkadios had found himself plotting in a back room, and so he figured he best be getting his fill of hot food and good drink because eventually these talkers would stop talking, and that's when the real work would begin for men like him.
+
 "That's a cute little knife you got there," says Arkadios to Korrick through a mouthful of potatoes, pointing with a spoon dripping with grease to the magical man's sword.
 
 [2012-07-27 19:56:12] Korrick

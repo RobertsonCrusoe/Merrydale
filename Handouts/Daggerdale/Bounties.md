@@ -27,6 +27,7 @@ Bounties posted in the middle of the Sun Wheel are called 'Common Bounty'. These
 
 • Shadow Bounty - A 50 gold bounty for turning in living followers of Shar.
 • Intelligence Bounty - A 25 gold bounty for turning in valuable intelligence regarding locations and movements of large groups of monsters or Netherese agents and soldiers.
+
 • Candlekeep Registry Bounty - a 5-25 gold bounty for having an artifact or magic item examined and recorded by the Emissaries from Candle Keep.
 
 Common Bounties must be registered for, but any licensed bounty taker may claim them at the Registrar at any time.

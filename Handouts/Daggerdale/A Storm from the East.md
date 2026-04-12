@@ -1,5 +1,6 @@
 ===HARVESTIDE===
 By the time things were cooled off in Dagger Falls, Harvestide was upon the Dales. Winter was coming, and it the DE were way past overdue to leave. All signs indicated that the Tablets were weeks ahead of the DE, but they planned on catching them anyway.
+
 Dagger Falls had become a place of peace again in those days. Rewel Thunderstorm, though having made peace with Cassamar, still begat the church of Lathander in Dagger Falls. Sparrow stayed in this town too, to do his goddess’ bidding, and opened his temple in conjunction with the new Morning Lord’s Temple. The three evil faiths were not heard from or seen in Dagger Falls for many years to come, and peace was upon the place.
 
 But Dagger Falls is doomed to have some turmoil. In the wake of the Paladin of Shar, a cult of Shar blossomed in this town. The oratory of Gaebril, given in the Eastern Bailey, convinced many to join this faith, to help them enjoy the new lives they had, and to forget the evils of the past.

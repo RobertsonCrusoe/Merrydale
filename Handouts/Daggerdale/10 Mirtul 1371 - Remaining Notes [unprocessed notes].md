@@ -23,14 +23,17 @@ The adventurers took some of the swag from their last operation to Serpentil’s
 Returning with all the books and such, Ellyth and Garth were stopped on the street by Magistrate Thuman, a group of watch, and Quevin. The cargo was identified as belonging to Quevin, and the two adventurers would have been arrested if not for the quick wits of Ellyth, who implicated a fence that they had met the day before.
 
 Soon after this encounter, the adventurers found that they had no safe-haven. Almost all of their homes were broken into, including Tomas’ mothers place, which was looted thoroughly.
+
 Tomas was attacked on the street and would have been killed or abducted, if not for the intervention of a figure name Egan. Egan is a wererat (as the adventurers would learn later) who sits on the Council of Four [see the appendix on the wererats of Waterdeep].
 
 Around this time, the adventurers form the Company of the Red Herring, and use Garth’s house as a headquarters.
 
 The next operation that the CRH runs is in the sewers of the City. Thagdul gave the party information about an entrance into Undermountain that a group of Ersgul slavers would be using to run their contraband/victims into the markets below. The CRH stopped the slavers and rescued four little girls.
+
 After this, the CRH continued to make connections to the black market and other secret orders of the City. Jafar even became a member of the Watchful Order of Magists and Protectors (WOMP). They located the head office for Ersgul and found out more about this organization through their own efforts, and from Thagdul.
 
 Another attack on the CRH was initiated by wererats, and once again Egan came to the rescue. Realizing that the company would have much trouble from the wererats of the City, Garth tracked down renowned exterminator of the creatures, Morgan Lathkule. Morgan offers advice only at first.
+
 A boon of sorts came in the form of a young noble named Mourn Raventree, known by his comrades as Raven. This man was looking for some help in rescuing his little sister, who he suspected may have been abducted for sale in the markets below. Raven and Garth returned to Morgan, who was an uncle to Raven. Mourn outfitted them with several weapons to fight lycanthropes, including his personal blade, of which much fate was weaved about. 
 
 Garth returned to the Dalael building again, and found Vuldan and his ‘master’ Y’morth Dalael. They appeared to be moving out, and made no hostile actions towards the rogue.

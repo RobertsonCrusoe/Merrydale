@@ -1,11 +1,17 @@
 21 Tarsakh, 1483 DR – Correspondence from Brother Vessuvian to Lucan Alavandor 
 Mr. Alavandor; 
 Thank you for your inquiry, and the detailed drawings of what is obviously Sembian architecture.  One is surprised that you wouldn't recognize it immediately, but you likely had other interests back home besides plinths and cornices.  For if you weren't distracted with much more important pursuits during those formative years, when the foundation of learning, intellect and character is laid atop the bedrock of a sound mind, you would no doubt have said "Vessuvian!  I know you for a busy man, though not so busy as I, but all the same, I won't trifle you with Geotizzi plinths and Verutruscan cornices, the likes of which can be seen in any modest-to-great temple in the modest-to-slightly-immodest cities of my homeland."  But here we are. 
+
 If I am to put a fine point on things, the drawings you provided have details that align perfectly with the architecture of Goetzevissi Orsambar, late of Thistle Ridge, and the mason whose hands made real the will of Orsambar, Ryitzi Raerevrel.  Both men were in the employ of the Alavandors and Clarandals from around 1412 until the Tragedy.  I have found examples of their work in a couple editions of the Surveys and Measures, here in the Aethenaeum.  You will discover this yourself when you begin to poke around in Thistle Ridge, in places like the Academy.  I would be very surprised to learn other than the temple you described was designed by Orsambar, and built by Raerevrel, sometime between '12 and '41, likely toward the end of that time frame if I was forced to choose. 
+
 Now, I have made a bit of a friendly retort to your missive, which I will accept as playful correspondence between two young upstarts, but now let me tell you something serious that I hope you will take to heart. 
+
 That is a temple of the triple aspect of Jannath, the Crone, the Mother, the Child, and it is no matter for joking.  I didn't need to look into any books to confirm this; your drawings and a plain ecumenical education provided me more than was required to make this conclusion on your behalf.  This is a dangerous place, and you should avoid it for now, until we can figure out what is to be done about it. 
+
 I would encourage you to return to your notes, to ensure the basic details of the place are in order; it's location (a secretive location, more on that below), its age, the architectural style, and the religious details.  It sounds like what you are suggesting here is that the Alavandors and/or Clarandals had a temple to the Crone, Mother and Child built in a secret location not far from their town and private farms, but surely that isn't the case.  Surely. 
+
 Finally, I can assure you that after reading the details you sent me, that I spent every possible effort to find a reference to this temple in as many corners of the library as I could.  I found none of course, and worry somewhat that my investigation will have not escaped notice.  What did escape notice as best I can tell is that temple, until the moment you crept into it.  There is not a reference to be found that mentions anything like it.  And why would there be?  This is something that would be torn down the moment it was discovered by decent people. 
+
 I am going to ruminate upon this discovery for a time, and come back with a suggested course of action.  In the meantime, keep this to yourself, and stay out of that temple. 
 In Denier's Service, 
 Br.Vessuvian 

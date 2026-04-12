@@ -30,7 +30,9 @@ Troia brought up her horse at the gates of Fort Luminous and motioned for the tw
 “We need to talk to someone here before heading into the lowlands. If anyone will have an unbiased opinion of what is transpiring in the lowlands than it will be the Warsmiths... also ... Iolus said the dragon was not a concern but as much as I wish to believe him, I'd like to hear what the Warsmiths have to say about it before we gallop headlong into a wrathful wyrm.”
 ===That Blasted Bollinger===
 In arriving at the door to Bollinger’s apartments, Troia is surprised to find it open.
+
 It hangs limply outward from the lower hinge only… and smoke still wafts in spurts from the room. No sound is heard within.
+
 She takes two heartbeats to stop and load her hand crossbow before moving cautiously into the smoke-filled room. The acrid smoke making her eyes tear and she suppressed a cough as she spoke out loud.
 “Hello?”
 As the smoke billows out the doorway and blown out windows the room begins to clear.

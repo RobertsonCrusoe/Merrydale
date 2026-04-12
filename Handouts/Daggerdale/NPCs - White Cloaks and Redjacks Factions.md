@@ -25,9 +25,11 @@ Dutton Delimbry (of Bolt & Button & Dutton in the Old Market) crafted 5 magic cl
 **Team Composition:**
 
 1. Crasster Redwater \- Accomplished 'soldier' (rumoured to be a brutal assassin)  
+
 2. Garradin "Buddy" Gorehammer \- Dwarven Battlerager, recently kicked out of Tethyamar  
 3. Livinia Leng \- Monk from some far off land, very mysterious  
 4. Zallia Redwater \- Sister of Crasster, returned from 10 years of wandering, brought Livinia & Grimaldus with her \- assumed to be some sort of witch  
+
 5. Grimaldus \- A red-scaled dragonborn that arrived with Zallia.  Wears a chain shirt and carries a huge shield.  There are usually motes of fire floating around him, and he's quite scary.
 
 **Notes:** 

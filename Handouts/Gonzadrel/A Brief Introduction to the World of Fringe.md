@@ -30,6 +30,7 @@ If you want to make your halfling magic user, notice a chapter called "Player Ra
 Gus, Scun, all. I have a few of these short adventurers ready to go. If people ever want a night of old-school crawling, I can oblige. Just make two characters. That way, I only need two people to make a gaming quorum. Look at my Fringe primer for some basic ideas. Don't get too invested in a character concept, as basic D&D is deadly.
 
 OSE resources: https://drive.google.com/open?id=1HL81nmhntA-Lxnta5I04nhVzKqCOr5Rf&usp=drive_fs
+
 World of Fringe primer: https://docs.google.com/document/d/1K29s2QQUJpbzHbiYeKdLilAVxATfjBuxtHBi3S_xzZs/edit?tab=t.0
 
 ---

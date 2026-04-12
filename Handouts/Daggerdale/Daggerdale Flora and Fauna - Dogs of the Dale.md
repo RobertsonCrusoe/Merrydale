@@ -6,12 +6,16 @@ There are many different breeds of working and family dogs in the dale.  Protect
 Lowsted Wolfhound 
 
 These large-bodied shaggy dogs are the jack-of-all-trades in Daggerdale.  Having been bred for over 150 years by the Lowsted family for which Lostead Farm takes its name, these dogs can be found at every farm and settlement in the dale.  They are typically 3' at the shoulder, lean with a powerful and springy build, and with a messy shaggy coat ranging from grey, through dark browns to black. 
+
 The Lowsted is good at hunting, guarding property and livestock (though infamously difficult to train to be good with chickens and other fowl) and has the best endurance of any dog in the area, making it favoured by the Foresters and mounted Sunblades). 
+
 The Lowsted has a specialized topline breed called the Lantern.  These are always a light dirty grey in colour and have blue eyes (most other Lowsteds have brown eyes).  Lanterns are famous for their ability to detect Shadowvar/Shadar-Kai and are highly sought after throughout the dale for this ability. 
 Untheric Shepherd 
 
 Originally from the south of Faerun, bred to thrive in blistering hot deserts and freezing cold nights, and with one job; the protection of animals, there is no more fierce livestock dog than the Untheric Shepherd.  Bred for decades at Foothills farm, where they keep hundreds of sheep in many far-ranging flocks, this breed can be found on most farms that keep grazing animals without the gates. 
+
 The dog is a very large bodied, light-coloured giant.  While it is the best friend of the shepherd and his flock, this dog is notoriously suspicious of all other visitors, and does not thrive in populated environments. 
+
 The kennel master at Foothills has bred these dogs to be merciless hunters of wolves.  Their topline specimens are nearly the colour of the sheep they guard, and purposefully hide in the flock to fool wolves into approaching.  They will attack wolves as they get close, often singling out the largest and slowest, which they reliably tear apart. 
 Cormyrean Shepherd 
 These medium-sized herding dogs originate in the cattle fields of Cormyr and have been a fixture in Daggerdale and the rest of Faerun for centuries.  They are exceptionally capable at moving herds of animals, and at detecting threats.  Being the friendliest of the working dogs in the region, they are also favoured as family pets.  
@@ -20,12 +24,15 @@ There are no specialized breeders of this dog, and there are countless variants 
 Deepingdale Mastiff 
 
 This is the largest of the specialized working dogs in the dales, this breed originating in the militia of Deepingdale in the 13th century. At over 200 lbs, they are the largest domesticated dogs in the region, and are the best fighters. 
+
 Generally good as a guard dog and a family pet, their only real skill is attacking threats to their family or master. 
+
 The kennel master at Crossed Blades Farm that breeds the Daggerdale variety trains the strongest, fiercest, and smartest of his pups to be Wardogs.  These are intelligent and merciless beasts that learn to fight in packs and as part of military units, and it is not uncommon to see one or two of these with most Sunblade platoons or local militia units.    
 Some can be bred to serve as mounts for halflings. 
 Tesh Valley Wolf Hybrid 
 
 People all over Faerun have bred wolves with domesticated dogs for millennia.  In Tesh Valley Farm in Daggerdale, the Blackmanes have done this successfully for more than 30 years, creating a hybrid known as the Tesh Valley Wolf.  They have a specialized topline known as the Feybane.  These dogs look almost entirely like wolves but have a noticeable glow behind their eyes.  They are known to hunt down fey creatures with great enthusiasm, indeed often disappearing for days while they track and kill them.  They have an innate resistance to some of the magics that the more common fey deploy to defend themselves. 
+
 The horticulturalists at the Yellow Abbey have made inquiries about these 'dogs', and annually request to purchase some for study, but the old kennel master has refused for years to subject them to whatever experiments the Yellow Abbey has planned.  This has always caused more tension between the Blackmanes and Whitegates, if any more was needed. 
 
  Lowsted Wolfhound 

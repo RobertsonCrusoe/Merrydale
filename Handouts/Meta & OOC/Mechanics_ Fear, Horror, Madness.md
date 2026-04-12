@@ -22,6 +22,7 @@ Helplessness: This measures your reaction to traumatic events that you can’t c
 The three gauges of the Madness Meter measure how damaged or hardened your character has become to their particular influences. When confronted by a shocking event that falls under a particular gauge, you must make a Madness check by rolling a d20 plus your madness modifier that represents how resistant you are to that stimulus.
 
 When you succeed at a roll in a particular gauge, you gain a Hardened notch in that gauge. Hardened notches represent your mind coping with the stimulus, leaving you resistant to it in the future. When you fail a roll, you gain a Failed notch, and suffer
+
 some ill effect as your mind fails to cope with the stimulus. That means one of three trauma reactions — fight, flight or freeze.
 
 == Confronting the Horrific ==
@@ -197,6 +198,7 @@ from mainline humanity impedes one’s ability to function as a person.
 
 == Failed Rolls ==
 When you fail an Equilibrium roll, you get a Failed notch in the relevant gauge. No matter the relative Intensity of the situation, it’s just one more Failed notch—really horrific experiences are not necessarily more scarring than minor ones. After all, a hallmark
+
 of decaying reason is a lost sense of proportion.  In addition to the Failed notch, however, you must immediately choose one of three trauma reactions.
 
 A trauma reaction means the conscious and logical part of the mind is unseated. You may be reacting with pure instinct, or just be stunned and dumbstruck. There are three trauma reactions, and once one is chosen you’re trapped in that reaction until the situation changes and you have a chance to gather your wits.
@@ -205,6 +207,7 @@ The trauma reactions are [1d6]:
 
 [1-2]
 Flight: You run away at top speed from the terrifying stimulus. If you’re carrying anything that weighs more than a couple pounds, you drop it. If there’s a choice of direction, you move away from what terrified you—if there are multiple paths that
+
 go straight away, you take the closest, safest or most familiar route. You run until you can no longer hear, smell, see, scent or feel the threat. (save ends)
 
 [3-4]
@@ -216,14 +219,19 @@ Freeze: You either hide and don’t come out until you’re sure the danger’s 
 == Psychopaths and Cultists ==
 
 Those who manage to gain 10 Hardened notches in a gauge are immune to that stimulus. Some individuals remain highly functioning in society even while suffering from multiple filled gauges. Others don’t cope so well. Some examples of aberrant human behavior are listed below.
+
 • Those with 10 Hardened notches in the Violence gauge are psychopathic — they hold no value to any life except their own.  This is a common trait in mass murderers and serial killers.
+
 • Those who have 10 Hardened notches in the Unnatural gauge are cultists — they either worship or obsessively seek to fully comprehend the supernatural. Worshippers of entities such as Cthulhu and Nyarlathotep often suffer from this.
+
 • Those who have 10 Hardened notches in the Helplessness gauge are paranoid. They trust no one—not even themselves, really—and are sure others are after them. 
 
 == Mental Collapse ==
 
 Every time you get five Failed notches, in any combination of gauges, you develop a serious mental problem. Getting Failed notches always represents mental discomfort, just as Hardened notches represent isolation and alienation. Every five Failed notches means that inner pain has gotten so severe that it impinges on your ability to function. You have developed an aberration. You suffers its ill effects until you lose a Failed notch. If you get another Failed notch, the problem recurs. Another five Failed
+
 notches and you pick up another.  If you get an aberration, work with your DM to pick something that makes sense. Don’t just try to
+
 get something that won’t come into play: Believe it or not mental aberrations can be fun to play. This is your chance to reveal your character’s nature through actions. Don’t waste it.
 
 ----

@@ -51,9 +51,13 @@ THREAD-BY-THREAD DISPOSITION (116 threads)
 12d7c88e2525b3d6  The Elves, Part 2 (of 3)                   ARCHIVED
 130f6232875dc003  Opening Narrative - Daggerdale 1481         ARCHIVED
 12d66d72523c786c  Dragon's Tale Inn (continuity rejig)        ARCHIVED (Travelling Company)
+
 12d5bc80ca750443  Dragon's Tale Inn (reformat)                IN UNFINISHED TALES
+
 12d62da02077f0b2  On the Road North                           IN UNFINISHED TALES
+
 12d852b8ab38f965  In the Taproom of Quick Axes                IN UNFINISHED TALES
+
 12d9b9deb10141c4  RP: In the taproom at Quick Axes            IN UNFINISHED TALES
 12db4119cf4d3844  On the Road Northbound                      DUPLICATE of above
 12d81a35fe12e6c6  RP narrative                                DM PROMPT; content in UT
@@ -94,6 +98,7 @@ THREAD-BY-THREAD DISPOSITION (116 threads)
 
 12dcf3174b6ddbfd  The Antiquities Administration              OOC campaign pitch
 12dd3db549e0420d  Administration Characters                   OOC character builds
+
 12dd359199ebfb70  Antiquities Administration Chosen            OOC level/build discussion
 12dd3d306e8242ad  THE ANTIQUITIES ADMINISTRATION (IGNORE)      OOC campaign doc
 12dd293fc109b971  VOTING ONLY - Scuns campaign                OOC voting
@@ -108,7 +113,9 @@ THREAD-BY-THREAD DISPOSITION (116 threads)
 
 12d53667644c9217  DND to come (42 msgs)                       OOC scheduling
 12dba21badaaa7e6  Daggerdale campaign (37 msgs)               OOC — group argument re campaign
+
 12d9c8d7104cc318  Sunday(s) (or Saturday?) (29 msgs)          OOC scheduling + session debriefs
+
 12dbf2b7163fdd36  Daggerdale - round 2 (22 msgs)              OOC — party restructuring vote
 12dbd4c4ee80e0c1  Proposed Guidelines for RP Threads (20 msgs) OOC meta
 

@@ -3,27 +3,43 @@
 Despite the treachery of the former Editor of The Loyalist, the News must to Press go! Today I, Thomas Page, assume the duties of Editor, as well as those of Guild Master of the Scriveners. There is much mending to be done in both of these Houses, but this cannot stand in the way of Truth, nor will it keep us from our Duty to our Fellow Men of Charity. 
 The Muloch Estate 
 With the tragic passing of Lord Muloch on 18 Marpenoth, through the treacherous cavorting with devils of Niles Gideon, our town experiences for the first time since Founding, the complications of primogeniture and the fading of a great House. Below the Loyalist accounts for the remaining claimants to the Estate, and attempts to unravel the complicated issue of how it shall pass, and to whom; 
+
 Morgan Ferguson (ne Muloch) – MIDDLE SISTER of Basil. Mrs. Ferguson is married to Benjamin Ferguson, and has by him one son, namely 
 Godwin Ferguson (A MAN OF 26 YEARS). 
 Arthur Whitmore (A MAN OF 30 YEARS), son of Chelsea (ne Muloch, DECEASED, and ELDEST SISTER of Basil). That Lord Muloch favoured this nephew is no secret. 
+
 Samantha Falconer (ne Muloch, -YOUNGEST SISTER of Lord Muloch). Mrs. Falconer is married to Lord Falconer, and has by him two sons, namely 
 Oswald Falconer (A MAN OF 20 YEARS) and Byron Falconer (A MAN OF 19 YEARS) 
 The complications to the settlement of this estate are many, and are inventoried below; 
+
 First, that there has never been an issue of succession or primogeniture in Charity, with much praise to Siamorph. 
+
 Second, that there are no direct sons beneath or brothers beside the Departed Lord Muloch Third, that the eldest sister of Lord Muloch is herself Departed 
+
 Fourth, that the youngest sister is herself married to an Earl, but that her sons are younger than that of; 
+
 Fifth, the eldest extant sister has a son more senior that those of her nephews Sixth, that eldest male with Muloch blood has no surviving parents 
+
 This entire matter would be enough to confound the Star Chambre of Westgate, to be sure. As such, it is no surprise that LORD CHANCELLOR FERGUSON has put the estate under probate for 66 days, as per the Ancient and Correct Lawes of Succession, which were brought here bound at Founding. That the estate hasn't passed to Arthur Whitmore, eldest extant living male in the line, and favoured nephew of Lord Muloch, indicates that there are nuances that only Landmen can appreciate in this matter. 
+
 It has been suggested that the matter may indeed be brought to the Star Chambre for settlement, and that new Letters of Patent may be drafted and signed by King Verovan II himself! 
 WANTED: A TRAITOR MOST FOUL – Mr. Niles Gideon 
 With thanks to the White Cloaks of Dagger Falls, the demon-copulating Mr. Gideon was exposed for the traitor and villain that he is. It was he who invited demon-bred orcs to trouble the lands about Whitenhead Ruin. It was he who, in a most cold and brutal stroke, murdered his own young, beautiful wife, Sarah Gideon. It was he who orchestrated a Felony of Souls, a crime so terrible it is difficult to even put to press. The Loyalist has been assured by Mr. John Constable that Mr. Gideon also played a key role in the death of Lord Muloch, though he is not at liberty, or has not been made privy to, any further knowledge on the matter. 
+
 On the 20th of Marpenoth, Mr. Gideon fled our town, knowing that the White Cloaks were returning from Whitenhead with the knowledge of his treachery. He was seen leaving the Charnel Gate in the evening, with 6, perhaps 8, other men. Mr. Constable reports that his guards suspected that 2 men were 'drunk' or otherwise out of their wits and were being carried along by others in the retinue. 
+
 The Loyalist now suspects that the two 'drunk' men were actually Mr. Walter Keystone, Free of the Merchants (and Guild Master of the same) and Speaker of the Common Assembly, and Mr. Percival Silver, Free of the Fine Smiths (and Guild Master of the same). These men were both later reported missing, and subsequent investigations by Mr. Constable revealed that the offices of both men had been the scene of violent abductions. 
+
 LORD CHANCELLOR FERGUSON has placed a bounty on Mr. Gideon; 250 crowns for his head, 500 crowns for him to be delivered intact. 
+
 The Merchants' Guild is offering 100 crowns for the safe return of Mr. Keystone. The Fine Smiths is offering 50 crowns for the safe return of Mr. Silver. 
 By ACT of the ROYAL ASSEMBLY – License is Given to New Free Men 
 Surely by now, the heroism of the White Cloaks of Dagger Falls is well known to all Men of Charity, Freemen, Middlemen and Landmen alike. Even though their deeds are measured differently by many of our citizens, there can be little doubt that it was them that discovered the treachery of Mr. Niles Gideon. No questions can be raised about the outcome of their investigation, even though many questioned their authority to conduct such herein. Despite mixed feelings from our citizenry, the outcome of their work has been evaluated not only by popular opinion, but by Ecumenical Council and Royal Assembly alike. 
+
 Throughout the 20th of Marpenoth, guided by a Divine Rite brought by the White Cloaks, the Sisters of Charnel Priory managed to save the souls of two of the victims of Gideon's Treachery. Happily, the details of the Rite are known only to those Sisters and victims unfortunate enough to have endured it, and the Loyalist prefers to keep it at that. Even before the last Rite was completed, and that last Soul in Peril was rescued, the Divine Elders of Charity were organizing an assembly to investigate this matter in detail, and to assess the role, and the culpability, if any, of the White Cloaks. Meeting late in the day of the 20th, Ecumenical Council, led by Mattias Greylord, found the White Cloaks to be free of any culpability, and in fact forwarded a petition to the ROYAL ASSEMBLY to make the White Cloaks Free of the Ecumenical Council. 
+
 The ROYAL ASSEMBLY met later that same night, at the behest of Mattias Greylord, to discuss the petition for citizenship. Olthough there was reportedly heated debate on the matter, LORD CHANCELLOR FERGUSON ultimately ruled that the White Cloaks would be granted citizenship, and be declared Free of the Ecumenical Council and Act of ROYAL ASSEMBLY. 
+
 The proceedings for this Act followed early this morning. Happily attending the brief legal ceremony was Mattias Greylord and most of the Divine Elders. Ecumenical Council, it should be noted, is not often named to attendance in these rare notarizations, but given the circumstances, it is not surprising that it was so in this case. 
+
 Making residence in Arwencroft, the White Cloaks will be staying in our Faire Towne for an indeterminate period of time. Invitation to Arwencroft can be gained through appointment with Flora Scarlett (late of the Old Fort), who the White Cloaks have retained as Aide de Camp for the duration of their stay. Needless to say, the Loyalist is grateful for the White Cloaks and their selfless, perilous service to our Towne. Eftsoons of helping the Dalesmen of Dwimmerholme, we are grateful for their presence and heroism here in Charity, and wish them Gods' Speed wither next they go.

@@ -89,6 +89,7 @@ A Fragment…
 
 Vader was happy to get a hold of Teskul. Why?
 Teskul was not working under Aldebaran. Perhaps because he felt he had been passed over, and held a grudge.
+
 Teskul was working for Aldebaran in the same capacity he was for Thagdul, and Vader was sincerely relieved to get him before Richter
 Teskul (as Sal Worthingham) had hired Grimwald’s Rangers
 Jafar sold the information to him about who was who
@@ -114,4 +115,5 @@ Woman named Sylkie was asking about Agamemnon
 Someone had been followed by a grey-clad rogue
 Nero’s thoughts
 The remnants of Ersgul and Drurginz have united, as evidenced at Gideon’s warehouse
+
 More likely that Gideon tried to double cross “the Boss” and Ebola, so he was rubbed out. All that were in league with him suffered the same.

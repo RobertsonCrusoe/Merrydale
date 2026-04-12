@@ -90,6 +90,7 @@ After this raid, Magistrate Thuman shows up, with Watch Wizard Sabrel Lightstar 
 
 === A Rainbow of Carnage ===
 thumb|350px|An exhibit from Filiare's submission to the Waterdeep Public House and Innkeepers' Surety Co-operative
+
 The next day, a note from Yarkul is found stuck to the door of the CRH HQ, demanding an answer from the heroes.
 
 This is how one of the messiest battles in Waterdeep started. Of course, the adventurers had no intention of showing up at the Dripping Dagger to switch sides - Thagdul had been good to them so far, even if they did not quite trust him - but they did intend to show up.

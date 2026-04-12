@@ -3,6 +3,7 @@ This is a dream that Alystair Dretch started having shortly after he came out of
 ---
 
 You are standing atop a high mountain on the eastern side of the Desert’s Mouth Mountains.  From your high perch, you can look out into the Tesh Valley and see the fertile farm-fields and the lush forest that bring beauty to the valley.  
+
 However, before too long, you notice that there are a couple of black spots in the woods.  They appear to be dead trees, but they are not grey like a normal dead tree, but rather pitch black.  These trees begin to appear in more and more places, and over time a pattern appears; as more and more trees turn to black, they begin to form venous looking networks that all snake back towards the town of Dagger Falls.  The town itself is covered in thick black clouds that rain a purple and black rain.
 
 You blink, and you are in the town.  You are in the black and purple rain, and where it touches your bare flesh you are numbed; it is disconcerting but somehow pleasing too.  You have to shake yourself in spite of this sensation, and say a small prayer to Amaunator to grant you your senses and the strength to endure the black soothing rains.

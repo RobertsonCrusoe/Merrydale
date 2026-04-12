@@ -11,14 +11,19 @@ Jannus Dale - Retired Sunblade, sword, board and spear
 Team Chrysalis:
 Jeska P’ijonne – Team Leader – Whisper elf solicitor and swashbuckler
 Ser Rowan Grimbold – hired mercenary, a very strong, very fat former knight, has a short temper
+
 Jasper Oakdale – a farmhand-turned-rustic human wizard from Shadowdale. Young and innocent.
+
 Lucan Alavandor – the scion of a major criminal family in Saerloon, Sembia, He is a treasure hunter and duelist seeking his family’s wealth
+
 Marigold “Mari” Thickwickle – a halfling grandmother and cleric of Yondalla, a healer
 
 
 Opening Moments
 Ser Rowan starts off jumping towards the flag, enchanted with a potion of leap. Mari scurries forward on her little halfling legs.
+
 Lucan gets hit by an arrow, perfectly shot by Zelia Oakbough. It is only thanks to the magistrates judging the tournament that he is not killed outright. He is knocked unconscious, however, and what is more, the arrow is a trick arrow with a “tanglefoot bag” attached that binds Lucan’s prone form so that he will be hindered when brought back to consciousness.
+
 Ser Rowan's heels dig into the dirt in hesitation when he sees that. Mari yells, "Just go for the flag! I have Lucan!". Mari runs back and calls on Yondalla to save Lucan, and he is healed. He spends time pulling the tangles off of him so that he can stand up. Starting off the battle on a dire note will make for a great song.
 
 Ser Rowan's Arc
@@ -32,7 +37,9 @@ This will be one of the good ones. Jasper the wizard tried to cast a grease slic
 
 Lucan
 During this time, Lucan had been shooting arrows at Zelia and Alexandus, trying to knock them out of the fight. Many of his shots hit, but Sara Hilltop kept healing her comrades, bringing them up to full health. Alexandus very quickly lost his temper and tried to fight a spell duel with Jasper, but got tripped up by the monkey, which flung dung at him. Lucan grabbed the flag and ran with it towards the Chrysalis moat, then threw the flag back onto the Chrysalis island to keep it away from the other team. A
+
 t that moment, the Dale brothers were closing on Ser Rowan atop the mountain, but he managed to knock one down. Jeska took aim at the other brother, but Ser Rowan was blocking the shot. She leaned this way and that, trying to get the shot. Maybe she even yells out at Rowan to get out of the way. Finally, she jumps on the fence to get a better shot and says to herself, "Show me your heart, stag," before loosing the perfect shot to knock the second Dale brother out of the fight.
+
 At that point, Tara Hilltop ceded the match, and the Whitecloaks made a gamesmanlike exit, with the exception of Alexandus, who, as a highly trained graduate of the college of War Wizardry, was insulted at having lost a duel to a “hedge wizard” like Jasper, and to have been splattered with monkey dung to boot
 
 Chronology:
@@ -47,6 +54,7 @@ He grabs the flag and leaps up the "mountain."
 Jeska's Defense and the Dale Brothers' Action:
 Jeska tumbles around to protect the flag, mocking the Dale brothers.
 One of the Dale brothers crosses the moat, grabs the flag, and throws it to his brother.
+
 The brother who receives the flag is targeted by Jasper's grease slick but makes it up the mountain with the flag.
 Jeska is then knocked into the water by the Dale brother.
 Jasper's Counterattack and Monkey's Role:

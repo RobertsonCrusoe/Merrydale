@@ -14,7 +14,9 @@ Despite that, the world is waking up again, from its long and troubled nightmare
 
 At one of these tables sit an interesting trio.
 1. Beliard Emmarask, envoy from Cormyr, on his way to Castle Radiance to replace a low-level bureaucrat there, who's service obligations are concluded.
+
 2. Tyrian Grey, the paladin of Ilmater, who has likewise been tasked with going to Daggerdale, where he is to earn his knighthood.
+
 3. Carpathia Twist, guide and hunter, who is leaving The King's Forest for her own reasons, and likewise heading north, to the dales.
 
 Beliard, who is quite astute, has noticed that Tyrian has the vocabulary and mannerisms of someone who has spent much time between various polities, and is drawn to him. It isn't long before he figures out that this is one of the Scions of the ill-fated Achres family.
@@ -49,6 +51,7 @@ The road north from here, the Moonsea Ride, lay ahead. Tyrian had taken his turn
 Opening the doors of the ‘Gate, Tyrian was stunned to discover the tap room nearly empty. In truth, this had been his first entry into this place despite the many times he had been to Arabel. In the past he had always been housed in the garrison within the walls and had had no reason to mingle with the merchants, pilgrims and assorted other travellers that congregated here. He knew this was the place where all voyages north began, and he had expected a rollicking and rowdy tavern. Even the refectory at the House of Ilmater in Westgate was more boisterous than this room.
 
 After quickly arranging stabling for his horse and securing a private room and a bath, Tyrian retired without a glance back at the tap room, ashamedly longing for his first sleep in a real bed in almost a year.
+
 Very early the next morning, cleansed and refreshed, Tyrian set about exercising himself and his horse, watching carefully as the sun-worshiping patrons of the New Pride went about their morning adorations. Tyrian had never quite understood Amaunator and his worshipers. He had been well schooled in theology when he had trained for the priesthood, and knew about all the faiths of Faerûn. He knew enough about Amaunator to know that he did not really trust him or his clergy. While their devotion to the fight against the world's evil was admirable, and while he had found the pilgrims he had met on the road to be genial and affable on the whole, there was a certain element of trickery and misdirection at play in the faith's history, and its clergy's dealings with the people which had always given him pause. The heavy-handedness he saw in Marsember and that he had heard existed in Daggerdale added to his skepticism. It may be the same god as Lathander, as they claim, but whatever the case may be, Tyrian was sure that the truth was one thing Amaunator did not shine too brightly on.
 
 Re-entering the roadhouse, Tyrian made his way to one of the empty tables for breakfast. Before he could get there, an impeccably dressed, middle-aged man made a discreet attempt to get his attention. Before long, Beliard Emmarask, newly appointed Cormyrean envoy to Castle Radiance, was sharing pleasantries of tales of life at the Court of the Purple Dragon, and trading names of mutual acquaintances and friends.
@@ -63,6 +66,7 @@ Tyrian approached the table and was about to open his mouth in greeting to Belia
 Tyrian listened to the orator's words enthralled.
 
 "...He pauses for a second, then his eyes brighten. Turning to gesture at a wide-eyed Tyrian, with whom he has exchanged only some pleasantries so far, he continues: "In payment, I can offer the sword and strong heart of this fine young knight, for he tells me that he, too, is bound for Castle Radiance." He claps Tyrian on the shoulder. "This young man, whom I know to be a fine and noble man, has sworn an oath of anonymity, and may not name himself until he has found Azoun's Lost Crown!"
+
 Too perplexed from this last statement, Tyrian lets it go, mesmerized by the demagogue before him.
 
 In a stage whisper, he adds, "I can, however, tell you, good master, that this man is a favourite of the White Prince. His glorious future is assured, and the favour of your service is sure to pay off in spades!"

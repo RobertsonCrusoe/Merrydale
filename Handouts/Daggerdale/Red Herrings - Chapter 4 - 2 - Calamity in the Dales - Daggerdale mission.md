@@ -21,6 +21,7 @@ arrival in Rassalantar at noon
 party tension between Maturin and Hanibal
 We learn that a 20-man caravan disappeared outside of town, horses ran in
 Corrina wants to talk with the horses, meanwhile Boregar, Raven and Maturin head to talk to the guard captain, Gatesmor, and head out to investigate
+
 exploration of an ambush site: chaotic tracks.  It appears that 30-40 booted humanoids simply
 appeared
 out of nowhere and moved in from the east.
@@ -122,13 +123,16 @@ Mirtul 17
 breakfast, then Maturin goes to heal an elderly local who has been sick
 Corrina goes to the inn
 casts charm on the innkeeper, then goes into the pigeon coop where a winged snake is ringing a bell.  It asks her name, then flies away
+
 From a pigeon, she learns that the snakes are used to take messages across the desert, about two days to get to the destination.  She arranges for the next pigeon message to go to Durnax
 s tower, instead
 Red Shields and Moonwheel caravan are going to be heading east, through the desert
 Garrick is going to be heading west
 Dorian sells our extra horses and we head out
 At night, we arrive at some stone ruins, wear about a dozen men are camped.  Maturin senses evil, and Dorian leads the parlay, introducing himself as Tristan of Shadowdale
+
 Fight starts anyway, and a mage named Cauldrawn is dropped by Boregar, and a priest of Cyric named Duncan Eldoun, leader of the Ebon Spur
+
 we beat them, find a note to Cauldrawn dated Mirtul 2 (!) identifying Raven and Boregar
 Mirtul 18
 arrive in Loudwater at the Smiling Satyr
@@ -316,6 +320,7 @@ they had come to track down some fugitives
 an overheard conversation:
 In the meantime, no one leaves.  If any of these men try to leave, kill them.
 Captain Aegis and his two lieutenants have problems with that, what with orcs in the hills
+
 Sparrow assassinates Dragonwing (Singe?), scoring a cloak of moderate enchantment with a symbol of Kossuth on it, and two long magical knives (minor enchantment)
 Eleint 14
 45 men and one riderless horse leave for Dagger Falls
@@ -376,6 +381,7 @@ preparations for the return journey
 Harvestide
 news: orcs have taken the mines along the Tethymar trail
 First Harvestide Festival; First Lathanderite ceremony, Rule Thunderstorm, the First Feast
+
 Departure from Dagger Falls, Cormaeril accompanies us for the first couple miles, then bids us godspeed
 Marpenoth 2
 ambush by Hill Giant and ogres (Fist companies
@@ -389,6 +395,7 @@ a horrible-looking tree is talking to us.  Fight with the directors and the over
 we are saved by the Entropists from Chessenta, Amon and Zuth
 tell us that the beholder amulet is protection against magic missiles
 there is discussion of the beholder staves, we give them the names of Thagdul, Beljuril and Jafar
+
 We learn that Xulla and Zantiid are second-rank beholders.  These two are hunting
 The One
 , which is the big daddy beholder

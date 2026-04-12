@@ -39,6 +39,7 @@ And with that proposition, Ser Rowan Grumbold, the "former Purple Dragon" with a
 Reactions:
 Les: "Love this!"
 Gus: "Can't wait to meet him! And then to stand behind him, keeping him between me and the bad guys at all time."
+
 Todd: "I've got a guisarme just in case someone tries to get too handsy with our mage."
 
 ---

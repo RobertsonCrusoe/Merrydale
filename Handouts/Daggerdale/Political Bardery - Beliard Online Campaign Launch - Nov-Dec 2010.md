@@ -65,6 +65,7 @@ Motivations:
 Right now I'm happy for his "secret" orders (as a Sembian patriot) to be as follows:
 
 1) Get to Castle Radiance, and gather any intelligence you can on the relative strengths and weaknesses of the interests involved
+
 2) If war is likely to break out, do what you can to make it happen. War among our enemies is good for us and good for business.
 
 As far as his "official" orders (as a Cormyrean diplomatic attache):

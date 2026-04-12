@@ -52,10 +52,13 @@ This got me thinking about the other Wizardly staple that is Magic Missile:
 System          Missiles   Damage (avg)   Enemy HP (L5)   % HP Lost   Notes
 ------          --------   ------------   -------------   ---------   -----
 B/X             3          13.5           ~22.5           ~60%        Very strong
+
 AD&D 1e         3          10.5           ~25             ~45%        Solid strike
 AD&D 2e         3          10.5           ~25             ~45%        Reliable
 D&D 3.5e        3          10.5           ~40             ~26%        Weaker vs SR
+
 D&D 4e          --         6              ~50             ~12%        Weak at-will
+
 D&D 5e          3          10.5           ~50             ~21%        Good finisher
 PF1e            3          10.5           ~45             ~23%        SR applies
 PF2e            3          10.5           ~60             ~18%        Modular use

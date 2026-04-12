@@ -1,13 +1,21 @@
 DDC – Chapter Five – Foreword and Summary 
 Wherein the lost city of Tethyamar is discovered and attempts to reclaim it begin, with difficulty. 
+
 With the threat of the Dark Garden eliminated, and the full-scale war on the front with Netheril temporarily abated, focus now turns to the gates of Tethyamar, and the opportunity to secure a powerful ally for the dale. 
+
 Tethyamar was old before the dale was young, though it was abandoned for nearly 300 years before this chronicle began, its legend was never dim. Adventurers and others have searched for it for centuries, but it was the wizard Thagdul that found it in the 1300's, and the White Cloaks that unveiled this discovery a hundred years later. 
+
 This chapter is brief, and far from over. Tethyamar is vast, and the reclamation of it has only just begun. I am sure there will be another chronicle about this effort began soon, and in fact, my friend up at the Castle has already offered to write it, when his venerable order sees fit to relinquish him. But let me get to the synopsis here (it's brief). 
+
 The Eastern Gate of Tethyamar (on the Dale side of the mountains) is opened by the White Cloaks in 1480, during their conflict with Deadnettle and the Dark Garden. Already a political presence at the Castle, the Tethyamar League is alerted to the find, and sends word to the 13 clans spread across northern Faerun, and they begin the migration home. 
+
 Tethyamar is found inhabited by various hosts of evil subterranean creatures, and worse yet, word of a possible Western Gate (on the Netheril side of the mountains) becomes the focus of scouting and military activities with Netheril. Daggerdale desires to have the dwarves retake Tethyamar, and the Western Gate, so they too will threaten Netheril. Netheril wants quite the opposite, as one could imagine. 
 The actors in this part of the story include; 
 The White Cloaks – who are now expanded to two teams, and struggle to meet all of their obligations. Allied with prince Tezster Gellinson, they delve deep into Tethyamar, and uncover the Caulderwell, a vitally important asset for the success of the resettlement. 
+
 The Redjacks – a rival company based in Castle Radiance, run by Hastle Redwater, a man of barely-tolerable character but capable with regards to running a mercenary company. The Redjacks ally themselves with prince Tasster, and take a brute-force approach to taking the Upper Halls, with measured success. 
+
 The Kingdom of Tethyamar – the first organization in the dale representing the kingdom was the Tethyamar league, established by Tezster nearly 20 years ago, and lead by the capable dwarf known as Gambledin, this organization was recast after the discovery of the East Gate as the Emissaries of the Kingdom of Tethyamar, again with Gambledin at its head. The Kingdom itself is currently overseen by the Council of Silver, which is made up of the most senior member of each clan outside Iron House, from which the princes Tasster and Tezster originate. As such, I'm not sure we could call it a 'Kingdom' in the traditional sense yet, but I am certain that will change in the near future. 
+
 Again, the final pages of this chapter are far from written. It may be hundreds of years after I'm gone before the events they describe even happen. But I think I've given an overview of the strategic importance of the dwarven kingdom and its relationship to the dale and her enemies. 
 -GFD

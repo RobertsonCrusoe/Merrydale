@@ -2,8 +2,11 @@
 
 30 Alturiak, 1483 DR.A Call for Bravery, Endurance and Honour! 
 By Order of the Governors Assembly, at its Seventh Sitting, Alturiak 21-29, 1483 DR, the establishment of the Thistle Ridge Reclamation and the creation of and authorization for the Adjudicating Committee to oversee the Reclamation is hereby announced to all citizens of Daggerdale, and all her allies notified forthwith. 
+
 It is the will of the Assembly that a Company of suitable capability and virtue be Chartered to Reclaim the settlement known as Thistle Ridge Farm, to secure its walls and other properties, to hold and defend those properties from enemies current and future, and to see to the growth and prosperity of that settlement. 
+
 The Adjudicating Committee, which is composed of i) Bishop Whitegate, ii) High Cultivar Oakdale, iii) Mayor Cassimar, iv) General Thunderstorm and v) Ambassador Whitmore (Charity), will receive applications from organizations with a Charter Militant, and those seeking a Temporary Charter Militant for the purposes of this endeavour.  They will select the 5 most suitable Companies and pit them in competition to test all the skills needed to carry out the Reclamation. 
+
 The successful team will be given a Temporary Settlement Charter which will give them authority for the following; 
  
 To clear all hostile creatures from Thistle Ridge Farm and its surroundings. 
@@ -33,7 +36,9 @@ Establish trade relations with neighbouring communities, including the maintenan
 
 
 If the holders of the Temporary Settlement Charter accomplish these goals by the Feast of the Moon, 1485 DR, they will be granted a Permanent Settlement Charter, which will enshrine Thistle Ridge Farm as a member of the Daggerdale Concordat, complete with a seat on the Governors Assembly. 
+
 Application to the Competition can be submitted to Clerk Marlee Willow in Governors Hall. 
+
 The successful company will be expected to manage nearly all the affairs of the Reclamation and growth of the Farm under their own strength of arms, with their own coin and personnel.  The Adjudicating Committee is authorized to lend the following support, which it will fully fund until the Feast of the Moon, 1485 DR; 
  
 One Platoon of Sunblades, to be formed apurpose, to be Recommissioned as 7th Sun Blade Bright Spears, 4th Platoon, under the command of Lt. Forge Farmountain and such junior officers as he sees fit. 

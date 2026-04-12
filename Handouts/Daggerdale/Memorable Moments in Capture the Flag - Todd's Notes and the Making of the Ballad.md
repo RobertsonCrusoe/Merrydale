@@ -1,4 +1,5 @@
 Memorable Moments in Capture the Flag - Todd's Notes and the Making of the Ballad
+
 by Todd Burry (as Ser Rowan/Mari) and Stephen Robertson (as Beliard Emmarask/Lucan)
 Email thread: "Memorable moments in capture the flag", 18-19 Feb 2024
 

@@ -24,6 +24,7 @@ His plan is:
 1. Get rid of goblins so we can reach the necessary locations to gather information
 1a. Liberate the slaves
 2. Gather information about Shades and Shadowfell and the threat looming over this Dale and beyond
+
 3. Liberate the girls from their curse, as well as any other victims suffering in undeath
 4. Find out what Mouvranesh's plan is for Daggerdale
 5. Stop her, then return home to Shadowdale

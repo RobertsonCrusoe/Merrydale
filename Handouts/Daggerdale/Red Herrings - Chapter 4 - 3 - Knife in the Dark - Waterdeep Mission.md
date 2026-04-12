@@ -53,7 +53,9 @@ that a Dalael caravan was waylaid and will be shipped from Dockward on the 7th o
 s head was involved
 Mirtul 5
 Nero discovered that a fight had occurred between what seemed to be drow and lycanthropes the other day
+
 Lotharil repaired his reputation at the Elfstone Tavern and puts the word out that He Is Here.  Gets some free elvenquist.
+
 Dinner: Marcus, Lotharil, Steele, Rychel and Nero* meet with Agamemnon and Jeryth Phaulkon at the Dripping Dagger, the situation is explained
 *Nero goes by the name Jakob
 Mirtul 6
@@ -76,6 +78,7 @@ Thebald Rockfist (Plumbers: Bowels of the Earth)
 [tentative date]
 Nero investigates Margasters:
 Thentias Margaster has a daughter named Airlestar (involved with Dragon, somehow)
+
 Nero wants help hunting the drow, finds out about Mr. Lockheed, writes him a letter, leaves the note at
 Blethyr
 s Abacus (Northward)
@@ -113,6 +116,7 @@ Mirtul 12
 meeting with Kendal Throne at Felazure
 s Folly
 apparently, Nero has signed his merry band to work for Kendal Thorne and his Zhentish crew.  Steele appears unstable
+
 Nero arranges for a Carter to get the drow body to Gregor, who we hope will interrogate the drow.  Unfortunately, he won
 t be able to for two weeks.
 dinner at Felazure
@@ -138,6 +142,7 @@ s group
 The body is Teskul
 Nero takes his knife
 Llianin vanishes and follows Vader to the building south of DW15 where Teskul is deposited.  Llianin suggests that the old thief turn over the body and forget the whole thing.  Unfortunately, she is soon mugged, and the body vanishes
+
 At the Copper Cup, Lotharil lets Esperel know that he is suspected by Steele and Nero of dealing with the drow, and that if Lotharil finds out the same, Esperel is dead
 Lotharil watches the back of the Unicorn
 s horn until 4 am, see
@@ -191,6 +196,7 @@ Find out why E.M. died  (Ersgul Mlshul?)
 Stop the Drow incursion (impossible)
 Stop the Zhents
 Best plan: ally with the Zhents against the drow.  Once the drow are neutralised, we turn on the Zhents and eradicate them, then set up our own Thieve
+
 s Guild in order to ensure that neither Zhent nor Drow power reasserts itself in the city.  Fill the vacuum to prevent the Zhents and drow from filling it.
 Gauntlet
 in hiding after someone killed his wife

@@ -4,6 +4,7 @@ Rectification: Holy Triumvirate (Torm, Tyr, Ilmater) to unite a force to meet th
 William Moorstone		Crusader of Torm
 Malerix of the Moonshaes	advisor to Moorstone
 To deliver a message to the High Battle Chaplain Gordon Stakaria of Tempus in Archenbridge to lend his forces to those of the Triumvirate
+
 Ellendil			ranger hired by Temple of Tyr in Highmoon to rescue William and Malerix
 Ramagar of Highmoon	Paladin of Tyr sent to ensure safe delivery of William
 s message
@@ -28,6 +29,7 @@ The company does mainly local runs if they send and receive 1-2 wagons a
 day and employee only 70ish people at 10 employees per shipment.
 Forecast
 The company will be eager to get things out once the trade barrier lifts.  Probably all wagons will leave, putting the office at a minimum population and ripe for some interior reconnaissance.
+
 A lot of employees will probably be taking up residnence at the Hanged Hobgoblin as wagons arrive and space comes to a premium.  Good for information retrieval.
 Guards say:
 They come and go as they please (i.e. they pump money into the local economy and are not to be trifled with)

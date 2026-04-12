@@ -53,9 +53,11 @@ The others have moved on ahead, while I am staying here, to watch for our pursue
 Later...
 
 It is certain beyond doubt. Three of Grimwald’s men have followed us from Roarke’s. Still, I’ll wager they are regretting it now.
+
 I watched this morning as the three of them – Tuugan Voun, Shellwynd Thann and Derrick Swift – calmly trotted up to our campsite on some beautiful horses, then dismounted and quickly examined it. They didn’t notice me, no doubt taking my tracks for those of an animal that was hunting for some spare crumbs at the campsite.
 
 They proceeded ahead, being careful, it seems, not to overtake our party, while I shadowed them just off the trail. One of the benefits of Selûne’s gift to me is the ability to speed through the underbrush, and I have put this blessing to good use this day.
+
 Evening came, and my quarry set up camp at the edge of a copse of trees just off the main road, not half a mile from my friends. I continued to watch, and it seemed that the men were preparing for some kind outing, as they made no motions that would indicate an early night.
 
 It wasn’t long however, when clouds started coming in from the west, as a cold wind moved in from the ocean. Rain tonight, it seemed. This gave me an idea.

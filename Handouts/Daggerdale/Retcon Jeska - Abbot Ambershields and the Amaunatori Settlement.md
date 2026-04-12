@@ -20,6 +20,7 @@ Abbot Aldrus Ambershields. His words to her....
 "I Have a small flock of Amaunatori that are looking for a fresh start. We aren't exactly like your local sect, but we're good people, industrious and devout. We could build you a church and a hospital if you could give us the land. We could pay a modest tax on the property, if that's what's done."
 
 He is traveling with 2 other young abbots, and 3 Cormyrean families (a total of 17 people plus himself).
+
 Jeska had a very good feeling about him, and realized that he will fill the need to build a temple to Amaunatori, without introducing the complicated hierarchy of the local church. He seems very pastoral, rather than militant or rigid. And they travel with a few wagonloads of supplies, including quite a bit of stuff for building and stocking a small hospital.
 
 Jeska has agreed to his offer... and had a Pilgrims Feast arranged at the Embassy (Rance would meet everyone).

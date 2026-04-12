@@ -1,6 +1,7 @@
 Marpenoth 5, 1481 - From the Journal of Nathan Gale 
 Notes from GFD: 
 I have been fortunate enough to have shared with me the journal of Nathan Gale, which was sent with a package of other White Cloaks possessions from Charity, after the unfortunate conclusion of events there. There is much to be said about Mr. Gale, 
+
 and we hope against hope for his (and others) return. He was a wonderful writer, and it would be a treasure to have more of his hand. 
 -GFD 
 Marpenoth 5, 1481. 
@@ -15,6 +16,7 @@ Such discussion, however, was put on hold at the growing pitter-patter of tiny f
 (Before we went to sleep tonight, Lady Blackmane explained that many of the children were orphans from a place called Liberty Hill, which I'm vaguely familiar with, but which few want to discuss.) 
 
 The clamour died down almost as quickly as it had begun, however, with a high-pitched whistle cutting through the shouting as though it were the sharpest of blades. The children quieted down and sat themselves on their hands and their bottoms, eyes turned towards the doorway they had just emerged from, faces puckered with anticipation. The abrupt silence was broken once more by the arrival of Administrator Reks and Lady Blackmane on his arm, which she seemed less than enthused about to those of us capable of noticing any hint of emotion hiding amongst the statuesque expression on her pretty face. Alen, in stark contrast, was smiling brightly as ever. The elf was well dressed and cut a dashing figure as he escorted the Lady to her seat, afterwards slowly making his way to the head of the 
+
 table and his own cushioned seat, eyes rolling steadily over the accumulated faces on both sides of the table as he did so. 
 
 Without a word, Administrator Reks reached into the folds of his jacket, withdrew what appeared to be a small bird, and tapped the top of its feathered head with two delicate fingers. The creature whistled once more, a different but equally high-pitched tone as the one from moments earlier, and within seconds servants were sweeping into the dining hall carrying trays and saucers laden with a variety of delectable meats, vegetables and breads still steaming from the oven, placing them one-by-one in front of the occupants of the table, with the sole exception of us five. 
@@ -36,6 +38,7 @@ For nearly fifteen minutes Alen and the children were at it, enjoying their dinn
 And he affected a shocked expression. 
 
 "But what do you mean, Administrator? Which is how I will be addressed from this point onwards, owing to the fact that you lot are now official auxiliary members of the White Cloaks, designated White 
+
 Cloak Bravo team. The current state of the White Cloaks leaves much to be desired in terms of competent bodies. As such, you five have proven yourselves to both be competent in battle and in possession of said aforementioned bodies. Therefore, I consider this entire endeavour a success. You'll be walking in the footsteps of giants, my friends, and therefore I expect at least an ounce of professionalism and decorum when representing the White Cloaks. What we stand for, what we hope to accomplish, and the means we go about doing it -- all of these reflect not only individuals, but the company as a whole, and therefore I expect you lot to act in an... approvable fashion. But I digress. This has already been explained to you before the tournament. Pay and lodging and all that contractual nonsense will be hammered out in your absence." 
 
 For a moment, Alen's eyes acquired a blank stare, as though he had fallen off his carefully laid path. He looked to Blackmane. Her heavy lids lowered a smidge as she regarded the Administrator, shuddering beneath a generous measure of disdain. Reks clapped his hands with delight, train of thought restored. 
@@ -51,7 +54,9 @@ The Administrator leaned forward and gazed at us over the smooth crest of his kn
 "At the conclusion of this briefing, you will make your way to the servants' quarters in the western wing of the Close. There you will change into appropriate attire for a group of individuals travelling by caravan. Outside you will find three carts laden with nothing of any particular interest to anyone. You will take these wagons north to Dwimmerholme Farm at a casual pace, and once you arrive you will acquire lodgings at the Amber Heart Inn and rest there. You will make contact with a liaison of mine and she will assist you in your... investigation." 
 
 "I'm sure you're aware of the recent slew of disappearances and abductions taking place in the region. Dwimmerholme is the most recent lead we have on these happenings. Your objectives are two-fold. 
+
 First, you will be investigating the disappearances of three families worth of townsfolk from Dwimmerholme Farm. Finding them and, if necessary, rescuing them is top priority. Their safety is paramount. Second, in the process of finding these individuals, you will be investigating the rumours of Zhentarim activities in the region. Encountering such individuals is a definite eventuality that you will have to be prepared for. Subdue and question them by any means available to you. The safety of the dale depends on it. For the good of Daggerdale, we need to know where they're operating out of, what they're doing, and how they're doing it. If you have any questions, now is the time." 
+
 We basically packed our things, and prepared to leave before the break of dawn, and I now weary, must lay down my head 
 Further Notes from GFD: 
 As it happens, I have the note that Reks had given his new sergeant, and I include it as part of this entry, mostly for the purposes of entertainment, and to illustrate the nuanced nature of the Administrator. 
@@ -72,6 +77,7 @@ I must stress the importance of keeping a low profile while on this investigatio
 I trust you to go about your business intelligently. I'll leave the execution up to you. 
 
 At the Amber Hart, order a Truestar Special. Stuard will take that as a sign that you're a White Cloak. It's been pre-arranged. Give her the letter. Be discreet. She will point you in the right direction. I've paid her enough to warrant that, at least. 
+
 The smaller letter goes to the Mayor. It's a matter of fees. For services soon-to-be rendered, if you catch my drift. Right? You strike me as a catcher, yes. Alright. Again, I must stress discretion with how you go about delivering this. If you're frightened, give it to Andrea to deliver. This is imperative. The White Cloaks are a company first and foremost, and money is something we are most assuredly not made of (by the way, please make sure the carts and horses are taken care of, they are expensive and it'll come out of your pay if anything goes south regarding their condition, short of a dragon swooping down from the sky and making off with the lot of them, ha ha heavens forbid). 
 
 We are not looking to milk Dwimmerholme of all their copper and silver, leaving the farmers to fling mud at each other by means of paying for their loaves and turnips. But some recompense will be required. I'll leave it to you to hammer out the details, although I'm certain as the quality of your pay share depends on the amount we receive from potential clients, your motivation on the subject is all but guaranteed. 

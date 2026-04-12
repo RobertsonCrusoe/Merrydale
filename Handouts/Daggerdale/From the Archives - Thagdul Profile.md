@@ -1,5 +1,6 @@
 From the Archives: Thagdul Profile
 CLASSIFICATION: SECONDARY MATERIAL — AI-generated content (Claude) based on campaign wiki archives, not primary email correspondence
+
 by Stephen Robertson (using Claude AI with wiki data), confirmed by Les Blackwell
 Email thread: "Another of your masterpieces", 1-2 Mar 2026
 Thread ID: 19cab44e99ddcaf2

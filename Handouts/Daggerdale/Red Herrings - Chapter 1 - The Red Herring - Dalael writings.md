@@ -1,8 +1,12 @@
 Father Dalael, Quevin and Isilith;
 Business on the surface is recovering.  We are currently allied with a Zhent trading company called Company Ersgul (Coat of Arms inset); the Company is one of Fzoul
+
 s major arms in the west, and falls directly under the control of one of his most (or perhaps least) trusted, and powerful allies: Xulla (mark inset, though I doubt you would forget it), whom you know.
+
 The treachery of the Zhents is as abundant as we have heard.  Xulla gives us bits of information, and frequently has us raiding holdings, which we took to belong to Ersgul.
+
 Company Ersgul, as we have recently learned, is pitted against another, called Company Drurginz.  I take this to be an arm of Manshoon, but I am uncertain.  I have also inset their shield.  I am suspicious that they may have connections to one known as Zantiid.  Only by the grace of Vhaeraun was I able to learn Zantiid
+
 s mark, and live to tell of it (but that is quite another story).  Please send back any word of Zantiid
 s politics, if you
 ve any knowledge of them.

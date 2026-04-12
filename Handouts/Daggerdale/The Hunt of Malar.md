@@ -7,6 +7,7 @@ Once again, his little game was proving to be one of his most amusing endeavors.
 And once again, the little half-elven pawn had taken to his placement of pieces upon the board. The rumor of a group of wood elves in Cormanthor hunting humans at HIS bidding would be all was required to send her to them straight as an arrow.
 
 How long had he been using her in his little game? How long had she been cursing his name, hunting his followers?
+
 Yes, the destruction of his lesser minions was to be rued, but the hatred that this woman felt… her undying belief that he, Malar, was alone in the Pantheon. That he alone held sway over the lives of mortals.. how her hatred and belief gave him strength.
 
 He knew her mind. Ever since the destruction of her little village on the border of Amtar Forest, some 18 years ago, he knew her. She believed she was drawing him closer to her by destroying his followers. She believed he was being weakened, until one day he would be forced to leave his otherworldly sanctuary. She believed she was bringing him down.
@@ -51,7 +52,9 @@ Carpathia’s shock quickly waned, and with a tear in her eyes, she replied.
 “I know, but I am afraid. In my heart I wish to kill the Beastlord himself for all he has done. But my fear is too great, and I am alone”.
 
 With the last of it’s strength the Gryphon turned its head once more, to look her in the eye and gaze upon her soul.
+
 “I am a creature of life, and magic. When this body dies, my spirit lives on. I shall accompany you on your quest, that you need not be afraid. Find others to aid you in your quest, and I will do what I can to assist them as well.”
+
 With these words he pulled the last of his healthy feathers from his wing and gave it to her. “I am named Torestriwansolinath, in your tongue - Twist. Take my name, and this feather, carry them, and my spirit shall accompany you”. With that the last light slowly fled from its eyes.
 
 Carpathia to this day doesn’t know how long she sat upon that mountain side.

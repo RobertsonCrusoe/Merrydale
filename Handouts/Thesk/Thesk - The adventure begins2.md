@@ -12,6 +12,7 @@ Further searching of the area (DC 20) will find a blackmetal dagger (dagger +1
 shadow magic, some kind of undetection magic on it
 gives it a
 10 to be discovered during a search) stuck into the ground.  This belongs to Teshen, and he will ask for it back should he discover that the characters have it.
+
 One body seems to be oddly dried out and fragile, and contains nothing of note.  The other body is armed with two daggers and a short sword.  The body is badly scorched and marked with wolf tattoos.
 - figure in robe, 2 auras, one stronger than the other
 - party level

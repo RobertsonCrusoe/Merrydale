@@ -13,8 +13,11 @@ Whitegate was uncomfortable about what happened with the Alavaxi
 Many felt they had spent too much time in the shadow
 Regarding the Purple Worm attack
 He believes the Orbis Imperiosis is at large and was used to gain control of the Purple Worm
+
 The worm (and its brood, presumably) were directed with a Slave Orb that must be within 20 miles of Dagger Falls
+
 Use of the slave orb allegedly requires the sacrifice of a powerful cleric or mage
+
 The gargoyles in the Greyhame mountains were observed returning to their roosts. Population 40-50, with 20-30 adults (many of whom we took out in Dagger Falls)
 Patrols
 9th Company patrols the road, but only as far as Gandrim’s Hold

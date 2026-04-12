@@ -20,6 +20,7 @@ Unless I am missing something, which is very likely...
 Lucan needs to have a closer rethink and look at Lobelia's parentage.  From the case files:
 
 Deduction 2: Dorian's eventual elimination by Palus fits the folklore pattern regarding male offspring, albeit delayed. Palus tidied up the loose end.
+
 Hypothesis: Lobelia = Palus's daughter. Placed via changeling swap at birth into the Alavandor household. Andarl/Susserah unaware. Explains the eyes, the unnatural talents noted by Tergus (hag blood), and Dorian's eventual fate.
 
 We know twins were born to Susserah Clarandal in 1428: Lobelia and Dorian, and Dorian died in the 'hunting accident' of 1439, aged 11. Is it assumed 'Lobelia' died in 1441, aged 13, during the tragedy? But she could have been taken away by Palus and still be around right now as a deadly monk/assassin.

@@ -1827,6 +1827,7 @@ Falcon\'s Roost
 Table of Contents
 Part 1: The White Cloaks - Early Summer 1479 DR
 Tide of Darkness: A Summary of some significant events of the summer of 1479 in Daggerdale and the Netherese front
+
 Tide of Darkness: A Summary of Some Significant Events of the Summer of 1479 in Daggerdale and the Netherese Front
 Highharvestide
 Brother Cor

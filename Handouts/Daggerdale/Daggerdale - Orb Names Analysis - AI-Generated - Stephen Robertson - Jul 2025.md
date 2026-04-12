@@ -56,7 +56,9 @@ COLLECTIVE IMPLICATION
 The trio functions almost like a trinity of forbidden power — a perverse inverse of holy relics:
 
 Vortellius (Least) — "Vortex" + Latinate suffix — Corruptive object used to breed abominations — Chaos, mutation
+
 Varros (Middle) — Crooked, warped (from Latin varus) — Surrendered, cracked, destabilised artefact — Instability, ambiguity
+
 Verinius (Greatest) — Veritas, truth, strength — Powerful relic tied to saintly battle, now missing — Authority, loss, dread
 
 The juxtaposition of names and function — chaos (Vortellius), compromise (Varros), and concealed truth (Verinius) — sets up a compelling triad. But note: Verinius isn't necessarily about betrayal; its disappearance suggests not corruption but denial of revelation, or a power deemed too volatile to remain contained.

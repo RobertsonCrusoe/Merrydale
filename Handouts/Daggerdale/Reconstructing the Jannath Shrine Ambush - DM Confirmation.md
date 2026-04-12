@@ -22,7 +22,9 @@ Here's what I remember:
 5. We agree to sanctify the temple, but not to destroy it. He was fine with that. He gave us the ritual paraphernalia for the sanctification ritual.
 6. Jasper met with Coventina at the Hooded Lantern.
 7. Coventina says she overheard... Invictus? talking to who? ... with the takeaway that Alystair Dretch is gunning for the temple to retrieve an artefact, and that we have to leave RIGHT NOW to stop him.
+
 8. Lucan tries to verify the Dretch story with Administrator Reks, who dodges the question.
+
 9. As he is leaving, Lucan encounters Alexandus Ward, who says that Dretch is on his way to Tethyamar.
 10. We leave anyway, grab Ambershields on the way, and then walk into an ambush.
 

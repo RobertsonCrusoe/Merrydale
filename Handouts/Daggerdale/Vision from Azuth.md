@@ -60,6 +60,7 @@ A man of pure blackness with all the likeness of a demon stands behind the man i
 == False Awakening ==
 
 You are drenched in sweat, and thirstier than you have ever been before. You notice you are actually covered in blood, and panic. You think you hear something in the corner of the room and notice the shadowy figure of a six-foot diameter sphere approaching you from the corner. Its green glowing eye burns brightly, and freezes you to the bone. You slowly, numbly swivel in bed, about to step off. Stepping out of bed, there is a horrible crack, and pain shoots up your leg. The room goes white as the pain overwhelms you.
+
 When your sight returns, you are a boy again, sobbing in the comforting arms of the wise man. You look down and se that the outer layer of the box has collapsed on your foot like a clever mousetrap. The man, who can’t get the box off, says to you in a solemn voice.
 
 “Prepare thyself, for all of your dreams have been construed, and they all end in traps.”

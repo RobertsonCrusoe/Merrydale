@@ -4,7 +4,9 @@ Source: DND Scanned Notes / OneDrive DND Scans
 Campaign: Daggerdale (Waterdeep arc — "The Unjust Rule of the Assassin-Lord Dynasty of Waterdeep")
 Date processed: 2026-04-03
 Utility: C (redundant — content matches "The Unjust Rule of the Assassin Lords of Waterdeep.txt" in Daggerdale archive)
+
 Archive counterparts: The Unjust Rule of the Assassin Lords of Waterdeep.txt, Waterdeep News - The Unjust Rule [unprocessed notes].txt
+
 OCR notes: Two-column layout caused some reading-order issues in OCR. Minor artifacts corrected.
 ---
 
@@ -733,23 +735,31 @@ Vampire Coven Uncovered in Little Chessenta!
 Links to Controversial Pamphlet-Author Suspected!
 
 There are few literate Citizens of Waterdeep who have not read a certain pamphlet
+
 that has been circulating for the last tenday. The controversial bit of fiction is entitled
+
 “The Unjust Rule of the Assassin Lords of Waterdeep”, and is not only a misdirected
+
 history lesson, but a call-to-arms for Guild Masters and Nobles. It suggests nothing
+
 short of usurping the Authority of the Lords, and thus, has been the focus of many an
 educated debate of late.
 
 The author of the pamphlet remained unknown until yesterday, when a most sinister
+
 plot was revealed and foiled by Citizens of the City. The unmasking of the Threat
 began shortly after midnight, during the Light Run of the Thunder Race in North
 Ward, two nights past. A group of nameless heroes had somehow discovered and
 located the author of the pamphlet, tracking him to the corner of Mendever and
 Delzorin Street. As the light horses of that Anticipated Race thundered by, the heroes
+
 closed in on the Villain. However, the villain, now known only by the name ‘Veritas’,
+
 attempted to flee, and had the poor sense to run onto Delzorin. He was duly trampled
 to death, though a dark-clad figure attempted to save him.
 
 Veritas had screamed that ‘Assassins’ were after him, and it was not long before he
+
 was dead, and the crowd was abuzz with this idea. To add further to the suspicion of
 Assassins, the procession of Watch bearing his body aloft was attacked by an
 unknown man, who cut the head from the corpse of Veritas before he was arrested.
@@ -758,8 +768,11 @@ released.
 
 The man (some say elf) that struck the head from Veritas was brought before
 Magistrate Grendel two days ago to answer for his actions, but he was represented by
+
 an Advocate from the Inscrutable Order of Legalists, and released. This, of course,
+
 did nothing to lessen the rumour mills of the City. While the pamphlet circulated, a
+
 scholarly looking pauper was ‘assassinated’ by an agent suspected of working for the
 Lords who was allowed to go free. For a time, it looked like there might be some
 truth in the pamphlet, or at least enough to send a flock of assassins after its author.
@@ -790,32 +803,46 @@ printing press that had produced the scandalous pamphlets mentioned above.
 
 
 The destruction of the first vampire, Horus was a spectacular affair. The Purgists (as
+
 the 4 men were being called at the time) emerged from the foulness of the lair of
+
 Horus, with his limp body held aloft, a wooden stake through his heart. Such a site
+
 attracted the crowd you would expect, and more. The two Lathanderites sang litanies
+
 all the way from Little Chessenta to the docks, and hundreds witnessed the destruction
+
 of the Vampire, as it was tossed into the Harbour, wherein it dissolved entirely,
+
 leaving only a floating stake in the cold water. One of the Nameless Heroes drew the
+
 stake from the water, placed it on the edge of the dock, and announced that he would
 be lining up more beside it before the end of the day.
 
 And he did just that. By the end of the day, some two thousand Citizens became
 witness to the destruction of 3 more of the Undead Abominations. The creatures were
+
 known well in Little Chessenta as fighting instructors at the Soorenar Academy. The
+
 head of the school, a Chessentan known as Romulus, is suspected to be the leader of
+
 the 4 others that were slain, though he remains un-destroyed at present. He managed
+
 to make good his escape from the Purgists as they dug into his lair during the day.
 
 The Purgists did not destroy the 3 Chessentan Fighting Vampires without loss.
 Indeed, both Skelmar and Athosar were killed in the Desperate Struggle that took
 place in the subterranean lair of the monsters. Their bodies have been consecrated by
+
 High Dawnlord Ghentilara, who assures the Editor of this Paper that the departed are
 with Lathander, and will not rise as the Undead.
 
 With the unearthing of Vampires in Little Chessenta, changes have begun in that
 uncharacteristic Dock Ward Borough. The Soorenar Street Academy has been closed
 until the locals and the Watch has made a full investigation into that Fighting Order.
+
 The streets, previously unlighted at nights, are now being fitted with new lamps. The
+
 All Faiths Infirmary, a questionable medical institute across the street from the
 Academy is under investigation for supplying the Coven with victims, though Dr.
 Tuugan Grocheck, the Master of the Infirmary, has hired on the Legalists to defend
@@ -823,6 +850,7 @@ his Institute, and his position at its head.
 
 The two Sects of the Faith of Lathander in our Fair City have made a formal and
 public reconciliation, and have Declared an Oathe to see to the end of the Unholy
+
 Infestation of the Undead in our Fair City. High Dawnlord Ghentilara was heard to
 say this;
 
@@ -835,14 +863,18 @@ and Clenched Fist of Tyr, Harkis Cormalis.”
 
 With the Coven uprooted, and a Libelous printing press found in its rancourous
 darkness, there was a connection to be confirmed between these scandalous bits of
+
 news, and the ‘assassination’ of the man known as Veritas. While the Purgists were
+
 doing their Duty to the City, the Court of Magistrate Grendel was closing the case
+
 involving Veritas, and his body had been interred in the City of the Dead. Early this
 
 
 morning, as Grendel became informed of the Coven, he ordered the exhumation of the
 body of Veritas. However, it was discovered that he had already been taken, or
 perhaps parted himself from his earthly grave. His body is presently missing, and
+
 there can be little doubt that the man known as Veritas is somehow connected to, if
 
 not the author of, the Libelous and Scandalous fiction of the pamphlet aforementioned.

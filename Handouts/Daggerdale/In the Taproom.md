@@ -110,12 +110,14 @@ The crowd, now familiar with the bard, dims its murmuring somewhat as Beliard be
 
 <i>
 :A stick, a stone, it's the end of the road, it's the rest of a stump, it's a little alone,
+
 :It's a sliver of glass, it is life, it's Selûne, it is night, it is death, it's a trap, it's a rune.
 
 :The oak when it blooms, a fox in the brush, a knot in the wood, the song of a thrush,
 :The wood of the wind, a tower, a fall, a scratch, a lump, it is nothing at all.
 
 :It's the wind blowing free, it's the end of the slope, it's a gleam, it's a void, it's a hunch, it's a hope,
+
 :Where the River Tesh crosses the Tethyamar trail, it's the end of a journey, it’s the start of the tale.
 </i>
 
@@ -129,12 +131,14 @@ From the chaos of a half-hour previous, the inn has been transformed. Only a few
 :A spear, a spike, a point, a nail, a drip, a drop, the end of the tale.
 
 :A cartload of hay in the soft morning light, the howl of a wolf in the dead of the night,
+
 :A mile, a must, a thrust, a blow, it's a girl, it's a rhyme, it's a troll, it's the snow.
 
 :The plan of the castle, the body in bed, and the cart that got stuck, it's the mud, it's the mud,
 :Afloat, adrift, a flight, a wing, a hawk, a quail, the promise of spring.
 
 :Where the River Tesh crosses the Tethyamar trail, it's the end of a journey, it’s the start of the tale.
+
 :A stick, a stone, it's the end of the road, it's the rest of a stump, it's a little alone.
 </i>
 

@@ -193,9 +193,13 @@ IV. Now we come to the fourth, perhaps most disturbing possibility, namely that 
   Attribute                         Slave Orb to Imperiosus Orbis                                                               Tenebrius Ostium                                                                                  "Terrible Terrible Orb"
   ----------------------------- --- ------------------------------------------------------------------------------------ --- -- ------------------------------------------------------------------------------------------ --- -- -------------------------------------------------------------------
   Requires Sacrifice            ✓   General (individual/mass) + constant blood maintenance                               ✓      "Pure soul that has done impure deed" via psychological manipulation                       ✓      Spellcasters via throat cutting
+
   Environmental Manipulation    ✓   Strategic-scale: sky-darkening, remote projection, wind control                      ✓      Comprehensive localized: permanent Shadowfell rifts, complete atmospheric transformation   ✓      Minimal: focused on direct control
+
   Illusion Creation & Control   ✓   Large-scale illusions (Ritual of Obfuscation)                                        ✓      Localized illusions (locked doors that don't exist, false appearances)                            ?
+
   Undead Creation & Control     ✓   Mass armies, shadow slaves, commands existing undead                                 ✓      Persistent incorporeal guardians, shadow slaves                                            ✓      Direct reanimation with preserved consciousness
+
   Operational Scale             ✓   Macroscopic: Strategic warfare: sieges, territorial conquest, ritual amplification   ✓      Mesoscopic: Area denial: permanent corruption of key locations                             ✓      Microscopic: Tactical operations: targeted missions, local terror
 
 If this theory holds, then the differences I’ve noted are not of kind, but of application. The core technology—a Netherese artifact that converts the energy of a sacrificed soul into a potent magical effect—is the same. The variable is the ritual. I suppose it would be a good idea to take this up with Jasper and Nemia, but, by Waukeen’s wondrous wagons, ol’ Lucan has found an angle once again.

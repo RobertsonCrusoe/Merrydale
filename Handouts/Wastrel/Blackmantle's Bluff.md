@@ -11,7 +11,9 @@ Days later, the ‘‘Wastrel’’ was back where it last departed; docked in B
 On the second night in port, the Captain called the entire crew to the Ready Room, in the rear castle of the ship. All gathered around the great Sarlin Table to hear what the news was. It was May that spoke first.
 
 “There is a great work happening on the lake of Steam. I would go there to see what the news is, and assess the situation.”
+
 “What the cryptic little jade hints at” Zech offers, when all faces seem blank “Is that there is some sort of work on the Lake of Steam that is supposed to change the Realms, for good or ill. We make for the north shore of the Lake, if all hands are agreed.”
+
 There is a short and non-illuminating conversation, followed by a show of hands. All save Kethoth show their hands in favour of travel to that destination, but even he does not make any argument against going.
 
 The next morning, the ‘‘Wastrel’’ heads out of the harbour at Baldur’s Gate, and heads south. It is past Harvestide, and a fine time to sail south, by all accounts. The ‘‘Wastrel’’ needs little time to make Calimport, heading south with the Trades this time of year. Indeed, less than a tenday finds her back in the sheltered Port of Calim, and the crew are once again abroad in the City looking for news.
@@ -39,6 +41,7 @@ A few hours later, the ‘‘Wastrel’’ is indeed ready to make sail again, a
 “Hold that line, Master” cries out Brenaen. “Our ‘‘Wastrel’’ returns from his wastrelry, to the ‘‘Wastrel’’ once more!”
 
 “Yar. He sees ‘im sure, Whiskers. He’s just putting to, so’s our man put’s to, and put’s them broads to, too. Har har!”
+
 Sure enough, Cedric comes rolling up the dark dock, wreathed in smoke, a shapely wench on each arm, and a smile from ear to ear. Just out of earshot, he dismisses the ladies, and then hustles the rest of the way to the boat, just in time to make the gang. The ‘‘Wastrel’’ begins to float away as Salazar takes all the lines in. As she drifts out, the gang is brought in by the Captain, and the Master makes an unnatural leap aboard, carrying the lines.
 
 Most of the tired faces retire below decks, seeing their friend safely aboard. The Captain is having a good laugh with the vagrant sorcerer over his most recent conquests, but the Master is still red in the face, and he works at storing the lines, then striking the sails, with no humour.
@@ -99,6 +102,7 @@ When mainland is spotted, the same volcanic cliffs, covered in voracious life ar
 == The Folk of the Arnrock ==
 
 Halfway through the journey, a huge mountain is espied to the North. It is a few thousand feet high, and has a flat top. The mountain and island are completely covered in the bright greens of this tropical paradise, and smoke from many small fires rises up from the beach, the mountain side, and from the mountain top itself. With the spyglass, little huts can be seen on the beaches of this mountain island, and little bronze skinned halflings are at work and play close by. At one point, a group of long canoes with outriggers on each side, and carrying 15-20 of these nearly naked, little bronze halflings row out to the ‘‘Wastrel’’. They are covered in little bits of bronze jewellery of a local manufacture, much of it set with pearls of green, lavender and blue.
+
 It isn’t long before scores of the nimble little halflings are aboard ship and crowding the crew. They give many of the more threatening looking crew members a wide berth, but they close in around such charismatic ones as Mae, Zeke and Cedric, attempting to trade their bits of jewellery and fresh fruits for any number of things.
 
 At length, Zech has May tell them to go ashore, and that a trading party will be sent to deal with them. They are brushed off the deck, with a little less tenderness than they deserve by the likes of Kethoth.
@@ -114,6 +118,7 @@ It is about another 500 miles from the Arnrock to Blackmantle's Port, and from h
 On this leg of the journey, the ‘‘Wastrel’’ continues to overtake more and more vessels. Many are the local boats which do a brisk business in trade contained to the lake and its surroundings; these are cogs similar to those found in the northern waters, with a single mast and lots of oars. But many larger vessels, ocean crossing vessels are also found among the many ships all heading for the new Port of Blackmantle.
 
 As you draw nearer the Port, the boats are thicker and thicker, until, as you reach the new Port, there are boats everywhere. There are easily more than one hundred boats laying off port, sheltered in a large cove formed by old volcanic rock. There is room for only a few vessels at the few large docks at the new settlement, and boats are unloading there quickly, and putting back out to moor.
+
 The settlement itself is clearly new. There are almost no permanent structures there at all, but several large ones being built presently. A few large warehouse-looking structures have already been erected, and there are, of course, hundreds of tents of all sizes choking the little river-valley that the settlement is built in.
 
 From the water, three great canals can be seen. They are all about a mile apart, with the closest being about a ½ mile from the settlement itself. It is the middle of the day, and it is clear to see that two of the canals are being worked by hundreds of labourers, with the third seemingly abandoned.

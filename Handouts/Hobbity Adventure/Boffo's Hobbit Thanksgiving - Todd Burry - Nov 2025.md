@@ -459,6 +459,7 @@ Over the winter months you learn to cast the following 1st Level spells:
 Before you learn those actual 1st Level spells, you each gradually develop the ability to cast a minor magical trick. This is a manifestation of your awakened magical ability. It is like a cantrip that you can do at-will as the situation allows:
 
 • Boffo: you can accurately portion out food perfectly. For example, If you were to cut a pie in 4, those 4 slices are identically, and perfectly cut
+
 • Wedge: you can conjure up 1d4 fireflies which fly around your hand for 3 blinks, before fading away
 • Turnip: you can untangle any string, rope net, etc with a simple pull
 

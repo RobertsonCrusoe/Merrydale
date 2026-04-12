@@ -58,6 +58,7 @@ On the 10th, the final day of Harvestide, the CRH and NC planned their ambush of
 When the Cargo was seen coming down the channel, the ambush started. The fighting did not last long, however, before the Dalael showed their hand, and trumped all. The very floor of the sewers gave way and collapsed. It fell some 50’ into a great chamber from which silver-sash-wearing drow issued from every dark hole. There were at least 20 of them, and the adventurers knew they were beat.
 
 The power of Ersgul vanished in that pit, as the Dalael butchered the few that survived the fall. Hightimber was cut down by Rufus.
+
 The beholder Xulla made another appearance at this point. It and Quevin exchanged some harsh words before both sides made their egress. Rychel confronted Xulla, only to be turned to stone without any effort from the creature.
 
 == Denouement ==

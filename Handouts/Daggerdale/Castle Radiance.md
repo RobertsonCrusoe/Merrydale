@@ -52,16 +52,23 @@ Outer Bailey
 • Market Hall - This is a long, tall stone building that acts as the general marketplace. Only in here can transient merchants sell their goods, and they must rent one of the 12 large stalls to do so. This is a bustling place during the adventuring season, with most of the stalls often full of merchants and their wares.
 
 • The North Plaza - A row of 5 shoppes along the outer rampart.  These days they are always leased out to permanent businesses on 1 year contracts.  Each shoppe is a large, open 30'x30' room with an appartment above it.  Present businesses include the following;
+
 • *Weatheral's - A leather worker whose business produces a smell that dominates the entire row.
+
 • *The Chordwainers - A rope maker and his two sons who make all types and qualities of ropes.
 • *Strongback's Tools - A hardware that imports all if it's goods.
 • *Mountaintop Mill and Bakery - Run by Sister Margata of Chauntea, and 4 other sisters.  Sells some blessed breads and food stuffs.
+
 • *Archer's Den - Run by Gimbly, one of the finest bowyer/fletchers in the Dales.
 
 • The South Plaza - A row of three large shoppes, each with 3 stories, along the outer rampart.  These shoppes are also leased out for 1 year at a time, and are always full.  They include the following;
+
 • *Broom and Goldburrow, Cartographers - A very successful firm of cartographers who have done a respectable job of mapping out the Desserts Mouth Mountains.  There are rooms to rent on the third floor.
+
 • *Arcadium's - An alchemy shoppe with 2 floors of labs above it.  This is a busy place, and is well stocked.  
+
 • *The Royal Exchange - This is a sort of pawn shop with no real royal affiliation.  This is a great place to unload used gear, buy some cheap second-hand gear, and find odd bits of magic that desperate adventurers have sold in a pinch.  
+
 • *Mrs. Nettle's - This is a new restaurant that has been established on the second floor of The Royal Exchange.  It is run by a kind widow in her 40's who serves breakfast all day long, and does brisk business.  She rents rooms on the third floor.
 
 • Middlegate Tower - One of the smaller towers on the middle wall, this tower also serves as a gate to the Middle Bailey, as well as an office that adventurers and mercenaries are expected to check it with when they arrive.

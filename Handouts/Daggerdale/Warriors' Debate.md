@@ -65,6 +65,7 @@ Aye. Perhaps you're right Paladin. Perhaps this William fop must sit on his thro
 But we must not forget that he was, or still is, under demonic influence.
 
 After many a battle, I have finally named my sword. Behold Drake's Fall, Slayer of Demons! It may not have delivered the killing blow to the Baron, but it will surely fetch the heads of at least two more of the spawns of hell before I leave this Dale.  
+
 So long as those two she-devils remain loose, our friend Sparrow is in danger. One of the demons, Yarkul's wife, desires vengeance for the death of her husband. She must be stopped before she claims Sparrow's soul for her own. The other... a bastard child issued from the union of Yarkul and his Demonwife, threatens not only Sparrow and the people of this Dale, but also her Half-sister, my lady love. I cannot allow such a threat to exist.
 
 But we may get ahead of ourselves. The black-robed sorcerers and servants of the Prince of Lies must be dealt with, and they must be dealt with today! Let us seek them out, and finish our duty here. Let us bring freedom to the people of this land!

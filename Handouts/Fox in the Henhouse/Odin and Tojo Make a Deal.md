@@ -1,4 +1,5 @@
 [PC Attribution: Odinmeer Tallhollow (Les Blackwell); Tojo Hollowbough (Stephen Robertson)]
+
 ... Deputy Tallhollow approaches Tojo at the Hanged Hobgoblin, on the matter of investigating the Darkwater Brand Trading House in White Ford. 
 ----
 
@@ -29,6 +30,7 @@ Tojo is dressed in a billowing cotton shirt under a rather tight leather vest wi
 == Deputy Odin Responds ==
 
 \"Well met, fine fellow!\" Odin says somewhat cheerfully. He has all the good halfling-courtesy that humans expect, but no more than that. His handshake is brief, and his gaze seems to linger over you a little longer than is comfortable. But at the same time, his interest in the conversation that you have is divided, though subtly, with other events in the ramshackle place. Here is a hobbit that has likely been out-of-doors for longer than is sensible, and it has made him a fidgety fellow who is aloof and tense. 
+
 \"Pleased to make your acquaintance, my good gentlehobbit. I am indeed a Deputy of High Dale, and I am on official business for Sheriff Diggs, investigating the disappearances of several deputies in the mountains to the west of use, here.
 
 \"Now I can see clearly that you and I are talking business, and that you will expect some sort of payment for any help you can offer, and that suits me just fine. I shall make no remarks about any such topics as duty, capitalizing off of other's misfortunes, or being generally useful on your own behalf. No, my inscrutable detective, I shall mention no such things. We shall discuss services and fees, and later we will discuss your findings.\" With this he finally sits down, and helps himself to a half-empty glass of beer on your table.

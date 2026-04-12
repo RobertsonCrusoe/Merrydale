@@ -47,7 +47,9 @@ The canonical Forgotten Realms conversion between the Mulhorand Calendar and Dal
 Three figures therefore exist in the campaign record for the date of this letter, and they disagree:
 
   • 1403 DR — Alvund's own parenthetical guess in the postscript. Off by one. Reads as a man in exile working from memory or from an inferior conversion table; the cheerful "Ha isn't that fun!" makes clear he is not certain of his arithmetic.
+
   • 1404 DR — the canonical Mulhorand-to-Dalereckoning conversion. The arithmetically correct answer.
+
   • 1406 DR — the figure given by Brother Vessuvian (cited in the Bedsheet Investigation handout). Off by two in the other direction. Vessuvian is presented as a scholarly authority in-world but his conversion table is evidently not the canonical one.
 
 For archival and cross-reference purposes I am using 1404 DR as the catalogued year (hence the filename). In-world voices should continue to cite whichever figure their character would actually know: Alvund's hand says 1403, Vessuvian's chronicle says 1406, and no one in 1483 has any reason to trust the canonical formula over their own documents.

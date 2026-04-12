@@ -52,7 +52,9 @@ Investigating the town, we confirmed that though Yarkul had fallen, the evil gri
 == Assault on the Baneson's Lair ==
 
 With Cormaeril's distinctly pusillanimous blessing, we waited while Sparrow did reconnaissance on the Xvimite temple. It was locked solid, without windows, having only metal doors, and being completely encapsulated with both stone and metal, it seemed impregnable. Before long, Xvimite priests appeared as from nowhere and began to work their magic against us. Immediately, Dorian and Boregar charged, while Garrik, Gaebril and I put our backs to one another and began to face off against the companies of armsmen that came at us from either direction. With his battery of spells, Sparrow ran an impressive but conservative guerrilla campaign as support.
+
 For over an hour we fought, with darkness, paralysis and the curse of the Baneson laying on us like a foul haze. But we did not tire, and our courage did not flag. But just when we thought the infidels might break, a gong sounded, the remains of the force let out a hoarse cheer, and the Baron strode from the opening doors of the temple, flanked by ten experienced warriors.
+
 Without hesitation, Sparrow threw a fireball into their midst... a difficult feat for a priest.
 
 Horribly burned, all but the Baron retreated into the dark fastness of the temple, shutting the doors in front of them. Though Garrik, Gaebril and I were still engaged with the warriors, Dorian rose to the challenge of fighting Drake, his confident swagger unchecked by the cambion's foul presence. My memories of the battle become hazy, but I know that Garrik broke from our circle to attack the Baron and was cut down, though whether by the Baron or a craven armsman I know not. Sparrow barely managed to bandage his wounds in time to save his life. Were he not with me now, I should have said he died.

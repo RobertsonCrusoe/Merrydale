@@ -4,6 +4,7 @@ The journey to the East Gate would be another 2 full days, but Lt. Millstone exp
 The East Gate Road follows a ravine that some of you actually walked up last fall, tracking the black-trolls that had made off with most of the cattle from Foothills Farm. It is mostly cleared of small trees and brush, and here and there can be found small quarry projects where it looks like the road will be improved. These are on hold at the present time, it would appear.    
 
 At the mouth of Gorimdun Mine, you can see that a new face is being added to the entrance. There is a camp of a couple dozen dwarves and men, more banners and scaffolding, tents and the like. Again, there is a buzz of activity at this new development. You also notice that some hired-men are working a pump-jack and filling up some large water barrels which bear the same maker’s marks as those you saw being constructed at Provisioner’s Hall. These are then loaded onto small wagons that are pulled into the deep by stout ponies, escorted by a small team of guards.        
+
 There, waiting for you, is a gristly looking dwarf with a large lizard pacing around his feet. He introduces himself as Guggenheim, and explains that he has been ordered by Tezster to guide you to Base Camp Silver in Thorbardson’s Hall.  
 
 The lot of you, lead by Guggeneheim, descend into the mines that only a year ago you struggled to find your way through. You can see that Guggeneheim has a map of the mines which is an elaborate copy of the one you made last year. The journey through the human-made mines is pretty much the same as you remember it, expect for a couple of small bridges that have been built over some difficult spots, no doubt to facilitate the passage of the small water-bearing wagons. Expressing surprise that the dwarves have not fortified the passage down, Guggenheim explains “we have yet to explore the extent of this rough-shot human mine. There are still things that creep out from the depths of it. We don’t know what enemies we might find. We keep the passage to the East Gate purposefully befuddling, so that we will not be attacked from behind.”            
@@ -15,6 +16,7 @@ The last time you saw the doors, the hulking corpse of the troll-spawn was splay
 On the other side of the doors is not the vast dwarven city that you might have expected. In fact, there is nothing more than a large black hall. Guggeneheim smiles as he sees your faces respond to this seemingly-endless array of caves and tunnels. “The East Gate is quite a ways from the City herself, friends. Tighten your boot laces, boys. Time to march!”          
 
 The journey from the East Gate to Thorbardson’s Hall is another 2 hours of marching. The halls that you travel down now are square-faced dwarven construction. It winds onward and downward for what must be a couple of miles, though none of you could tell for sure, and as you descend, you notice the temperature of the place begin to slowly rise. By the time the passageway levels out, towards the end of your journey, it is about as warm as a mid-summer day.      
+
 After a couple of hours of the winding passage, you begin to hear noises up ahead. Faint at first and periodic. But as you press on, you hear the sounds of hammers on stone and iron. Approaching even closer, you begin to hear voices, and before long, you emerge into an enormous hall full of men and dwarves, light and noise.
 
 ==Thorbardson’s Hall==
@@ -33,4 +35,5 @@ Finally, in the distant third of the hall are the grey and white tents of the Co
 Along the north and south walls are the doors, windows and balconies of the network of rooms that have been carved back from the main hall. There are actually families and businesses setting up in these rooms, and you notice several small dwarven children actually race out of one door and back into another at one point, hotly pursued by a red-faced dwarf-woman waiving a wooden spoon menacingly over her head.  
 
 The noise of the hall is nearly deafening; the sounds of hammer strokes on metal and stone is nearly constant, and the voices of hundreds of men and dwarves, many of them on leave at the beer tents, is loud but cheerful. The noise from men and dwarves practicing with weapons at Tasster’s camp is also considerable.       
+
 The bustling encampment here, you quickly learn, is commonly called ‘Base Camp Silver’.

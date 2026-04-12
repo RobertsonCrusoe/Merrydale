@@ -9,6 +9,7 @@ In the days that follow many of you visit Drake in the Castle’s infirmary. In 
 “He dun broke his head in the fall, Amaunator bless the fool.”
 
 Over the next months Drake does manage to make a recovery. However, he is taken at times by fits of rage, and at other times when trying to perform tasks he can be seen to become disoriented for short periods of time. 
+
 He seems rather uncomfortable with his sudden infamy, and downplays all rewards and title he has gained.
 
 “I did only what any of you would have done. I am just happy to have earned this cloak,” is what he tells his fellow White Cloaks.

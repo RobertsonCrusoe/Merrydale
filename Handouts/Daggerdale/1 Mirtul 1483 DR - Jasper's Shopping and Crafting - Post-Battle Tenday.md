@@ -29,6 +29,7 @@ Shopping at Meagre's:
 - Jasper does not like the aesthetic of carrying a staff: requests it be a crystal ball with an eyeball in the centre, like how his Staff of Water was made into a canteen
 
 Scroll purchases (2nd Level): Blur, Gecko Grip, Illusory Creature, Knock, Mirror Image, Mist, Umbral Extraction, Web
+
 Scroll purchases (3rd Level): Bind Undead, Blindness, Clairaudience, Cozy Cabin, Enthrall, Fireball, Ghostly Weapon, Gravity Well, Haste, Hypnotize, Impending Doom, Lightning Bolt, Mind of Menace, Paralyze, Phantom Prison, Rouse Skeletons, Safe Passage, Shared Invisibility, Slow, Wall of Shadow, Wall of Thorns
 
 Crafting: Repair the Skeleton Key; Craft Wondrous Figurine (Onyx Dog); Scribe scrolls (Thunderstrike, Enlarge, Final Sacrifice, Pest Form, See the Unseen, Summon Elemental)

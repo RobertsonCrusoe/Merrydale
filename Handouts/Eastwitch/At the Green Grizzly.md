@@ -5,6 +5,7 @@ At the door of the Green Grizzly stood Dargar the old Dwarf, Wyatt the ranger, a
 The night was still fairly new, but with the short days and the crowd consisting of mostly farmers, the room was full. Niches of people littered the floor. The Hobbits and Humans were mostly separated, not out of spite, but rather out of table size. Dargar was the only Dwarf in the bar. Wyatt surveyed the room looking to see if something interesting was going on. Indeed the bar was quite as befit a rural tavern like the Green Grizzly. Just before Wyatt finished his survey the bar keep, old Gemedun rushed up to the table with three tankards.
 
 “You lot finally showed up eh. He told me to give these to you as soon as you got in. He must be awful fond of you guys to shut up about himself for once. He hasn’t stopped rambling about yous all evening. Talked me into servin’ you with my finest tankards too.”
+
 The mugs were crafted of silver-grey porcelain. The lips were all dipped in Mythril that matched the hinges that held the oaken handles on. On each face of the mugs was embossed the symbol of the bar with Mythril again filling the recesses of the intricate relief.
 
 ==The Benefactor Revealed ==

@@ -197,6 +197,7 @@ Baird; \"Casting what back? Himself? The restored presence of the unbroken circl
 Kethoth listens and nods encouragingly here and there, then adds;
 
 \"The seventh analect is about the claw-puzzle. 'The claw within the silver seal...
+
 The squares of alabaster...' That is clearly about the puzzle we already figured out.
 
 \"You may yet be right about a temporal translocation. This would explain the disappearance of that elven seeker, Tyriols' friend, not long ago.

@@ -7,6 +7,7 @@ A co-written narrative between Les (writing as Alen Reks) and Stephen (writing a
 The content existed in three forms:
 1. "Dinner with Reks.docx" — Les's original version (16 Feb 2026)
 2. "Dinner with Reks redux.docx" — Stephen's edited version with highlighted passages (17 Feb 2026)
+
 3. "Dinner with Alen Reks - Mirtul 8.pdf" — Final version shared with the group (17 Feb 2026)
 
 The text below is extracted from the final PDF version (form 3).

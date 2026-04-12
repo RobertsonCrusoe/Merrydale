@@ -1,4 +1,5 @@
 [PC Attribution: Maturin Horgath (Stephen Robertson); Dorian of Sembia (Gus Miranda)]
+
 Notes found in the library of Castle Daggerdale after the passing of Dorian of Sembia, the Count of Daggerdale.
 ----
 

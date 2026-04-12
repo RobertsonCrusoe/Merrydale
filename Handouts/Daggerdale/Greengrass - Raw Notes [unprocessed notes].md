@@ -24,6 +24,7 @@ An evil mage, variously known as Ravenblight and Doomface has been killing once 
 Mirtul 10 (one week later)
 
 A tenday later, Garth was contacted by a Calishite scholar looking for lodgings in Dockward. A consummate businessman, Garth made arrangements to have the wizard Jafar rent out one of the spare rooms. Tomas told me that in the three years he’d spent sailing around Calimshan and Amn, he’d never seen a Calishite that looked like him – which was true!  The fellow had as much I’ll never say wizards aren’t useful, but  never He joins the Watchful order of Magists and Protectors (Guild 42 – Castleward 15), sponsored by Orilar Thanas, and is given duties on the city firewatch.Rumour 5
+
 An evil wizard named Halaster Blackcloack is the Keeper of the Undermountain, and sponsors illicit trade through the region beneath Waterdeep (maybe Skullport, too).
 
 Rumour 6

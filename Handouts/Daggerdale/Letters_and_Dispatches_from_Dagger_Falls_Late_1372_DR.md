@@ -183,6 +183,7 @@ Thagdul was an ally, and Yarkul was his vassal
 Thagdul has been active in Yulash for at least 3 months.  
 Cyric was influencing the Lathanderites directly – Cassamar  
 Amaretta (the succubus) – conjured by someone, Yarkul may have had some power over her, but her presence pre-dated Yarkul  
+
 Venosar was 'our man on the council'.  He was a feared assassin, sent to replace Yarkul.  He charmed Cormaeril in the first place, and arranged the removal of the Banites and Xvimites  
 Cyric does not appear to like the idea of the tablets going west.  
 The number of demons reported to be in Brotherhood Tower was told to all the members of the council, in confidence, though each member was told a different number.  This is how Boregar's man was discovered and subsequently executed. 

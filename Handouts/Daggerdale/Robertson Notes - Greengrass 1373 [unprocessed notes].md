@@ -198,6 +198,7 @@ beholder attempts to contact Jafar
 Mirtul 4
 Noon
 o Beljuril scries on Thagdul, who is seen riding with at least 30 Fist riding through dusty farmland. He does not speak, and stops a lieutenant from speaking, indicating that he may be aware that Beljuril is scrying on him.
+
 Blacky says; you guys saw that he had a big lead box with him, that could easily have fit a staff
 o Has he lost his staff?
 Garth sets about hiring guards
@@ -250,7 +251,9 @@ t aware of whether Kendal Thorne aka Altuth Mzul knows about the connection betw
 Irlingstars are guarding the sewer entrance to the Irlingstar Villa
 Blacktail clan is not
 Blacky says; Blacktail clan was in the sewers.  They were slaughtered wholesale by the Drow when they raided.  Amongst the dead Blacktails were the wererat  members of The Blades of Korombos (Malagent, Thasmudyan)
+
 Contact Egan through a curio-monger named Scurluff Note left by Maturin with Scurluff on Mirtul 4:Discussion of a meeting with Dally
+
 Dorian, Garth and Beljuril make for the Eltorchul Villa to meet Dally Dalael. Here
 s what he has to say
 -A mage at Aldebaran speaks with a beholder (Xulla?)

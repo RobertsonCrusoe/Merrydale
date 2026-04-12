@@ -15,7 +15,9 @@ I added a small summary of our session, but I know it could be better. I'm hopin
 A few other notes:
 
 1. I have formatted the document on a smaller paper. I want this to be something that will work well on tablets. It is also a size that could be nicely printed using print-on-demand.
+
 2. The mobile version of Google Docs does a pretty good job of rendering the document.
+
 3. If you add to the doc, I can fix the formatting, but please try following these guidelines.
    - Use the paragraph styles for a consistent look.
    - If you are pasting in content, try using Ctrl-Shift-V to paste so that you don't paste formatting into the doc.

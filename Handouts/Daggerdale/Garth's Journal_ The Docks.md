@@ -20,6 +20,7 @@ Now I knew that these nobles would be trouble, but you have to understand that w
 I walked near the man and told a nearby crowd that a dancing girl was selling a block of tickets “just past that oddly dressed man there.” Well, this sent the crowd a galloping and I took my chance to yank the chain and make to run.
 
 However, the chain was not attached to a watch or other such jewellery, but rather to the man himself, more specifically his nether regions. Well, you can imagine the yelp he let out and before I knew it one of his companions incanted and I was held paralysed.
+
 “Thought you could make of with some loot did you?” said the one. And then the man of whom I had progenially wounded pulled out a vile looking barbed whip.
 
 “I’ll flay you alive you filthy bugger!” said he and started lashing me with it. And did he ever make to end my life too. In my days I have dealt with weapons — both to employ them and have them taken up against me, but never since then have I seen a weapon so well designed to inflict pain. Its barbs stuck into me and pulled out chunks of my flesh when the man raised his arm for the next blow. All the while I could not scream for I was still paralysed. It was beginning to be the end of me right there when one of the women with him put her hand on him.
@@ -35,6 +36,7 @@ One might wonder why no one intervened, but it was very crowded and there really
 After the pillory was adjusted to the woman’s satisfaction they set me a marching to destination I knew not where. They marched me through the crowd for a time, all the while whipping me and administering other ingenious tortures. I think I became sport for the crowd as well as I felt myself being pelted by fruit and I could not think that my captors would use such a base form of humiliation, but the shame that one might feel in that situation was not there for me —it was replace by unmitigated pain and terror.
 
 This all went on for a while and I was beginning to give up hope when I heard a crashing and a hollering come from my flank.
+
 The woman began announcing an incantation, but was immediately drowned out by the smashing of a bottle that I think was landed on her own head. After that there was another smash, and then another.
 
 “Back off from him or this’ll come to fisticuffs and you can count on that!”

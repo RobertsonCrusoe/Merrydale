@@ -18,6 +18,7 @@ At his father’s deathbed, Brenan and his father shared one last conversation a
 In the days after his father’s death Brenan took up his responsibility of getting the family finances in order while his mother and wife mourned in melodramatic hysterics. His father was not a rich man, but had saved up a considerable amount of money thanks to his simple lifestyle and stingy wife. After the estate was settled Brenan brought his mother and wife together.
 
 “Father’s things have all been taken care of and now it is time for me to leave. However, when I leave I will be going alone. You see, it is time for me to start living my own life, not the life of my mother or the woman she hen picked for me.
+
 Father’s estate has left enough money for the two of you to live comfortably here for as long as you like. I have also sold my home and property which should leave enough money for a blessing from the church so that you may bear a child by another man—I give you permission and my blessing to do so if you thought you needed it, but I will be your husband no more.”
 
 After Brenan’s speech there was much to be said by his mother and now former wife. Most of the conversation boiled down to a lot of “how dare you?” and “I don’t deserve this,” but no reply came back from Brenan, and truth be told the women probably didn’t even notice.
@@ -35,6 +36,7 @@ To this Brenan gave a large grin and said:
 “Thank you for your wise words master and thank you for your kind offer. I knew before I came here that this place was above me, but I came anyway and for my own reasons.
 
 \"Ashabenford where I grew up is a simple town. The people mainly follow Chauntea and Tyr and their lives are kept well by this—all of their questions are answered by the priests and the blessings that the church gives or sells proves the power and right of the gods.
+
 But this doesn’t settle me. I have a sense that there is great mystery in this world. And I have felt this strongest during my long hours staring into the wind. The wind has spoken to me at those times though I have not known what it has said. I stare into the wind until my eyes bleed because those are the only fond times I have ever had in the thirty-two years that I have lived my life.
 
 \"This season ends with the one holy day of Shaundakul who you and the knights follow. On this day I have heard that those that follow Shaundakul may ride with the wind and end up in any place over Toril. All I ask is that you let me take part in your ceremony; let me be a part of the Windride.”

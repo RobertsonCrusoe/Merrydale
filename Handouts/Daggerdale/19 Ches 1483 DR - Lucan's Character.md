@@ -531,6 +531,7 @@ Next: As Lucan's aunt was wont to say back in Saerloon, "You don't win by play
 Meanwhile…
 
 “Lucan wants to put on his Clandestine Cloak and spend a few nights at Quick Axes whipping up some rumours and excitement. 1) A whispering campaign denigrating the Redjacks as bad citizens and worse mercenaries - getting everyone to call them the Redjokes. 2) Building on the Thistle Ridge competition energy, starting up a 50/50 draw for the populace of Dagger Falls to fund a monument to the victims of the Purple Worm attack. At least, it will be marketed as a 50/50 draw, but 25% will obviously have to go to Chrysalis for admin costs...”
+
 This is brilliant! This email shows Lucan's entrepreneurial and manipulative side perfectly. It's classic Lucky Lucan - using his skills for both petty vindictiveness (turning "Redjacks" into "Redjokes") and profitable schemes (the monument "fundraiser" with a hefty administrative fee for Chrysalis).
 
 The Clandestine Cloak reference suggests he's got some magical gear for sneaking around, and the fact that he's targeting Quick Axes (presumably a tavern or gathering place) shows he understands how to work the rumor mill in a fantasy setting.

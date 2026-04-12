@@ -3,6 +3,7 @@
 3. Rubicon threatens Tomas: "You have five days left to live."
 4. The Red Herrings storm the Hunabar Villa for the heart of the earth.
 5. The Red Herrings get lured into a half ass trap with poised glass shards. The Drow escape to the sewers, but the Red Herrings do not pursue.
+
 6. There is a huge fight at the Dripping Dagger where Yarkul is captures. His life is traded for Raven's freedom.
 
   
@@ -30,9 +31,13 @@ I will try and remember how Raven got kidnapped...i have something itching
 at me skull about this.
 
 That was trusty ol' delivery-boy Rufus who Rychel almost turned into werewolf fodder.  He lost the Road Mage's nifty green leather armour +2 from that whole debacle.  I believe the note that Rychel gave him read something to the effect of "Thagdul has the staff and you're not getting it back, douchebags."  Friendly ol' Rufus, friend to civilized lycanthropes everywhere, just about got his frickin' throat ripped out because of that.  The Hunabars knew something about who Thagdul was, and knew enough about the staff to consider it a threat in the wrong hands.  
+
 To the best of my knowledge, we never followed up on that, though there was some point where we learned about Huskar Hunabar's son being a little too ambitious, and maybe getting the rest of the family wrapped up in these Zhent troubles.
+
 The assault on the Hunabar's villa was one of the better-executed plans of the Red Herrings and their allies.  If only the lot of them hadn't been werewolves then, well... If only.  During the commotion in the main hall, where Wilk (was he alive for this?) killed one of the werewolf children, and the rest of us fought the werewolves to a standoff before they called a halt to the fighting, I remember Rychel snuck up to the second floor and pulled out a beholder staff (I think it was the 5-eyed staff, whereas the other two had 7 eyes - Yarkul - and 9 eyes - Thagdul.)  He also got the box that the Heart of the Earth had been stored in, which contained a locket, I believe, with an inscription of eternal love from one Istolil Dalael to Joldara Hunabar.
+
 I recall Rychel, Rufus, and another character - maybe Wilk, I don't recall who (Jafar!) - then took a carriage around the city, trying to locate the source of the material that the box had been newly lined with.  Rufus cast locate object, and we just toured around waiting for the object to get within range.  The rest of the material turned out to be under the surface of the city - in a hole in the sewers.  Rychel went in alone and spoke with a drow that purported to be Istolil Dalael, and came out with some information - I think that was where we originally learned about the Wavesilver Villa being the alpha base for the Xvimites.  Because Rychel had just started to adventure with the group, he didn't realize that it was Rubikawn he was talking to, who was setting us up for the main event in the sewers below.
+
 That's my recollection, at any rate.  I'd like to know more about the events that led up to the fight at the Dripping Dagger, and the fallout from that fight.
 I also remember that Raven broke Dragon's nose at some point during that period.
 
@@ -143,6 +148,7 @@ Now THAT was a brilliant encounter.
 Beholder:  Point that finger at me again and I'll turn you to stone! 
 Rychel: And another th- 
 Thagdul used him for a coat rack for about a week before we finally decided it was best to get him back.
+
 Okay, except for Gus’ latest slew of e-mails, here’s what Todd and I were able to put together last night with the help of Casey and Scott’s e-mails.  Some of the events may be out of sequence, and Jafar’s chicanery is untold, but I’ll let you fill that in since I want to get this to you ASAP.
 
 Anything marked in blue in the ‘chronology of harvestide’ document is tentative.  We don’t remember it exactly, but it makes sense given other information.  Gus’ latest e-mails have clarified this somewhat.
@@ -153,8 +159,11 @@ One thing I was thinking about on the way to work this morning was how Harkus Co
 On a different note, I’d really like to know how things turned out in Waterdeep the next spring.  Looking forward to the narratives…
 
 It seems to me like the last remaining question would be which staff did Melkor eventually have and which staff did Jafar get. I would imagine that the best person to answer this question would be Blackwell since he knew the secret movement of the staff that went to Neverwinter. We had captured one staff from the Hunabar Villa and one staff off of Yarkul I think. One staff was stolen outright while one staff turned out to be a fake. I imagine that the staff that was stolen outright went up to Neverwinter and into Melkor's hands. I guess the proof is in the number of stocks.
+
 My other point of confusion would be regarding Jafar's fiery megalomania and the company's acclaim within the city. Did Jafar fireball innocents once or twice while on a company mission. I seem to remember one time where Jafar received a slap on the wrist and one time where Jafar was made a criminal. Am I wrong on the second account? Also, I remember the company receiving acclaim for rooting out some treacherous Magisters. When did this happen?
+
 It was Garth that chased down Teskul the first time. Teskul lead Garth on a merry chase around the city, but Garth had a new pair of boots of leaping and striding courtesy of Rubicon's corpse. Rychel wanted to kill Teskul outright since he was more wary of treachery (and rightly so!), but in the end the rest of the company let him go because he was working for Thagdul who was their ally and Harper. That would certainly put this event between the two raids on the Silvertree(?) Villa. Pay no attention to fly-under-the-scry Garth. What heroic feats did he ever accomplish? Hard to say. Hard to say indeed.
+
 Regarding that trap. I can only say that this was one brilliantly conceived trap, but one that turned out quite impotent. The Red Herrings walk into a glass factory where all the stacks of glass shatter and start whirling around the room all the while covered in poison. The Red Herrings then promptly take a small step out the door and wait for the spell to dissipate. Finally they notice a bunch of conspicuous balls of darkness in the rafters that they can take pot shots at. The darkness produce Drow that promptly drop from the ceiling into an escape hatch that mysteriously appears and flee to the sewers. That had to be one of the only times we got to laugh at the bad guys. Well, everyone laughed except for Tomas who was too drunk to stumble out of the warehouse in the first place and go cut up pretty badly; he slept through most of it though. I imagine he had dreams of nothing but ropes and weather sense. Remember: the only use is rope use.
  
 All these events seem so long ago now, and I imagine that the many versions of these stories being passed around Waterdeep are even more varied than the ones told by the adventurers who experienced them fist hand. Soon Waterdeep will erupt once more and no one will care about what once transpired. It's coming.
@@ -461,6 +470,7 @@ unsure of that at this point.  THere was something to do with Dragon as
 well.  I think she fled up some tunnel or pipe to an outbuilding on the 
 surface, and someone followed her.  Don't remember how that went down, now. 
 I'm almost positive that Quevin helped us get Rubikawn's body out.  I seem to remember him teaming up with Rufus and Raven for the bodies of Rubikawn, Tomas and one other.  But then, didn't we have to carry Raven out?  Gussy?  [by the way, are you on Eastern Time yet?].
+
 I am almost positive that the capture of Dragon was after the drow ambush of the Phaulkon cargo, and Quevin definitely had other things on his mind at that time.
 >I also seem to remember Gus throwing a fireball into that room....and >it 
 >scouring the hallway in which we stood...I am sure we all managed >to 

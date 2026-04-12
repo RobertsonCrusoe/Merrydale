@@ -36,6 +36,7 @@ Primary garrison of the town. Provides wall guards, gate security, and customs s
 **Captain Lucius** — Captain of the 1st Company. Responded to rumours of things flying overhead at night by commissioning new lights and lantern patrols.  
 **Sgt. Buck Thistledown** (retired) — Veteran of the Battle at Liberty Hill. Close comrade of Alen Reks. Organized the logistics for the White Cloak Bravo Tourney (Marpenoth 1480).  
 Dorian Dale and Lumina Whitegate both served their 2-year conscription in the 1st Company before becoming adventurers.  
+
 Named platoons: The **2nd Dalehearth Platoon** was “first over the wall” at Liberty Hill, gaining the rampart after driving off Lotus. The **3rd Dalehearth Platoon** was led down the main concourse of the village as the battle closed. (Source: *The Shadow Lifted, Part 2*)
 
 ### **2nd Company — “Mountaineers”**
@@ -71,6 +72,7 @@ Specialized in fighting within Cormanthor forest against orcs, goblins, and othe
 
 FARM SETTLEMENT GARRISONS & THISTLE RIDGE RECLAMATION  
 Distributed across dale farms: Crossed Blades, Dwimmerholme, Charity Hills, Tesh Valley, and others  
+
 The most widely dispersed company, responsible for garrisoning the fortified farming settlements across the heartland of the dale. Platoons were deployed to individual farms under local lieutenant command. After the Concordat, a 4th Platoon was formed specifically for the Thistle Ridge Reclamation (1483).  
 **Lt. Kesh Oakdale** (promoted) — Commander of the 3rd Platoon. Stationed at Dwimmerholme Farm. Later promoted to Captain (16th Company), then retired and elected first Consul of the Governors' Assembly.  
 **Lt. Ander Millstone** — Stationed at Tesh Valley Farm. 3rd lieutenant in 3 years at that posting (Mayor Blackmane burns through them). Patient, and has won over locals.  
@@ -180,6 +182,7 @@ STORIED VETERAN — MOUNTAINEERS
 ### **Sgt. Claudius Clarandal**
 
 Brother of Tergus. Served as Sergeant in the Mountaineers over five Terms of Service. After retiring from the Sun Blades, became the militia captain of Thistle Ridge, leading one of the largest and best-trained militias in the dale (106 capable men and women). Presumed dead in the Thistle Ridge tragedy of 1441 DR, if not already deceased by that date.  
+
 Note: Sources describe Claudius as “of the 3rd Company, Mountaineers” rather than the 2nd, which is the usual Mountaineers numbering. This may reflect an older numbering convention or a reorganization.
 
 ---
@@ -329,6 +332,7 @@ The Concordat formalized four categories of military institution in Daggerdale: 
 **Holy Orders — Charters Militant**  
 ORDER OF THE LAMBENT SHIELD (AMAUNATOR)  
 \~120 paladins and holy warriors of Amaunator. Led by Grand Master Luminous Whitegate, with Knight Commander Cassius as a senior field officer. Deployed from Castle Radiance against Netheril and the Plaguelands. Funded entirely by the Church. Granted Charter Militant by the Concordat.  
+
 Iolus Warburton (Captain of the White Cloaks) is described in the Chronicle as a “candidate for the Order of the Lambent Shield, which he regularly turns down.”  
 ORDER OF THE GOLDEN LION (TORM)  
 Holy order dedicated to Torm, the Loyal Fury. Led by Sir Gethard Soulbright (killed at the Second Battle of Anathar's Dell). Known members include Daniel Overcourt (squire to Soulbright; wounded at Anathar's Dell but survived) and Corran Altair (former Sun Blade, now Paladin of Torm; listed as Sergeant of the Order in the Chronicle).  
@@ -352,6 +356,9 @@ Engineers and artificers based at Fort Luminous. Operate and develop experimenta
 ---
 
 Compiled from Daggerdale Campaign Wiki, the Daggerdale Chronicle, Yellow Abbey records, the Daggerdale Concordat (1482 DR), the Daggerdale Gazetteer, Thistle Ridge Expeditionary Records, the Memoire of Ser Reginald Boxfray, and various narrative archives.  
+
 Named Sun Blade personnel: 45\. Companies with named members: 10\. Historical veterans: 2\.  
+
 Related organizations detailed: 4 Holy Orders, 3 Chartered Companies, Local Militia, Wonderbringer Warsmiths.  
+
 Some company numbers (5, 6, 11–15) and many sergeant/platoon-level assignments are referenced in category tags but lack detailed entries in the available sources.

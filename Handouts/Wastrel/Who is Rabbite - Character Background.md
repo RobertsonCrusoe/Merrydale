@@ -2,13 +2,21 @@
 Reminiscence of the Very Reverend Mr. Oengus Elderstoat, tutor and confessor to the Marchioness of Elber:
 Ah yes
 I remember her now.  How the great maestro Catullian had chanced to take on a pupil of only moderate musical talent was beyond the members of the chattering classes at court.  She had simply appeared in his company a month before, as if she were no more a stranger than the Grand Duke.  Some whispered that she was his child by an unknown elven maiden
+
 though if that were true it must also be said that features betrayed no suggestion of Catullian
+
 s bloodline.  Others hinted that she was an orphan, whose parents had entrusted Catullian with their daughter
+
 s care before they died.  And then there were the inevitable cynics who insisted that she was trading
+
 physical favours for her lessons.  But the simple truth was that no one knew anything about her, and Catullian would only smile knowingly when anyone asked.
+
 What was clear was that Catullian spent most of his time with his slight young partner (I say young, but in truth she was older than my grandmother!  Still, she could easily be mistaken for an adolescent girl), lending the cynics
+
 story more credence than most.  His air in public became a trifle distracted, as if his mind was perpetually elsewhere.  Yet within weeks of her arrival, his music became more focussed, more driven
+
 almost mystical.  His final concerts were masterpieces, and the castle hall still echoes with the applause.
+
 It was after his last performance that Catullian took his charge, the elf-girl known only as Rabbite, on a voyage to the south
 on what he would only comment on as
 a musical expedition.
@@ -20,6 +28,7 @@ Maestro,
 I trust this letter reaches you in good health, for there is much riding on the successful completion of your coming journey.  I have arranged passage for you and your charge on the ship Yellowjacket under Captain Skarsgaard..  He is a member of our group, and can be trusted.  I don
 t need to remind you that our stealth must not be compromised at this stage.
 I have sent five more vials of the tonic that will render the elf amenable to any suggestion you make.  That should ensure that you have no problem bringing her to us.  The second quarter of your
+
 has also been included as per our agreement.  The balance will be paid to you when the elf is delivered.  You will find this one to be a particularly pure batch.  I urge you to be careful
 you know as well as I how easy an overdose can occur when the
 music

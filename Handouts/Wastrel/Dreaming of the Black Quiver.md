@@ -49,6 +49,7 @@ He backpedalled as the figure continued its approach, matching step for step unt
 Tyriol found his hand wandering towards the quiver not at his right hip, but at his left. The Black Quiver. Tremalkin's relic. The black, yawning mouth stared up at him, and he had found himself staring into it often, both terrified and... excited? The powers it possessed, if the legends were true, were overwhelming. The cost, however, had always stayed Tyriol's hand up until now. The madness that gripped the Black Saint could take hold of him just as easily, probably easier.
  
 No. No time for hesitation. He plunged his hand into its depths, feeling nothing but cold air, yet thick and viscous. It chilled his hand straight to the bone. He twisted his fingers, grasping for the familiar feel of fletching, a straight shaft, a sharp arrowhead, anything. The quiver was empty.
+
 And then he felt a hand take his own, soft and smooth. A woman's hand. Slender fingers pried his own apart, and he felt lips press against the palm of his hand. Tyriol tried to pull his arm away, but a voice flooded his mind, low and mocking - a woman's tone.
  
 \"So quick to recoil from the touch of the divine, young half-elf?\"

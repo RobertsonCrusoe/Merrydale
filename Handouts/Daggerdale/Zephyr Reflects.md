@@ -1,6 +1,7 @@
 The world is a foul and festering oubliette.
 
 Shrieks of the damned and wailing unwanted claw at what last vestiges of daylight and sanity remain.
+
 With effort i push away the noise and stench of a thousand thousand lost souls and try to concentrate once more.
 Forget the cages.
 Forget the searing hot whips and cold iron shackles.

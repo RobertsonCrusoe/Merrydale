@@ -15,6 +15,7 @@ Les: Can you chime in, Ol Robertson? I'm getting ready for the weekend and I'm h
 Stephen: Yes, we used it. We spoke with Abrecia Alavandor, who revealed that:
 1) There was no hunting accident
 2) They were promised that three deaths would be enough to save them (not sure of the exact wording here)
+
 3) The promise was made by the "Mother of the Ancient Faith" (i.e., Jannath from the Netherese Pantheon, we presume).
 
 ---

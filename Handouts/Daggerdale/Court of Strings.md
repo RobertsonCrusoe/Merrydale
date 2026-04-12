@@ -52,6 +52,7 @@ There is some small cottage industry here including the following;
 • a furrier
 • a lumber mill
 • a blacksmith (who makes great tools, but few weapons; he makes decent arrowheads, spear heads, has one design for pot helmets, one design for long swords, and one design for small shields.
+
 • a winery/distillery (this place, called Chauntea's Smiling Brook, is a bit controversial in the village; the Church is always trying to discourage people from giving it patronage, but it seems to do quite well despite that)
 
 Category:Locations of Interest in Daggerdale

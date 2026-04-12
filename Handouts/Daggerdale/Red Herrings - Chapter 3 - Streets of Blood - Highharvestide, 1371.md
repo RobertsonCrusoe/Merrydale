@@ -53,6 +53,7 @@ body is taken to his mother
 Rufus and Esperel head out to find the Silver Spear
 Rufus is in the lead, Esperel sneaking later
 Esperel notices that an invisible figure stalking Rufus and both duck into an alley (maybe Dragon)
+
 Rufus climbs onto a roof to avoid a fireball, then down into the alley, and ducks into the Blushing Mermaid
 cashes in a favour for an escort home, Lady Alathene arranges it
 Outside, Esperel climbs a wall, tumbles, evades a thrown dagger and ducks into the Copper Cup

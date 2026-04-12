@@ -72,6 +72,7 @@ Over one of our meals Esperel showed up at our table. He sat himself down and pa
 Since I am no novice at finding out the word on the street I decided to spend the next few days seeing what was up with this information. And once I started looking the information was there to find. I quickly came up with some aliases and disguises to go with and started to make contact with these people. And so Garth Shanks’ barrister, Garth Shanks’ fence, Garth Shanks’ bodyguard, and Garth Shanks’ tailor started meeting with people at various locations around Waterdeep.
 
 It turned out that these people, youths mostly, had heard about the Red Herrings and were all wanting to join. For some reason I was generally thought of as the organizer of this company and by default the leader. Of course this was a bittersweet surprise; the company had been dissolved and I did not want to reinstate it because I knew that it would fail again. However, an idea began to hatch in my mind and it was because of this that I invited all of these people to the former headquarters for the night of the 10th.
+
 Sixteen people in all showed up at my place. I left the font door open and they all piled in. I sat in the shadows of the stairs to the second floor for several minutes just watching these people. I must say that I was very nervous and almost slipped out through the courtyard. Alas I knew that I couldn’t and finally went to greet them.
 
 At first some of the people were surprised because I don’t think that they even knew what I looked like! After I had greeted everyone individually I settled at the head of the room and everyone hushed. This is what I said:
@@ -113,6 +114,7 @@ The next day I came down to find he dwarf again fixing the locks to the courtyar
 “By stone son, don’t you recognize me? Sheath your dagger right this minute!”
 
 I certainly didn’t recognize him, but for some reason he seemed more familiar. I backed off and asked, “Who are you?”
+
 “Why I’m Dorn Clockwise and your Mina Vauxbourough’s son, Garth. I knew your mother and told her that I’d keep an eye on you if you ever needed it.”
 
 “But my mother died ten years ago.”

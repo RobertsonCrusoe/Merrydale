@@ -105,7 +105,9 @@ t hang around anymore
 Additionally, there have been people asking after Steele
 Discussion at Phaulkonmere
 The Rooken network knows that Sal Worthingham originally hired the rangers, and knows that Clavius hired the remaining two rangers to hunt Beljuril
+
 Egan used to work for Thagdul (according to Halam Umbrusk) but is now devoting himself to fighting the Cult of Muir Quaiggoth
+
 Halam Umbrusk is a worshipper of Selune and is helping Gaebril only because of a vision he had from the Goddess.
 4 am
 delivery of Nero
@@ -251,6 +253,7 @@ dispel the Weave
 The surface world won
 t be affected
 maybe the drow are more interested, as they will be pushed to the surface or perish
+
 TBITS says we should stop the Dalael, as they are currently poised to take over the show
 TBITS thinks that the Heart of the Earth was a grand joke.
 Go find Istolil now!

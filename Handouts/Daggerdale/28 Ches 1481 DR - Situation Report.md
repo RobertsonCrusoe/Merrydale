@@ -52,6 +52,7 @@ Blackwater draws his blade and raises it, and echoes his new employer’s oaths;
 This begins a new round of discourse in the aisles of the room which is quickly diminished with a scowl from Luminous.  At that moment, the priest from Candlekeep makes the bottom of the steps, and bows slightly to Luminous and the dwarf beside him.  Gambledin speaks up again.
 
 “I see that Brother Darred, Emissary from Candlekeep, has taken the floor.  Speak your piece, friend!”
+
 The old monk clears his throat and looks around nervously.  The Candlekeep Emissaries aren’t known to frequent the situation reports, and only rarely do they give voice.  “I speak on behalf of Tezster Gellinson, brother of Tasster and claimant to the throne.  He too is ready to find champions among his human allies to help him conduct his campaign in the Deep, to free Tethyamar from the clutches of evil creatures, and to provide a strategic ally in the war against Netheril.  Tasster offers friendship, titles and allotments to those who declare for him…”  His words trail off as there are hushed protests and snorts of amusement and disapproval at the offer.
 
 Luminous again scowls, reigning in the room as it begins to overtake the timid monk.  Again, in his commanding voice, he asks “Who will declare for Tasster? Who will champion this friend and ally?”  He looks first to Bargle.  Bargle’s lips press together tightly in annoyance, before he looks about, sighs, and responds;
@@ -65,6 +66,7 @@ John raises his hands a little by way of announcing he is about to speak, then c
 With this, the General gives a frustrated, angry growl, and shoots a glare into the side of the adjacent diplomat’s face.  “Do not suggest limits for my men, Tunbridge! We will fight in tunnels if need be.  I’ll march my men into the ocean or upon clouds if that is what’s called for!”  There is a brief outburst of cheers and laughs from the audience, which Lord Whitegate allows to play itself out; he seems to enjoy it.
 
 “I meant no disrespect for the venerable Order of the Purple Dragons” the diplomat continues, his demeanour seemingly unaffected by the support the general seemed to get from the crowd.  “The limitations I suggest are not those of military prowess, but rather political will.  King Azoun does not wish to engage his men on a battlefield so distant from his own lands; Castle Radiance is distant already; those mountains north of Fort Sansum are another week away as an army marches.  We are too few to commit to such an ambitious theatre of war.  I apologize, but I cannot commit the King’s men to such an endeavour, even though I must acknowledge the vital importance of it.”
+
 The calm words of the diplomat have a sobering and quieting effect on the room.  Brother Darred seems utterly deflated, and Luminous wears a stoic face, trying subtly to scan the audience for a champion for this ally.  His eyes move deliberately past the representatives from Cormanthor, who have kept silent and unmoving during these deliberations.  
  
 Lord Whitegate continues to scan the room, his clear eyes squinting slightly.  “Who…?”

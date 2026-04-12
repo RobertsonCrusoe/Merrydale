@@ -43,14 +43,19 @@ Class II fortification, with Class IV fortified central edifice ('Town Hall').
 Barracks for 100 ('Garrison,' Class III fortified).
 Barracks for another 100 ('The Bastion,' Class IV fortified).
 Fortified holdings: 19 acres inside Class II perimeter, accounting for 4/5 of inhabitants and ¾ of livestock.
+
 Cultivated holdings: 126 acres, 1/3rd each in rotation of Wheat, Barley, and fallow. Forty-four acres of private gardens with all known varieties of vegetables, fruits and herbs. Of note is 12 acres known as the 'Apple Glade,' about 1 ½ miles north northeast of the town.
 
 Holdings
 
 Of Livestock: 16 dairy cows, 22 goats, 0 swine (they keep none apurpose), 220 chickens, 70 (or so) rabbits, 0 sheep (they keep none apurpose, having a trade arrangement for Charity Loom Wool), 12 plough-oxen.
+
 Of Common Wealth: Town hall furnishings worth 2,175 gold (itemized in Appendix M/S-D7) and common market accoutrements worth 1,225 gold.
+
 Of Ecclesiastic Wealth: Chapel furnishings and accoutrements worth 150 gold (itemized in Appendix M/S-DA7). Chapel furnishings in the Shrine of Silvanus not assessed.
+
 Of Military Stores: 100 long spears, 100 long bows, 5,000 arrows, 100 wooden shields, 100 pikes, 24 maces, 24 long swords, and 24 large military hammers.
+
 Of Mounts: 61 horses privately owned, 24 horses assigned to the garrison, and 4 horses commonly owned.
 
 Tax Revenue for 1479

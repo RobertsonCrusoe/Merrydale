@@ -21,6 +21,7 @@ Special Abilities: Telepathy, Blindsight, Darkvision, Webs
 Saves: Fort +11, Ref +11, Will +15
 Abilities: Str 24, Dex 19, Con 18, Int 16, Wis 16, Cha 8
 Skills: Climb +16, Hide +15, Jump +14, Knowledge (arcana) +9, Knowledge (Deep Wood) +9, Listen +7, Move Silently +14, Spell Craft +7, Spot +15, Wilderness Lore +10.
+
 Feats: Weapon Finesse, Improved Initiative, Improved Grapple, Dodge, Dodge (Mobility), Dodge (Spring Attack)
 Challenge Rating: 6
 

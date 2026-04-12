@@ -39,6 +39,7 @@ Jasper H.
 
 Reactions:
 Stephen: "Always nice to read Jasper's mail. But how secure is the InterDale Postal Express? Are we sure it's secure?"
+
 Les: "All mail goes through the office of Invictus for review before leaving the dale. Or it should, at any rate! Can we also get this entry logged into the Chronicle? I wonder if the next chapter of the Daggerdale Chronicle might not be written by Jasper himself, as he picks up where Grafton Fitzdecker left off?"
 
 ---

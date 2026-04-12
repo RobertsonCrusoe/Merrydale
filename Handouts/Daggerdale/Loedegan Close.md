@@ -13,9 +13,11 @@ The manor itself is located along the western wall of the Inner Bailey, (just so
 Beyond the wall is the estate grounds, which is a basically a quadrangle of three buildings built hard-upon the walls. These buildings are likewise gracile in appearance, with many large windows and delicate buttresses. The small courtyard is dominated by a white stone polished sundial in the middle of a small fountain, and white flagstones stretching across it all. Rows of low cedar bushes line the front of every building to break up the overwhelming white facade of the place.      
 
 Directly across from the gate is the manor home itself; a 3-story structure that is certainly the finest building in the entire dale. The face of the building is dominated by its many evenly-spaced windows, and the huge balcony on the second level, which takes up about 1/3rd of the total width of this floor. There are six fine glass doors that let out onto that balcony, and it could hold perhaps 50 or more people if an occasion demanded it.    
+
 To the right of this building is a fine stables, about 16’ high, also built in a similar style, but with fewer windows. To the left is a large staff house, 2 stories tall, and nearly as elegant as the manor. It has nearly as many windows, and a smaller balcony on the second floor.    
 
 All of the buildings have pressed copper roofs which have begun to age with a green patina.
+
 The main building is laid out in the now-fashionable H-wing plan of the gentle homes of the west coast. The central part of the home is a large grand entry, with an enormous stair dominating the centre. There are kitchens and other work spaces in behind. The north and south wings are huge rooms for entertaining, each of which takes up 1/3 of the total footprint of the home; the north wing is a grand ballroom, while the south wing is a huge dining hall with 3 large oak tables, which could sit about 60 people.      
 
 The stone walls of the exterior are hidden inside by complete floor-ceiling panels of ¼-sawn oak. Most of the furniture and all of the other fixtures in the place are likewise constructed of this warm, dark wood, leaving only the white stone of the floors to reflect the face of the building.  

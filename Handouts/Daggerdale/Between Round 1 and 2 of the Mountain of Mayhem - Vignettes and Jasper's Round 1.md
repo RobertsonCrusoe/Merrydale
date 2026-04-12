@@ -43,6 +43,7 @@ Before the echo of the crowds' cheers subsided, Jeska jumps down from the outer 
 Finding Fiona waiting.
 
 "Fiona, my dear girl, I have need of you to spread word to the crowd. Tell them CHEER NOT! on Team Chrysalis arrival at the second event!"
+
 "Beg them! hold their voices until I bid them shout!, after which I want Such a cacophony to be heard in Thistle Ridge!"
 "You have little time, go now and.. Yondalla guide thee"
 

@@ -158,4 +158,5 @@ Jeska smiles, and looks to Merriadoc.. "Perhaps a glass of 'Thinwistle Sour' fro
 ---
 Source: Email thread "Sitting at the hearth", 24 February – 3 March 2024 (play-by-post narrative exchange)
 Contributors: Scott Mclaren (Jeska), Todd Burry (Mari), Stephen Robertson (Lucan), Les Blackwell (DM/Dalak Quick-Axe)
+
 Keywords: Myth Drannor, Jeska, Mari, Dalak Quick-Axe, Quick-Axes Tavern, Gorehammer, Zerk, battle rage, Lilly's Love, Barley Buck Gold, Sweetberry, Thistle Ridge, Balak, Stonebridge, Daygle, Redjacks, Eclose, Mortimer, Coventina, Meriadoc

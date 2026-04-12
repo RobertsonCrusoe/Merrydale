@@ -18,18 +18,24 @@ friends from Neverwinter
 Alt Kor, Wilk Shtub, Rufus, Beljuril and Hob [DID THIS HAPPEN HERE?]
 Thagdul snips us from his apron strings, and we head back to HQ.
 We decide that it is high time we get the heart of the Earth back from the Hunabars.
+
 Garth does some reconnaissance while Ellyth does some digging by picking up a guard Edgar at the Dripping Dagger.
+
 Jafar manages to find out that a powerful invoker by the name of Kalindos is protecting Huskar Hunabar.
+
 Edgar is gets into a barfight, and is knocked out by another guard named Tristan Silmerhelve, leader of a company of mercenaries being employed by the Hunabars.
+
 Tomas and Raven went to Reprobate HQ to let them know that should the CRH find that the Reprobates continue to work for Yarkul, there will be hell to pay.
 Only Sgt. Krag is home, apparently, and he takes the message.
 As they turn to leave, Rubicon busts out the door, threatening Tomas: "You have five days left to live."
+
 Raven is kidnapped when Dragon tries to get the drop on Raven, but he knocks her out, breaking her nose.  Her lackeys bring him down, and he is spirited away to deep beneath the Wavesilver Villa.  WHEN DID THIS HAPPEN?
 Eleint 26
 Raid on the Hunabars
 Night of the full moon
 Uncharacteristically successful Red Herring infiltration of the villa
 A party and ceremony, possibly to an evil god (Myr Kwaigoth?) is happening upstairs
+
 A late-comer stumbles onto the party as we enter the main hall, and a fight ensues
 the Hunabars are revealed as werewolves
 Wilk slays at least one werewolf dead, spurring the patriarch, Huskar, to call a truce and tell us to get the hell out
@@ -43,12 +49,14 @@ Stuart/Edgar was involved in this raid [WHO IS THIS GUY?]
 Eleint 27
 Return to the Hunabars
 The next day, Rufus decides to go to the Hunabars to do a little damage control and put in a good word for Selune.
+
 He speaks with the patriarch, Huskar, who tells him to deliver a message to the Red Herrings
 Give us back the staff
 s mine, and my son
 s antics have nothing to do with me.  You have 24 hours to comply
 or something like that.
 Rufus turns to leave, then remembers that Rychel had given him a note to deliver to the Hunabars, something
+
 to the effect of "Thagdul has the staff and you're not getting it back, douchebags."
 With that Huskar says
 Thagdul has the staff?  You die.
@@ -57,6 +65,7 @@ Rufus manages to escape by turning into his animal form, leaving behind the Road
 Upon returning to CRHHQ, Rychel, Rufus, and another character
 maybe Wilk
 then took a carriage around the city, trying to locate the source of the material lining the box.
+
 Rufus cast locate object, and we toured around waiting for the object to get within range.
 The rest of the material turned out to be under the surface of the city
 in a hole in the sewers.
@@ -67,13 +76,17 @@ Raven is apparently being held at an abandoned warehouse in Dockward
 Because Rychel had just started to adventure with the group, he didn't realize that it was Rubikawn he was talking to, who was setting us up for a trap.
 The Vortex
 When the Red Herrings investigate, there is some kind of sonic attack, which breaks all of the glass in the building.
+
 Soon after a mage casts a spell that forms a vortex of whirling glass, that turns out to be covered in paralysis poison,
 Tomas is severely cut up by both the drow and the poisonous shards
 As the party beats back the enemy,  Rufus tries to follow the drow as they escape into the pit, jumping down to do battle with a bunch of them
 They cut him down pretty easily, but he is saved by Rychel [?].
 Esperel and Garth do not participate in the fight, and watch from a nearby rooftop.  The drow successfully escape to the sewers.  Rubikawn was not seen.
+
 Magistrate Thumin shows up, books us for trespassing, and throws our asses in jail.
+
 Rychel is somehow able to send word to Harkus Cormalis, who, along with Magistrate Vader, is able to let us all out, except for Tomas, who is badly injured and stays to be tended in the infirmary, Hob Farwood, who stays to act as legal counsel for Tomas, and Rufus, who seems to have been misplaced.
+
 Rufus has in fact been taken to a special cell by a half-elven bald fellow, who is in cahoots with someone else.  He tortures Rufus with silver, then enchanted torture devices, asking for Rufus
 truename.  Rufus does not submit, however, and makes it through the night.
 Eleint 28
@@ -87,7 +100,9 @@ a fight breaks out
 Beljuril cast a dispel magic early in the fight, revealing an invisable Yarkul
 A woman with a broken nose is there, somewhere
 Beljuril remembers that Yarkul cast a minor sphere of invulnerability and hid inside it, using his thunderstaff spell to whup much ass, (at least Beljuril's ass, which got slammed out into the street.
+
 Rychel fought a bunch of ghaunadans, creatures of a drow-pantheon god, using a vorpal garrotte to behead the things.
+
 Jafar cast his spankin' new "summon monster" spell and called forth some slimes from the sewers which added to the general chaos and subsequent renovations at The Dagger.
 Esperel and Garth were sneaking in through the kitchen
 Wilk Shtub and Alt Kor both end up dead
@@ -99,6 +114,7 @@ The interrogation of Yarkul
 Eleint 29
 The interrogation of Yarkul reveals
 Late in the day, a message arrives from Elbing Hightimber, offering a trade of Yarkul for Raven.  Yarkul is to be brought to the Wavesilver Villa by 7 pm, otherwise, Raven will die at that time.
+
 Rychel and another character take Yarkul to the appointed place and the trade takes place for a bruised and battered Raven
 Rychel and/or Jafar put a notice in Waterdeep
 s daily news, proclaiming that "the Hunabars are werewolves"
@@ -129,6 +145,7 @@ Esperel gathers information about the history of the Wavesilvers
 The family lost its fortune three to four years ago, and the villa has been sold
 The Wavesilver nobles live in the guest house, renting from the new owners
 The only Wavesilver living in the villa is April, formerly the wife Bleskos, the Wavesilver patriarch, now the consort to Elbing Hightimber
+
 Bleskos Wavesilver now lives on the Silver Spear, a boat in the harbour, a bit of a joke to the local shipwrights and traders
 Erested, the heir, lives in the guesthouse and hates Hightimber and his company
 The broken-nosed woman from the Dripping Dagger is connected to the new owners somehow
@@ -175,6 +192,7 @@ body is taken to his mother
 Rufus and Esperel head out to find the Silver Spear
 Rufus takes the lead, Esperel sneaking later
 Esperel notices that an invisible figure stalking Rufus and both duck into an alley (maybe Dragon)
+
 Rufus climbs onto a roof to avoid a fireball, then down into the alley, and ducks into the Blushing Mermaid
 cashes in a favour for an escort home, Lady Alathene arranges it
 Outside, Esperel climbs a wall, tumbles, evades a thrown dagger and ducks into the Copper Cup

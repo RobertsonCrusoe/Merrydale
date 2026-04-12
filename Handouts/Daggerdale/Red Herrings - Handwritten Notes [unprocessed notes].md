@@ -19,11 +19,17 @@ Who is Sylke?
 ―--
 Summary of the Alliance
 Xulla and Zantiid are two beholders working with a third, more powerful beholder to complete a project that involves, among other things, two tablets unearthed in the Dagger Hills, an ancient book called the Encyclopedia Ocularis Indomitus, written by a Netherese scholar named Asclepius of Wrethe and the imminent arrival of the wandering comet Vaerusius.
+
 As allies in the project, the beholders have hired the Zhentarim, who have their own, more easily speculated goals. These are economic dominance on the surface of Faerun, and the elimination of those who oppose them – specifically, the Harpers.
+
 In return for their assistance, in the form of manpower, the beholders support these aims, insofar as they agree with their own. Thus, tensions sometimes erupt.
+
 The Zhentarim, it seems, have involved their own, more traditional, allies – the evil Churches – in the plot. Thus, in Waterddep, we saw the inclusion of the Cult of Iyachtu Xvim in the dealings of Company Ersgul, and in the Dales, the Cyricists.
+
 The main conduits of information and communication with the Beholders have been the mysterious beholder staves. One staff, the largest, has remained with Thagdul, since the beginnings of our involvement. Only recently has he been seen without it, though it assumed that he is still in possession of it.
+
 The second staff was held by the mage Yarkul until his defeat by the Red Herrings. It was then taken by Jafar, who seemingly surrendered it to Beljuril when his party went north. This was actually an elaborately carved duplicate, and Jafar is presumed to remain in possession of the real staff.
+
 The final staff is the mysterious Hunabar staff, stolen from the Hunabar lycanthropes by the Red Herring, then again by an interest that saw the staff wind up in the hands of the mad Zhent mage Malkor, before it was retaken by Beljuril in Neverwinter.
 …
 After being kicked out of the alliance, Yarkul attempted to go it alone.
@@ -125,6 +131,7 @@ Question: Why did Quevin get the EOI in the first place?
 
 Drurignz v. Ersgul – competition (Drurginz dominates)
 Harpers v. Malkor – Harpers suffer setbacks, Malkor suffers setbacks, Harpers redirected to Thagdul
+
 Red Herrings v. Ersgul – Ersgul plays for Phaulkon, get smashed, Dalael take Phaulkon (Garth)
 Harpers v. Malkor – Malkor beaten(Beljuril, Rufus)
 Harpers v. Yarkul – Dagger Falls liberated (Maturin, Boregar)
@@ -141,6 +148,7 @@ Tired of playing second fiddle to Yarkul
 
 Harvestide 1371
 Ersgul, with the support of the Xvimites, Dragon and the Drow, put the drop on the Phaulkon cargo. The cargo was shipped by the Wavesilver family, who had been co-opted into the Cult. Semuldan Anteos is made captain of the Silver Pride through the arrangements of the Dalael.
+
 Xulla, pleased, offers the Cult a role in the Alliance, and supports their goals, notably the manifestation of Xvim. 
 Perhaps this doesn’t sit well with the drow
 Background for Chapter 4.3
@@ -158,7 +166,9 @@ Gotlieb Erlgund, of the Carters and Coachmen (a former employee of Drurginz)
 Gideon, of the Salter’s Packers and Joiners (had joined Aldebaran)
 The setup:
 Altooth Mzool, of Company Aldebaran, sends Gideon with a note to the Blades of Korombos to ask them to “convince”  Ersgul Mlshool to join Aldebaran over Dalael.
+
 Mlshool soon receives another visitor, however, Gotlieb Erlgund, who brings instructions from the Dalael to arrange an ambush at Fishgut Court. He also brings a payola tribute of drow merchandise. Gideon signs onto the conspiracy and arranges the ambush.
+
 The ambush backfires, and Gideon’s betrayal is revealed. Both he and Gotlieb are killed, along with their men. Ersgul Mlshool is no longer seen as useful – if Aldebaran can’t rely on their own, why trust a traitor?
 Possible problems:
 Gideon would have been better off joining with the Dalael straight up instead of joining Aldebaran then turning on them
@@ -189,6 +199,7 @@ Find out anything about Agamemnon's death/disapperance and what he knew about
 EOI
 Who hired Grimwald's Rangers (how did we learn it was Teskul?)
 Who is Gettard, the man whom Agamemnon was to meet with? Did Nero go to this meeting?
+
 Task Garth with discovering more about Nym Dalael (at the Dark Lantern) and lssilith Dalael’s business. Nym is a known companion of Lady Fairwoth Craigsmere.
 Find Teskul
 Undermining the Draw
@@ -295,19 +306,25 @@ Rychel Voordan
 Some notes on Thagdul
 Suppose that the antagonism between Iyachtu Xvim and Cyric predated the Dales
 In both Waterdeep and the Dales, we have observed the workings of a conspiracy rife with dissension.  Suppose that the dissension between Ersgul and Drurginz was setting the stage for what would occur in the Dales.
+
 Ersgul was raising capital via the nobles (Dalael), while Drurginz was making money off trade routes. Malkor was sending slaves 
 Thagdul was importing/exporting Banite blades from Luskan
 Thagdul also traded heavily with the East
 Thagdul arragned an attack on the Dalael as a warning to Ersgul not to meddle in his affairs (revenge for the bomb sent by Jannaxil Serpentil at the behest of Yarkul)
+
 Thagdul arranged the failure of Ersgul/Dalael effort to trade slaves in Skullport
 Thagdul knew of the Southern Star and hired us to retrieve the six bottles
 When Yarkul employed the Reprobates, Thagdul wanted us to eliminate them
 Thagdul gave us all cloaks so we could be tracked
 Thagdul wanted us to recover Sembian statuary
 Thagdul arranges for us to rescue the Raventree children and make an attack on the Cult of Iyachtu Xvim at the Dark Market
+
 Teskul was the main link between Thagdul and Malkor. He also worked under the pseudonym of Sal Worthingham, who was on the payroll of Ersgul and Thagdul's man on the inside. He also fell in love with Dragon
+
 Xulla was not solely supporting Ersgul, but rather used Ersgul to accomplish certain goals, diverting profit from the Zhentarim when it suited him.
+
 Drurginz and Malthoon’s appeared to be the major players in securing trade routes and monopolies
+
 Why did Xulla want Phaulkon if not for a play that was at cross-purposes to Drurginz?
 What was Xulla’s project?
 Thagdul’s role in Waterdeep was successful, and the trading networks were set up as dictated in the Zhentarim plan. The beholders supported this as it suited their purposes – allowing them manpower to securely unearth and transport the beholder tablets.
@@ -335,6 +352,7 @@ Malkor’s mysterious ranger (Onyx)
 Yin-Xu
 Harper code was being transmitted overland via two channels
 Iyachtu Xvim was brought into the OA by Yarkul because of their takeover of the Wavesilver trading house and Phaulkon Cargo – great resources for Xulla’s project.
+
 When Xullas’s capital was then stolen by the drow in the sewers, Ersgul’s part in the Ocular Alliance was finished and Xulla would have needed to pursue other strategies
 Was Drake at the ambush? Dragon? Yarkul?
 Yarkul  became Thagdul’s vassal and oversaw the excavation of the stones. How did he get that responsibility?

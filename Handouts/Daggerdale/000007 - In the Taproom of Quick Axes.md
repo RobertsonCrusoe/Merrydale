@@ -118,12 +118,15 @@ Amid cries of agreement, Beliard lowers his head in acquiescence, and remounts t
 The crowd, now familiar with the bard, dims its murmuring somewhat as Beliard begins singing in a low voice. As the patrons of Quick Axes strain to hear the words of the song, the din lowers further still.
 
     A stick, a stone, it's the end of the road, it's the rest of a stump, it's a little alone,
+
     It's a sliver of glass, it is life, it's Selûne, it is night, it is death, it's a trap, it's a rune.
 
     The oak when it blooms, a fox in the brush, a knot in the wood, the song of a thrush,
+
     The wood of the wind, a tower, a fall, a scratch, a lump, it is nothing at all.
 
     It's the wind blowing free, it's the end of the slope, it's a gleam, it's a void, it's a hunch, it's a hope,
+
     Where the River Tesh crosses the Tethyamar trail, it's the end of a journey, it’s the start of the tale.
 
 From the chaos of a half-hour previous, the inn has been transformed. Only a few low whispers are to be heard, as Beliard continues his ballad.
@@ -135,12 +138,14 @@ From the chaos of a half-hour previous, the inn has been transformed. Only a few
     A spear, a spike, a point, a nail, a drip, a drop, the end of the tale.
 
     A cartload of hay in the soft morning light, the howl of a wolf in the dead of the night,
+
     A mile, a must, a thrust, a blow, it's a girl, it's a rhyme, it's a troll, it's the snow.
 
     The plan of the castle, the body in bed, and the cart that got stuck, it's the mud, it's the mud,
     Afloat, adrift, a flight, a wing, a hawk, a quail, the promise of spring.
 
     Where the River Tesh crosses the Tethyamar trail, it's the end of a journey, it’s the start of the tale.
+
     A stick, a stone, it's the end of the road, it's the rest of a stump, it's a little alone.
 
 A crash from the kitchen punctuates the silence, as one of the halfling cooks tries to divide his attention between his pots and the bard. Fat Othen ambles quickly out of the taproom to investigate. Across the room, the door of the inn opens and three elves walk into the firelight, their keen eyes taking in the scene.

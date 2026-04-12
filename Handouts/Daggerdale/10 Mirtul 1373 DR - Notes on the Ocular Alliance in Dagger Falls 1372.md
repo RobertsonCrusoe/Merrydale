@@ -83,7 +83,9 @@ The revelation by the interrogation of Morgul the Vigilant Talon that Yarkul had
 1. To what degree was Venosar involved in the Alliance itself? From the favourable relations between Morgul and Venosar, the instigator of the purges that resulted in the primacy of the Church of Cyric in Dagger Falls, it does not seem that he was following any dictates of the Alliance. Indeed, it rather seems the case that he was employing his wiles in support of the Dark Sun, while also stabilizing and obfuscating the control of the town by the Zhentarim.
 
 2. What does this say of his supposed liege, the wizard Thagdul? It is the opinion of this author that Thagdul is playing a dangerous game of supporting two projects.
+
    a. Firstly, the continuing role of the Zhentarim power-broker in the presumed service of Manshoon.
+
    b. Secondly, he remains, as far as this author has evidence, an active member in the Ocular Alliance. It remains to be seen how these perhaps conflicting alliances will be played to their conclusion.
 
 3. Did Cyric's use of Maturin as a vehicle for motivating his designs begin when a Cyricist cleric "healed" Maturin's strange illness in Loudwater?

@@ -11,6 +11,7 @@ SCOTT (9 Aug 2024, 9:37 AM):
 Just a wee note on how I look at any project... Just look down on what you want to happen...
 
 30,000 ft view - Ultimate Goal (This is, in our case, the competition planners.... They have a goal.. we are tools)
+
 10,000 ft View - Overall plan to accomplish the goal set above (Competition Winners)
 1,000 ft View - Detailed plan to accomplish goal set above
 5 ft view - What can "I" do to accomplish goals set above

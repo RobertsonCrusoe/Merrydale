@@ -51,5 +51,6 @@ This family tree was composed by Magistrate Blaze Whitegate with the help of Cle
 
 ---
 Note: Lilac Alavandor and Lily Clarandal are highlighted in the original document — the ghost-girls of Thistle Ridge.
+
 Note: Susserah is described as "nee Clarandal" in the Alavandor tree (as Andarl's wife), but does NOT appear as a child in the Clarandal tree. The Clarandal tree lists only Tergus and Claudius Jr. as children of Claudius and Saralla. This omission is present in the original PDF — either an error in the source document, or a deliberate absence from the parish records compiled by Whitegate and Dale.
 Source: PDF attachment "Sembial Families of Thistle Ridge.pdf" (note: title uses "Sembial" — corrected to "Sembian" here), Les Blackwell (DM handout)

@@ -97,8 +97,11 @@ LUCAN'S TO-DO LIST (Stephen, 17 Aug):
 Lucan's to do list, consolidated:
 
 1. Talk to Blaze Whitegate about a) his knowledge of the hunting accident that claimed the lives of Andarl, Abrecia, and Dorian, and b) whether I'm now allowed to see the records of the Alavaxi family members. Could Alaventa Alavaxi be Abrecia's daughter?
+
 2. Find out if there is any record of the investigations into the Phylactery, or of any students who trained there but subsequently left Thistle Ridge
+
 3. Ask Vessuvian or Sanduskin Vale about the likely origins and background of the name Sakurth. I have a hunch about that...
+
 4. Ask someone - maybe Nemia - about the significance of multi-generational twins.
 
 ---
@@ -108,10 +111,13 @@ FROM THE CASEBOOKS OF LUCAN ALAVANDOR - THE GENEALOGICAL PUZZLE (Stephen, 17 Aug
 I have been a fool. I've been so focused on the absence of a blood relationship between myself and Lilac that I forgot that Lily Clarandal should also have been an Alavandor through her mother. Nemia seemed preternaturally certain that none of the ghosts were Alavandors. Let me explore the ramifications here.
 
 Tenet 1: Alvund and his sister were true siblings, and both bore the name Alavandor.
+
 Tenet 2: I, Lucan Alavandor of Saerloon, am indisputably of the Alavandor line through Alvund's sister.
+
 Tenet 3: I do not share a blood (or whatever ghosts have) connection with *either* Lilac Alavandor or Lily Clarandal.
 
 Implication 1: Lily's mother Senthia Alavandor was not the true child of Alvund Alavandor
+
 Implication 2: Either a) Lilac was not the true child of Andarl Alavandor or b) Andarl was not the true child of Alvund Alavandor
 
 Applying the principle of parsimony to the above, the most likely secondary implication is that neither Senthia nor Andarl were Alvund's children. The most likely candidate for their paternity (if we do not look elsewhere) is therefore Claudius Clarandal.
@@ -131,7 +137,9 @@ Very odd.
 I am not sure how any of this is significant, but if I'm to believe Alvund was my great-grandmother's true brother, there does not seem to be any other explanation.
 
 Finally, another thing I now realize is that Alvund and Claudius were both old enough to plausibly be their wives' grandfathers:
+
 Historical Fact: Alvund (born 1349) would have been 41 when Aisling (born 1390) was born.
+
 Historical Fact: Claudius (born 1345) would have been 46 when Saralla (born 1391) was born.
 
 Not necessarily out of the question for widowers, but I suppose, but it's another oddity that bears keeping in mind.

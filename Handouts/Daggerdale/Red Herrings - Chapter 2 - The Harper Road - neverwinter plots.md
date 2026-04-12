@@ -6,12 +6,14 @@ Atemnon managed to send a rider to our camp with word of Zaltim
 s meddling, and I am making the necessary arrangements.
 The Spawn in Thurl
 dan are doing very well, though their brood do not grasp the concept of looting.  So be it.  I keep two of my finest scouts watching the place.  They report that the ettercaps have done an excellent job feeding the spawn, and their production is excellent.
+
 Yesterday, we made an excellent strike against a foolhardy Seven Stars caravan that thought itself capable of squeezing past our allies.  I report that their load is still being assessed, but we found 300 Lantanese tradebars, one of which I am sending along for your assessment of it
 s authenticity.
 Yesterday
 s count after the raid was 212 Uruk
 dan, 144 Dolgun, 24 Aruk
 s and 38 freebooters.  We have 44 mounts at mid-excellent quality, 41 pack-mounts and one Sembian purebred.
+
 Of humorous note, two of the members of the Seven Stars turned out to be Zhents with weak wills and loose tongues.  Apparently, Yarkul will be most upset about this Seven Stars load falling into our hands.
 That is all for now.
 Consider this, though:  The need for all these orcs will have diminished completely come winter.  We should find the right market for these green oafs.
@@ -21,13 +23,16 @@ Belduran;
 I fear my last letter must have gotten lost.  I was expecting your word or presence yesterday.
 Conflict with the angry Uruk
 Dan is inevitable at this point.  There has been skirmishing between our scouts and theirs already.  The Zhent enchanter Gilthzan has mastered enough of his tricks to mobilize the Uruk
+
 Dan for one last campaign.  He has been spotted amongst them, which worries us.  Orcs aren
 t too dangerous when left to quibble amongst themselves, but with a leader
 This brings me to my most important point: at all costs, we must cut the head from the snake.  The company Ersgul, lead by the Zhent Yarkul, is to blame for this mess, and the angry vengeance they extract now, would best be averted by destroying Yarkul and Ersgul in Waterdeep.
+
 The Company has many minions in Neverwinter, but in the finest tradition of destroying the Zhent influence in the north, it is better to cut this snake head first; the tail slides down smoothly afterward.  Our friend Zaltim has been working on this assignment for some time.  I am displeased to inform you that our long-time comrade, Laurel Dawn, has perished at the hands of Ersgul.  Zaltim continues without her, with a band of adventurers.
 Of special note, amongst this band, is the Sel
 nite Rufus, one of Sel
 s Chosen.  This lycanthrope has a true heart, and has two nominations for invitation into the order.
+
 If we never meet again, please find Zaltim and assist him in destroying Company Ersgul in Waterdeep.  You should seek out our colleague Thagdul, who operates a company called Drurginz in the Dockward of the City.  This comrade, and one-time partner of mine has been warring with the Zhents in a most clever guise, for quite some time.  You and Zaltim should take up the task of finding Thagdul, and destroying Ersgul.
 All of this, of course, after you bail us out of the Uruk
 Dan cooking-pot.
@@ -41,7 +46,9 @@ If our pets in Thurl
 dan require more coaxing, please send word to me.  I have fashioned the appropriate scrolls.
 Re: the Harper:
 Atemnon tells me that the Harper Road Mage is on his way to your encampment with a handful of thugs.  I don
+
 t know what he has planned, but I will find out.  Please take him alive.  The others are hired muscle, and can be exterminated.
+
 Be warned that amongst them is a lycanthrope of an exotic breed.  This one should be slain immediately!
 Malkor
 #a^!9

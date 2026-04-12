@@ -57,6 +57,7 @@ Scun's suggestions:
 Primary (actively working as a party to achieve)
 
 1. Gather information regarding the Everblight Farm for Captain ElfyPants in Loudwater
+
 2. Set Loudwater on the path to self-reliance.  This town is currently a big, retarded, crippled baby.
 
 Secondary (passively working as a party to achieve)

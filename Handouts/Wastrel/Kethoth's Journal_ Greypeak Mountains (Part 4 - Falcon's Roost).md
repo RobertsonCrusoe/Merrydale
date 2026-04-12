@@ -226,6 +226,7 @@ If we are able to make the span tomorrow, destroy it, and make our way back to t
 
 =Helgorod Pass=
 Tonight we are travelling light.  We are forcing march and carrying only our fighting gear and a bit of food.  It is quite pleasurable to travel in such fashion, I should remark.  Not waiting on recalcitrant mules, stuck wagons, and ponderous discs allows one to keep a brisk pace, and also enjoy the air and the scenery.  The Greypeakes are mountains from a child’s story book, and it is a delight to cast aside burdens, even if only for a while.
+
 The valley of Helgorod Pass is broad and green, with a variety of plants and small coniferous trees proliferating.  The pass carries us ever upwards, but it is a gentle ascent, and we made excellent time, covering more distance in a day than we have in three days in the steep road leading to the Roost.
 
 Our pleasant constitutional through the valley was interrupted only once.  Our scouts actually managed to get the drop on a small train of supplies being escorted by a group of Hand scouts.  Tyriol reported back to me with a smile from pointy-ear-to-pointy-ear; “Captain!  We’ve got the drop on ‘em!  A small caravan is heading this way, and we should be able to ambush them!”

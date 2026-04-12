@@ -171,15 +171,25 @@ Tarsakh:
 • 17:  Battle of the Limestone Court and events that follow Calix's rescue
 • 18:  Return to Greenwood Farm and attending to matters there
 • 19:  Parting of the ways - Jasper, Jeska and Mari head to the Tower; Lucan and Sir Rowan head to Dagger Falls
+
 • 20:  Jasper assists Sunblades in cleaning the tower and preparing the space for the alchemical/magical laboratory
+
 • 21:  Jasper and Mari pass by Greenwood on the way to Dagger Falls where various correspondence is sent and received
+
 • 22:  Jasper visits Meagre and places an order for some scrolls. He goes to the laboratory where he produces 4 Healing potions and then packs up the lab equipment for transfer to the tower.
+
 • 23:  Receives letter from Coventina, and attends to her at Cassimar Tower; he then visits his brother and family
+
 • 24:  Meetings with Invictus and members of the Adjudicating Committee.  Jasper is seen knitting the entire day, and by that evening he has produced a Cloak of Feline Rest
+
 • 25:  Further meetings with Committee Members and decision to use Invictus's Boxes of Evil Magic. Jasper scribes some scrolls.
+
 • 26: Jasper meets with Coventina and is deceived; Inquiries. A decision is made to venture out to the chapel immediately. Jasper collects his commissioned scrolls from Meagre
+
 • 27: We arrive at Greenwood Farm survey the progress, attend to administrative tasks, and prepare for the next day's trek to the chapel.
+
 • 28:  Assassination attempt at the Hidden Chapel of Janath, and de-consecrating of the same; return to Greenwood Farm
+
 • 29:  Surprise arrival of Sanduskan with ill tidings.  Councils are convened, correspondence is drafted and sent, preparations are made.
 
 It is now dawn on the morning of the 30th day of Tarsakh.  Tomorrow is Greengrass and we can expect the siege of the Tower to commence that night, leaving us roughly 36 hours to make preparations and plans and deploy our allies.

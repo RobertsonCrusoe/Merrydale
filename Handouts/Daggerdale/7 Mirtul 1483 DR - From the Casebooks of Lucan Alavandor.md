@@ -217,4 +217,5 @@ Questions Remaining:
 5.  Who else knows about the orbs' capabilities? If Reks knows without seeing the report, who told him? Invictus? Or does he have another source?
 
 One final consideration: What does this theory tell us about the fate of Phinneas Hoetmer?
+
 Hoetmer died Flamerule 29, 1480—two months after capturing three charged Slave Orbs "tied to" the Imperiosus Orbis, two years before Verinius vanished. He was examining the orbs with Estelmer. He understood enough to warn against transporting Verinius through populated areas—suggesting he grasped that a charged orb vulnerable to remote activation through its IO connection posed dangers others didn't see. Estelmer says he "went to sleep and never woke up," exhausted from profound Aetherial journeying. He and Estelmer composed a report on the Slave Orbs that has yet to surface. Reks claims never to have seen it, yet somehow knows details about the orbs' natures and capabilities. Hoetmer's death left Invictus without expert guidance. Was his death natural exhaustion, or was he silenced because he knew too much about vulnerabilities someone wanted kept secret?

@@ -63,6 +63,7 @@ He was dumbfounded, searching for words, her lingering kiss burning a hole strai
 \"I...ah, um, wha...\" He ventured a reply, clumsily.
 
 She nodded as though any of it had made sense, and replied. \"She is most aware in these lands. You have come to pay forward your gratitude, Edward.\" The way his name rolled off her tongue turned his legs to jelly. It was good that he was already kneeling, else he'd have had to suffer a long tumble down the stairs behind him.
+
 \"I...I have some gold on hand. If I owe, I mean, that is, or...or...I...\" He managed to stammer helplessly, fumbling at his hip for his coin pouch. The priestess bent low once again, laying a hand on his own, drawing it away to grasp herself from the pouch a single gold lion. Edward wasn't aware of that though, eye's unwavering dead ahead on the ample and barely-concealed bosom she had presented him unknowingly (or perhaps otherwise) during the graceful motion.
 
 \"Do not be absurd,\" she murmured, a the hint of a sly smile dancing at the corners of her full lips. \"The Lady does not seek recompense for her favour. She accepts only what is offered, darling, and is more than happy to accept what you have offered here this day.\"

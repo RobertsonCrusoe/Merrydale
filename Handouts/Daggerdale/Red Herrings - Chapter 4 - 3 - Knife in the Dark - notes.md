@@ -13,12 +13,15 @@ The more likely turn of events is as follos:
 Gideon was a fucker swho tried to double-cross
 The Boss
 and Ebola?, so he was eradicated for this betrayal.  All that were in league with  them suffered the same fate.
+
 Gideon was in league with drow.  The drow are competing with the Boss, and the Boss had Gideon killed.
+
 Gotlieb shows up and gives Gideon a note along with the drow gear.  Gideon sees the note and burns it.  This takes place after the boss gives Gideon the note we have, which was meant for
 Ebola
 The second note from Gotlieb is from Gideon
 s drow bosses.  It tells Gideon to set up Ebola for an ambush at Fishgut Court.
 The ambush goes south, and either a) Ebola/The Boss win and the drow are beat back.  Gideon is then killed; or b) the drow win and Ebola is killed.
+
 However, an alternate, though less likely possibility is that Gideon was just an idiot who fucked up and got himself killed by the anger of the Boss.  The death of Ersgl Mlshool is not connected to the Boss as AM/Ebola never got the note indicating a hit.
 Approximately Greengrass 1372
 a robbery at Gideon

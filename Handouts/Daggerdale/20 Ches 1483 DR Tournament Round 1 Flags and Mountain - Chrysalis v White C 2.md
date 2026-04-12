@@ -1,34 +1,63 @@
 20 Ches, 1483 DR – Tournament Round 1 – Flags and Mountain - Chrysalis v. White Cloaks 
 
 The day starts of crisp and cool, with a dusting of late snow drifting through the air, but not really accumulating.  It is just around freezing this morning, but the day promises to be warm and pleasant.  Like every other day in Dagger Falls, the day is welcomed by the bells of the Cathedral, which chime at 6 bells of the morning, and again as the first ray of morning sun breaks over the eastern horizon an hour later, calling the Amaunatori to prayer.  By this time, many of the faithful are making their way to the Cathedral, while others observe in their own fashion, from their east-facing windows or balconies, some simply facing east in the street, and letting the sun wash over them. 
+
 The normally pristine streets are this morning covered in the evidence of last night's revelry.  Discarded bottles and cups in various states can be found throughout the Old Bailey, as well as bits of food, ribbons and clothing.  While not a terrible mess per se, this is unusual for Dagger Falls, and the mess will be cleaned up shortly after what the Amaunatori call Prime (they're first prayer of the day, held at sunrise). 
+
 The first people awake this morning were the bakers, whose chimneys and ovens are already producing a fragrant smoke. 
+
 By 8 bells this morning, most of the town is awake and the Old Market is the busiest it has been since last fall.  There are many vendors selling breakfast this morning, and the market is choked with people who have come out to talk about the day's festivities and the tournament.  The first round of combat in the arena is scheduled for an hour from now, and people are visibly excited.  This sort of spectacle is rare in the Falls, and there is much speculation about how it will go. 
+
 "I heard they built a mechanical dragon, and that the White Cloaks and those other guys will have to try to beat it to keep going in the tournament!" 
+
 "No no, I saw lots of wood going up there.  They built and obstacle course, and the teams have to run across planks while wizards throw fire and lightning at them to try to knock them off!" 
+
 "That's not it at all.  I poked my nose through the barrier they erected, and I seen it with my own eyes; there's a wooden mountain in the middle of that old corn field, and they have to fight each other to the top.  The White Cloaks are likely to win, but I'd take a wager on either side, depending on the odds you're giving!" 
+
 There is a lot of wagering, and although it's not strictly illegal to do so, the Amaunatori don't like it, so these transactions are made over closed shoulders when one of the faithful is nearby, and are paused completely if a magistrate walks by. 
+
 Outside the Embassy this morning, there is a small crowd gathered, awaiting your emergence.  A couple have crafted hastily-made banners of green with a purple butterfly in the foreground, and a chrysalis hanging from a tree in the background.  Many of the people are wearing as much green as they could find, with purple accents, this colour scheme somehow having been chosen by some unknown committee yesterday.  Despite the popularity of the White Cloaks, it seems that the presence of an elf in the Embassy is encouraging to some, and the long tradition of mortal curiosity and reverence for the First People is playing out before you. 
+
 As you make your way to The Arena, you find the town fully awake and abustle.  Just about everyone wants to watch the matches today, and there is a long line of people just north of the East Gate Customs Court queueing to be allowed into the area.  You are escorted to the Arena by a platoon of Sun Blades, lead by General Thunderstorm himself, who wishes you luck today, even though the crowds you pass mostly snicker and laugh at you, and offer their crude prognostications about your match this morning. 
+
 The Arena itself is a new structure that has been built for this very purpose.  It is surrounded by a fence of posts and beams which frame yellow canvases which act to block direct line of site to most of the arena itself, though they are clearly not meant as a serious physician deterrent, and also seem temporary. 
+
 Inside the yellow fence is the arena itself, and the new stands beside it.  The main arena ground is a muddy field that has been boxed in by a rectangular fence 4' high, built of simple posts.  At opposite corners of the arena are small L-shaped moats that have been built of stone newly-laid.  In the middle is a giant structure of timbers and boards that resembles a mountain, as one villager explained.  It is made up of 3 tiers, each 5' high, and is the focal point of the entire arena.  Smaller constructs are found at opposite corners of the arena, these with only 2 tiers. 
+
 The stands also dominate the scene; built 15' high and 150' long, the pair of them could each hold 400 people comfortably, but you can see that now, long before the first match begins,they are already full and overflowing, and 100's more people are standing anywhere they can where the Sunblades won't bother them. 
+
 Around the grounds, several vendors have set up impromptu stands for food and drink, complete with stoves warming up breakfast pasties and barrels of ale.  The atmosphere here is festive, even moreso than the day before.  Indeed, many Chaunteans have come out in their festive gowns today, and many have been into the drink, their mirth and volume adding wonderfully to the cacophony.   
+
 At either end of the battleground, a tall tower has been built, and upon each there are already official-looking people watching over the affair as it lumbers toward order.  At the north western tower, the Adjudicating committee watches with pleased faces the assembly taking shape, and they nod and salute you as you enter the scene.  With them are several magistrates and a few guards.  At the opposite tower, more magistrates and guards are assembled and watching over, and those of you that are able to do so, recognize that the magistrates have each come with a Staff of Healing, and a bundle of scrolls in the arms of a young neophyte nearby. 
+
 In the pre-match excitement, there is a chaotic level of activity; children are running around everywhere pretending to be you or the White Cloaks, some of them having to be chased out of the ring by Sunblades, before being taken away by the ear by their parents.  Every minstrel in the dale appears to have shown up today, and are creating a loud disharmony that is nearly disorienting.  Jugglers and fire breathers are also plying their trade, and in the middle of it all, wagers are being taken by men of every walk of life, and some women. 
+
 Your group is lead into a tent at the near side of the arena, where you are able to take a breath for the first time since entering the scene.  The tent is large, at 15' on a side and 10' in the middle, and has been appointed with some cots for the wounded, a table and chairs, racks for your gear, and fine magical lamp to light it.  "Your Sanctuary, Chrysalis.  No one will bother you in here" a magistrate with your escort explains as you are lead into the tent.  Indeed, he stops at the threshold, and some of you realize that this is indeed a Sanctuary of the specifically divine variety.  "You will use your sanctuary to prepare for your matches"  he continues.  The event will be called to order shortly, and you can stay in here or enter the ring as you see fit.  Best of luck, Chrysalis."  He bows and departs. 
+
 A horn sounds, and a booming voice is heard.  By the accent, it is clearly Ambassador Whitmore, who has had his voice amplified by some means.  "We shall begin the First Round of the competition very shortly, everyone!  Please settle in!  We shall summon our heroes momentarily"there is a brief silence while he speaks, but the cacophony starts up again once he's done, and now the place feels positively charged.  You can all feel the anticipation deep in the pits of your stomachs, and the last moments before the muster you nearly forget to breath. 
+
 Finally, you are called into to the field, where yellow-robed magistrates lead you to the Mountain, and encourage you to climb to the top.  On the other side of the structure you can make out the White Cloaks doing the same, until finally you find yourselves face-to-face with them on the highest platform in the middle.  The crowd is quite worked up by this, and there is quite a bit of cheering and more than just a little jeering at you.  The Redjacks are in attendance, and are standing at the edge of the field beside the fence, and are hurtling insults steadily at you, with some levied against the White Cloaks as well.  Looking around, you can see that the other two companies are also present the edge of the field, watching things unfold. 
+
 "Fellow Dalesmen!  Your heroes!"  and the crowd erupts into the loudest cheer heard since the lifting of the Zguumish Siege of 1404.  This takes a long while to subside, with Whitmore gesturing for calm. 
+
 "Let me introduce our heroes starting with the unexpected Chrysalis!  Lead by the Elven Diplomat, Jeska, everyone in town has heard her name, and knows she represents a rekindling of our most ancient alliance, for which our very calendar marks its beginning!"  While there are clearly some supporters of the elf in the crowd, and they boisterously cheer Jeska on, a dozen or more people yell out racial slurs against elves, some of the cleverest drawing laughs here and there. 
+
 "With her, a Sembian" with this, a great deal of booing and hissing, which he motions to subdue.  "Yes, a Sembian, and the only known living relation of the Alavandor family in the Dales.  Lucan Alavandor, or Lucan the Younger as some of you have taken to calling him!"  some laughing and jeering follow, and a little cheering. 
+
 "An accomplished priestess of Yondalla, small but mighty, with a heart twice the size of ours, and a family five times the size, Merigold Thickwickle of Tesh Valley Farm!"  A large cohort of halflings in the crowd now stands up, and wave banners and flags they have made to honour Mari.  A couple of the older halfling matriarchs wipe tears of pride from their cheeks. 
+
 "To provide arcane support for Chrysalis, let me introduce the Mage of Shadowdale" with this several gasps fall over the crowd, and Whitmore gives an uncomfortable chuckle.  "No no, not that 'Mage of Shadowdale', no no.  This is one of greater youth and perhaps greater destiny!  Jasper Hawkford!"  With this the crowd murmmers its disapproval, over the faint and dying cheers of a few supporters. 
+
 "And finally, holding down the Mountain like only one as prodigious as he could, Ser Rowan Grumbold!"  he is interrupted by one loud and nasty Red Jack who yells out "Ser Pumpkin more like it" to the amusement of much of the audience.  Whitmore struggles to end the laughing and jeering of the crowd.  "Ser Rowan is an accomplished knight of Cormyr who graces the field this morning, and will no doubt surprise you all" 
+
 "Shall we learn the names of your new White Cloaks?!" he continues once the crowd had settled, but this again sets them off, especially the dozens of children that have come to watch.  These younger fans of the White Cloaks are so excited they can't contain themselves, many of them dancing about in the stands in great excitement, waving white flags all about. 
+
 "Leading our new team is the Virtuous Tarra Hilltop, Lieutenant (retired) of the Sun Blades 1st Company, 2nd Platoon, Mountaineers!  A battle chaplain of great experience, Hilltop is sure to lead with skill and integrity!"  and the crowd roils up again.  Everyone in the crowd seems to love the idea of this woman, who in the face of all this praise, simply nods respectfully, and salutes the tower, this gesture returned in unison by every Sunblade in the arena, and immediately afterward by many of the boys in attendance.  Even the Redjacks are quiet at this, swallowing hard as they see the respect that hundreds of capable soldiers display for their former battle sister. 
+
 "Just as impressive are her former shield brothers, Jannus and Tyrell Dale, brothers by birth and by battle, the Dale brothers have lived most of their life at the Castle and served under Lt. Hilltop in the Mountaineers, their spears having found the hearts of orcs, ogres and Shadowvar alike!"  The crowd is nearly as enamoured with these handsome young men as with their leader. 
+
 "From the War Wizard Academy of Suzail, the Impressive Alexandus Ward!"  Ward is the only White Cloak with a smirk on his face, but he seems nonplussed that the cheers for him are half as powerful of that and Jannus and Tyrell.  Still, he cuts a dashing figure in his crisp white cloak and the jawline that Reks mentioned, and is clearly a favourite of many of the ladies in the crowd. 
+
 "Finally, one last recruit from the retired ranks of the Sunblades, this time a Forster of the 16th Company 3rd Platoon, born and raised in the wilds near Lostholme, the dangerous Zelia Oakbough!" 
 Flags and Mountain – First Round of the Tournament 
 There are three separate challenges in each Round.  In Flags and Mountain, these include; 
@@ -41,21 +70,35 @@ There are three separate challenges in each Round.  In Flags and Mountain, these
 
 Jasper Recalls the First Round Against the White Cloaks 
 "Go!" came the bellow from Ser Rowan as the signal for the start of the Second Round is given.  Lucan was first to sprint with ease across the plank, and then turned sharply north, his eyes already on the yellow flag that fluttered atop the platform. 
+
 Jeska was already on the Mountain, having gracefully leapt across the water obstacle this time, and onto the field. 
+
 "C'mon, young wizard!  Get going!" came the encouragement and the slap on the backside from Ser Rowan... but unfortunately, Mari was very carefully trying to cross the bridge to the other side, in the most grandmotherly way possible. 
+
 "I'm really, truly, very, very sorry about this Mrs Mari!" yelled Jasper as he scooped her up under her arms and carried her the few feet to the other side of the bridge before placing her down and sprinting off under the magical effects of his spell.  "I'm soooorrrryyy....!!!" called back Jasper as Mari found her footing on dry land. 
+
 With magical speed, he was up to the top of the platform in seconds; the flag ready for him!  Jasper stopped for a moment to appreciate the effect of the spell he had cast. 
+
 "Well, well, well... look at who's here?"  the icy voice of one of the Twins as he climbed atop the platform to face the wizard.  Jasper still couldn't tell them apart and wasn't sure if this is the one he had soaked with his water spell, or knocked off the Mountain with his wind spell.  Or perhaps both. 
+
 The man's eyes looked to Jasper like a wolf eyeing a helpless lamb, and then to the red flag standing unattended right there at arm's length, calling out to him... and then back at Jasper, the decision made. 
+
 With reflexes honed from years spent avoiding the many beatings often delivered by his 4 older brothers (and occasionally his 2 older sisters as well) Japer pulled himself a step back as the first sword swing missed him entirely.  The Twin recovered, and came back with a thrust meant for disembowelment, but again Jasper was able to side-step away and live. 
+
 Both Dalesmen locked eyes and smiled at each other.  The Shadowdale mage trying desperately to wordlessly communicate that this is all fun and games and that they really should move on to the flags; the Daggerdale sell sword retorting simply that Jasper was trapped and he had every intention to see the mage's innards become his outnards. 
+
 "You don't have to tell me twice!" thought Jasper to himself, as he was presented with the options of staying on this platform with a rabid killer, or running away.  So he grabbed the flag and... 
 Blood.  Lots more than he was expecting, too. 
 The slash came across the right side of his torso, opening up a shallow gash that splattered plenty of blood and soaked his shirt crimson.  But it was, as they say, a flesh wound, and Jasper managed to grab the standard and run. With a quick cast of a jump spell, he made it across to the comforting safety of the Mountain, far away from sword-wielding twins. 
+
 It was difficult to know what else was going on all around him.  Cheers and laughter came from the crowd on the other side of the arena where Lucan was supposed to be, but Jasper couldn't see what was happening.  He was vaguely aware of Jeska reaching the third flag surrounded by enemies and wowing the crowd as she dodged and weaved every arrow fired at her.  He could make out the occasional cry of "C'mon Ser Rowan!  Get out there and bounce" and "Show 'em what a belly's for Ser Rowan!"  and "Ser Pumpkin shows us your monkey!"  (Jasper made a note to himself to never ask Ser Rowan to see his monkey.) 
+
 Up he clambered to the top of the Mountain, and planted his flag in the bucket!  More cheers from the crowd as Team Chrysalis had scored a point to even the score. 
+
 "Wow!" thought Jasper to himself, "We're really doing it!  We have a good chance here!  Hey... er... what's Lucan doing over there with our other flag?!  Is he...?" 
+
 Jasper turned away from the Sembian's display, and saw the  Cormyrean wizard Alexandus looking up at him from below with palpable anger. Not knowing what else to do, Jasper gave Alexandus a quick wave and a friendly smile, trying to somehow establish a little wizardly camaraderie.  Somehow that didn't seem to work, and Jasper saw Alexandus's anger turn to white hot rage, which was then followed by a white hot wave of actual fire that burned Jasper's clothes and seared off most of the hair on his head. 
+
 In horrible pain, Jasper swung around to see both of the Twins and Lucan on the platform with him, and then a flash of sunlight on steel and - 
 Darkness.  Burning, cold darkness. 
 Sleep. Time to sleep. 
@@ -66,50 +109,78 @@ Is that raspberry pie?
 Get. Up. 
 Get Pie. 
 He slowly regained consciousness, reaching out for something - anything - to give him stability.  There was pain everywhere.  Even his teeth hurt.  His fingers curled around something... some sort of stick... it would do.  
+
 With all the strength he could muster, he used the staff he had found to prop himself up and stand.  He tried blinking the tears of pain away but still, his vision remained blurry. 
+
 He could sense an edge to the platform he stood on in front of him, so he stumbled and a step back, wheeling around and planting the stick down to keep him from falling over. 
 And then a roar of incredulous cheers from the crowd! 
 Jasper blinked a few more times and his sight returned.  He was with Lucan at the top of the Mountain, and he had accidentally planted their team's last flag in the correct barrel in an effort to keep himself from falling over. 
+
 "Did we just win?" the mage asked Lucan, as he felt his legs give way and landing on his knees. 
+
 He was healed - thanks to Mari, he would later learn - but he'd lost most of his hair to the flames and his shirt was slashed beyond repair and soaked in his own blood.  He was badly bruised where the magic missiles and force darts had struck him. 
+
 Jasper took a deep breath and just lay back down right there at the top of the Mountain, to catch his breath a moment.  Meanwhile the crowds cheered louder, as Lucan made some odd and rather specific gestures towards the Redjacks below. 
+
 "You know," said Jasper aloud to no one in particular, "I think next round I'm just going to go invisible and hide in a corner." 
+
 "That's not a bad idea," said Jeska, the wheels of a plan spinning into motion in her head. 
 A Small Scene After the Competition 
 "By Tymora's cunt hairs you're still alive, you blithering arsehole!" At the entrance of the Team Chrysalis tent stood a Sunblade in uniform addressing Jasper who sat on an empty barrel, still in his bloodied shirt, while Mari gently tended to the burns around his face. 
+
 And just as Mari was about to reproach the newcomer for his obscene language, three young children burst into the tent past him and straight onto the wizard. 
 "I knew you could do it!" said one. 
 "I wanna see the monkey!" said another. 
 " and then he was like WOW!  And then she was shootin' arrows at the pretty elf but the pretty elf just kept going!  And then the other wizard went BRAAA!!!  and then there was fire everywhere". Said yet another. 
 "I want the monkey!" 
 "What was your friend doing with the flag, Uncle Jas?  I thought he was just waving it around but Mum put her hand over our eyes and said it wasn't for decent eyes" 
+
 " and then he was POW! SLASH! and then you were dead!  But not really dead, dead, but still dead!  And" 
 "THE MONKEY!!!" 
 "Chauntea preserve us!  Leave your uncle alone you gaggle of terrible brats!" said the children's mother as she moved past her husband, still at the entrance, and into the tent.  With a quick, approving glance at Mari and her handiwork, she continued, "Well, at least they're looking out for you properly here! Thank you madam for healing our Jasper!  I'm this one's sister-in-law," she said as she put her hand protectively on the top of Jasper's head, "my name's Abigail, and those are my goblins.  The uniformed lout back there, is my beloved husband who seems to have forgotten he's not at the barracks today and needs to choose his words more carefully," she finished with a cold stare at Chester, Jasper's brother. 
+
 "Here you go," Abigail slipped a coin to her daughter, "go on out there with your brothers and get some treats from the wagon.  You can also get that nice Ser Rowan a drink; gods he looks like he's melting!" 
+
 With the children bundled out of the tent, Abigail turned her attention back to her brother-in-law, eyes burning with fury, "Jasper Algernon Hawkford!  What in the Great Mother's name are you thinking?  You could have been killed!  You were killed as a matter of fact!  Your body should be fertilizing a field now!  All those brains your parents gave you, and not a bit of common sense!  When you said you were coming up here to Dagger Falls to study, we assumed you'd be doing so at the Abbeye! This is not like you, Jasper!" 
 Abigail's eyes suddenly narrowed. 
 "Ah!  No, I see! It's that Sembian!  Isn't it?  He's put you up to this!  I saw that crass display!  The whole of Dagger Falls saw it!  You can't expect much from those people.  They have no morals, no decency! They don't worship proper gods down there! Sweet Jasper, you're a good, gods-fearing Dalesman, you shouldn't be falling in with such people! Just two days ago you were at my table saying thanksgiving to the Good Mother, and now you're getting in bar fights -yes, I heard about that! - and," she waves her arms in an effort to encapsulate the entire competition, "now this!" 
+
 Her fury spent, and lecture given, she bent down and gave him a kiss on the forehead. 
+
 "Stop this nonsense, and go home to Shadowdale where you belong.  Come for supper tonight, and we'll get you all sorted out properly, and then on the road home with the next caravan," and with that she was out of the tent, and could be heard chastising her children as she attempted to wrangle them up. 
+
 Jasper's brother waved at him from the entrance, and simply said: "Good job, kid!" 
 With that, he turned away and went out to follow his family. 
 Jasper looked at Mari, and Mari looked at Jasper.  They both smiled, and she went back to cleaning his burns. 
+
 Mari, her gaze still fixed on the task at hand, simply says, "Fine kin ye have there. Yer sister's got Lucan pegged just right. Ye'll have to bring the wee ones to the embassy sometime. I'm fond o' little ones, no matter the size."  
 20 Ches Continued – Redjacks v. Standing Stone League 
 
 Match Narrative 
 The first match between the Redjacks and the Standing Stone League started off ugly, and got worse. 
+
 The Redjacks had many jeering fans in the stands who were so disruptive, that several small fistfights broke out between them and the few supporters of the Standing Stone in attendance, before the match even began.  Sunblades were on hand to keep them in order, but the opening moments of the match, and the introductions of the contestants was full of great tension.  The crowd was boisterous, and the authorities were only just able to contain the rowdier elements.  Some families with small kids left, sensing that it would get worse once the match started.  They were right. 
+
 As the first round of Capture the Flag began, the Standing Stone deployed their archer, Madelaine, in their flag zone, and the rest of their group ran toward the enemy flag, around the northern part of the mountain.  The Redjacks left Grimaldus on their flag, and the rest of them charged north around the mountain, catching their opponents in open ground quickly.  The Standing Stone half-elf, Entwin, had made several yards on her comrades, and the charismatic priestess, Bree, was lagging behind her teammates in the middle. 
+
 The first Standing Stone member to reach the other side was Entwin, who deftly jumped across the moat, dodging bolts of fire from Grimaldus.  However, when he landed, he attempted to roll past the dragonborn to get the flag, but Grimaldus proved faster than he looked.  The red dragonborn grabbed the half-elf by the arm, and then forced him against the fence, breathing smoke and threats into the now-terrified rogues face. 
+
 At the same time, the wizard Velemore and team leader Horus clashed on the open ground with their opponents.  The witch, Zalia, stopped Horus in his tracks with a whisper, the man seeming frozen in place.  At the same time, Velemore tried to parry attacks with a Shield Spell from both the monk, Livinia and the Redjack team leader, Crasster, but was quickly overcome, and knocked to the ground. 
+
 At this point, the crowd was roaring and screaming, and many of the dwarves were now cursing and yelling, as they witnessed a terrible confrontation in the back-field.  Trailing behind the melee in the middle was the dwarven priestess, Bree Bridlestone, who was too slow to keep up with her team, whom she had taken the time to bless as they sped off.  Now, she faced the other dwarf in the competition, the red-faced Buddy Gorehammer, who moved with unlikely speed toward her, a look of madness in his eyes, and a curse in his mouth that accompanied explosive spittle.  Bree stood her ground and leveled a hand at the charging battlerager, but whatever spell she was attempting to use was ineffective, and the mad dwarf closed on her, axe held in two hands over his head.  He took one wild swing which lodged in her shoulder and made her fall to her knees with a bloody and sickening crunch.  He bellowed in the air while she tried to defend herself. 
+
 At this, the crowd was at an intense frenzy; the many dwarves watching were cursing Gorehammer and praying for Bree's safe delivery, while blood-thirsty people caught up in the moment howled with excitement.  Everyone was on their feet, and it was pure chaos for a moment. 
+
 In the tower overlooking the melee, priests of Amaunator were casting protective spells to keep the three closest members of the Standing Stone from being butchered by the Redjacks, but with that, and the chaos and distraction of the crowd, they were a moment late in protecting Bree.  In one bloody stroke, Gorehammer struck her head from her body with his axe, and grabbed it by a bloody braid and held it aloft. 
+
 At that, the crowd quickly fell silent and aghast.  Some of the dwarves were screaming in protest, and many were now making their way through the crowd and attempting to get over the fence onto the field, shoving against the Sunblades who tried in vain to keep order.   
+
 From the watch tower, a red-faced Bishop Whitegate then bellowed with an unearthly volume "be still! Be silent!" and nearly everyone in the crowd seemed compelled to follow his divine commandments. The clouds broke for a moment, and a ray of sun fell across the battlefield, the lingering whisps of snow now glinting like gently-floating diamonds in the air, while people took a deep breath, and observed the impressive and commanding Bishop. 
+
 "We will have order here, while the magistrates tend to the dwarven priestess."  Most in the crowd continued to listen to Whitegate, but his divine hold was slowly relinquishing, and Beliard, now in command of himself, ambled forward awkwardly, his bulk swaying.  He looked to his captain, Velemore, who was simply shaking his head and wringing his hands over the body of his fallen teammate, while the Redjacks dragged away the still-raging dwarf. 
+
 Beliard looked up at the Bishop and said something that got lost in the noise which was once again starting to rise.  He cleared his throat, and yelled "We concede!" 
+
 The Bishop was about to speak, but Hassle cut him off "You concede the entire competition?" he demanded, with a terrible smile. 
+
 "No, you remorseless scoundrel" Beliard replied, finding his courage.  "We concede this match only, and will return to face the White Cloaks in four days time!"  and with this, the match concluded, and the crowd slowly began to break up

@@ -119,7 +119,9 @@ Despite that, the world is waking up again, from its long and troubled nightmare
 At one of these tables sits an interesting trio.
 
 1. Beliard Emmarask, envoy from Cormyr, on his way to Castle Radiance to replace a low-level bureaucrat there, whose service obligations are concluded.
+
 2. Tyrian Grey, the paladin of Ilmater, who has likewise been tasked with going to Daggerdale, where he is to earn his knighthood.
+
 3. Carpathia Twist, guide and hunter, who is leaving The King's Forest for her own reasons, and likewise heading north, to the dales.
 
 Beliard, who is quite astute, has noticed that Tyrian has the vocabulary and mannerisms of someone who has spent much time between various polities and is drawn to him. It isn't long before he figures out that this is one of the Scions of the ill-fated Achres family.

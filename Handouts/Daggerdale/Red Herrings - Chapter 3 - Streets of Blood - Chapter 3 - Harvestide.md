@@ -1,5 +1,6 @@
 25 Eleint
 At breakfast, a knocking is heard at the door.  Contrary to popular belief, it is not Tahgdul, but the half-orc Gul
+
 dan dresses in his finest.  He is not invited in.  He invites us to lunch with Yarkul at Gunnary
 s tavern.  WE slam the door in his face after saying we
 ll be there.  Yarkul seeks to enlisth the serveisces ot the Company fo the Reed Herring for Ersgul.  Tomas gets up and leaves, and is soon followed by all but Garth, who remains to make th emost of his free lunch.  Yarkul threates war.  Harvestide this year will be Wartide.

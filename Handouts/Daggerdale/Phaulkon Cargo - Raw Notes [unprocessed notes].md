@@ -5,6 +5,7 @@ From Agamemnon's letter...
 The result of this heist, it would seem, is that the Dalael have come back this Season with greater numbers.  It is well known that the trip to Menzoberanzan, and back, takes 5 months, by the way used by the Dalael.  Five months after the Phaulkon Cargo vanished to the Depths, the Anteos Villa began to crawl with
 unremarkable-looking elves
 , and many of the Family interests were suddenly encircled by Jardeth Family mercenaries.  As well, an unprecedented supply of Underdark goods found their way onto our markets, through many legitimate channels.  It is my opinion, lacking sufficient evidence as it may, that the Phaulkon Cargo was used to purchase these goods, and bring more Drow to the surface.  This bears closer investigation.
+
 Though I lack the political clout to attack the Noble Families that have dealings with the Co. Dalael, I do intend to nip at their heels; those businesses and connections they have that are found outside the protection of Noble walls and Noble rules.  Indeed, if the Dalael are responsible for the Phaulkon Cargo heist, they likely did not use Noble resources to manage this task.  And if they are responsible for this event, they are likewise responsible for the deaths the of the men who transported it, and also for  the death of Master Phaulkon, the father of my closest friend.
 |wqlgb\V
 ztoid_Z
@@ -34,9 +35,13 @@ Marpenoth 3
 Thagdul comes to the HQ to deliver a message. He has learned that Ersgul is going to be shipping the Phaulkon Cargo, by sewer, to a cog on the 10th. This cog, the Silver Pride, is captained by Semuldan Anteos. Semuldan, despite being the son of Korrass, seems sympathetic to the patriarch of the Family, Dulbrawan. Thus, he sold this information out, and so it came that a rogue named Gauntlet delivered this message to Thagdul, who in turn delivered it to the adventurers.
 Marpenoth 10
 The CRH and NC planned their ambush of the Ersgul/Phaulkon Cargo. The rogue Gauntlet was going to be leading the Cargo, and he had told the adventurers where to set up their ambush.
+
 When the Cargo was seen coming down the channel, the ambush started. The fighting did not last long, however, before the Dalael showed their hand, and trumped all. The very floor of the sewers gave way and collapsed. It fell some 50
+
 into a great chamber from which silver-sash-wearing drow issued from every dark hole. There were at least 20 of them, and the adventurers knew they were beat. The power of Ersgul vanished in that pit, as the Dalael butchered the few that survived the fall.
+
 The green-eyed beholder Xulla made another appearance at this point. It and Quevin exchanged some harsh words before both sides made their egress. Rychel confronted Xulla, only to be turned to stone without any effort from the creature.
+
 In the end, the entire cargo (valued at well over 100 000 gp) went into the UnderDark with the Drow.
 Gauntlet somehow managed to escape.
 Analysis

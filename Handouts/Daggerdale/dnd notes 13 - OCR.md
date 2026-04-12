@@ -4,6 +4,7 @@ Source: DND Scanned Notes / OneDrive DND Scans
 Campaign: Daggerdale (Waterdeep/Neverwinter arc)
 Date processed: 2026-04-03
 Utility: C (redundant — content appears verbatim in "Red Herrings - Campaign Summary from PDF [unprocessed notes].txt" lines ~996-1030 and "Red Herrings - Campaign Summary [unprocessed notes].txt" lines ~510-540)
+
 Archive counterparts: Red Herrings - Campaign Summary from PDF [unprocessed notes].txt, Red Herrings - Campaign Summary [unprocessed notes].txt
 ---
 
