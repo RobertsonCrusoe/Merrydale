@@ -1,4 +1,358 @@
-<!DOCTYPE html><html lang="en"> <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>The Daggerdale Concordat — Daggerdale Campaign Archive</title><link rel="stylesheet" href="/archive/_astro/global.DBbaama2.css"></head> <body> <article> <div class="document-meta"> <h1>The Daggerdale Concordat</h1> <p class="subtitle">Excerpts from the Concordat of Elesias, 1482 DR</p> <p class="doc-date">15 Eleasias 1482 DR</p>  </div>  <h2 id="i-preamble--superseding-rights">I. Preamble &#x26; Superseding Rights</h2>
+<!DOCTYPE html><html lang="en"> <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>The Daggerdale Concordat — Daggerdale Campaign Archive</title><!-- Preconnect to Google Fonts origin --><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><!-- Preload the font CSS so the browser fetches it before render --><link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=IM+Fell+English+SC&display=swap"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=IM+Fell+English+SC&display=swap"><style>
+/* ==========================================================================
+   Daggerdale Campaign Archive — Global Stylesheet
+   Structure: Tufte CSS (sidenotes, margin notes, wide reading column)
+   Visual: Sun Blades aesthetic (parchment, Crimson Text, IM Fell English SC)
+   ========================================================================== */
+
+/* --- Design Tokens --- */
+:root {
+    --bg-parchment: #f4ead5;
+    --bg-inset: #f7f0e0;
+    --text-body: #2c1e0e;
+    --text-heading: #4a1e08;
+    --text-subheading: #6b2a0a;
+    --text-secondary: #5a3d20;
+    --text-aside: #3a2a15;
+    --accent-border: #8b4513;
+    --accent-border-light: #c9a96e;
+    --accent-link: #3a5a7c;
+
+    --font-body: 'Crimson Text', 'Palatino Linotype', 'Book Antiqua', Palatino, Georgia, serif;
+    --font-display: 'IM Fell English SC', 'Palatino Linotype', serif;
+
+    /* Tufte-derived layout widths */
+    --content-width: 600px;
+    --margin-width: 250px;
+    --margin-gap: 30px;
+    --full-width: calc(var(--content-width) + var(--margin-gap) + var(--margin-width));
+}
+
+/* --- Reset & Base --- */
+*, *::before, *::after { box-sizing: border-box; }
+
+html { font-size: 18px; }
+
+body {
+    font-family: var(--font-body);
+    background-color: var(--bg-parchment);
+    color: var(--text-body);
+    line-height: 1.65;
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* --- Article Container (Tufte layout) --- */
+article {
+    width: var(--full-width);
+    max-width: 95vw;
+    margin: 0 auto;
+    padding: 2rem 0;
+    position: relative;
+}
+
+/* Main content column */
+article > p,
+article > ul,
+article > ol,
+article > blockquote,
+article > table,
+article > h2,
+article > h3,
+article > .document-meta,
+article > .footnote,
+article > .era-note {
+    width: var(--content-width);
+    max-width: 95vw;
+}
+
+/* --- Typography --- */
+h1 {
+    font-family: var(--font-display);
+    font-size: 2.4em;
+    color: var(--text-heading);
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    line-height: 1.15;
+    margin: 0 0 0.4em 0;
+}
+
+h2 {
+    font-family: var(--font-display);
+    font-size: 1.4em;
+    color: var(--text-heading);
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    margin: 2em 0 0.6em 0;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid var(--accent-border-light);
+}
+
+h3 {
+    font-family: var(--font-display);
+    font-size: 1.1em;
+    color: var(--text-subheading);
+    font-weight: 400;
+    margin: 1.5em 0 0.4em 0;
+}
+
+h4 {
+    font-family: var(--font-display);
+    font-size: 1.0em;
+    color: var(--text-subheading);
+    font-weight: 400;
+    margin: 1.2em 0 0.3em 0;
+}
+
+p {
+    margin: 0 0 1em 0;
+}
+
+a {
+    color: var(--accent-link);
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+blockquote {
+    margin: 1.2em 0 1.2em 1.5em;
+    padding-left: 1em;
+    border-left: 3px solid var(--accent-border-light);
+    color: var(--text-secondary);
+    font-style: italic;
+}
+
+strong { font-weight: 700; }
+em { font-style: italic; }
+
+hr {
+    border: none;
+    border-top: 1px solid var(--accent-border-light);
+    margin: 2em 0;
+    width: var(--content-width);
+    max-width: 95vw;
+}
+
+/* --- Sidenotes & Margin Notes (Tufte mechanism) --- */
+.sidenote,
+.marginnote {
+    float: right;
+    clear: right;
+    width: var(--margin-width);
+    margin-right: calc(-1 * (var(--margin-width) + var(--margin-gap)));
+    margin-bottom: 0.8em;
+    font-size: 0.82em;
+    line-height: 1.4;
+    color: var(--text-aside);
+    vertical-align: baseline;
+    position: relative;
+}
+
+.sidenote-number {
+    counter-increment: sidenote-counter;
+}
+
+.sidenote-number::after,
+.sidenote::before {
+    font-size: 0.75em;
+    position: relative;
+    vertical-align: baseline;
+}
+
+.sidenote-number::after {
+    content: counter(sidenote-counter);
+    top: -0.4em;
+    left: 0.05em;
+    color: var(--accent-border);
+}
+
+.sidenote::before {
+    content: counter(sidenote-counter) " ";
+    top: -0.4em;
+    color: var(--accent-border);
+}
+
+article { counter-reset: sidenote-counter; }
+
+.marginnote img,
+.margin-figure {
+    width: 100%;
+    max-width: var(--margin-width);
+}
+
+/* --- Tables --- */
+table {
+    width: 100%;
+    max-width: var(--content-width);
+    border-collapse: collapse;
+    margin: 1.5em 0;
+    font-size: 0.92em;
+}
+
+thead {
+    background-color: var(--bg-inset);
+}
+
+th {
+    padding: 0.5em 0.8em;
+    text-align: left;
+    font-weight: 600;
+    color: var(--text-heading);
+    border-bottom: 2px solid var(--accent-border-light);
+}
+
+td {
+    padding: 0.5em 0.8em;
+    border-bottom: 1px solid var(--accent-border-light);
+}
+
+tbody tr:hover {
+    background-color: rgba(139, 69, 19, 0.04);
+}
+
+/* --- Document Metadata Header --- */
+.document-meta {
+    margin-bottom: 2em;
+    padding-bottom: 1.2em;
+    border-bottom: 2px solid var(--accent-border-light);
+    text-align: center;
+}
+
+.document-meta h1 {
+    margin-bottom: 0.2em;
+}
+
+.document-meta .subtitle {
+    font-family: var(--font-display);
+    font-size: 1.15em;
+    color: var(--text-subheading);
+    font-weight: 400;
+    letter-spacing: 0.02em;
+}
+
+.document-meta .doc-date {
+    font-style: italic;
+    color: var(--text-secondary);
+    font-size: 0.9em;
+    margin-top: 0.3em;
+}
+
+.document-meta .doc-curator {
+    font-size: 0.85em;
+    color: var(--text-secondary);
+    margin-top: 0.2em;
+}
+
+/* --- Editorial Notes (N.B. blocks) --- */
+.footnote,
+.editorial-note {
+    font-size: 0.88em;
+    color: var(--text-secondary);
+    padding: 0.8em 0 0.8em 1.2em;
+    border-left: 3px solid var(--accent-border-light);
+    margin: 1em 0;
+}
+
+.nb-label {
+    font-weight: 700;
+    color: var(--text-heading);
+    font-size: 0.9em;
+}
+
+/* --- Era Notes / Aside Boxes --- */
+.era-note {
+    background: linear-gradient(135deg, rgba(74,30,8,0.04), rgba(74,30,8,0.02));
+    border: 1px solid var(--accent-border-light);
+    border-radius: 3px;
+    padding: 1em 1.2em;
+    margin: 1.2em 0;
+    font-size: 0.92em;
+    color: var(--text-aside);
+}
+
+/* --- Lists --- */
+ul, ol {
+    padding-left: 1.5em;
+    margin: 0.5em 0 1em 0;
+}
+
+li {
+    margin-bottom: 0.3em;
+}
+
+/* --- Footer --- */
+footer {
+    width: var(--content-width);
+    max-width: 95vw;
+    margin: 3em auto 2em;
+    padding-top: 1em;
+    border-top: 2px solid var(--accent-border-light);
+    text-align: center;
+    font-size: 0.82em;
+    color: var(--text-secondary);
+}
+
+/* --- Responsive: sidenotes flow inline on narrow screens --- */
+@media (max-width: 900px) {
+    article {
+        width: auto;
+        max-width: 95vw;
+        padding: 1.5rem 1rem;
+    }
+
+    article > p,
+    article > ul,
+    article > ol,
+    article > blockquote,
+    article > table,
+    article > h2,
+    article > h3,
+    article > .document-meta,
+    article > .footnote,
+    article > .era-note {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    hr {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .sidenote,
+    .marginnote {
+        float: none;
+        clear: both;
+        display: block;
+        width: 100%;
+        max-width: 100%;
+        margin: 0.6em 0 0.6em 1.2em;
+        padding: 0.5em 0.8em;
+        background-color: var(--bg-inset);
+        border-left: 3px solid var(--accent-border-light);
+        border-radius: 0 3px 3px 0;
+    }
+
+    footer {
+        width: auto;
+    }
+}
+
+@media print {
+    body { background: white; color: black; }
+    .sidenote, .marginnote {
+        float: none;
+        display: block;
+        width: 100%;
+        margin: 0.5em 0;
+        font-size: 0.85em;
+    }
+    a { color: black; }
+}
+</style></head> <body> <article> <div class="document-meta"> <h1>The Daggerdale Concordat</h1> <p class="subtitle">Excerpts from the Concordat of Elesias, 1482 DR</p> <p class="doc-date">15 Eleasias 1482 DR</p>  </div>  <h2 id="i-preamble--superseding-rights">I. Preamble &#x26; Superseding Rights</h2>
 <p>In any matters addressed by and prescribed for in this Concordat, The Concordat shall be held to be the governing document, superseding any provision in other agreements of any variety, on those specific matters. The Concordat is not a prescription for how the Signatories and their people are to carry out their daily lives, but rather, what obligations and limit to obligations they owe to each other. In all respects save Religious Pluralism, the Concordat neither prescribes nor proscribes specific behaviours.</p>
 <hr>
 <h2 id="ii-signatories">II. Signatories</h2>
@@ -316,4 +670,4 @@ Cost per share: 4,839 gp/year</p>
 <li>The gods of men and their exarchs including: Shar*, Bane, Lolth, Ghaunadaur, Asmodeus, Cyric, and Gruumsh</li>
 </ul>
 <p>*Removable only by unanimous vote of the Voting Signatories.</p>
-<p>With respect to all other gods and exarchs, the Voting Signatories grant the ecumenical authorities of the Dale the right to bring forth such gods and exarchs for consideration, whether for the Approbata Deorum or Reprobata Deorum, from time to time.</p>  <footer> <p><a href="/archive/">Daggerdale Campaign Archive</a></p> </footer> </article> </body></html>
+<p>With respect to all other gods and exarchs, the Voting Signatories grant the ecumenical authorities of the Dale the right to bring forth such gods and exarchs for consideration, whether for the Approbata Deorum or Reprobata Deorum, from time to time.</p>  <footer> <p><a href="../../">Daggerdale Campaign Archive</a></p> </footer> </article> </body></html>
