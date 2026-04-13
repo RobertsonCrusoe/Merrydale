@@ -1,3 +1,30 @@
+---
+title: "Hagan"
+slug: hagan
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Edgar Grimbold"
+  - "Harkas Kormallis"
+  - "Myelin Lathkule"
+  - "Roake"
+  - "Rychel Voordan"
+  - "Steele"
+locations: []
+tags: []
+---
 [PC Attribution: Hagan (Les Blackwell)]
 The Rooken Network's profile of this villain is based on notes compiled by Mourn Raventree before his death in the East.
 

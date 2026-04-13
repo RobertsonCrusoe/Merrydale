@@ -1,3 +1,31 @@
+---
+title: "Notes on the Ocular Alliance - Addendum"
+slug: notes-on-the-ocular-alliance-addendum
+type: session
+campaign: daggerdale
+voice: ooc
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Venosar"
+  - "Morgul"
+  - "Manshoon"
+  - "Yarkul"
+locations:
+  - "Cormanthor"
+  - "Dagger Falls"
+  - "Loudwater"
+tags: []
+---
 [RAW - UNEDITED AND UNREVIEWED - extracted by automated process, not yet verified for accuracy or completeness]
 
 Notes on the Ocular Alliance: Addendum

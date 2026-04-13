@@ -1,3 +1,27 @@
+---
+title: "Wastrel - Significant Entries From the Journal of Salazar"
+slug: wastrel-significant-entries-from-the-journal-of-salazar
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Lendin"
+  - "Rabbite"
+locations:
+  - "Freeport"
+tags: []
+---
 [PC Attribution: Salazar (Les Blackwell)]
 Significant Entries from the Journal of Salazar
 Have months or years passed?
@@ -8,8 +32,7 @@ s many callings, and I am better off in many ways. Learning magic in Luskan was 
 As it takes a trip to the City for a country pauper to appreciate his rustic home, and a trip to the Country for the wealthy noble to appreciate his gilded palace, it took a trip, and many years, inland for me to appreciate where I come from. For I was born upon the waves, and grew up on planks and in the rigging. And hated it! Life isn
 
 t easy for most of us. But there is always a manner in which it can get markedly worse, and I have seen many of them. And seeing things worse, it gets you to thinking of how fine things, in fact, where.
-So, here I am then, wasting ink on this banter. And it is all Leto Cook
-s fault. For I cannot think of anything but the Riddle of the Sea. Here are my thoughts.
+So, here I am then, wasting ink on this banter. And it is all Leto Cook's fault. For I cannot think of anything but the Riddle of the Sea. Here are my thoughts.
 
 To begin with, I should say that the Sea has always asked more questions than it answered. Though it always listens, it always speaks, but never answers me.
 
@@ -20,13 +43,11 @@ Bloody Sodomy! Though I have mastered much Art, I have not the philosophical min
 Well, I do not pretend to even understand what the Riddle of the Sea is about, or who it is even addressed to. All I can say is that it has been driving me mad these last few nights. But, standing at the lonesome wheel of the Wastrel, late at night, and listening to Her voice for hours, whilst cutting through the limitless waves towards god-knows-what, I thought back to a time when I got sick of the land, and I have been mulling this over in my head.
 
 This is my final thought, regarding the Riddle of the Sea for now. It is rough, but expressive, even if I am not;
-Often I
-ve suffered in foreign seas
+Often I've suffered in foreign seas
 Yet still, even now, my spirit within me
 Drives me seaward to sail the deep,
 To ride the long swell of the salt sea-wave.
-Never a day but my heart
-s desire
+Never a day but my heart's desire
 Would launch me forth on the long sea-path.
 I must go down to the sea again
 To the lonely sea and the sky
@@ -36,21 +57,13 @@ The Thing that Wore a Nightmare
 I am back, finally, aboard the Wastrel after a brief sojourn away from her. But let me start at the beginning.
 
 The thing that brought Her back to Freeport was nothing more than a simple summons by the man who resurrected Her. Whilst in the Port of Calim, we received our summons from the Gaffer, indicating that it was time for our notable vessel to have a bit of maintenance. I argued the point with the Captain.
-She was made by Leto Cook, for God
-s sake! She cannot sink! Whatever that old villain has in mind for our ship, it can
-t be maintenance.
-Tis more likely he
-s wanting a look at May
-s rigging than the Wastrel
+She was made by Leto Cook, for God's sake! She cannot sink! Whatever that old villain has in mind for our ship, it can't be maintenance.
+Tis more likely he's wanting a look at May's rigging than the Wastrel
 Yar. Ye could be right there, Master Salazar
 replied my old friend.
-But if the Gaffer says it
-s time to bring
-er to, it
-s time to bring
-er to! And anyhow, it can
-t hurt to give the sour old bastard a look at May anyway, and she a look at him; we
-ll look all the prettier for his company! Yar!
+But if the Gaffer says it's time to bring
+er to, it's time to bring
+er to! And anyhow, it can't hurt to give the sour old bastard a look at May anyway, and she a look at him; we'll look all the prettier for his company! Yar!
 So we made our way with the usual alacrity that the Wastrel displays in the Seas of this World, and found ourselves very soon in Freeport. For a change, the Captain decided that the two of us would go ashore together. This surprised no one. Zeke and I have not been ashore together since we left Freeport, and he tells a bit the story of the Yellow Sign to any crew that will listen to him, nearly every day.
 
 Truth be told, I am happy to be returning to Freeport with my friend. I wish that Lendin and Rabbite were with us, but such are our life paths.
@@ -58,11 +71,9 @@ Truth be told, I am happy to be returning to Freeport with my friend. I wish tha
 When we came to in Freeport, I was first ashore, springing ahead of the Wastrel, her bow line in my hand, trailing behind me. I was glad to make the pier of this place where my re-forging began, and I drank in the thick sea-town air with vigour and a strange sense of
 pride
 ? I am not sure what it was. But I was plenty glad to be on a familiar pier, after all the strange things I have seen in the last couple of years.
-I didn
-t know what to expect, being back again. Many is the old sailor I have known who claimed
+I didn't know what to expect, being back again. Many is the old sailor I have known who claimed
 you can nivver go back, boy!
-And I guess they were right. Freeport had a different feel. I could sense it as soon as I took in the men on the pier. For starters, there were a few more guards around than I remembered, and the city looked, well, a little cleaner than it should. Not really bad changes, but I found a sober bit of wisdom that day, that had been seeking me out all my days; you can
-t go back.
+And I guess they were right. Freeport had a different feel. I could sense it as soon as I took in the men on the pier. For starters, there were a few more guards around than I remembered, and the city looked, well, a little cleaner than it should. Not really bad changes, but I found a sober bit of wisdom that day, that had been seeking me out all my days; you can't go back.
 That being said, it was good to be back in Freeport, and it was good to be with my Captain, my old friend, Zechary Mudge. We took with us a third companion. Certainly, if one of our old campaigners of bygone days had been with us, we would have taken him or her. As it stands, there were none that qualified, and so we took the opposite road, and took our new companion Gaul MacMorn with us.
 
 Let me take a moment to say half of what I have to say about Gaul. Gaul came to us, not long ago, with a pair of wayward sailors and companions. It was he that led our Navigator, Kethoth, and our cook, Cedrick, back to the ship, out of the wild sands of the East. Well, I thought the ship would find her way just fine without our Navigator and Cartographer, but I was happy enough to see Cedrick come back to us. If not for Cedrick speaking for the man, we should have left Gaul right where he found us.
@@ -79,29 +90,24 @@ is getting a little weary already, and I have known him for only a short time. H
 
 Arriving in the late evening, we decided first to visit our old friend Captain Lydon. At this time of day, we figured on finding him first in the Cigar Club with his important new friends. After a brief discussion with the doorman, I managed to learn that Lydon was not there. We were not granted admittance, and I think that Zeke was a little put off. He expected that the
 Heroes of Freeport
-would still be able to roam the city in splendour and favour, though years have passed. The man loves attention, but he is a little na
-ve about his role in the world.
-We went next to Lydon
-s new, Old City Estate, where I gained entry to the villa, and summoned forth the old Salte. Lydon was more than happy to see us, and Zeke was more than happy to see Lydon. I did not remark that Lydon had seemingly gained the girth of a whole man since our last parting. Just keep your mouth shut, Salazar, is what I keep telling myself when I notice things like that. I don
+would still be able to roam the city in splendour and favour, though years have passed. The man loves attention, but he is a little na've about his role in the world.
+We went next to Lydon's new, Old City Estate, where I gained entry to the villa, and summoned forth the old Salte. Lydon was more than happy to see us, and Zeke was more than happy to see Lydon. I did not remark that Lydon had seemingly gained the girth of a whole man since our last parting. Just keep your mouth shut, Salazar, is what I keep telling myself when I notice things like that. I don
 
 t always listen to myself, but I did that day. I stayed sober, though Gaul and the Captains certainly did not. I left at about three bells, and they were showing no signs of letting up.
 
 We learned a good many things about the present day politics of Freeport through our conversation with Lydon, and many other things besides. The most notable topic was
 The Ripper
 , who had been carving up people of all varieties in the dock borough.
-Well, we planned on heading out to see the Gaffer early the next morning, so as Master of the Ship, I decided it was time to round them all up. Of course, all but Cedrick would prove easy to get back to ships. Cedrick was wandering the streets, wreathed in women and smoke, completely oblivious to any threat by Rippers and such. Anyway, I rounded up the crew, slept for a couple hours, and then went to retrieve the Captain and the Barbarian from their revelry at Lydon
-s. Before seven bells, we were off.
+Well, we planned on heading out to see the Gaffer early the next morning, so as Master of the Ship, I decided it was time to round them all up. Of course, all but Cedrick would prove easy to get back to ships. Cedrick was wandering the streets, wreathed in women and smoke, completely oblivious to any threat by Rippers and such. Anyway, I rounded up the crew, slept for a couple hours, and then went to retrieve the Captain and the Barbarian from their revelry at Lydon's. Before seven bells, we were off.
 Arriving at the ramshackle mess that is home to the Gaffer was a little more like
 going back
 . The place was still a ruin, and he was still drunk, revoltingly smelly, and cursing like only and old Salte can. As I suspected, he was most pleased to see Maevri again, but he was genuinely interested in his masterwork ship. He made a quick assessment of her, some damning indictments of our ability to keep a ship, and made known his intentions to keep her for a week for some repairs.
 
 We stayed for a while, but eventually we had him sail us back to Freeport. A week in his
 mansion
-would be more than any of us could bear, and Zeke was itching for a chance to hunt down the Ripper, and renew his fame in Freeport. You can
-t ask a hero not to be a hero, I suppose.
+would be more than any of us could bear, and Zeke was itching for a chance to hunt down the Ripper, and renew his fame in Freeport. You can't ask a hero not to be a hero, I suppose.
 Back in Freeport, we decided to put our finger on the real pulse of this City once more, and set out for the taverns. We went first to the Black Gull, as the Watch are known to frequent this place, and Zeke wanted to talk to them. I agreed to wait outside, and to simply listen to what went on inside. In the Tavern, Zeke was conspicuously ingratiating himself with the guard through the purchase of several rounds of drink, and through his shamelessness managed to learn a few significant facts.
--The bodies of the Ripper
-s victims started turning up about a month ago.
+-The bodies of the Ripper's victims started turning up about a month ago.
 -The victims have all been in the dock borough
 -The victims include both working girls and guard, sometimes more than one of each in a single night, though never too many.
 -The victims bear marks of all sorts of weapons, and appear to have been worked over by a press gang.
@@ -113,8 +119,7 @@ It was not long into the night when I slipped up. I guess I was tired from a day
 
 I took to the roof, and they tried to follow, the simple fools. Of course, they thought that I was the Ripper; a reasonable and prudent assumption on the part of the men tasked with keeping Freeport safe. They surrounded the small house I was on, and though I was well hidden, I knew it would be time to leave soon. A call from the guards was put out for reinforcements, and this is where things got a little out of control.
 
-Gaul himself answered the summons, along with a host of guards. Upon hearing the description of the man on the roof (me) he offered that it was his friend on the roof, and not to worry. At this, I decided to take off. I leapt to the next row of buildings, across the street. This was a display of flash I should have tried to avoid, but I still just didn
-t feel like explaining myself.
+Gaul himself answered the summons, along with a host of guards. Upon hearing the description of the man on the roof (me) he offered that it was his friend on the roof, and not to worry. At this, I decided to take off. I leapt to the next row of buildings, across the street. This was a display of flash I should have tried to avoid, but I still just didn't feel like explaining myself.
 As I sailed over the heads of the guard and Gaul on the street below, and to the rooftops on the other side of the street, the guard got the wrong idea about me. They were even more convinced that I must be the Ripper, and got quite excited. Gaul attempted to convince them that it was just his friend, again, and finally the guard took notice of the behemoth. They decided that he would have to
 come in for questioning
 , and I heard him say
@@ -139,20 +144,16 @@ I would say that I suspected the creature to have some sort of nightmare enhanci
 
 I followed the thing from a distance, and watched it crawl down under the pier eventually. I used a scroll to spot the thing in the murky water, and watched it walk along the floor of the Sea for a time. I figured it would be difficult to follow the thing out to Sea, and so I decided to put an arrow into it to track it. I used a reliable divination to guide my aim, and sent a shocking arrow into the creature.
 
-Well, a short skirmish broke out between us. It crawled quickly up a thick post of the pier, out of the water and after me. I was easily able to keep my distance, and continued to fill the thing full of arrows for a time. I then decided on a little experiment, and cast Protection From Evil upon myself, to see if this simple ward was of any use against this nightmare-shrouded devil. The ward proved partially effective, which told me something of the thing
-s extra planar nature.
+Well, a short skirmish broke out between us. It crawled quickly up a thick post of the pier, out of the water and after me. I was easily able to keep my distance, and continued to fill the thing full of arrows for a time. I then decided on a little experiment, and cast Protection From Evil upon myself, to see if this simple ward was of any use against this nightmare-shrouded devil. The ward proved partially effective, which told me something of the thing's extra planar nature.
 Despite putting up the best magical defences I had available, the nightmare creature was still able pitch a good fight with me, and after a couple of really serious injuries from those lethal chain-tendrils, I decided to disengage.
-Later on, I returned to the site of Gaul
-s battle with the law. There, two dead men lay, surrounded by a host of guard. I managed to get close enough to hear of Gaul
+Later on, I returned to the site of Gaul's battle with the law. There, two dead men lay, surrounded by a host of guard. I managed to get close enough to hear of Gaul
 
 s transgressions, and see the evidence for myself. Gaul killed two of the guards, the idiot, and he fled to the jungle to escape the Law. I didn
 
 t know what to make of all this at the time. My head was on fire, with the fresh wounds dealt me by the chained horror, and I was greatly fatigued on top of that.
-I returned to Lydon
-s Estate to find Zeke, who insisted that some doppelganger was to blame for what happened to the guards. That Captain is ever creative in his naivet
+I returned to Lydon's Estate to find Zeke, who insisted that some doppelganger was to blame for what happened to the guards. That Captain is ever creative in his naivet
 
-. I quickly put Zeke in order, and he became as maudlin as I have seen him after that. He simply drank slowly and quietly from a pilfered bottle of Lydon
-s finest, whilst pondering in an uncharacteristically quiet fashion.
+. I quickly put Zeke in order, and he became as maudlin as I have seen him after that. He simply drank slowly and quietly from a pilfered bottle of Lydon's finest, whilst pondering in an uncharacteristically quiet fashion.
 Not-so early the next morning, Zeke and I sat and pondered our next moves. The trouble with Gaul, we decided, we would address later. Hopefully that situation would resolve itself, we hoped. It did not, as it turns out.
 
 Our first order of business was to go the Temple of Oghma, to do some research. There, Zeke and I managed to convince one of the brethren to help us in our research. Indeed, we left the man on his own for most of the day, while we ran some other errands.
@@ -197,8 +198,7 @@ The three of us stood together a moment, and though we still bled from a score o
 The next day was everything that a flamboyant and boisterous fame-seeking pirate could ask for; pomp, fanfare and swag! Zeke and Zendor were publicly recognized for their efforts. I stayed my course from this attention, again. It makes me happy enough to see my old friend on that podium again, making smiles and promises and toasts and oaths like there may be no tomorrow, rubbing elbows with all the people of quality here in Freeport.
 
 For my part, I wished only that the City would forgive Gaul his transgressions. With Zendor, I made this arrangement; that my reward be forfeit, and along with it any glory, for the freedom of my fugitive sailor Barbarian. Gaul was loathe to make any concessions, but our moment of brotherhood stood for something with this stand-up man, and he made some allowances. We were to gather Gaul to the Wastrel, and not permit him to enter Freeport again. This would do better than the prospects upon the gallows, and I accepted, and offered Zendor my thanks. We parted in good company, and I dare say I have not done such a thing in all my days with any but Zeke. Zendor is a good man.
-And this day, the winds did blow favourably upon Salazar. For the Captain
-s Council did in fact pay me one thousand gold crowns for my reward, despite my offering to Zendor. I could not turn down this reward. Though I have been elated by doing the
+And this day, the winds did blow favourably upon Salazar. For the Captain's Council did in fact pay me one thousand gold crowns for my reward, despite my offering to Zendor. I could not turn down this reward. Though I have been elated by doing the
 right thing
 of late, a sailor is a sailor, and a bounty he cannot deny!
 Just the Beginning

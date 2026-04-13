@@ -1,3 +1,24 @@
+---
+title: "Lucan Backstory - Early Notes and Fragments"
+slug: lucan-backstory-early-notes-and-fragments
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 “Don’t think I don’t know who you are! Your luck is going to run out someday, Alavandor!”
 
 The drenched guardsman shook his fist at the running figure, already vanishing into the distance, as he heaved himself back onto the harbor pier. The Alavandor boy had been a nuisance

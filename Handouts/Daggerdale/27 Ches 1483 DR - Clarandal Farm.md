@@ -1,3 +1,26 @@
+---
+title: "Clarandal Farm"
+slug: clarandal-farm
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "27 Ches 1483 DR"
+date_ic_sort: 1483088
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Tergus Clarandal"
+locations:
+  - "Cormanthor"
+tags: []
+---
 27 Ches, 1483 DR - Clarandal Farm 
 
 After a perilous trek through Cormanthor, you finally come to a small hill about a ¼ mile away from your objective.  From here you can see sitting atop a small hill like an island in the shallow valley before you, Clarandal Farm.  From this distance you can make out that there is one large building intact, with several other outbuildings and barns having been reduced to ruins.  The main house seems to be in relatively good condition, and smoke is rising from some of the many chimneys of the fine, 2-story Sembian-styled home.  It is mostly stone, with strong stone-reinforced terraces about the building which are likely responsible for it's current condition, having kept out the aggressive forest reasonably well. 

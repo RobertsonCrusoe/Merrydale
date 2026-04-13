@@ -1,3 +1,26 @@
+---
+title: "Liberator's Storm"
+slug: liberator-s-storm
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Drake"
+locations:
+  - "Dagger Falls"
+tags: []
+---
 The day of 27 Eleint, 1372 dawned overcast and grim in the Dalelands town of Dagger Falls. Many of the locals claim that they woke up that morning to great crashes of thunder and lightning. They claim that they knew something was going to happen that day, and almost all good citizens report that they felt very anxious as the sky went from deep black to grey. Here is the report of one man, nameless now, in history, who was witness to the events of that day.
 
 From my second floor apartment, I have windows facing south, east and north, and saw everything that day.

@@ -1,3 +1,10 @@
+---
+title: "Gaul Mak Morn"
+slug: gaul-mak-morn
+type: stub
+campaign: wastrel
+subtype: npc
+---
 [PC Attribution: Gaul Mak Morn (Todd Burry)]
 15\"Civilized men are more discourteous than savages because they know they can be impolite without having their skulls split, as a general thing.\"
 :—Robert E. Howard, The Tower of the Elephant

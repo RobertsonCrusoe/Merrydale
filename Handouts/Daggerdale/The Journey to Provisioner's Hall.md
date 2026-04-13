@@ -1,3 +1,37 @@
+---
+title: "The Journey to Provisioner's Hall"
+slug: the-journey-to-provisioner-s-hall
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Northman"
+  - "Elsa Warburton"
+  - "Decker Blackmane"
+  - "Dolebrund"
+  - "Helm Thunderstorm"
+  - "Iolus Warburton"
+  - "Kruhwahll"
+  - "Weaver"
+  - "Troia Trustar"
+locations:
+  - "Tesh Valley"
+  - "Tethyamar"
+  - "Castle Radiance"
+  - "Liberty Hill"
+tags: []
+---
 Part of the opening narrative to \"War in the Deep - The Struggle for Tethyamar - Chapter 1\".
 
 ==Castle Radiance to Fort Luminous==

@@ -1,3 +1,27 @@
+---
+title: "Freeport_ After the Temple of the Unspeakable One"
+slug: freeport-after-the-temple-of-the-unspeakable-one
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Lucius"
+  - "Lendin"
+locations:
+  - "Freeport"
+tags: []
+---
 The days after the siege of the Temple of the Unspeakable One
 ----
 

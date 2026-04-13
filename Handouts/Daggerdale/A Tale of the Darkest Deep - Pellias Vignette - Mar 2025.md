@@ -1,3 +1,24 @@
+---
+title: "A Tale of the Darkest Deep - Pellias Vignette - Mar 2025"
+slug: a-tale-of-the-darkest-deep-pellias-vignette-mar-2025
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

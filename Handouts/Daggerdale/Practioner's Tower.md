@@ -1,3 +1,10 @@
+---
+title: "Practioner's Tower"
+slug: practioner-s-tower
+type: stub
+campaign: daggerdale
+subtype: location
+---
 (note that the sewer entrances to this building may or may not be not protected by zombified rats...)
 
 <gallery widths=\"450px\" heights=\"500px\" perrow=\"2\">

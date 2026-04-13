@@ -1,3 +1,10 @@
+---
+title: "The Wastrel's Gamble"
+slug: the-wastrel-s-gamble
+type: stub
+campaign: wastrel
+subtype: npc
+---
 "Three of a kind," Barkevitch growled, slamming his cards onto the damp wood of the table. The tavern was silent, save for the dripping of the rain outside and the heavy breathing of the men around the "Sixty-Two Sails" game.
 
 Zechary didn't flinch. He reached for his tankard, took a slow, deliberate sip of the sour ale, and smiled. "A fine hand, Barkevitch. Truly. It would win you the ship in any other port."

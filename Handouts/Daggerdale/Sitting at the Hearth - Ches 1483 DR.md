@@ -1,3 +1,31 @@
+---
+title: "Sitting at the Hearth - Ches 1483 DR"
+slug: sitting-at-the-hearth-ches-1483-dr
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Mortimer"
+  - "Dalak Quickaxe"
+  - "Janus"
+  - "Will"
+locations:
+  - "Thistle Ridge"
+  - "Tesh Valley"
+  - "Tethyamar"
+tags: []
+---
 Sitting at the Hearth – Ches 1483 DR
 
 [Play-by-post narrative exchange between sessions.  Compiled from the "Sitting at the hearth" email thread, 24 February – 3 March 2024.  Contributors: Scott Mclaren (Jeska), Todd Burry (Mari/Ser Rowan), Stephen Robertson (Lucan), Les Blackwell (DM/Dalak Quick-Axe).]

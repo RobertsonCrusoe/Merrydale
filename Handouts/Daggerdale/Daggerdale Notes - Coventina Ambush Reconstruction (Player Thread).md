@@ -1,3 +1,28 @@
+---
+title: "Daggerdale Notes - Coventina Ambush Reconstruction (Player Thread)"
+slug: daggerdale-notes-coventina-ambush-reconstruction-player-thread
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Luminous Whitegate"
+  - "Invictus"
+locations:
+  - "Dagger Falls"
+  - "Thistle Ridge"
+tags: []
+---
 Daggerdale Notes — Coventina/Ambush Reconstruction (Player Thread)
 Stephen Robertson (as Lucan), Gus Miranda (as Jasper), and Scott Mclaren (as Jeska)
 Email thread: "Daggerdale Notes", 31 May - 2 Jun 2025

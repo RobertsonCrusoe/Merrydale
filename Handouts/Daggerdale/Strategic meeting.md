@@ -1,3 +1,31 @@
+---
+title: "Strategic meeting"
+slug: strategic-meeting
+type: meta
+campaign: daggerdale
+voice: ooc
+status: raw
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Argent Whitegate"
+  - "Borus Helmhold"
+  - "Rainyerd"
+  - "Luminous Whitegate"
+locations:
+  - "Castle Radiance"
+  - "Fortress Cathedral of the Mount"
+tags:
+  - "military"
+---
 The first thing that happens every morning, a half hour before sunrise, is the morning service called Matins; this begins with the ringing of the bells in the cathedral, and the migration of many of the faithful of Amuanator to the Fortress Cathedral of the Mount.  Here, hundreds of the castle inhabitants witness the rising of the sun, and listen to the morning prayer, which is usually delivered by Zenith Lord Argent Whitegate.
 
 After this prayer, Lord Whitegate convenes his council in the war room in Madigan's Hall.  This meeting is usually attended by the following;

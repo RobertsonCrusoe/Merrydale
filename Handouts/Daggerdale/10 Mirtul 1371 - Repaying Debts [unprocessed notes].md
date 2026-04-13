@@ -1,3 +1,31 @@
+---
+title: "Repaying Debts"
+slug: repaying-debts
+type: session
+campaign: daggerdale
+voice: ooc
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "10 Mirtul 1371 DR"
+date_ic_sort: 1371132
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Esperel"
+  - "Jafar"
+  - "Gilthanas"
+  - "Orilar Thanas"
+  - "Vuldan"
+  - "Arsten Thunderstaff II"
+locations:
+  - "Waterdeep"
+tags: []
+---
 [RAW - UNEDITED AND UNREVIEWED - extracted by automated process, not yet verified for accuracy or completeness]
 
 10 Mirtul 1371 - Repaying Debts

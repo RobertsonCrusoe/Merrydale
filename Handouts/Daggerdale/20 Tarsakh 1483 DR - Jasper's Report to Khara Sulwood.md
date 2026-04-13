@@ -1,3 +1,42 @@
+---
+title: "Jasper's Report to Khara Sulwood"
+slug: jasper-s-report-to-khara-sulwood
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Jasper"
+source: handout
+date_ic: "20 Tarsakh 1483 DR"
+date_ic_sort: 1483111
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Calix"
+  - "Masra"
+  - "Quercina"
+  - "Fluvia"
+  - "Contessa Palus"
+  - "Jasper Hawkford"
+  - "Ailyan"
+  - "Charrah"
+  - "Invictus"
+  - "Cassimar"
+  - "Coventina Cassimar"
+  - "Khara Sulwood"
+locations:
+  - "Thistle Ridge"
+  - "Dagger Falls"
+  - "Greenwood Farm"
+  - "Shadowdale"
+  - "Cormanthor"
+tags:
+  - "military"
+---
 A letter from Jasper Hawkford to the Lady Khara Sulwood​
 ​
 

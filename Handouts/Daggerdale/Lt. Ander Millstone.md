@@ -1,1 +1,8 @@
+---
+title: "Lt. Ander Millstone"
+slug: lt-ander-millstone
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 The leader of the local Sun Blades (7th Bright Spears), Millstone is the 3rd in three years to be stationed at Tesh Valley Farm.  Blackmane is always at odds with the Sun Blades, and tends to go through them quickly.  Millstone is patient, though, and has done a good job of ingratiating himself with the locals, who generally side with Blackmane.  Millstone knows that the Militia often acts outside of his chain of command, and blames Swift for the problems that have fallen of late.  He is not accusative, though, and doesn’t want to cause trouble, and will actually appealed to the White Cloaks for help.

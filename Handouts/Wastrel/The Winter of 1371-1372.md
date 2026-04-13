@@ -1,3 +1,30 @@
+---
+title: "The Winter of 1371-1372"
+slug: the-winter-of-1371-1372
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Agamemnon"
+  - "Jeryth Phaulkon"
+  - "Beljuril"
+  - "Boregar"
+locations:
+  - "Waterdeep"
+  - "Loudwater"
+tags: []
+---
 The winter of 1371-1372 (Year of Wild Magic) was miserable, and remained so by the date of Greengrass, 1372. A blizzard blew out of the Spine of the World in the middle of Uktar that did not let up for a whole month, and the rest of winter was bitter and cold. Snow had been falling almost constantly since then, but had let up just previous to Greengrass. It remained cold, however, and the snow had not melted considerably.
 
 By the end of Ches, events started to happen, and the adventuring season seemed to have begun. The first event was the return of Rufus and Raven from their search for Hob (without Hob). The second was the return of the daughter of Lord Phaulkon, Jeryth.

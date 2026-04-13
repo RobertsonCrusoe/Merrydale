@@ -1,3 +1,10 @@
+---
+title: "The Amber Hart Inn"
+slug: the-amber-hart-inn
+type: stub
+campaign: daggerdale
+subtype: location
+---
 Narrative about the Inn from the autumn of 1481 DR;
 
 800px|right

@@ -1,3 +1,27 @@
+---
+title: "Message to Lt Riverstone from Zelia Oakbough by Dove from"
+slug: message-to-lt-riverstone-from-zelia-oakbough-by-dove-from
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "26 Ches 1483 DR"
+date_ic_sort: 1483087
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Zelia Oakbough"
+locations:
+  - "Thistle Ridge"
+tags:
+  - "military"
+---
 26 Ches, 1483 DR -Message to Lt. Riverstone from Zelia Oakbough  by Dove from Loedegan Close 
 Lt. Riverstone: 
 Please share this with anyone you trust and value.  Im not sure I should be sending this based on the vague rules of this tournament, but it feels like the right thing, so I must. 

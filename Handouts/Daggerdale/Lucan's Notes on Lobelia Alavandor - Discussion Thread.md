@@ -1,3 +1,31 @@
+---
+title: "Lucan's Notes on Lobelia Alavandor - Discussion Thread"
+slug: lucan-s-notes-on-lobelia-alavandor-discussion-thread
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: "Lucan"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Charrah"
+  - "Invictus"
+  - "Lobelia Alavandor"
+  - "Blaze Whitegate"
+  - "Contessa Palus"
+locations:
+  - "Dagger Falls"
+  - "Thistle Ridge"
+tags: []
+---
 Lucan's Notes on Lobelia Alavandor - Discussion Thread
 Date: 28 April 2025
 From: Stephen Robertson (with Gus Miranda, Les Blackwell)

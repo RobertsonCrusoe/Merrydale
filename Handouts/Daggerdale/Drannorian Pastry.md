@@ -1,3 +1,10 @@
+---
+title: "Drannorian Pastry"
+slug: drannorian-pastry
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 {{blocktitle|Drannorian Pastry|Wondrous Item}}
 A small bun with a savoury bit of meat in the middle.  It is delicious and rejuvenating
 Item slot: Wondrous Item

@@ -1,3 +1,25 @@
+---
+title: "White Cloak Amoury"
+slug: white-cloak-amoury
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags:
+  - "military"
+---
 Found on the 3rd floor of White Cloak Tower, this large room has a thick metal door which only Lumina and the Company Quartermaster have keys for.
 
 The armoury is furnished with armour and weapon racks, wooden and of spartan appearance, along with numerous wall-hanging shelves and chests of a similar theme. Many are empty. There are several hooks of thick iron embedded in the walls, mostly for holding vast quantities of rope and other \"hangables\". A large, ornate bookshelf stands out from the other furniture, and contain only vials and flasks full of curious liquids.

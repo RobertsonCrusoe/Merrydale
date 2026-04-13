@@ -1,3 +1,42 @@
+---
+title: "Getting Caught Up - DM Updates and the Slave Orbs Theory"
+slug: getting-caught-up-dm-updates-and-the-slave-orbs-theory
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Invictus"
+  - "Iolus Warburton"
+  - "Alen Reks"
+  - "Lumina Whitegate"
+  - "Vanion Creed"
+  - "Alystair Dretch"
+  - "Phineas Hoetmer"
+  - "Vessuvian"
+  - "Lucan Alavandor"
+  - "Drake"
+  - "Drake Sterling"
+locations:
+  - "Liberty Hill"
+  - "Castle Daggerdale"
+  - "Dagger Hills"
+  - "Thistle Ridge"
+  - "Charity"
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 Getting Caught Up — DM Updates, Lucan's Slave Orbs Theory, and the Lost Warburton Journal
 Stephen Robertson (as Lucan) and Les Blackwell (DM)
 Email thread: "Getting Caught Up", 11-20 Feb 2026

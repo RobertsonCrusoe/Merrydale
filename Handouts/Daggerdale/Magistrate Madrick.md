@@ -1,3 +1,10 @@
+---
+title: "Magistrate Madrick"
+slug: magistrate-madrick
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 # Magistrate Madrick
 # Source: Sieges Perilous wiki (backup dated 2010-02-21)
 

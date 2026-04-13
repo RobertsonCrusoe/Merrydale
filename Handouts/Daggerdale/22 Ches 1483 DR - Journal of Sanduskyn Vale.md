@@ -1,3 +1,30 @@
+---
+title: "Journal of Sanduskyn Vale"
+slug: journal-of-sanduskyn-vale
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "22 Ches 1483 DR"
+date_ic_sort: 1483083
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Sanduskyn Vale"
+  - "Mari Thickwickle"
+  - "Crasster Redwater"
+  - "Ambassador Whitmore"
+locations:
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 Journal of Sanduskyn Vale - 22 Ches, 1483 DR
 DM Handout (Les Blackwell)
 

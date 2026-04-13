@@ -1,3 +1,27 @@
+---
+title: "Bargle's Deal"
+slug: bargle-s-deal
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Tethyamar"
+  - "Tethyamar Hearth Inn"
+tags:
+  - "military"
+---
 These were the terms offered by Bargle Battlemaster to the unfortunate heroes that would become known as Mule Company on Greengrass, 1479 DR in the Tethyamar Hearth Inn, under which they joined the Free Defense League.
 
 ----

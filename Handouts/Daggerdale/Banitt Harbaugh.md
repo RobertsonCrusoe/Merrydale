@@ -1,3 +1,29 @@
+---
+title: "Banitt Harbaugh"
+slug: banitt-harbaugh
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Ardelusk Whitegate"
+  - "Banitt Harbaugh"
+locations:
+  - "Castle Gate Inn"
+  - "Castle Radiance"
+  - "Crossed Blades Farm"
+tags: []
+---
 Priest of Amaunator on pilgrimage to Castle Radiance to see the tomb of Ardelusk Whitegate
 
 ==Background==

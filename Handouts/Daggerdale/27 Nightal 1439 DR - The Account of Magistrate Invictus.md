@@ -1,3 +1,31 @@
+---
+title: "The Account of Magistrate Invictus"
+slug: the-account-of-magistrate-invictus
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "27 Nightal 1439 DR"
+date_ic_sort: 1439363
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Invictus"
+  - "Zoderick Winters"
+  - "Daphne Dale"
+locations:
+  - "Thistle Ridge"
+  - "Hillsfar"
+  - "Cormanthor"
+  - "Thistle Ridge Farm"
+tags: []
+---
 [Source: Nightal 27 1439.txt, lines 43+]
 
 The Account of Magistrate Invictus 

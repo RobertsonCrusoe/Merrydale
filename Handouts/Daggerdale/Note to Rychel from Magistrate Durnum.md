@@ -1,3 +1,26 @@
+---
+title: "Note to Rychel from Magistrate Durnum"
+slug: note-to-rychel-from-magistrate-durnum
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Durnum"
+  - "Rychel Voordan"
+locations: []
+tags: []
+---
 [PC Attribution: Rychel Voordan (Scott McLaren)]
 Mr. Voordan;
 

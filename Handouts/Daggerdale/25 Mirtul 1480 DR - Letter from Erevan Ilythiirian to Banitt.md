@@ -1,3 +1,31 @@
+---
+title: "Letter from Erevan Ilythiirian to Banitt"
+slug: letter-from-erevan-ilythiirian-to-banitt
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Erevan Ilythiirian"
+source: handout
+date_ic: "25 Mirtul 1480 DR"
+date_ic_sort: 1480147
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Pauldron"
+locations:
+  - "Castle Daggerdale"
+  - "Shadowdale"
+  - "Crossed Blades Farm"
+  - "Cormanthor"
+  - "Tethyamar"
+tags:
+  - "military"
+---
 This letter was discovered on the corpse of an unidentified man, dead on the Tethyamar Road, 1 mile south of Crossed Blades Farm, on the 15th of Nightal, 1479 DR. The letter was being clutched by the dead man's hand, but it was partially destroyed by whatever creature tore apart the messenger.
 
 30th day of Uktar, Year of the Ageless One

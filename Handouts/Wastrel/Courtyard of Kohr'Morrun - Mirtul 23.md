@@ -1,3 +1,32 @@
+---
+title: "Courtyard of Kohr'Morrun - Mirtul 23"
+slug: courtyard-of-kohr-morrun-mirtul-23
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Baird"
+  - "Bogrun"
+  - "Janus"
+  - "Curran Feldegar"
+  - "Kossur"
+  - "Ghedorh Furrowford"
+  - "Sheel Parin"
+locations:
+  - "Loudwater"
+tags: []
+---
 == Mirtul 23rd, 7 PM ==
 
 The remaining wardens were keeping busy. Those not keeping watch for probing strikes from the Red Hand hobgoblins were busy with clearing aside dead bodies and fighting a losing battle against putting out the fires that were blazing on various parts of the Kohr'Morrun stables.

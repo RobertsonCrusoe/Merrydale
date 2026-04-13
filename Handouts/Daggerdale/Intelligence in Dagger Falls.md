@@ -1,3 +1,29 @@
+---
+title: "Intelligence in Dagger Falls"
+slug: intelligence-in-dagger-falls
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Gaebril Tremalkin"
+locations:
+  - "Dagger Falls"
+  - "Castle Radiance"
+  - "Tesh Valley"
+tags:
+  - "military"
+---
 A collection of facts and rumours uncovered in Dagger Falls on the 4th and 5th of Mirtul.
 
 ==The Word on the Street==

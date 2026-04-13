@@ -1,3 +1,10 @@
+---
+title: "Stephiani Weaver"
+slug: stephiani-weaver
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 Narrative about this NPC, delivered to the PC's;
 
 The little girl before you is about seven years old; she is tall for her age, and robust; she is the daughter of a successful farmer, no doubt; she is well fed but also lean and weathered; a girl who is used to hard work.  Presently, she is exceptionally dishevelled.  Her green dress has been torn to tatters from a protracted flight through the forest, her dirty blonde hair a tangled mess of twigs and other detritus.  The fur on her shoulders, you notice almost immediately, is a rotting bit of deer hide that looks like it was torn from a carcass not long ago; it is crawling with maggots and stinks terribly.  Her hands and feet are cut up and bruised beyond anything you have ever seen in one so young.  Her green eyes, which you catch only the rarest of glances from, as she will not look up, let alone at any of  you, are vacant.  She looks like a wild thing, only very distant, vacant almost.

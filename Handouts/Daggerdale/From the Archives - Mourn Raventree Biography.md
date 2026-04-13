@@ -1,3 +1,39 @@
+---
+title: "From the Archives - Mourn Raventree Biography"
+slug: from-the-archives-mourn-raventree-biography
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Yarkul"
+  - "Esperel"
+  - "Jafar"
+  - "Boregar"
+  - "Gond Pistola"
+  - "Grimwald"
+  - "Beljuril"
+  - "Ailyan"
+  - "Corrina"
+  - "Hanibal Felthian"
+  - "Maturin Horgath"
+  - "Ratbiter"
+locations:
+  - "Waterdeep"
+  - "Dagger Falls"
+  - "Secomber"
+tags: []
+---
 [PC Attribution: Mourn Raventree (Gus Miranda)]
 From the Archives: Mourn Raventree Biography
 CLASSIFICATION: SECONDARY MATERIAL — AI-generated content (Claude) based on campaign wiki archives, not primary email correspondence

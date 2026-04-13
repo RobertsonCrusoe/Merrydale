@@ -1,3 +1,31 @@
+---
+title: "Notes from the Memoire of Ser Reginald Boxfray"
+slug: notes-from-the-memoire-of-ser-reginald-boxfray
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "27 Tarsakh 1483 DR"
+date_ic_sort: 1483118
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jasper Hawkford"
+  - "Abbot Ambershields"
+  - "Ailyan"
+  - "John Carpenter"
+  - "Reginald Boxfray"
+  - "Khara Sulwood"
+locations: []
+tags:
+  - "military"
+---
 [Source: 20 Tarsakh 1483 DR -A letter from Jasper Hawkford to the Lady Khara Sulwood.txt, lines 165+]
 
 27 Tarsakh, 1483 DR  Notes from the Memoire of Ser Reginald Boxfray 

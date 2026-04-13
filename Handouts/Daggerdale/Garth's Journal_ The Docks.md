@@ -1,3 +1,27 @@
+---
+title: "Garth's Journal_ The Docks"
+slug: garth-s-journal-the-docks
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: todd
+curator: ""
+pov: "Garth"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Garth Shanks"
+  - "Sal Worthingham"
+  - "Tomas Quoyle"
+locations: []
+tags: []
+---
 [PC Attribution: Garth Shanks (Todd Burry)]
 ...from the adventures of Garth Shanks
 

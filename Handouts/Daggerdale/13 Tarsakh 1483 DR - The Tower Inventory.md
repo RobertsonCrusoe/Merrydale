@@ -1,3 +1,27 @@
+---
+title: "The Tower Inventory"
+slug: the-tower-inventory
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "13 Tarsakh 1483 DR"
+date_ic_sort: 1483104
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Phoebe Birchgrove"
+locations:
+  - "Thistle Ridge"
+  - "Loot from Thistle Ridge Tower Dungeon - Distribution Discussion - Jan 2025"
+tags: []
+---
 [Sources:
   - Karn's Lair and Ribalest's Tomb hauls: Loot from Thistle Ridge Tower Dungeon - Distribution Discussion - Jan 2025.txt, PART 1, Les Blackwell's DM listing posted 19 Jan 2025 (Gmail message ID 19481b9904c9ffbd) — the canonical original
   - General tower haul: previously held in the now-retired Jendwendle_and_Tower_Loot.txt session-notes fragment (deleted 2026-04-09 as part of compilation cleanup); the same six items also appeared in compilation file "12 Tarsakh 1483 DR -Thistle Ridge Expeditionary Record Phoebe Birchgrove Sg.txt" before that file was likewise retired

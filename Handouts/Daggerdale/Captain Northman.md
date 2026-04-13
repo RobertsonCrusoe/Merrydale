@@ -1,3 +1,10 @@
+---
+title: "Captain Northman"
+slug: captain-northman
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 Heads up the Red Platoon of the 2nd Mountaineers.
 
 ===Commission in 1481 DR===

@@ -1,3 +1,30 @@
+---
+title: "Bartus Paraley"
+slug: bartus-paraley
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Bartus Paraley"
+  - "Ciratto"
+  - "Edward Albrecht"
+locations:
+  - "Loudwater"
+  - "Secomber"
+tags: []
+deceased: true
+---
 Bartus Paraley hails from Secomber and although having  been in the Loudwater area for a little less than six months, he  impressed Captain Harrowleaf so greatly with his woodcraft and ability  to move unseen that he was made a patrol sergeant faster than anyone can  remember.  Although Captain Grimbold, while incapacitated grumbles  about Paraley having not been properly tested yet to make sure he is up  for the responsibility given him.  The dwindling numbers of wardens has  all but ensured Paraley stays in command of his patrol.
 
 Bartus is  a typical “woodsman”.  He has very little to say and when he does  speak, he means what he says.  He’s not one for taking the time to train  new wardens in the ways of woodcraft.  He expects those in his patrol  to keep up or to go work with a slower, weaker patrol.

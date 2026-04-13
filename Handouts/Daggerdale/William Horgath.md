@@ -1,3 +1,10 @@
+---
+title: "William Horgath"
+slug: william-horgath
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 Duke William \"the Lazy\" (born 1295 DR) is the 8th generation of his line to hold the title of Duke of Arcata, one of Damara's original duchies.
 
 Arcatas House of Horgath had been in decline even before the rise of the Witch-King. The common Arcatans recognized this fact, but they were concerned mainly with day-to-day survival. Little attention was paid to the failings of House Horgath, which seemed harmless

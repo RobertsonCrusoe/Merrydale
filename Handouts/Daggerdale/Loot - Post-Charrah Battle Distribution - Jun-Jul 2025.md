@@ -1,3 +1,25 @@
+---
+title: "Loot - Post-Charrah Battle Distribution - Jun-Jul 2025"
+slug: loot-post-charrah-battle-distribution-jun-jul-2025
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: "2026-04-06"
+series: ""
+order: ""
+characters:
+  - "Charrah"
+locations: []
+tags: []
+---
 SOURCE INFORMATION
 Thread: "Loot" (197750ce877c3b5f)
 Date Range: 15 Jun – 15 Jul 2025

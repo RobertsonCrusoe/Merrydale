@@ -1,3 +1,40 @@
+---
+title: "Previously, in Daggerdale"
+slug: previously-in-daggerdale
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1 Kythorn 1480 DR"
+date_ic_sort: 1480153
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alystair Dretch"
+  - "Iolus Warburton"
+  - "Lumina Whitegate"
+  - "Rhuun"
+  - "Erevan Ilythiirian"
+locations:
+  - "Dagger Falls"
+  - "Castle Radiance"
+  - "A Discussion at the Castle Gate Inn"
+  - "A Visit to the Yellow Abbey"
+  - "Castle Gate Inn"
+  - "Fresh Meat for Castle Radiance"
+  - "Gathering Intelligence at the Castle"
+  - "Investigation of Tesh Valley Farm"
+  - "Liberty Hill"
+  - "Shadowdale"
+tags:
+  - "military"
+---
 450px|right
 
 ==14th Century Adventures==

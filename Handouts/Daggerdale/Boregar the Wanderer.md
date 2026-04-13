@@ -1,3 +1,10 @@
+---
+title: "Boregar the Wanderer"
+slug: boregar-the-wanderer
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 [PC Attribution: Boregar the Wanderer (Scott McLaren)]
 Boregar 'the Wanderer' is a Harper agent hailing from Mistledale and the life-partner of Shilve Silverhand. His great bulk belies lightning-quick reflexes, and his staff has cracked many a Zhentarim skull in his wanderings across the Realms. 
 

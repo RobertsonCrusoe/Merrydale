@@ -1,3 +1,27 @@
+---
+title: "Convalescence of Alen Reks"
+slug: convalescence-of-alen-reks
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alen Reks"
+locations:
+  - "Castle Radiance"
+tags:
+  - "military"
+---
 Long hours spent reading. Longer hours lost in thought. How many days had he walked these roads and these pages, re-reading the same bland words written only slightly different, so many thoughts but so little actually being said.
  
 Durandal closed the book and placed it on the nightstand beside his chair. 'The Great War of the North' held approximately as much academic merit as a drunken minstrel's incoherent ramblings, and less than half the entertainment. Nothing he had been seeking was to be found in any of these texts, nor in any of the many shelves contained within Castle Radiance's walls from which he had gathered them. Thus far, Durandal noted dryly, enlisting in the White Cloaks had been a massive waste of time on all accounts.

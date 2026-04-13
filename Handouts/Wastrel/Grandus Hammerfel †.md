@@ -1,3 +1,29 @@
+---
+title: "Grandus Hammerfel"
+slug: grandus-hammerfel
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Grandus Hammerfel"
+  - "Lavidius"
+  - "Maeghuen Grimbold"
+locations:
+  - "Loudwater"
+tags: []
+deceased: true
+---
 Grandus is a dwarf that spent nearly twenty years  adventuring in various spots throughout the Gray Vale.  He also spent  twenty years stationed at Falcon's Roost.  He has set up a home in  Loudwater and living off of the spoils of his adventuring.  Grandus is  known for arguing with Mayor Moonfire, Maeghuen Grimbold, the late  Captain Harrowleaf and Curuvar, all in public and all over how “things  should be done” in Loudwater.  With Captain Grimbold incapacitated,  Curuvar distracted by other matters, and Ambassador Hyperia clearly in  no position to lead, Grandus has fallen into an impromptu leader in the  face of the 'Iron Jackal” presence in the area.   Although brash and  quick to encourage an attack against the Iron Jackals, Grandus is not  foolish.  He's aware of the fact that should he prove to be too much of a  problem, it will be his house that is burnt to the ground with his  corpse staked out front as a message to the rest of the residents of  Loudwater.
 
 Grandus is aggressive and quick to anger.  When  speaking, he expects everyone within earshot to listen and considers  having to repeat himself as a sign of disrespect.

@@ -1,3 +1,27 @@
+---
+title: "Empire of Netheril"
+slug: empire-of-netheril
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Castle Radiance"
+  - "Sembia"
+  - "Tethyamar"
+tags: []
+---
 Here is a description of Netheril, taken from pages 120-121 of the new Forgotten Realms Players Handbook.
 
 thumb|450px

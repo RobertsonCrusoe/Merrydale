@@ -1,3 +1,26 @@
+---
+title: "Lucan Confronts Zephrin at Quick Axes"
+slug: lucan-confronts-zephrin-at-quick-axes
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Saerloon"
+  - "Sembia"
+tags: []
+---
 Lucan's face darkens, anger and wounded pride flashing in his eyes as he listens to Zephrin's blunt assessment. His voice, trembling with indignation, cuts through the tension.
 
 “You’ve got a lot to say for someone with no lips, friend. I admit, your kind is a rare sight this far from the Sea of Fallen Stars. But make no mistake. I’ve met enough of you dragonborn to know your mind. Always the brooding outsiders, longing for sympathy. ‘Boy?’ Mock my youth if you will, but I’ve lived my life. Can you say the same? Oh, did I hurt your feelings? Beshaba’s Breath! Always playing the victim, you dragonkin. And you talk big with that forked tongue of yours, ‘Killer,’ but I heard you from outside the room, and Mistress Thickwistle here nearly had you eating scraps out of her hand like yon pup.”

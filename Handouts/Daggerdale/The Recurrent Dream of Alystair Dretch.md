@@ -1,3 +1,27 @@
+---
+title: "The Recurrent Dream of Alystair Dretch"
+slug: the-recurrent-dream-of-alystair-dretch
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alystair Dretch"
+locations:
+  - "Dagger Falls"
+  - "Tesh Valley"
+tags: []
+---
 This is a dream that Alystair Dretch started having shortly after he came out of the Shadowfell.  He had it several times per week during the late summer of 1479 DR.  Since the events of Harvestide, 1479, this dream has stopped.
 
 ---

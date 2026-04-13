@@ -1,3 +1,28 @@
+---
+title: "Forgiving Guild takes no legal action against brazen libellous declarations"
+slug: forgiving-guild-takes-no-legal-action-against-brazen-libellous-declarations
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Janus"
+  - "Ewen Lethgedger"
+  - "Unthril Zond"
+locations:
+  - "Waterdeep"
+tags: []
+---
 18 Flamerule, 1372 DR
 ----
 

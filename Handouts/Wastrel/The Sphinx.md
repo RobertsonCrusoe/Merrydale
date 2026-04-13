@@ -1,3 +1,26 @@
+---
+title: "The Sphinx"
+slug: the-sphinx
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Steele"
+locations:
+  - "Waterdeep"
+tags: []
+---
 :\"Soon comes the day, all shall be free.
 :Even you, and even me.
 :Soon comes the day, all shall die.

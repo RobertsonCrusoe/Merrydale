@@ -1,3 +1,25 @@
+---
+title: "Winning the Competition - Castellan Promotion - Jul 2024"
+slug: winning-the-competition-castellan-promotion-jul-2024
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Thistle Ridge"
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

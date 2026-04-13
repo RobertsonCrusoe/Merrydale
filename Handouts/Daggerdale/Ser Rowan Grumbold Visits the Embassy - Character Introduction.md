@@ -1,3 +1,26 @@
+---
+title: "Ser Rowan Grumbold Visits the Embassy - Character Introduction"
+slug: ser-rowan-grumbold-visits-the-embassy-character-introduction
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: todd
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Rowan Grumbold"
+locations: []
+tags:
+  - "military"
+---
 Ser Rowan Grumbold Visits the Embassy - Character Introduction
 by Todd Burry (as Ser Rowan Grumbold)
 Email thread: "Ser Rowan Grumbold visits the embassy", 20 Jan 2024

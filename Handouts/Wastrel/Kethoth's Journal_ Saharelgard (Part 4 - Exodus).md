@@ -1,3 +1,40 @@
+---
+title: "Kethoth's Journal_ Saharelgard (Part 4 - Exodus)"
+slug: kethoth-s-journal-saharelgard-part-4-exodus
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Kethoth"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "kethoths-journal"
+order: 40
+characters:
+  - "Thoran"
+  - "Saharel"
+  - "Baird"
+  - "Kossur"
+  - "Ailyan"
+  - "Allendy"
+  - "Chara"
+  - "Janus"
+  - "Dalagio"
+  - "Grimsby"
+  - "Lokus"
+  - "Tebyn"
+  - "Turnigal"
+locations:
+  - "Loudwater"
+  - "Waterdeep"
+tags:
+  - "military"
+---
 [PC Attribution: Chadrazzan Kossur (Les Blackwell)]
 ==17 Mirtul Continued==
 

@@ -1,3 +1,29 @@
+---
+title: "The Lady of Loedegan Close"
+slug: the-lady-of-loedegan-close
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Ailyan"
+  - "Alen Reks"
+locations:
+  - "Castle Radiance"
+  - "Uthmere"
+tags:
+  - "military"
+---
 ==The Lady of Loedegan Close==
 
 This estate is not difficult to find, and many of you have seen the gates of it from the distance.

@@ -1,3 +1,25 @@
+---
+title: "Agamemnon's Letter to Rufus"
+slug: agamemnon-s-letter-to-rufus
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: "Agamemnon"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Waterdeep"
+tags: []
+---
 [PC Attribution: Rufus Larrigan (Stephen Robertson)]
 Maturin's speech for the recovery of this letter.
 

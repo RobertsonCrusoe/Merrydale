@@ -1,3 +1,27 @@
+---
+title: "Kethoth Seeks out Radha - Mirtul 26"
+slug: kethoth-seeks-out-radha-mirtul-26
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "kethoths-journal"
+order: ""
+characters: []
+locations:
+  - "Waterdeep"
+  - "Loudwater"
+tags:
+  - "military"
+---
 ==An Invitation==
 
 \"We have much to discuss, you and I. With Barthas dead, I should very much like to make a full investigation into your condition. At one time I understood these matters more clearly, but today, I am not so sure...\"

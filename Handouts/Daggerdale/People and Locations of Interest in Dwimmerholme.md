@@ -1,3 +1,33 @@
+---
+title: "People and Locations of Interest in Dwimmerholme"
+slug: people-and-locations-of-interest-in-dwimmerholme
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Andrea Stuard"
+  - "Darius Winters"
+  - "Kesh"
+  - "Kesh Oakdale"
+  - "Renfrew"
+  - "Roger Dunland"
+  - "Weaver"
+locations:
+  - "The Amber Hart Inn"
+tags:
+  - "military"
+---
 A meta-handout given to the players of the first session of Abandon Hope, all Ye who Enter Here adventure
 
 right|250px

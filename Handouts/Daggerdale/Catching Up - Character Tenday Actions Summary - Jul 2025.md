@@ -1,3 +1,41 @@
+---
+title: "Catching Up - Character Tenday Actions Summary - Jul 2025"
+slug: catching-up-character-tenday-actions-summary-jul-2025
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Onyx"
+  - "Alexandus"
+  - "Blaze Whitegate"
+  - "Charrah"
+  - "Nemia"
+  - "Vessuvian"
+  - "Will"
+  - "Masra"
+  - "Mortimer"
+  - "Calix"
+locations:
+  - "Dagger Falls"
+  - "Thistle Ridge"
+  - "Greenwood Farm"
+  - "Liberty Hill"
+  - "Charity"
+  - "Quick Axes"
+tags:
+  - "military"
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

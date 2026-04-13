@@ -1,3 +1,38 @@
+---
+title: "Jasper Writes Home - Letter to Lady Khara Sulwood"
+slug: jasper-writes-home-letter-to-lady-khara-sulwood
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "30 Ches 1483 DR"
+date_ic_sort: 1483091
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jasper Hawkford"
+  - "Khara Sulwood"
+  - "Alexandus"
+  - "Charrah"
+  - "Invictus"
+  - "Lobelia Alavandor"
+  - "Loki Mouvranesh"
+locations:
+  - "Thistle Ridge"
+  - "Dagger Falls"
+  - "Shadowdale"
+  - "Cormanthor"
+  - "Sembia"
+  - "Thistle Ridge Farm"
+tags:
+  - "military"
+---
 Jasper Writes Home - Letter to Lady Khara Sulwood, 30 Ches 1483 DR
 by Gus Miranda (as Jasper Hawkford)
 Email thread: "Jasper writes home", 17-24 Aug 2024

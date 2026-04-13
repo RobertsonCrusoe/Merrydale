@@ -1,11 +1,34 @@
+---
+title: "Red Herrings - Chapter 4 - 2 - Calamity in the Dales - Notes from Dagger Falls"
+slug: red-herrings-chapter-4-2-calamity-in-the-dales-notes-from-dagger-falls
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Yarkul"
+  - "Amaretta"
+  - "Morgul"
+locations:
+  - "Dagger Falls"
+  - "Yulash"
+tags: []
+---
 `iB):
 Notes from Dagger Falls:
 Interrogation of X
-Yarkul was everyone
-s puppet
-Morgul doesn
-t know anything about beholders; he
-s been here for 6 months
+Yarkul was everyone's puppet
+Morgul doesn't know anything about beholders; he's been here for 6 months
 Thagdul was an ally, and Yarkul was his vassal
 Thagdul has been active in Yulash for at least 3 months.
 Cyric was influencing the Lathanderites directly
@@ -113,8 +136,7 @@ zWwkn
 Sp.N
 )38}
 F^>B
-Kv"f
-m}lw
+Kv"f'm}lw
 "1K{<o
 xcpx
 %np+!
@@ -271,8 +293,7 @@ zWwkn
 Sp.N
 )38}
 F^>B
-Kv"f
-m}lw
+Kv"f'm}lw
 "1K{<o
 xcpx
 %np+!

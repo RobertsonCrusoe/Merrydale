@@ -1,3 +1,31 @@
+---
+title: "Chapter Four Foreword and Summary"
+slug: chapter-four-foreword-and-summary
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Gaebril Tremalkin"
+  - "Ardelusk Whitegate"
+  - "Lumina Whitegate"
+  - "Phineas Hoetmer"
+locations:
+  - "Liberty Hill"
+  - "Yellow Abbey"
+tags:
+  - "military"
+---
 DDC – Chapter Four – Forword and Summary 
 Wherein the prosperous dale is set upon by a formidable foe (Netheril), with many heroes answering the call to arms. 
 

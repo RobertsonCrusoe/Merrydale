@@ -1,3 +1,34 @@
+---
+title: "The Limestone Court Narrative"
+slug: the-limestone-court-narrative
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "17 Tarsakh 1483 DR"
+date_ic_sort: 1483108
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Calix"
+  - "Dol'Rullian"
+  - "Quercina"
+  - "Embra"
+  - "Contessa Palus"
+  - "Fluvia"
+  - "Charrah"
+  - "Masra"
+locations:
+  - "Thistle Ridge"
+  - "Greenwood Farm"
+tags: []
+---
 [Source: Les Blackwell DM narrative; original email/thread provenance not yet verified — flagged for source-verification pass]
 
 17 Tarsakh – The Limestone Court Narrative

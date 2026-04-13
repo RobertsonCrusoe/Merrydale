@@ -1,3 +1,10 @@
+---
+title: "Nasher Alagondar"
+slug: nasher-alagondar
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 Lord Nasher Alagondar is an amiable, balding, and fearless former adventurer who keeps his city firmly in the Lord's Alliance. He enjoys music and hearing tales of other lands and peoples.
 
 He's laid many intrigues and magical preparations against attacks from Neverwinter's warlike rival town, Luskan. Nasher doesn't allow maps of the city to be made to keep the spies of Luskan busy and add a minor measure of difficulty to any Luskanite invasion plans. Lord Nasher is always accompanied by his bodyguard, the \"Neverwinter Nine\". They have many magical items Nasher accumulated over a very successful decade of adventuring.

@@ -1,3 +1,10 @@
+---
+title: "Semiazus"
+slug: semiazus
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 left|300px
 
 The Familiar of Vetis, and the constant foil of Bravo Team, Semiazus was cunning and slippery.  He is known to have left a trail of rotting animals to lead a dire bear into the party.  In combat, he flew around nearly invisible, poisoning his enemies before flying off invisible again.

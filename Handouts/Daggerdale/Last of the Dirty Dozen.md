@@ -1,3 +1,27 @@
+---
+title: "Last of the Dirty Dozen"
+slug: last-of-the-dirty-dozen
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Vanion Creed"
+locations:
+  - "Sembia"
+  - "Castle Radiance"
+tags: []
+---
 ==The Dirty Dozen==
 
 \"We were the best.

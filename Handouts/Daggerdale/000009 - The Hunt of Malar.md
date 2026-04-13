@@ -1,3 +1,27 @@
+---
+title: "The Hunt of Malar"
+slug: the-hunt-of-malar
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: forum
+date_ic: ""
+date_ic_sort: ""
+date_ooc: "2011-01-26"
+series: ""
+order: ""
+characters:
+  - "Carpathia Twist"
+locations:
+  - "Cormanthor"
+  - "The Dragon's Gate Inn"
+tags: []
+---
 Source: GDN_Discussion + GDN_Comment
 DiscussionID: 9
 CategoryID: 1

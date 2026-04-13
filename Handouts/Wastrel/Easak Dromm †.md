@@ -1,3 +1,30 @@
+---
+title: "Easak Dromm"
+slug: easak-dromm
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Easak Dromm"
+  - "Brash"
+  - "Mirabel Redhand"
+locations:
+  - "Loudwater"
+tags:
+  - "military"
+deceased: true
+---
 Easak is a thirty-something, human male who claims to  have been born and raised in Cormyr.  He doesn’t talk much about his  past but since arriving in the Loudwater area for the last six months,  he has taken a number of odd jobs helping out the various farms in the  area.  Out of the “wandering” farm hands that can be found in the  Loudwater area, Easak Dromm is clearly at the top of the list when it  comes to people speaking favourably.  He rarely stays at one farm for  more than a fortnight.  He helps with a particular job and then moves  onto another farm although he does return to farms he worked at in the  past after “doin:g the rounds”.
 
 Easak has preternaturally gray  hair for his age, is slim but strong from all the hard work he does.   He’s quick to smile, and even quicker to back away from a fight, or  someone looking for a fight.  His hair is about mid-length which he  keeps in a well-groomed pony-tail which never seems to be out of place,  even after a hard day mucking stables or cleaning out a barn.

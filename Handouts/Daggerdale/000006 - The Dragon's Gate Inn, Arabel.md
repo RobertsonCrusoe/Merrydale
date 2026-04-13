@@ -1,3 +1,31 @@
+---
+title: "The Dragon's Gate Inn, Arabel"
+slug: the-dragon-s-gate-inn-arabel
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: forum
+date_ic: ""
+date_ic_sort: ""
+date_ooc: "2011-01-26"
+series: ""
+order: ""
+characters:
+  - "Denelius Ormath"
+  - "Beliard Emmarask"
+  - "Carpathia Twist"
+  - "Tyrian Grey"
+locations:
+  - "Castle Radiance"
+  - "Sembia"
+  - "The Dragon's Gate Inn"
+tags: []
+---
 Source: GDN_Discussion + GDN_Comment
 DiscussionID: 6
 CategoryID: 6

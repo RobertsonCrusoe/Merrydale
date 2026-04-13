@@ -1,3 +1,39 @@
+---
+title: "Maturin's Letter to Balak"
+slug: maturin-s-letter-to-balak
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: "Maturin"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Drake"
+  - "Turan"
+  - "Yarkul"
+  - "Eiran"
+  - "Gaebril Tremalkin"
+  - "Garrik Shining"
+  - "Grandfather"
+  - "Maturin Horgath"
+  - "William Cormaeril"
+locations:
+  - "Dagger Falls"
+  - "Shadowdale"
+  - "Anathar's Dell"
+  - "Yulash"
+  - "Loudwater"
+tags: []
+---
 [PC Attribution: Maturin Horgath (Stephen Robertson)]
 Early on the morning of the 29th of Eleint, two young men ride into Shadowdale from Dagger Falls, insisting that they speak to a Master Balak.  \"We bear missives from Lord Horgath!\" Taking a brief respite from his hearth, Balak receives a pair of letters and a sack of coins from one of the envoys before they head into the town with more letters.
 ----

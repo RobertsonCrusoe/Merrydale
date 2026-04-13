@@ -1,3 +1,46 @@
+---
+title: "A letter from Jasper Hawkford to the Lady Khara Sulwoo"
+slug: a-letter-from-jasper-hawkford-to-the-lady-khara-sulwoo
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Jasper Hawkford"
+source: handout
+date_ic: "20 Tarsakh 1483 DR"
+date_ic_sort: 1483111
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Calix"
+  - "Masra"
+  - "Dol'Rullian"
+  - "Quercina"
+  - "Fluvia"
+  - "Contessa Palus"
+  - "Jasper Hawkford"
+  - "Ailyan"
+  - "Charrah"
+  - "Invictus"
+  - "Cassimar"
+  - "Coventina Cassimar"
+  - "Lobelia Alavandor"
+  - "Loki Mouvranesh"
+  - "Reginald Boxfray"
+  - "Khara Sulwood"
+locations:
+  - "Thistle Ridge"
+  - "Dagger Falls"
+  - "Greenwood Farm"
+  - "Shadowdale"
+  - "Cormanthor"
+tags:
+  - "military"
+---
 20 Tarsakh, 1483 DR - A letter from Jasper Hawkford to the Lady Khara Sulwood  
 My dearest Khara,  
 I am alive, well, and progressing with my appointed task within Daggerdale. The past few days have been eventful, and I have found myself now entrenched deep within the Question itself.  

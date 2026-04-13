@@ -1,3 +1,26 @@
+---
+title: "Marpenoth 13, On the Road from Castle Radiance to Dagger Falls"
+slug: marpenoth-13-on-the-road-from-castle-radiance-to-dagger-falls
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: forum
+date_ic: ""
+date_ic_sort: ""
+date_ooc: "2012-07-04"
+series: ""
+order: ""
+characters: []
+locations:
+  - "Castle Radiance"
+  - "Dagger Falls"
+tags: []
+---
 Source: GDN_Discussion + GDN_Comment
 DiscussionID: 36
 CategoryID: 5

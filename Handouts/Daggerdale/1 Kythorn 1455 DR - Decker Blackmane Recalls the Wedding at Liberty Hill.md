@@ -1,3 +1,28 @@
+---
+title: "Decker Blackmane Recalls the Wedding at Liberty Hill"
+slug: decker-blackmane-recalls-the-wedding-at-liberty-hill
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Decker Blackmane"
+source: handout
+date_ic: "1 Kythorn 1455 DR"
+date_ic_sort: 1455153
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Decker Blackmane"
+locations:
+  - "Liberty Hill"
+  - "Cormanthor"
+  - "Yellow Abbey"
+tags: []
+---
 Kythorn 1, 1455 DR Compiled from notes written by Decker Blackmane many years after the incident. 
 GFD Notes: 
 I found this in the Yellow Abbey. In its native form, this is a sheaf of papers in a small box, and I am not sure I was meant to find it. I could not find it again several days after I did, and I expect it was moved to the Historic Wing. 

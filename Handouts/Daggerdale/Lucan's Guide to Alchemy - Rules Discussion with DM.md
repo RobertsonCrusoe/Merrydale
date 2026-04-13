@@ -1,3 +1,24 @@
+---
+title: "Lucan's Guide to Alchemy - Rules Discussion with DM"
+slug: lucan-s-guide-to-alchemy-rules-discussion-with-dm
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 Lucan's Guide to Alchemy — Rules Discussion with DM
 Stephen Robertson (as Lucan) and Les Blackwell (DM)
 Email thread: "Lucan's Guide to Alchemy", 28-31 Jan 2025

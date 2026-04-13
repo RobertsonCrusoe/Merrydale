@@ -1,3 +1,27 @@
+---
+title: "Jeska Kills Grimaldous (Arena Narration)"
+slug: jeska-kills-grimaldous-arena-narration
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "22 Ches 1483 DR"
+date_ic_sort: 1483083
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Sanduskyn Vale"
+  - "Ambassador Whitmore"
+locations: []
+tags:
+  - "military"
+---
 22 Ches, 1483 DR — Jeska Kills Grimaldous
 
 [Source: Daggerdale - All Chapter 7 Content - june 11 revised.docx, extracted 2026-04-09. Third-person arena narration of the killing blow. Distinct from Sanduskyn Vale's first-person account of the same moment.]

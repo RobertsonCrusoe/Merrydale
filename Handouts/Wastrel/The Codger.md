@@ -1,3 +1,24 @@
+---
+title: "The Codger"
+slug: the-codger
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 [PC Attribution: The Codger (Scott McLaren)]
 I will say that he is a straight up Rogue professional. A former translator from the Dragon Coast, he decided late in life to give up this mundane and controversial role. He began to use his knowledge to help others and has a solid reputation as a man who can solve puzzles in many areas of the realms.
 

@@ -1,3 +1,29 @@
+---
+title: "Memorable Moments in Capture the Flag - Todd's Notes and the Making of the Ballad"
+slug: memorable-moments-in-capture-the-flag-todd-s-notes-and-the-making-of-the-ballad
+type: meta
+campaign: daggerdale
+voice: ooc
+status: raw
+tier: editor
+author: stephen
+curator: ""
+pov: "Todd"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alexandus"
+  - "Tara Hilltop"
+  - "Beliard Emmarask"
+locations:
+  - "Dagger Falls"
+  - "Thistle Ridge"
+tags: []
+---
 Memorable Moments in Capture the Flag - Todd's Notes and the Making of the Ballad
 
 by Todd Burry (as Ser Rowan/Mari) and Stephen Robertson (as Beliard Emmarask/Lucan)

@@ -1,3 +1,10 @@
+---
+title: "Shepherd's Crook Tower"
+slug: shepherd-s-crook-tower
+type: stub
+campaign: daggerdale
+subtype: location
+---
 The new tower is found halfway between Bald Skull Lake, and No Return Lake.  It is perched on the north side of a small gorge that runs between two very large mountains on either side; Black Death Mountain to the north and west, and The Old Man’s Tooth to the south and east.  At the particular point where the tower is being built, the Black Death Mountain closes in tight to the gorge, which for the most part has been a pleasant coniferous-forest trail though an easy-to-navigate valley.  The road has been well maintained; it is not paved, but it is level and clear.
 
 The tower itself is built on a small projection of the mountain to the north that nearly comes to the edge of the gorge, forming a natural wall on this side of the gorge.  You can see that the face of this natural wall has been quarried to provide stone for the tower, but also to make it more like a sheer wall than a rough, though navigable mountain.

@@ -1,3 +1,30 @@
+---
+title: "Just a Quick One Post Session from Jasper - Coventina's Death and Aftermath"
+slug: just-a-quick-one-post-session-from-jasper-coventina-s-death-and-aftermath
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Charrah"
+  - "Masra"
+  - "Cassimar"
+  - "Coventina Cassimar"
+locations:
+  - "Thistle Ridge"
+  - "Dagger Falls"
+tags: []
+---
 Just a Quick One Post Session from Jasper - Coventina's Death and Aftermath
 by Gus Miranda (as Jasper) and Todd Burry (as Mari)
 Email thread: "Just a quick one, post session from Jasper", 11-12 May 2025

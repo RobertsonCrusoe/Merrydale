@@ -1,3 +1,10 @@
+---
+title: "Tethyamar League"
+slug: tethyamar-league
+type: stub
+campaign: daggerdale
+subtype: organization
+---
 # Tethyamar League
 # Source: The Sieges Perilous wiki (backup dated 2010-02-21)
 

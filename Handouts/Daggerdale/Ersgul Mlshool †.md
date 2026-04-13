@@ -1,1 +1,9 @@
+---
+title: "Ersgul Mlshool"
+slug: ersgul-mlshool
+type: stub
+campaign: daggerdale
+subtype: npc
+deceased: true
+---
 This fellow is now dead, but worth noting. He was a member of the Stonecutters' Guild, and had the title of Foreman. He had 5-10 loyal men under him, and was loyal to Yarkul. He was recently found dead in his well-to-do Castle Ward apartment, along with a dead Drow. These two deaths likely marked the beginning of the adventure/underground commerce season for The City in 1372.

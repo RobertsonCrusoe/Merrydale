@@ -1,3 +1,25 @@
+---
+title: "Team Chrysalis - Charter of Enrollment"
+slug: team-chrysalis-charter-of-enrollment
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags:
+  - "military"
+---
 Team Chrysalis — Charter of Enrollment
 Scott Mclaren (as Jeska), all players, and Les Blackwell (DM)
 Email thread: "Team Chrysalis", 16 Dec 2023

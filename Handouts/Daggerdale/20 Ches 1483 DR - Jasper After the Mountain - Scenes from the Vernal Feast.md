@@ -1,3 +1,31 @@
+---
+title: "Jasper After the Mountain - Scenes from the Vernal Feast"
+slug: jasper-after-the-mountain-scenes-from-the-vernal-feast
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "20 Ches 1483 DR"
+date_ic_sort: 1483081
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jasper Hawkford"
+  - "Ailyan"
+  - "Nemia"
+locations:
+  - "Dagger Falls"
+  - "Shadowdale"
+  - "Thistle Ridge"
+tags:
+  - "military"
+---
 Jasper After the Mountain - Scenes from the Vernal Feast
 by Gus Miranda (as Jasper Hawkford) with Todd Burry (as Mari)
 Email threads: "A small scene after the morning's competition" (29 Feb - 1 Mar 2024) and "Continuing on with some scenes from the aftermath of the competition" (2-3 Mar 2024)

@@ -1,3 +1,29 @@
+---
+title: "From the Journal of Tergus Clarandal - Life on the Farm and the Four Girls"
+slug: from-the-journal-of-tergus-clarandal-life-on-the-farm-and-the-four-girls
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "27 Nightal 1439 DR"
+date_ic_sort: 1439363
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Tergus Clarandal"
+  - "Lilac Alavandor"
+  - "Poppy Sweetberry"
+locations:
+  - "Thistle Ridge"
+tags:
+  - "military"
+---
 From the Journal of Tergus Clarandal, recovered at Clarandal Farm 1483 by Company Chrysalis
 
 [Source: Partial Journal of Tergus Clarandal.docx, uploaded 2026-04-09]

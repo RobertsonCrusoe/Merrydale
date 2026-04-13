@@ -1,3 +1,26 @@
+---
+title: "The Unjust Rule of the Assassin Lords of Waterdeep"
+slug: the-unjust-rule-of-the-assassin-lords-of-waterdeep
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Khelben Arunsun"
+locations:
+  - "Waterdeep"
+tags: []
+---
 A pamphlet circulated widely in Waterdeep during Eleasias of 1373 DR
 
 ----

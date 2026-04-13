@@ -1,3 +1,27 @@
+---
+title: "Red Herrings - Chapter 4 - 1 - Return to Neverwinter - The Neverwinter connection"
+slug: red-herrings-chapter-4-1-return-to-neverwinter-the-neverwinter-connection
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Yarkul"
+  - "Belduran"
+locations:
+  - "Waterdeep"
+tags: []
+---
 The Neverwinter connection
 the road between Waterdeep and Neverwinter is plagued with orcs
 Observation: Gilthzan leads the orcs

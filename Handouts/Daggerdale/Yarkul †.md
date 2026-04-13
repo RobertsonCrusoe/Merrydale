@@ -1,3 +1,33 @@
+---
+title: "Yarkul"
+slug: yarkul
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Yarkul"
+  - "Fzoul Chembryl"
+  - "Randal Morn"
+  - "Semmemon"
+locations:
+  - "Waterdeep"
+  - "Dagger Falls"
+  - "Shadowdale"
+tags:
+  - "military"
+deceased: true
+---
 A nefarious Zhent wizard, and former patron of Company Ersgul. It was learned that he was a former apprentice of Semmemon, then lackey to Fzoul Chembryl. After the defeat of Ersgul in Waterdeep, Yarkul somehow found his way to Daggerdale, where he was installed by Zhentarim machinations as the so-called 'Lord of Daggerdale' after he contrived to murder Randal Morn.
 
 thumb|The wizard Yarkul's sigil

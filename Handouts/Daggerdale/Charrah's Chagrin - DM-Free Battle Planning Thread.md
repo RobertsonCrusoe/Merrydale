@@ -1,3 +1,32 @@
+---
+title: "Charrah's Chagrin - DM-Free Battle Planning Thread"
+slug: charrah-s-chagrin-dm-free-battle-planning-thread
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Charrah"
+  - "Huntmaster"
+  - "Cassimar"
+  - "Will"
+  - "Chara"
+locations:
+  - "Thistle Ridge"
+  - "Dagger Falls"
+  - "Cassimar Tower"
+tags: []
+---
 Charrah's Chagrin — DM-Free Battle Planning Thread
 Stephen Robertson (as Lucan), Scott Mclaren (as Jeska), Gus Miranda (as Jasper), Todd Burry (as Ser Rowan/Mari)
 Email thread: "Charrah's Chagrin [DM-free thread]", 6-10 May 2025

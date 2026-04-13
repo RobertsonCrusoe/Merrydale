@@ -1,3 +1,28 @@
+---
+title: "A Letter Sent by Lucan Alavandor to Brother Vessuvian"
+slug: a-letter-sent-by-lucan-alavandor-to-brother-vessuvian
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "15 Tarsakh 1483 DR"
+date_ic_sort: 1483106
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Vessuvian"
+  - "Lucan Alavandor"
+locations:
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 [Source: Lucan's Investigations - Jasper at Greenwood Lake.txt (curated thread reconstitution; email thread "Lucan's investigations", Stephen Robertson, 27 Jan 2025)]
 
 15 Tarsakh, 1483 DR – A Letter Sent by Lucan Alavandor to Brother Vessuvian

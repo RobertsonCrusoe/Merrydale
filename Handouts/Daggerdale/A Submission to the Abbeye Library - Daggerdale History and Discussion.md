@@ -1,3 +1,29 @@
+---
+title: "A Submission to the Abbeye Library - Daggerdale History and Discussion"
+slug: a-submission-to-the-abbeye-library-daggerdale-history-and-discussion
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Logan"
+  - "Gilthanas"
+  - "Jafar"
+locations:
+  - "Shadowdale"
+  - "Waterdeep"
+tags: []
+---
 A Submission to the Abbeye Library - Daggerdale History and Discussion
 by Stephen Robertson (as Acolyte Brightbeam / Archpriest Dawncrest), with Les Blackwell and Gus Miranda
 Email thread: "A submission to the Abbeye library...", 16-19 Aug 2024

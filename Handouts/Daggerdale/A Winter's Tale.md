@@ -1,3 +1,28 @@
+---
+title: "A Winter's Tale"
+slug: a-winter-s-tale
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Grandfather"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 The Company of the Eastern Storm sit wearily in the ruins of Vuerthyl as the winter of 1372-3 slowly passes.
 
 In the last two months, tedium has been the watchword of the day. It took less than a week for it to be generally accepted that Boregar would win the moustache competition, and while it proved impossible for any takers to win the belt for the oasis polar bear dive off of Maturin, Dorian and Gaebril were still viciously competing for the standing high jump honours. Nobody beat Dorian at dice, but then again, nobody played with him after the first week, and he soon settled into his role as Maturin's gambling advisor.

@@ -1,3 +1,28 @@
+---
+title: "Jasper's Experiments - Lightbringer and Mortimer"
+slug: jasper-s-experiments-lightbringer-and-mortimer
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Mortimer"
+  - "Jasper Hawkford"
+locations:
+  - "Thistle Ridge"
+tags:
+  - "military"
+---
 Jasper's Experiments - Lightbringer and Mortimer
 by Gus Miranda (as Jasper Hawkford)
 Email thread: "Jasper's Experiments", 10 Aug 2024

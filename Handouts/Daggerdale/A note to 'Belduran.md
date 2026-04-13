@@ -1,3 +1,32 @@
+---
+title: "A note to 'Belduran"
+slug: a-note-to-belduran
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Zaltim"
+  - "Belduran"
+  - "Gilth'zan"
+  - "Yarkul"
+  - "Ansal Bloodshoulder"
+  - "Laurel Dawn"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 A note addressed to someone named Belduran, found in a scroll tube the corpse of the Zhentarim wizard, Gilth'zan. The note was accompanied by the Harper Pin belonging to Ansal Bloodshoulder.
 
 Belduran;

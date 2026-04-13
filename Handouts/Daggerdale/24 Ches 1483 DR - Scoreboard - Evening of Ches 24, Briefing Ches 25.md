@@ -1,3 +1,28 @@
+---
+title: "Scoreboard - Evening of Ches 24, Briefing Ches 25"
+slug: scoreboard-evening-of-ches-24-briefing-ches-25
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "24 Ches 1483 DR"
+date_ic_sort: 1483085
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alexandus"
+  - "Cassimar"
+locations:
+  - "Thistle Ridge"
+tags:
+  - "military"
+---
 Scoreboard - Evening of Ches 24, Briefing Ches 25
 by Les Blackwell (DM handout)
 Email: 4 Jun 2024

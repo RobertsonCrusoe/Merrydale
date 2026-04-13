@@ -1,3 +1,26 @@
+---
+title: "Wiam Lightner"
+slug: wiam-lightner
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: todd
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Will"
+locations:
+  - "Waterdeep"
+tags: []
+---
 [PC Attribution: Wiam Lightner (Todd Burry)]
 == On the Differential Economics of a Scholarly versus a Worldly Education ==
 

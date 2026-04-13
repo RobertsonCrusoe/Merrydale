@@ -1,3 +1,30 @@
+---
+title: "Minutes of the Ambassadorial Conclave"
+slug: minutes-of-the-ambassadorial-conclave
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "7 Mirtul 1483 DR"
+date_ic_sort: 1483129
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Melegaunt"
+locations:
+  - "Thistle Ridge"
+  - "Sembia"
+  - "Dagger Falls"
+  - "Greenwood Farm"
+  - "Tethyamar"
+tags: []
+---
 7 Mirtul 1483 DR - Minutes of the Ambassadorial Conclave
 Date: 14 July 2025
 From: Les Blackwell

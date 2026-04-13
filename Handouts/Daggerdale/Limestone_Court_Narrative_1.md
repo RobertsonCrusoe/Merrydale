@@ -1,3 +1,34 @@
+---
+title: "Limestone_Court_Narrative_1"
+slug: limestone-court-narrative-1
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Calix"
+  - "Quercina"
+  - "Embra"
+  - "Contessa Palus"
+  - "Fluvia"
+  - "Charrah"
+  - "Masra"
+locations:
+  - "Thistle Ridge"
+  - "Greenwood Farm"
+tags:
+  - "military"
+---
 17 Tarsakh – The Limestone Court Narrative
 
 As Contessa Calix is cut free from the vines entangling her, the nature of the Limestone Court begins to change immediately. The Home Lights slow and pulse dimly for a moment, before returning to life. They seem to flock to Calix, who smiles and waves her hand playfully through them for a moment, before they once again drift away to different parts of the sylvan grotto to cast multi-coloured hues through the now-peaceful place. The motes of light, while still interested in you, seem to do you no harm.

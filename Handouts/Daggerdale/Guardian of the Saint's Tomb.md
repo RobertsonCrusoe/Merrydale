@@ -1,3 +1,29 @@
+---
+title: "Guardian of the Saint's Tomb"
+slug: guardian-of-the-saint-s-tomb
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Ardelusk Whitegate"
+  - "Banitt Harbaugh"
+  - "Gaebril Tremalkin"
+  - "Luminous Whitegate"
+locations:
+  - "Castle Radiance"
+tags: []
+---
 At about three bells on the morning of Greengrass, Banitt was summoned to the tomb of Ardelusk Whitegate. He was escorted there by Lumina and four waiting Knights of the Order of the Lambent Shield.
 
 In the tomb, he is surprised to see that Argent and Luminous Whitegate are already there, along with another four knights, who are just removing the great stone lid from the sarcophagus of Ardelusk Whitegate as he comes in. As the stale air rushes from the old tomb, and strikes Banitt, he falls to his knees and starts to pray. The others just watch and wait for him to finish. Finally, Argent, the Zenith Lord of the dominating faith of this region puts a hand on the Pilgrim's shoulder, and asks him to rise.

@@ -1,3 +1,26 @@
+---
+title: "Leto Cook's Note"
+slug: leto-cook-s-note
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Freeport"
+tags:
+  - "military"
+---
 A note accompanying the Wastrel when it was purchased during Freeport's Raidfest festivities.
 
 If you are a true sea dog then my boat is now in good hands. If you are not then may Umberlee swallow you whole dammit! I suspect however that this boat has now found a worthy owner as I have always trusted in fate and it has never failed me before.

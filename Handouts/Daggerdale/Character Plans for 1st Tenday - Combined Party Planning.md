@@ -1,3 +1,32 @@
+---
+title: "Character Plans for 1st Tenday - Combined Party Planning"
+slug: character-plans-for-1st-tenday-combined-party-planning
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Nemia"
+  - "Alexandus"
+  - "Cassimar"
+  - "Coventina Cassimar"
+  - "Will"
+locations:
+  - "Dagger Falls"
+  - "Thistle Ridge"
+tags:
+  - "military"
+---
 Character Plans for 1st Tenday - Combined Party Planning
 by Scott Mclaren, Todd Burry, Stephen Robertson, Gus Miranda, Les Blackwell
 Email thread: "BL - Character plans for 1st Tenday - synapsis", 25-27 Jul 2024

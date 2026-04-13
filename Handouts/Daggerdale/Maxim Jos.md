@@ -1,3 +1,10 @@
+---
+title: "Maxim Jos"
+slug: maxim-jos
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 [PC Attribution: Maxim Jos (Stephen Robertson)]
 An outlander from Unther. He was masquerading as a dragon shaman from Damara, later discovered to be a Dragon Cultist and priest of Tiamat.
 

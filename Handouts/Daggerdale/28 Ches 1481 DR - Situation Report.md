@@ -1,3 +1,36 @@
+---
+title: "Situation Report"
+slug: situation-report
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "28 Ches 1481 DR"
+date_ic_sort: 1481089
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Darred"
+  - "Luminous Whitegate"
+  - "Hastle Blackwater"
+  - "Lobelia Alavandor"
+  - "Loki Mouvranesh"
+  - "Tezster Gellinson"
+  - "Stuart Angleton"
+locations:
+  - "Tethyamar"
+  - "Castle Radiance"
+  - "Castle Daggerdale"
+  - "Cormanthor"
+tags:
+  - "military"
+---
 [Editorial note (2026-04-11): Two references to "Castle Daggerdale" in this file have been corrected to "Castle Radiance." The original wiki text used "Castle Daggerdale" for Luminous Whitegate's title and in Tunbridge's speech about distance from Cormyr; both clearly refer to Castle Radiance, the mountain fortress in the Desertsmouth where this scene takes place. See Archive Search Report - Castle Daggerdale.md.]
 
 Iolus at the Situation Report, Ches 28th

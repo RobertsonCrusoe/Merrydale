@@ -1,3 +1,32 @@
+---
+title: "The Journal of Beliard Emmarask"
+slug: the-journal-of-beliard-emmarask
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: forum
+date_ic: "8 Flamerule 1480 DR"
+date_ic_sort: 1480190
+date_ooc: "2011-01-26"
+series: ""
+order: ""
+characters:
+  - "Reynard"
+  - "Will"
+  - "Beliard Emmarask"
+locations:
+  - "Castle Radiance"
+  - "Dagger Falls"
+  - "Cormanthor"
+  - "Quick Axes"
+tags:
+  - "military"
+---
 Source: GDN_Discussion + GDN_Comment
 DiscussionID: 4
 CategoryID: 1

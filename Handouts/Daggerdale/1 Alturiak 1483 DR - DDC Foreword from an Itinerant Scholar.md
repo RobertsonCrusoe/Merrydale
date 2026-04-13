@@ -1,3 +1,27 @@
+---
+title: "DDC Foreword from an Itinerant Scholar"
+slug: ddc-foreword-from-an-itinerant-scholar
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1 Alturiak 1483 DR"
+date_ic_sort: 1483032
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Steele"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 DDC - Forword from an Itinerant Scholar 
 An account of the major political and religious happenings in and around Daggerdale from 1367 – 1482 DR, compiled by Grafton Fitzdecker, Independent Scholar. 
 

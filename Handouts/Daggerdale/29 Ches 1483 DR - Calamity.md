@@ -1,3 +1,25 @@
+---
+title: "Calamity"
+slug: calamity
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "29 Ches 1483 DR"
+date_ic_sort: 1483090
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Ambassador Whitmore"
+locations: []
+tags: []
+---
 29 Ches – Calamity
 
 On this clear, cool sunny morning, the final arena battle of the tournament is set to conclude, and the outcome of it could determine who wins the entire contest.  Facing off against the Standing Stone League, you feel confident that you'll prevail; you've beaten every team before you, and the SSL has had difficulties.

@@ -1,3 +1,29 @@
+---
+title: "Agamemnon's Letter to Raven"
+slug: agamemnon-s-letter-to-raven
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Agamemnon"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Steele"
+  - "Briza Uloavae"
+  - "Jannaxil Serpentil"
+  - "Agamemnon"
+  - "Beljuril"
+locations: []
+tags: []
+---
 A letter from Agamemnon to Raven, dated Mirtul 9, 1372.
 
 Master Raventree,

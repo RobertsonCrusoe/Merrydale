@@ -1,3 +1,10 @@
+---
+title: "The Harper Map (c. 1371 DR)"
+slug: the-harper-map-c-1371-dr
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 [Source: Daggerdale Flora and Fauna.txt, lines 147+]
 
 The Harper Map (c. 1371 DR) 

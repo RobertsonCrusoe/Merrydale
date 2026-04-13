@@ -1,3 +1,27 @@
+---
+title: "Corran Altair"
+slug: corran-altair
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Dagger Falls"
+  - "Castle Radiance"
+tags:
+  - "military"
+---
 == Description ==
 
 Corran stands a little over six feet tall and has the build required to be able to move about well while wearing a suit of plate armour.  He has blue eyes, black hair and a well-maintained appearance regarding himself as well as his gear.

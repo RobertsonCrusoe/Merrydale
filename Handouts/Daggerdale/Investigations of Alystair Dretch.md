@@ -1,3 +1,38 @@
+---
+title: "Investigations of Alystair Dretch"
+slug: investigations-of-alystair-dretch
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Invictus"
+  - "Roger Dunland"
+  - "Tzunamm"
+  - "Yarlick Mean"
+  - "Lotus"
+  - "Gaebril Tremalkin"
+  - "Alystair Dretch"
+  - "Lumina Whitegate"
+  - "Tuugan Swift"
+locations:
+  - "Dwimmerholme Farm"
+  - "Quick Axes"
+  - "Crossed Blades Farm"
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 After the merger of Mule Company with the White Cloaks, Alystair Dretch decided he would take on some special projects for the organization, investigating loose ends in the dale.  He was urged by Lumina Whitegate to act upon the dreams he had been having.  In these pursuits, Alystair was often accompanied by Tuugan Swift whose skills as a ranger are a much-needed asset for many of these investigations.  Tuugan's adherence to the faith of Chauntea has also provided both valuable information in the investigations of those in the dale who still live and worship the traditional goddess, as well as providing some perspective outside the rigid faith of Amaunator.
 
 ==Trouble at Dwimmerholme Farm - Harvestide 1479 DR==

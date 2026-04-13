@@ -1,3 +1,31 @@
+---
+title: "The Mountain of Mayhem - Beliard's Songs of the Mountain"
+slug: the-mountain-of-mayhem-beliard-s-songs-of-the-mountain
+type: poetry
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "21 Ches 1483 DR"
+date_ic_sort: 1483082
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alexandus"
+  - "Beliard Emmarask"
+  - "Tara Hilltop"
+locations:
+  - "Dagger Falls"
+  - "Thistle Ridge"
+  - "Quick Axes"
+tags:
+  - "military"
+---
 The Mountain of Mayhem - Beliard's Songs of the Mountain
 Email thread: "The Mountain of Mayhem", 16-23 Feb 2024
 Participants: Stephen Robertson, Gus Miranda, Les Blackwell, Scott Mclaren, Todd Burry

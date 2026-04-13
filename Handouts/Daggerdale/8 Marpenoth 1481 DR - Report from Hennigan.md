@@ -1,3 +1,37 @@
+---
+title: "Report from Hennigan"
+slug: report-from-hennigan
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Hennigan"
+source: handout
+date_ic: "8 Marpenoth 1481 DR"
+date_ic_sort: 1481283
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Xaphan"
+  - "Shae"
+  - "Vetis"
+  - "Hennigan Paros"
+  - "Nathan Gale"
+  - "Alen Reks"
+  - "Doghan"
+  - "Kesh"
+  - "Kesh Oakdale"
+  - "Phineas Hoetmer"
+  - "Roger Dunland"
+  - "Sabnock"
+locations: []
+tags:
+  - "military"
+---
 [PC Attribution: Hennigan Paros (Jeff)]
 =Report=
 :8th of Marpenoth, 1481 DR

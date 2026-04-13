@@ -1,3 +1,10 @@
+---
+title: "Body of the Saint"
+slug: body-of-the-saint
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 Information collected by Mincham Goringrimm, First of the Monastery of Sundered Faiths in 1381 DR
 
 thumb

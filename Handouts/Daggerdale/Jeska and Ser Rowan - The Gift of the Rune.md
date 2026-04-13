@@ -1,3 +1,25 @@
+---
+title: "Jeska and Ser Rowan - The Gift of the Rune"
+slug: jeska-and-ser-rowan-the-gift-of-the-rune
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: todd
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Greenwood Farm"
+tags: []
+---
 Jeska and Ser Rowan - The Gift of the Rune
 by Scott Mclaren (as Jeska) and Todd Burry (as Ser Rowan)
 Email thread: "Jeska and Sir Rowan", 25-26 Jan 2025

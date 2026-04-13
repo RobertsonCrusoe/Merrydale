@@ -1,3 +1,39 @@
+---
+title: "Lucan_and_Jasper,_early_Mirtul"
+slug: lucan-and-jasper-early-mirtul
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Vessuvian"
+  - "Alexandus"
+  - "Charrah"
+  - "Invictus"
+  - "Mortimer"
+  - "Nemia"
+  - "Onyx"
+  - "Will"
+  - "Masra"
+locations:
+  - "Dagger Falls"
+  - "Thistle Ridge"
+  - "Greenwood Farm"
+  - "Charity"
+  - "Liberty Hill"
+  - "Saerloon"
+tags: []
+---
 +------------+-------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Date       | Jasper                                                                                          | Lucan                                                                                                                                                             |
 +============+=================================================================================================+===================================================================================================================================================================+

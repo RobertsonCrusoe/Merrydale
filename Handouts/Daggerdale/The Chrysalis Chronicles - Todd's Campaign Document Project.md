@@ -1,3 +1,24 @@
+---
+title: "The Chrysalis Chronicles - Todd's Campaign Document Project"
+slug: the-chrysalis-chronicles-todd-s-campaign-document-project
+type: lore
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: todd
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 The Chrysalis Chronicles - Todd's Campaign Document Project
 by Todd Burry
 Email threads: "The Chrysalis Chronicles" (20-21 Dec 2023) and "Chrysalis Chronicles has been updated" (4-10 Feb 2024)

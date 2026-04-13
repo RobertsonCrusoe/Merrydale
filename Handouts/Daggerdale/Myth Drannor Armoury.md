@@ -1,3 +1,25 @@
+---
+title: "Myth Drannor Armoury"
+slug: myth-drannor-armoury
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Aegis"
+locations: []
+tags: []
+---
 Goods available in Kythorn, 1480 DR.
 
 A character wishing to buy from this list must first pass the skill challenge detailed here

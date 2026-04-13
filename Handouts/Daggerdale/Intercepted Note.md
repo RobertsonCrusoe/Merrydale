@@ -1,3 +1,28 @@
+---
+title: "Intercepted Note"
+slug: intercepted-note
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jafar"
+  - "Durnax Vorn"
+  - "Zelbross"
+locations:
+  - "Yulash"
+tags: []
+---
 A note from Thagdul to Jafar, intercepted in Zelbross by Durnax Vorn.
 thumb
 

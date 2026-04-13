@@ -1,3 +1,28 @@
+---
+title: "Artagan and Ciratto Conversing"
+slug: artagan-and-ciratto-conversing
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Ciratto"
+  - "Dolebrund"
+  - "Bigglesby"
+locations:
+  - "Loudwater"
+tags: []
+---
 [PC Attribution: Artagan Fairbreen (Les Blackwell)]
 It is only noon hour on the 9th of Tarsakh, 1480 DR, but as the door to a small room on the upper floor of the Green Tankard Inn in Loudwater opens up, it admits two men who look as though they have been up all night.
 

@@ -1,3 +1,33 @@
+---
+title: "Into Cormanthor - Greenwood Farm"
+slug: into-cormanthor-greenwood-farm
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "26 Ches 1483 DR"
+date_ic_sort: 1483087
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Mortimer"
+  - "Brendle Vale"
+locations:
+  - "Cormanthor"
+  - "Thistle Ridge"
+  - "Greenwood Farm"
+  - "Dagger Falls"
+  - "Dagger Hills"
+  - "Tesh Valley"
+tags:
+  - "military"
+---
 26 Ches – Into Cormanthor!
 By 10 AM you set out from the village of Gribbons’ Farm, escorted by Lt. Maddy Riverstone,
 and 12 of her Sun Blades.

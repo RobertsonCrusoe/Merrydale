@@ -1,3 +1,31 @@
+---
+title: "Kethoth's Journal_ Saharelgard (Part 2 - Rivals)"
+slug: kethoth-s-journal-saharelgard-part-2-rivals
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Kethoth"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "kethoths-journal"
+order: 20
+characters:
+  - "Baird"
+  - "Ailyan"
+  - "Kossur"
+  - "Kuryon"
+  - "Saharel"
+locations:
+  - "Waterdeep"
+  - "Loudwater"
+tags: []
+---
 [PC Attribution: Chadrazzan Kossur (Les Blackwell)]
 Significant Entries from the Journal of Chadrazzan Kossur...
 ----

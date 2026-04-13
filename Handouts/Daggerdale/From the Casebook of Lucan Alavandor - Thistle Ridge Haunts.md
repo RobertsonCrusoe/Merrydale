@@ -1,3 +1,36 @@
+---
+title: "From the Casebook of Lucan Alavandor - Thistle Ridge Haunts"
+slug: from-the-casebook-of-lucan-alavandor-thistle-ridge-haunts
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Lilac Alavandor"
+  - "Poppy Sweetberry"
+  - "Nemia"
+  - "Tergus Clarandal"
+  - "Calix"
+  - "Lucan Alavandor"
+  - "Andarl Alavandor"
+  - "Contessa Palus"
+  - "Mumfrey"
+  - "Zoderick Winters"
+locations:
+  - "Thistle Ridge"
+  - "Castle Radiance"
+tags: []
+---
 From the Casebooks of Lucan Alavandor
 Notes on Paranormal Happenings at Thistle Ridge
 Nature of the Haunting

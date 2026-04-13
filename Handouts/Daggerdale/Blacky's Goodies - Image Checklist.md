@@ -1,3 +1,34 @@
+---
+title: "Blacky's Goodies - Image Checklist"
+slug: blacky-s-goodies-image-checklist
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alt Kor"
+  - "Jafar"
+  - "Steele"
+  - "Oberon"
+  - "Janus"
+  - "Maturin Horgath"
+  - "Will"
+  - "Yarkul"
+  - "Zelbross"
+locations:
+  - "Note to the Tower"
+tags: []
+---
 34  48  Xvimite Ritual.JPG
 Map of Undermountain 2.JPG
 34  Map of Undermountain 1.JPG

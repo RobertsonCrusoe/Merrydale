@@ -1,3 +1,36 @@
+---
+title: "My Surprise Visit to Greenwood Farm - Extended"
+slug: my-surprise-visit-to-greenwood-farm-extended
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "29 Tarsakh 1483 DR"
+date_ic_sort: 1483120
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Invictus"
+  - "Bella Birtch"
+  - "Dexter Broad"
+  - "Hannah Hillborn"
+  - "Zoderick Winters"
+locations:
+  - "Thistle Ridge"
+  - "East Gate"
+  - "Greenwood Farm"
+  - "Charity"
+  - "Cormanthor"
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 [Source: 20 Tarsakh 1483 DR -Thistle Ridge Expeditionary Record.txt, lines 21+]
 
 29 Tarsakh, 1483 DR  My Surprise Visit to Greenwood Farm & Ovetchkins Warnings 

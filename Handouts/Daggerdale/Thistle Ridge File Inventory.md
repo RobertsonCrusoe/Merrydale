@@ -1,3 +1,24 @@
+---
+title: "Thistle Ridge File Inventory"
+slug: thistle-ridge-file-inventory
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 Daggerdale Chronicle - Split Files
 Total files: 104
 ================================================================================

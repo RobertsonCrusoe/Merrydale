@@ -1,3 +1,41 @@
+---
+title: "1482 DR - Current State of the White Cloaks"
+slug: 1482-dr-current-state-of-the-white-cloaks
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1482 DR"
+date_ic_sort: 1482001
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alystair Dretch"
+  - "Banitt Harbaugh"
+  - "Guggenheim Thorbardson"
+  - "Hasting Blackmane"
+  - "Iolus Warburton"
+  - "Lumina Whitegate"
+  - "Vanion Creed"
+  - "Hennigan Paros"
+  - "Luminous Whitegate"
+locations:
+  - "Charity"
+  - "Tethyamar"
+  - "Castle Radiance"
+  - "Liberty Hill"
+  - "Waterdeep"
+  - "Charity Hills Farm"
+  - "Shadowdale"
+tags:
+  - "military"
+---
 DDC – 1482 – 1: Current State of the White Cloaks 
 An inventory of licenses, team members and real estate held by the famous heroes of Daggerdale. 
 GFD Notes: 

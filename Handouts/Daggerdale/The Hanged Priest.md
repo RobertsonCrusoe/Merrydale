@@ -1,3 +1,27 @@
+---
+title: "The Hanged Priest"
+slug: the-hanged-priest
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alen Reks"
+  - "Vanion Creed"
+locations:
+  - "Castle Radiance"
+tags: []
+---
 \"I'm telling you you've got the wrong man!\"
 
 \"You are not Father Gamlen, you wretched imposter!\"

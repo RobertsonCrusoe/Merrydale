@@ -1,3 +1,39 @@
+---
+title: "Waterdeep News - The Unjust Rule"
+slug: waterdeep-news-the-unjust-rule
+type: session
+campaign: daggerdale
+voice: ooc
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Veritas"
+  - "Janus"
+  - "Athosar"
+  - "Grendel"
+  - "Grendel"
+  - "Horus"
+  - "Ewen Lethgedger"
+  - "Ghentilara"
+  - "Richter"
+  - "Romulus"
+  - "Skelmar"
+  - "Khelben Arunsun"
+  - "Tuugan Grocheck"
+  - "Unthril Zond"
+locations:
+  - "Waterdeep"
+tags: []
+---
 [RAW - UNEDITED AND UNREVIEWED - extracted by automated process, not yet verified for accuracy or completeness]
 
 "The Unjust Rule ofthe Assassin-Lord Dynasty of Waterdeep"

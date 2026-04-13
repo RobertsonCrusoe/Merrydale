@@ -1,3 +1,31 @@
+---
+title: "Red Herrings - Chapter 4 - 1 - Return to Neverwinter - Dear Troublesome Travellers"
+slug: red-herrings-chapter-4-1-return-to-neverwinter-dear-troublesome-travellers
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Ezmail"
+  - "Gaskar"
+  - "Gildon"
+  - "Onyx"
+  - "Pelinder Filmarya"
+  - "Ryerson"
+locations:
+  - "Waterdeep"
+tags: []
+---
 ?;k!
 Dear Troublesome Travellers;
 My apologies for the complicated and trying events of yesterday.  All of our tempers were not held properly in check, and I suspect this was mostly due to the efforts of some evil enchanter.
@@ -23,10 +51,8 @@ Lots 4, 6, 8, 10, 12
 Irlingstar Warehouse (NW) #2
 Lots 1,2,3,4,5,6,11,13,15,19
 Emuldan
-everything that
-s left
-2)	Transfer Emuldan
-s bullion to the Moonwheel Warehouse
+everything that's left
+2)	Transfer Emuldan's bullion to the Moonwheel Warehouse
 3)	Meet The Eye north of Castle Haerytar on the 4th of Kythorn.
 This does not give you much time, but Malkor is worried about something.  That worrisome old mage.
 Ryerson
@@ -60,8 +86,7 @@ $5XT
 g~+[
 4"Rr!D9
 3bU)Q1
-s.W]o
-s!D9
+s.W]o's!D9
 ztU
 p[t$:
 c1g?
@@ -199,8 +224,7 @@ Y,<7
 zqTf
 [=jl,
 Vtz$
-cgs1u
-m={7(
+cgs1u'm={7(
 IEND
 Dear Troublesome Travellers;
 Stephen Robertson

@@ -1,3 +1,26 @@
+---
+title: "Lucan's Argument - The Ancient Convention of Battle's Finality"
+slug: lucan-s-argument-the-ancient-convention-of-battle-s-finality
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Thistle Ridge"
+tags:
+  - "military"
+---
 Lucan's Argument — The Ancient Convention of Battle's Finality
 Stephen Robertson (as Lucan) and Todd Burry (as Ser Rowan/Mari)
 Email thread: "Lucan's argument", 25-26 Apr 2024

@@ -1,3 +1,26 @@
+---
+title: "Council of Silver"
+slug: council-of-silver
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Tezster Gellinson"
+locations:
+  - "Tethyamar"
+tags: []
+---
 right|450px
 The Council of Silver is a collection of 12 dwarven elders that are the ruling body in Tethyamar. Given the nature of the conflict between the two Gellinson brothers over who should be King in Tethyamar, the Council has taken command of the city, such as it is, until such time as one brother or the other manages to seat himself on the throne.  
 

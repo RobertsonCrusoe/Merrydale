@@ -1,3 +1,10 @@
+---
+title: "Counter Intelligence of Deadnettle"
+slug: counter-intelligence-of-deadnettle
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 (Game Mechanics; a Fail result from the info-gathering skill challenge)
 
 Sorashana and Rhuun spoke to 'Corporal Wicks’ (really, Deadnettle in a magical disguise);

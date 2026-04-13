@@ -1,3 +1,10 @@
+---
+title: "Kethoth's Journal_ The Netherese Crypts"
+slug: kethoth-s-journal-the-netherese-crypts
+type: stub
+campaign: wastrel
+subtype: npc
+---
 [PC Attribution: Chadrazzan Kossur (Les Blackwell)]
 Below, we found a network of Netherese Crypts that held a variety of undead threats that we were able to destroy with little difficulty. One room had some zombies with wings that detonated with great satisfaction when I engaged them. After clearing these creatures out, we uncovered some small amount of treasure, and most notably, a beautiful magic Orb of some small power that I will certainly find useful. The Orb is called an Orb of Debilitating Langour, and it is an old Netherese thing that will be most useful in maintaining some of my debilitating spells.
 

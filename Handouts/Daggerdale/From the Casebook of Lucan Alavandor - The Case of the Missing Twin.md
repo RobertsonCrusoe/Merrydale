@@ -1,3 +1,32 @@
+---
+title: "From the Casebook of Lucan Alavandor - The Case of the Missing Twin"
+slug: from-the-casebook-of-lucan-alavandor-the-case-of-the-missing-twin
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Quercina"
+  - "Lucan Alavandor"
+  - "Abrecia"
+  - "Contessa Palus"
+  - "Invictus"
+locations:
+  - "Thistle Ridge"
+  - "Saerloon"
+tags:
+  - "military"
+---
 From the Casebook of Lucan Alavandor: The Case of the Missing Twin
 Date: 7 May 2025
 From: Stephen Robertson

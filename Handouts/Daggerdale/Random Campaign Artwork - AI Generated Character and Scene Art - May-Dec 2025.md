@@ -1,3 +1,29 @@
+---
+title: "Random Campaign Artwork - AI Generated Character and Scene Art - May-Dec 2025"
+slug: random-campaign-artwork-ai-generated-character-and-scene-art-may-dec-2025
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Charrah"
+  - "Masra"
+  - "Jasper Hawkford"
+  - "Abbot Ambershields"
+  - "Forge Farmountain"
+locations: []
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

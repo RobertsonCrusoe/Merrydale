@@ -1,3 +1,32 @@
+---
+title: "Letter to Malveau Greenleaf - Jasper Offers Employment"
+slug: letter-to-malveau-greenleaf-jasper-offers-employment
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Malveau Greenleaf"
+  - "Jasper Hawkford"
+  - "Vessuvian"
+locations:
+  - "Thistle Ridge"
+  - "Cormanthor"
+  - "Greenwood Farm"
+  - "Thistle Ridge Farm"
+tags:
+  - "military"
+---
 Letter to Malveau Greenleaf - Jasper Offers Employment
 by Gus Miranda (as Jasper Hawkford)
 Email thread: "Letter to Malveau Greenleaf", 19-27 Jan 2025

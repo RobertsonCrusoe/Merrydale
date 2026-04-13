@@ -1,3 +1,28 @@
+---
+title: "Agamemnon's Letter to Beljuril"
+slug: agamemnon-s-letter-to-beljuril
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Agamemnon"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Beljuril"
+  - "Steele"
+  - "Grimwald"
+  - "Agamemnon"
+locations: []
+tags: []
+---
 Sent by Agamemnon to Beljuril, dated 9 Mirtul, 1372
 
 Brother Beljuril;

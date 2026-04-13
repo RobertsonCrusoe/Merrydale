@@ -1,3 +1,37 @@
+---
+title: "Hey Investigator - Todd's Background Hooks and the Old Wiki"
+slug: hey-investigator-todd-s-background-hooks-and-the-old-wiki
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Garth Shanks"
+  - "Sal Worthingham"
+  - "Jafar"
+  - "Luminous Whitegate"
+  - "Decker Blackmane"
+  - "Beljuril"
+  - "Esperel"
+locations:
+  - "Tethyamar"
+  - "Castle Daggerdale"
+  - "Castle Radiance"
+  - "Loedegan's Hall"
+  - "Tesh Valley"
+tags:
+  - "military"
+---
 [Editorial note (2026-04-11): One reference to "Castle Daggerdale" in the condensed opening-narrative excerpt below has been corrected to "Castle Radiance." The original wiki/email text used "Castle Daggerdale" for Luminous Whitegate's title; this clearly refers to Castle Radiance, where the scene takes place. See Archive Search Report - Castle Daggerdale.md.]
 
 Hey Investigator! — Todd's Background Hooks and the Old Wiki

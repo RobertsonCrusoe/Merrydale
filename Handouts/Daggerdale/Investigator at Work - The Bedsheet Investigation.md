@@ -1,3 +1,45 @@
+---
+title: "Investigator at Work - The Bedsheet Investigation"
+slug: investigator-at-work-the-bedsheet-investigation
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Vessuvian"
+  - "Abrecia"
+  - "Aisling Maeliticus"
+  - "Nemia"
+  - "Blaze Whitegate"
+  - "Lily Clarandal"
+  - "Saralla Sakurth"
+  - "Lucan Alavandor"
+  - "Andarl Alavandor"
+  - "Claudius Clarandal"
+  - "Invictus"
+  - "Lilac Alavandor"
+  - "Mumfrey"
+  - "Senthia Alavandor"
+  - "Tergus Clarandal"
+  - "Xerces Alavaxi"
+locations:
+  - "Thistle Ridge"
+  - "Sembia"
+  - "Saerloon"
+  - "Yellow Abbey"
+  - "Dagger Falls"
+tags: []
+---
 Investigator at Work - The Bedsheet Investigation
 by Stephen Robertson (as Lucan) and Gus Miranda (as Jasper)
 15-25 Aug 2024

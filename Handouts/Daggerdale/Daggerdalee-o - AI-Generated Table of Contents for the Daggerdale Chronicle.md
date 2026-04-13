@@ -1,3 +1,24 @@
+---
+title: "Daggerdalee-o - AI-Generated Table of Contents for the Daggerdale Chronicle"
+slug: daggerdalee-o-ai-generated-table-of-contents-for-the-daggerdale-chronicle
+type: lore
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 Daggerdalee-o — AI-Generated Table of Contents for the Daggerdale Chronicle
 Stephen Robertson and Les Blackwell (DM)
 Email thread: "Daggerdalee-o", 19 Jan 2026

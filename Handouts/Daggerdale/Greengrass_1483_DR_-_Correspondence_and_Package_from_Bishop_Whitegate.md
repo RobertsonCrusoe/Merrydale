@@ -1,3 +1,29 @@
+---
+title: "Greengrass_1483_DR_-_Correspondence_and_Package_from_Bishop_Whitegate"
+slug: greengrass-1483-dr-correspondence-and-package-from-bishop-whitegate
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Invictus"
+  - "Dolebrund"
+locations:
+  - "Dagger Falls"
+  - "Saerloon"
+tags:
+  - "military"
+---
 [Source: Greengrass Correspondence and Packages, 1483 DR.docx]
 
 Greengrass, 1483 DR - Correspondence and Package from Bishop Whitegate

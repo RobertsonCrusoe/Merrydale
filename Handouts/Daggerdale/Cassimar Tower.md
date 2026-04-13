@@ -1,3 +1,32 @@
+---
+title: "Cassimar Tower"
+slug: cassimar-tower
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Cassimar"
+  - "Boregar"
+  - "Dorian Dale"
+  - "Drake"
+locations:
+  - "Cassimar Tower"
+  - "Dagger Falls"
+  - "Liberty Hill"
+  - "Sembia"
+tags: []
+---
 Cassimar Tower
 DM Handout (Les Blackwell)
 

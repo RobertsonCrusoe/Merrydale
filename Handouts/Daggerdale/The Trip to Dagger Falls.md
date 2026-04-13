@@ -1,3 +1,30 @@
+---
+title: "The Trip to Dagger Falls"
+slug: the-trip-to-dagger-falls
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Rhuun"
+  - "Helm Thunderstorm"
+  - "Mr. Bollinger"
+  - "Lotus"
+locations:
+  - "Dagger Falls"
+  - "Castle Radiance"
+tags: []
+---
 Narrative of the trip from Castle Radiance to Dagger Falls, in early Mirtul, 1480 DR;
 
 == 1 Mirtul ==

@@ -1,3 +1,29 @@
+---
+title: "The Pilgrim's Fury"
+slug: the-pilgrim-s-fury
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Iolus Warburton"
+  - "Banitt Harbaugh"
+  - "Lumina Whitegate"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 ==Banitt's Perspective==
 
 Banitt had his own feelings about the way that the Deadnettle Affair played out, much opposed to those of Sergeant Warburton.

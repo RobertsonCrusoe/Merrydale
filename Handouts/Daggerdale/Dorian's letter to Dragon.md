@@ -1,3 +1,28 @@
+---
+title: "Dorian's letter to Dragon"
+slug: dorian-s-letter-to-dragon
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Waterdeep"
+  - "Dagger Falls"
+  - "Sembia"
+  - "Shadowdale"
+tags: []
+---
 [PC Attribution: Dorian of Sembia (Gus Miranda)]
 # Dorian's letter to Dragon
 # Source: The Sieges Perilous wiki (backup dated 2010-02-21)

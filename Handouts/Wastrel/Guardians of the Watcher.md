@@ -1,3 +1,25 @@
+---
+title: "Guardians of the Watcher"
+slug: guardians-of-the-watcher
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Waterdeep"
+tags: []
+---
 == Beyond Blackmantle ==
 
 Commanded by its small but able crew, the Wastrel broke through to the Nagaflow River on the eastern end of the Lake of Steam.

@@ -1,3 +1,30 @@
+---
+title: "Fresh Meat for Castle Radiance"
+slug: fresh-meat-for-castle-radiance
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Bargle Battamond"
+locations:
+  - "Dagger Falls"
+  - "Quick Axes"
+  - "Castle Radiance"
+  - "Tethyamar"
+  - "Tethyamar Hearth Inn"
+tags: []
+---
 The springtime is a hectic time to find oneself trying to get into Castle Radiance.  If you thought the questions at the gates of Dagger Falls were intrusive, you find this round of questioning assaulting.  And protracted.  And intense.  It takes hours to get into the Castle, and there are only about a quarter the number of men in this train as you came to Dagger Falls with.  In the end you are granted admittance, and told to secure proper lodgings immediately.
 
 Entering the Castle, you find a place even more ordered than the town.  The Outer Bailey has a cobbled surface that looks like it was cut by the most exacting of Dwarven masons, and there isn’t so much as a bit of dirt between the cracks, much less the usual mounds of horse droppings and other detritus you would expect in any castle court yard.

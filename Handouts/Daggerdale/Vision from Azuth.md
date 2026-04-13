@@ -1,3 +1,29 @@
+---
+title: "Vision from Azuth"
+slug: vision-from-azuth
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jafar"
+  - "Beljuril"
+  - "Esperel"
+  - "Zaltim"
+locations: []
+tags:
+  - "military"
+---
 A vision dreamed by Beljuril amidst the events of Harvestide, 1371
 ----
 

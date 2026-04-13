@@ -1,3 +1,31 @@
+---
+title: "Magnus Zane"
+slug: magnus-zane
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Janus"
+  - "Magnus Zane"
+  - "Ilyaska Konig"
+  - "Maeghuen Grimbold"
+  - "Synsyrillio Miritar"
+locations:
+  - "Loudwater"
+tags: []
+deceased: true
+---
 Magnus Zane has just celebrated his twentieth year but is currently the sergeant in charge of the North-West region patrol, commonly referred to as the Grey Patrol.
 
 Not particularly the most creative of names but given due to the time the patrol spends amidst the ruins of Castle Loudwater.

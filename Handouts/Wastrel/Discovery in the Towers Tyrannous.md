@@ -1,3 +1,25 @@
+---
+title: "Discovery in the Towers Tyrannous"
+slug: discovery-in-the-towers-tyrannous
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Waterdeep"
+tags: []
+---
 You found the staff in a secret compartment at the back of a \"wardrobe\" off of one lone hallway in the dungeon. The wardrobe was filled with robes and large brimmed hats.
 
 In an austere room that appeared to be living quarters with the only thing standing out was a particularly ornate, and exquisitely built and carved writing desk, the party found an unsealed letter from a wizard by the name of Tarukaja. It was Radha who remembered from growing up in Waterdeep that Tarukaja was also known as the \"Iron Soul\". Tarukaja appears to be the one that created the crystal staff.

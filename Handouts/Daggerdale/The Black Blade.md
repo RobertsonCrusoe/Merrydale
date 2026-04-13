@@ -1,3 +1,26 @@
+---
+title: "The Black Blade"
+slug: the-black-blade
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Gaebril Tremalkin"
+  - "Mendel Krioy"
+locations: []
+tags: []
+---
 Information collected by Mendel Krioy, eighth of The Monastery of Sundered Faiths in 1441 DR
 
 thumb

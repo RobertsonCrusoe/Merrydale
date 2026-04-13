@@ -1,3 +1,28 @@
+---
+title: "Selected Entries from the Journal of Aisling Maeliticus - Discussion Thread - Jun 2025"
+slug: selected-entries-from-the-journal-of-aisling-maeliticus-discussion-thread-jun-2025
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Aisling Maeliticus"
+  - "Contessa Palus"
+  - "Quercina"
+locations:
+  - "Thistle Ridge"
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

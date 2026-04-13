@@ -1,3 +1,10 @@
+---
+title: "Niidross Hyperia"
+slug: niidross-hyperia
+type: stub
+campaign: wastrel
+subtype: npc
+---
 Ambassador Hyperia is a learned and well-spoken eladrin hailing from Myth Drannor. He was sent by Coronal Ilsevele Miritar in the hopes to find the trail of her wayward cousin, Aryaluystrinne Miritar; a princess of the royal court of Mithrendain. 
 
 Ambassador Hyperia seems out of sorts in the Gray Vale. It seems that for being an ambassador, his ability to speak with individuals is limited despite his ability to speak more languages than most folk have fingers. Although on a mission for Coronal Miritar, it seems the excitement and pride over being given such a task has waned and now, with limited options and opportunities to complete the mission given him, he is often melancholy and without much hope.

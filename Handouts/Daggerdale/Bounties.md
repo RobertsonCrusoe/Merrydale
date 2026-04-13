@@ -1,3 +1,28 @@
+---
+title: "Bounties"
+slug: bounties
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Dorian Dale"
+locations:
+  - "Castle Radiance"
+  - "Loedegan's Hall"
+  - "Tethyamar"
+tags: []
+---
 # Bounties
 # Source: The Sieges Perilous wiki (backup dated 2010-02-21)
 

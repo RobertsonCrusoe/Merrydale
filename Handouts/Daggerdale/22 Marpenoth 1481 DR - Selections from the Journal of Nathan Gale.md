@@ -1,3 +1,28 @@
+---
+title: "Selections from the Journal of Nathan Gale"
+slug: selections-from-the-journal-of-nathan-gale
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "22 Marpenoth 1481 DR"
+date_ic_sort: 1481297
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Nathan Gale"
+  - "Gideon"
+locations:
+  - "Dagger Falls"
+  - "Charity"
+tags: []
+---
 DDC – 1481 – 16: Selections from the Journal of Nathan Gale 
 22 Marpenoth, 1481 - Journal of Nathan Gale 
 

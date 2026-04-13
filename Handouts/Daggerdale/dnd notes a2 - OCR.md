@@ -1,13 +1,38 @@
 ---
-Provenance: OCR transcription of "dnd notes a2.pdf" (13 pages, typed two-column layout)
-Source: DND Scanned Notes / OneDrive DND Scans
-Campaign: Daggerdale (Waterdeep arc — "The Unjust Rule of the Assassin-Lord Dynasty of Waterdeep")
-Date processed: 2026-04-03
-Utility: C (redundant — content matches "The Unjust Rule of the Assassin Lords of Waterdeep.txt" in Daggerdale archive)
-
-Archive counterparts: The Unjust Rule of the Assassin Lords of Waterdeep.txt, Waterdeep News - The Unjust Rule [unprocessed notes].txt
-
-OCR notes: Two-column layout caused some reading-order issues in OCR. Minor artifacts corrected.
+title: "dnd notes a2"
+slug: dnd-notes-a2
+type: narrative
+campaign: daggerdale
+voice: ic
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Veritas"
+  - "Janus"
+  - "Athosar"
+  - "Grendel"
+  - "Grendel"
+  - "Horus"
+  - "Ewen Lethgedger"
+  - "Ghentilara"
+  - "Richter"
+  - "Romulus"
+  - "Skelmar"
+  - "Khelben Arunsun"
+  - "Tuugan Grocheck"
+  - "Unthril Zond"
+locations:
+  - "Waterdeep"
+tags: []
 ---
 
 “The Unjust Rule of the Assassin-Lord Dynasty of Waterdeep”

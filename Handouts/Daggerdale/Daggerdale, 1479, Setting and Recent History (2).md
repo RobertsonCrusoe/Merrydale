@@ -1,3 +1,38 @@
+---
+title: "Daggerdale, 1479, Setting and Recent History (2)"
+slug: daggerdale-1479-setting-and-recent-history-2
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Rewel Thunderstorm"
+  - "Ailyan"
+  - "Ardelusk Whitegate"
+  - "Argent Whitegate"
+  - "William Cormaeril"
+  - "Luminous Whitegate"
+locations:
+  - "Castle Radiance"
+  - "Dagger Falls"
+  - "Cormanthor"
+  - "Morning Star Cathedral"
+  - "Sembia"
+  - "Tethyamar"
+  - "Dagger Hills"
+  - "Shadowdale"
+tags: []
+---
 # Daggerdale, 1479, Setting and Recent History
 # Source: The Sieges Perilous wiki (backup dated 2010-02-21)
 

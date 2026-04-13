@@ -1,3 +1,37 @@
+---
+title: "Tournament Round 1 Flags and Mountain - Chrysalis v White C 2"
+slug: tournament-round-1-flags-and-mountain-chrysalis-v-white-c-2
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "20 Ches 1483 DR"
+date_ic_sort: 1483081
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alexandus"
+  - "Horus"
+  - "Jasper Hawkford"
+  - "Lucan Alavandor"
+  - "Kionin"
+  - "Rowan Grumbold"
+  - "Zelia Oakbough"
+  - "Ambassador Whitmore"
+locations:
+  - "Dagger Falls"
+  - "Shadowdale"
+  - "East Gate"
+  - "Tesh Valley"
+tags:
+  - "military"
+---
 20 Ches, 1483 DR – Tournament Round 1 – Flags and Mountain - Chrysalis v. White Cloaks 
 
 The day starts of crisp and cool, with a dusting of late snow drifting through the air, but not really accumulating.  It is just around freezing this morning, but the day promises to be warm and pleasant.  Like every other day in Dagger Falls, the day is welcomed by the bells of the Cathedral, which chime at 6 bells of the morning, and again as the first ray of morning sun breaks over the eastern horizon an hour later, calling the Amaunatori to prayer.  By this time, many of the faithful are making their way to the Cathedral, while others observe in their own fashion, from their east-facing windows or balconies, some simply facing east in the street, and letting the sun wash over them. 

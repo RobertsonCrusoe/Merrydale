@@ -1,3 +1,35 @@
+---
+title: "Warburton's Journal - The Dark Garden"
+slug: warburton-s-journal-the-dark-garden
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Warburton"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Rhuun"
+  - "Sorashana"
+  - "Drake"
+  - "Ardelusk Whitegate"
+  - "Banitt Harbaugh"
+  - "Drake Sterling"
+  - "Iolus Warburton"
+locations:
+  - "Dagger Falls"
+  - "Castle Radiance"
+  - "Tesh Valley"
+tags:
+  - "military"
+---
 ==The Warburton Perspective==
 
 I have recently returned from a mission that was tasked to me by Lumina and those above her. Whereas I had some misgivings about being selected as the leader for the given assignment as well as those assigned to me; what transpired over the last handful of days has changed my perspective in a number of ways.

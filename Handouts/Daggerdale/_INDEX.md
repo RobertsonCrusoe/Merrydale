@@ -1,3 +1,54 @@
+---
+title: "_INDEX"
+slug: index
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Lucan Alavandor"
+  - "Jasper Hawkford"
+  - "Vessuvian"
+  - "Charrah"
+  - "Mumfrey"
+  - "Phoebe Birchgrove"
+  - "Alystair Dretch"
+  - "Cassimar"
+  - "Mortimer"
+  - "Khara Sulwood"
+  - "Nathan Gale"
+  - "Reginald Boxfray"
+  - "Zelia Oakbough"
+  - "Abbot Ambershields"
+  - "Ailyan"
+  - "Aisling Maeliticus"
+  - "Alen Reks"
+  - "Alexandus"
+  - "Garth Shanks"
+  - "Lobelia Alavandor"
+locations:
+  - "Thistle Ridge"
+  - "Greenwood Farm"
+  - "Dagger Falls"
+  - "Tethyamar"
+  - "Waterdeep"
+  - "Castle Radiance"
+  - "Charity"
+  - "Cormanthor"
+  - "Gribbons Farm"
+  - "Saerloon"
+tags: []
+---
 CAMPAIGN HANDOUTS — MASTER INDEX
 ============================================================
 Last updated: 31 March 2026

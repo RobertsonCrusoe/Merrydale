@@ -1,3 +1,27 @@
+---
+title: "Change of Shift - Kythorn 12"
+slug: change-of-shift-kythorn-12
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Kethoth Sepret"
+  - "Saharel"
+locations: []
+tags:
+  - "military"
+---
 As Radha and Kethoth are about to spell off Volund and Tyriol for watch, outside the doors to the Nexus, the tiefling approaches Volund as he is organizing his gear.
 
 \"Mr. Heimdall! It has been a while since we discussed your plans. With the army of the Hand of doom waylaid and probably sundered, the Monastery free of the clutches of Huu’rom ak Murul, I wonder what you suppose your organization's position on mine will be. Do you suppose they feel that our obligations in these mountains are completely fulfilled?

@@ -1,3 +1,30 @@
+---
+title: "Situation Report - The Re-taking of Foot Hills Farm"
+slug: situation-report-the-re-taking-of-foot-hills-farm
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "13 Kythorn 1480 DR"
+date_ic_sort: 1480165
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Invictus"
+  - "Aegis"
+locations:
+  - "Liberty Hill"
+  - "Foot Hills Farm"
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 13 Kythorn, 1480 DR 
 GFD Notes: 
 Here we learn of the foul-tasting denouement to the story of the Dark Garden. This story at least is concluded, if others are not. Report graciously provided by Administrator Reks after quite a bit of drinking one night (it might have been two). 

@@ -1,3 +1,25 @@
+---
+title: "Raidfest in Freeport 3_ The Ship"
+slug: raidfest-in-freeport-3-the-ship
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Lendon"
+locations: []
+tags: []
+---
 == The Ship as She Lies ==
 
 The hull is just over 80 feet in length with keel cutting a smooth profile in the water similar to the body of the small sprats that swim these warm waters.

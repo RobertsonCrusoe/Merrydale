@@ -1,3 +1,24 @@
+---
+title: "Volund talks to the Oghmans"
+slug: volund-talks-to-the-oghmans
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 Volund was curious as to what these two Oghmans may know of the feywild and its demigods, so he approached the pair of them and crouched down beside them as they sat against the wall. Looking first to the human, but then addressing the dwarf, Kulda, he asks, \"I'm glad we got here when we could and we will do anything we can to help any survivors in the temple above. I was wondering if one inquiring mind could beg the pardon of another, so that I might ask you a few questions?\"
 
 He continues as they merely return a tired nod, \"What is your, um, field of interest? What kinds of research or studies do you do, or keep, in your libraries?\"

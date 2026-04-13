@@ -1,3 +1,30 @@
+---
+title: "A Reunion"
+slug: a-reunion
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Grandfather"
+  - "Kennyth Thames"
+  - "Khelben Arunsun"
+  - "Rychel Voordan"
+  - "Beljuril"
+locations:
+  - "Waterdeep"
+tags: []
+---
 == Late Tarsakh, 1373, Rassalantar ==
 
 Sure enough, on the 29th, a storm blew all night that kept half the citizens of the village awake all night. It was known that the [[Eastern Storm]] was coming, and it was rumoured that the two men staying at the Inn were waiting for them.

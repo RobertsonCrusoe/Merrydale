@@ -1,3 +1,28 @@
+---
+title: "Report from Helm Thunderstorm on the Cleansing of Foothills Farm"
+slug: report-from-helm-thunderstorm-on-the-cleansing-of-foothills-farm
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Helm Thunderstorm"
+source: handout
+date_ic: "17 Marpenoth 1481 DR"
+date_ic_sort: 1481292
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alystair Dretch"
+  - "Helm Thunderstorm"
+locations:
+  - "Dagger Falls"
+  - "Tethyamar"
+tags: []
+---
 DDC – 1481 – 18: Report from Helm Thunderstorm, Foothills Farm, on the Cleansing of the Sons of Bel from that Settlement 
 17 Marpenoth, 1481. Report sent from Magistrate Thunderstorm to Bishop Whitegate, summarizing the eradication of the Sons of Bel in Foothills Farm. 
 GFD Notes: 

@@ -1,3 +1,27 @@
+---
+title: "Moonwheel Note"
+slug: moonwheel-note
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Gilth'zan"
+  - "Malkor Githeas"
+  - "Xulla"
+locations: []
+tags: []
+---
 A note found in the Moonwheel Warehouse, apparently from the Beholder Xulla to Malkor Githeas.
 
 Malkor;

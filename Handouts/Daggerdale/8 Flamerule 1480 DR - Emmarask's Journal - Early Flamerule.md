@@ -1,3 +1,32 @@
+---
+title: "Emmarask's Journal - Early Flamerule"
+slug: emmarask-s-journal-early-flamerule
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Emmarask"
+source: handout
+date_ic: "8 Flamerule 1480 DR"
+date_ic_sort: 1480190
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Reynard"
+  - "Will"
+  - "Beliard Emmarask"
+locations:
+  - "Castle Radiance"
+  - "Dagger Falls"
+  - "Cormanthor"
+  - "Quick Axes"
+tags:
+  - "military"
+---
 From the journal of Beliard Emmarask
 ----
 

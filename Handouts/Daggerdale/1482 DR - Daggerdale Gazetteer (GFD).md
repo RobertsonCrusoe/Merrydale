@@ -1,3 +1,44 @@
+---
+title: "1482 DR - Daggerdale Gazetteer (GFD)"
+slug: 1482-dr-daggerdale-gazetteer-gfd
+type: lore
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1482 DR"
+date_ic_sort: 1482001
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Cassimar"
+  - "Will"
+  - "Argent Whitegate"
+  - "Blaze Whitegate"
+  - "Dauntless Thunderstorm"
+  - "Iolus Warburton"
+  - "Lobelia Alavandor"
+  - "Loki Mouvranesh"
+  - "William Cormaeril"
+  - "Luminous Whitegate"
+locations:
+  - "Dagger Falls"
+  - "Castle Radiance"
+  - "Cormanthor"
+  - "Yellow Abbey"
+  - "Charity"
+  - "Tethyamar"
+  - "Waterdeep"
+  - "Tesh Valley"
+  - "Dagger Falls Cathedral"
+  - "Hillsfar"
+tags: []
+---
 DC – 1482 – 3: Daggerdale Gazetteer 
 Being the only such document about the dale from Our Century. 
 GFD Notes: 

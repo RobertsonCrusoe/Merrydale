@@ -1,3 +1,24 @@
+---
+title: "Dwarven Pantheon"
+slug: dwarven-pantheon
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 right|450px|thumb|Clangeddinar relish battle and blood
 
 In post Spell-Plague Faerun, Moradin is the 'greater god' of the Dwarves, or \"The All-Father\".

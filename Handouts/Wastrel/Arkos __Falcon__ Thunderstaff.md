@@ -1,3 +1,29 @@
+---
+title: "Arkos Falcon Thunderstaff"
+slug: arkos-falcon-thunderstaff
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Arkos Thunderstaff"
+  - "Nathaniel Thorp"
+  - "Valgard"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 [PC Attribution: Arkos Thunderstaff (Les Blackwell)]
 Loved by the ladies, admired by the lords, few in Waterdeep haven't heard of the celebrated adventurer, brawler and gentleman entrepreneur, Arkos Thunderstaff, better known as Falcon.
 

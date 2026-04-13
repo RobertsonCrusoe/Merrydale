@@ -1,3 +1,32 @@
+---
+title: "Heres Most of It - Chapter 7 Sitrep and Player Theories - Jun 2025"
+slug: heres-most-of-it-chapter-7-sitrep-and-player-theories-jun-2025
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Charrah"
+  - "Tergus Clarandal"
+  - "Malveau Greenleaf"
+  - "Reginald Boxfray"
+  - "Masra"
+locations:
+  - "Thistle Ridge"
+  - "Dagger Falls"
+  - "Castle Radiance"
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

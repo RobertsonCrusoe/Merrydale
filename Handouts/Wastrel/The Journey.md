@@ -1,3 +1,10 @@
+---
+title: "The Journey"
+slug: the-journey
+type: stub
+campaign: wastrel
+subtype: npc
+---
 Information collected by Gritta Roaringhorne, priest of Oghma while studying in Candlekeep in 1314 DR, The Year of the Shadowtop
 
 thumb

@@ -1,3 +1,48 @@
+---
+title: "Red Herrings - Chapter 4 - 3 - Knife in the Dark - Waterdeep Mission"
+slug: red-herrings-chapter-4-3-knife-in-the-dark-waterdeep-mission
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Steele"
+  - "Esperel"
+  - "Vader"
+  - "Marcus"
+  - "Venom"
+  - "Agamemnon"
+  - "Ebola"
+  - "Gauntlet"
+  - "Jeryth Phaulkon"
+  - "Kogan"
+  - "Teskul"
+  - "Ailyan"
+  - "Aragorn Thickbrow"
+  - "Canton Belzuril"
+  - "Dantyr"
+  - "Dulland"
+  - "Ersgul Mlshool"
+  - "Feldon Azadand"
+  - "Gideon"
+  - "Gulidan"
+locations:
+  - "Waterdeep"
+  - "Hillsfar"
+  - "Inn of the Dripping Dagger"
+tags:
+  - "military"
+---
 Waterdeep Mission:
 Thwart the drow efforts to establish a trading company:
 Jafar
@@ -24,8 +69,7 @@ Heads to the Elfstone Tavern, embarrasses self
 Meets
 Sylvanus Starmelder
 at the Copper Cup tavern in the evening (actually Esperel)
-Esperel agrees to bankroll him for 1/3 of the take for any missions he
-s on.
+Esperel agrees to bankroll him for 1/3 of the take for any missions he's on.
 Mirtul 1
 Rhyester Tide (Waterdeep Holiday)
 Steele, Nero, Innish, Marcus and Lotharil join forces
@@ -36,8 +80,7 @@ Ruins of the Alael Tower
 Anteos Villa
 Dezlentyr Villa
 Umrusk Villa
-Serpentil
-s Folios, etc.
+Serpentil's Folios, etc.
 Apparently Jannaxil Serpentil has been missing for three weeks or so.
 Mirtul 2
 Information gathering at the Fields of Triumph
@@ -49,8 +92,7 @@ Dalael caravan hijacked by the Blades of Korombos
 Mirtul 4
 Steele hears from
 Bladetial
-that a Dalael caravan was waylaid and will be shipped from Dockward on the 7th of Mirtul.  Rune from Gideon
-s head was involved
+that a Dalael caravan was waylaid and will be shipped from Dockward on the 7th of Mirtul.  Rune from Gideon's head was involved
 Mirtul 5
 Nero discovered that a fight had occurred between what seemed to be drow and lycanthropes the other day
 
@@ -62,8 +104,7 @@ Mirtul 6
 0200
 fight on the docks
 Dalael Caravan going to ship on the
-Zulpair
-s Pride
+Zulpair's Pride
 , we ambush/fight with the drow
 Meet Marin Adara
 Lotharil
@@ -80,47 +121,38 @@ Nero investigates Margasters:
 Thentias Margaster has a daughter named Airlestar (involved with Dragon, somehow)
 
 Nero wants help hunting the drow, finds out about Mr. Lockheed, writes him a letter, leaves the note at
-Blethyr
-s Abacus (Northward)
+Blethyr's Abacus (Northward)
 elf clerk named Dantyr
 Mirtul 7
 blurry
 Mirtul 8
 luncheon with the new guy, Llianin, who buys us lunch.
-Lotharil decides to find a place to stay with Llianin that isn
-t an inn
+Lotharil decides to find a place to stay with Llianin that isn't an inn
 Mirtul 9
 day at the Font of Knowledge, Lotharil finds a book by Kennyth Thames
-Steele and Gregor may have been involved in Agamemnon
-s death/disappearance
+Steele and Gregor may have been involved in Agamemnon's death/disappearance
 Mirtul 10
-Nero
-s big date
+Nero's big date
 (with Mr. Lockheed? not sure
 no more luck at the Font
-head to the Unicorn
-s Horn, planning to raise a little hell
+head to the Unicorn's Horn, planning to raise a little hell
 Step out into an alley, and a drow is engaged and slain
 *mask
 *scarab
 *potion
 grey cloak, blue clothes, silver sash, silk body suit, hand crossbow
-10-11 AM no drow are seen in the front section of the Unicorn
-s Horn
+10-11 AM no drow are seen in the front section of the Unicorn's Horn
 Mirtul 11
 Llianin goes to find
 Dieter?
 Lotharil goes to find Nero
 Nero and Steele, etc. are involved in a fight at the Margaster Shipping Office
 Mirtul 12
-meeting with Kendal Throne at Felazure
-s Folly
+meeting with Kendal Throne at Felazure's Folly
 apparently, Nero has signed his merry band to work for Kendal Thorne and his Zhentish crew.  Steele appears unstable
 
-Nero arranges for a Carter to get the drow body to Gregor, who we hope will interrogate the drow.  Unfortunately, he won
-t be able to for two weeks.
-dinner at Felazure
-s, and a runner arrives with a letter from
+Nero arranges for a Carter to get the drow body to Gregor, who we hope will interrogate the drow.  Unfortunately, he won't be able to for two weeks.
+dinner at Felazure's, and a runner arrives with a letter from
 The Boss
 for Nero  We head to the office of Company Aldebaran.  Present are:
 Welland (Hillsfar, ledger-keeper)
@@ -137,25 +169,19 @@ Kendal lives at the Erlingstar Villa
 After the meeting, Llianin and Lotharil head for the Copper Cup
 Followed by Nero as a bumbling fop, trailed by someone else, trailed by Innish, who takes him out.
 We zero in on the commotion
-Magistrate Vader shows up, seems giddy with happiness, takes the body, and Nero gets us to tag along with Vader
-s group
+Magistrate Vader shows up, seems giddy with happiness, takes the body, and Nero gets us to tag along with Vader's group
 The body is Teskul
 Nero takes his knife
 Llianin vanishes and follows Vader to the building south of DW15 where Teskul is deposited.  Llianin suggests that the old thief turn over the body and forget the whole thing.  Unfortunately, she is soon mugged, and the body vanishes
 
 At the Copper Cup, Lotharil lets Esperel know that he is suspected by Steele and Nero of dealing with the drow, and that if Lotharil finds out the same, Esperel is dead
-Lotharil watches the back of the Unicorn
-s horn until 4 am, see
-s a strange elf with a wide-brimmed black hat leave
+Lotharil watches the back of the Unicorn's horn until 4 am, see's a strange elf with a wide-brimmed black hat leave
 Mirtul 13
 Steele is summoned, along with Venom, Nero and the Huntmaster to the Irlingstar Villa, where Kendal Thorne is in a state of perturbment.
-One of the Aldebaran operations was burned down the night before, and Mr. Rhork
-s head was sent as a courtesy (mage who ran the Wheel of the Sands)
-Steele is shown a note from Quevin demanding negotiation on pain of killing you Faerne, Thagdul
-s old house-maid
+One of the Aldebaran operations was burned down the night before, and Mr. Rhork's head was sent as a courtesy (mage who ran the Wheel of the Sands)
+Steele is shown a note from Quevin demanding negotiation on pain of killing you Faerne, Thagdul's old house-maid
 Steele goes, and talks with Quevin in his usual churlish manner
-Faerne will be held hostage until Highharvestide in exchange for Kendal
-s good behaviour
+Faerne will be held hostage until Highharvestide in exchange for Kendal's good behaviour
 Lotharil has a new ear stitched on at Gregor
 Kendal proposes a rescue/retaliation
 Mirtul 14
@@ -166,8 +192,7 @@ Lotharil sees a door
 fight with a helmed horror by Steele and the HungMaster
 Venom disappears
 Steele goes down in a fight with the wereboars
-We dig up a sarcophagus of some kind, glyphed, but we don
-t open it
+We dig up a sarcophagus of some kind, glyphed, but we don't open it
 Mirtul 15
 continue north, downstairs, hear drow taunting us
 fight with drow
@@ -183,14 +208,12 @@ Jeryth is a wildcard
 Anteos
 drow all the way through
 Irlingstar
-don
-t ask?
+don't ask?
 Kendal Thorne aka Altooth Mzoul
 Delberwan Anteos, friend of Yarkul, does not care for Quevin, who is married to Ranya and has a child named Milathi
 Other Anteos
 Delberwan, Meghan, Tuigan (abjurer) have all left the villa
-Nero
-s Objectives:
+Nero's Objectives:
 Find Ebola (also, find Gauntlet) and we can either a) join the Bass and his gang and thereby kill the drow; or b) kill him, and the Boss, and the whole bloody organisation
 Find out why E.M. died  (Ersgul Mlshul?)
 Stop the Drow incursion (impossible)
@@ -212,8 +235,7 @@ RV(|Z
 6jTgDV
 {DFfU
 2_>q
-Zw[t
-d;Q+
+Zw[t'd;Q+
 Dm&S
 OkVm0
 }b<}
@@ -417,8 +439,7 @@ ZK00
 M*Tm
 mU:d
 ul+
-WX9f
-d!#E)
+WX9f'd!#E)
 ISX{Aq
 'eV=
 S,>n

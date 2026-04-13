@@ -1,3 +1,24 @@
+---
+title: "Ellyth's letter to the Reprobates"
+slug: ellyth-s-letter-to-the-reprobates
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 [PC Attribution: Ellyth (Casey Bauman-Wike)]
 thumb
 A letter sent by Ellyth to the

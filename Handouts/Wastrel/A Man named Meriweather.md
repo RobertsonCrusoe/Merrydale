@@ -1,3 +1,29 @@
+---
+title: "A Man named Meriweather"
+slug: a-man-named-meriweather
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Ciratto"
+  - "Bigglesby"
+  - "Otrallia kel Tannith"
+locations:
+  - "Loudwater"
+  - "Secomber"
+tags: []
+---
 ==The \"Lady's” Man==
  
 Meriweather Tarsk stood before the five of you inside the rundown tavern called The High Lady Walking, or as most from Secomber and the Gray Vale called it; The Lady. The smell of sawdust on the floor mingled with the sweet smell of vomit, and the sour smell of sweat, on top of plenty of spilled, cheap ale (if you could even call it ale). Tarsk was a tall man, and as gray and grizzled as he was tall ... and old; although by the way his reputation went, you wouldn't see his fifty plus years in the way he moved.

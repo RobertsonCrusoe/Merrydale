@@ -1,3 +1,27 @@
+---
+title: "A Note from Godwin Ferguson"
+slug: a-note-from-godwin-ferguson
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "20 Ches 1483 DR"
+date_ic_sort: 1483081
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Godwin Ferguson"
+locations:
+  - "Charity"
+tags:
+  - "military"
+---
 [Source: Bundle fom Ferguson.pdf]
 
 A Note from Godwin Ferguson – Delivered 20 Ches, 1484 DR

@@ -1,3 +1,25 @@
+---
+title: "Red Herrings - Harvestide - Harvestide handouts"
+slug: red-herrings-harvestide-harvestide-handouts
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags:
+  - "military"
+---
 Gentleman and Lady,
 Just a reminder that you have until the end of the day to notify me of your decision to join my company.  Please notify my man in the Dripping Dagger of your intent.  He will have instructions for you.
 Inscription
@@ -114,8 +136,7 @@ OG-c
 13!5>
 V&nd
 8(.}
-Xqiyz
-m@\Y
+Xqiyz'm@\Y
 b|</
 e).5:
 Smi$
@@ -143,8 +164,7 @@ qf8p+
 w62N
 _|!De0
 Ktx:,
-9@EL
-m<;0
+9@EL'm<;0
 u6Yi
 ."Z*
 uKJX}
@@ -339,8 +359,7 @@ js1"
 _WYB
 iBV#m
 12ip
-'e^z
-t!]q
+'e^z't!]q
 y~EA
 h-I>%
 \Z;f

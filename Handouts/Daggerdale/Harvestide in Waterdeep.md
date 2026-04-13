@@ -1,3 +1,46 @@
+---
+title: "Harvestide in Waterdeep"
+slug: harvestide-in-waterdeep
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Yarkul"
+  - "Jafar"
+  - "Beljuril"
+  - "Gul'dan"
+  - "Vader"
+  - "Alt Kor"
+  - "Esperel"
+  - "Haskar Hunabar"
+  - "Krag"
+  - "Rubikawn"
+  - "Thuman"
+  - "Wilk Shtub"
+  - "Zaltim"
+  - "Ailyan"
+  - "Alek Lenter"
+  - "Ansal Bloodshoulder"
+  - "Drake"
+  - "Edgar Grimbold"
+  - "Elbing Hightimber"
+  - "Filiare"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 In the days before the Waterdeep Harvestide celebrations of 1371, DR, those brave souls who had undertaken a pledge to the murdered Harper, Zaltim, known as the Road Mage, joined forces with the Company of the Red Herring. The mystery that brought these two bands of heroes together centred on the mysterious Moonsea man, Thagdul, and the machinations of the Zhentish trading companies of Ersgul and Drurginz. In the days and weeks that led up to Highharvestide, these same machinations erupted in fire and blood throughout Waterdeep's wards, and it became clear that our heroes were in the swirling and unstable midst of a conspiracy that spread not only across the Realms, but across the very fabric of the planes themselves.
 
 == 25 Eleint - Ersgul Makes Its Move ==

@@ -1,3 +1,10 @@
+---
+title: "Knight Commander Kassius"
+slug: knight-commander-kassius
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 450px|right
 
 One of the Commanders under Master Knight Grendel, currently stationed at Fort Sansum.  He is a respected and accomplished warrior with 2 decades of experience in battle.

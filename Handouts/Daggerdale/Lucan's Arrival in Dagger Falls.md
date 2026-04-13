@@ -1,3 +1,31 @@
+---
+title: "Lucan's Arrival in Dagger Falls"
+slug: lucan-s-arrival-in-dagger-falls
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Dagger Falls"
+  - "Hillsfar"
+  - "Thistle Ridge"
+  - "Blackfeather Bridge"
+  - "Essembra"
+  - "Saerloon"
+  - "Teshwave"
+tags: []
+---
 It was a forty-day journey from Saerloon to Dagger Falls with Madam Umbercliff’s Shield and Anvil Trading Coster. The caravan guards weren’t a bad lot, except for that cheating Hillfarian that ended my run of luck with talis. I’d been dealt a Suite of Winds, but somehow, he pulled off Shar’s Silent Swindle for the win. I’d been up considerably by the time we got to Blackfeather Bridge, but it was all downhill after that. The wood elf attack outside Essembra – we never saw them, but there’s no mistaking those arrows, I was told – put an end to our nightly games, and I never had the chance to recoup my loss. I still had the float that Father and Aunt Haelra gave me, thank the gods, but it would have been handy to end on a high note. The only other incidents of note were the bugbear raids that plagued us after Hillsfar, pretty much all the way to Teshwave. The guards earned their money that week, Oghma knows (not that Hilfarian caitiff, though – he conveniently jumped ship in Hillsfar without bothering to settle up with a few of his colleagues). We got to Dagger Falls this morning, and now I’m looking for information on an old farm that’s supposed to be in these parts. Thistle Ridge – have you heard of it?
 
 

@@ -1,3 +1,25 @@
+---
+title: "Wastrel - The Guardians of the Watcher -  Prologue with Kethoth's comments"
+slug: wastrel-the-guardians-of-the-watcher-prologue-with-kethoth-s-comments
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "kethoths-journal"
+order: ""
+characters: []
+locations:
+  - "Waterdeep"
+tags: []
+---
 The Guardians of the Watcher The Prologue (Part One)
  Commanded by its small but able crew, The Wastrel broke through to the Nagaflow River on the eastern end of the Lake of Steam.
 

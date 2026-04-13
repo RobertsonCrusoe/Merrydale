@@ -1,3 +1,11 @@
+---
+title: "Synsyrillio Miritar"
+slug: synsyrillio-miritar
+type: stub
+campaign: wastrel
+subtype: npc
+deceased: true
+---
 Synsyrillio is a male, eladrin swordmage that escorted Ambassador Hyperia on his mission. Synsyrillio has long, golden-hued hair, moving with a light step and giving a distinct predatory air. Although menacing, he is not as aloof as his companion Krianolyrhh and is known for having lengthy discussions with Curuvar as well as Calla Maran. Synsyrillio spends his days training men of the Loudwater Wardens in swordsmanship although he is a difficult individual to learn from as he is intolerant of those with little skill. The few that are deemed fit to learn by Synsyrillio have improved dramatically in their ability with a blade since his arrival in Loudwater.
 
 ==Death==

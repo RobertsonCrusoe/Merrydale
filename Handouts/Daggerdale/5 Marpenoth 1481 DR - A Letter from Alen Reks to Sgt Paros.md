@@ -1,3 +1,29 @@
+---
+title: "A Letter from Alen Reks to Sgt Paros"
+slug: a-letter-from-alen-reks-to-sgt-paros
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Alen Reks"
+source: handout
+date_ic: "5 Marpenoth 1481 DR"
+date_ic_sort: 1481280
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alen Reks"
+  - "Andrea Stuard"
+locations:
+  - "Charity"
+  - "Liberty Hill"
+tags:
+  - "military"
+---
 A letter left for Bravo Team by Alen Reks as they set out for Dwimmerholme.  These were the complete instructions given to the team...
 
 Hello and Congratulations!!!

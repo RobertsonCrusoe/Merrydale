@@ -1,3 +1,29 @@
+---
+title: "Chapter Three Foreword and Summary"
+slug: chapter-three-foreword-and-summary
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Xulla"
+locations:
+  - "Waterdeep"
+  - "Castle Daggerdale"
+  - "Cormanthor"
+tags:
+  - "military"
+---
 DDC – Chapter Three – Forword and Summary 
 Wherein the players and events of the 14th century that affected present-dale Daggerdale are neatly inventoried. 
 

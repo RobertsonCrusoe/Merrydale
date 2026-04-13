@@ -1,1 +1,8 @@
+---
+title: "Ildar Orsabbas"
+slug: ildar-orsabbas
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 Self-styled “Duke of Darkness” and Proprietor of Orsabbas’ Fine Imports. In 1371, this fellow hired Ellyth as an escort the night that a fellow named Borothrym tried to ‘sell a job’ to Ildar. He declined, but Ellyth overheard the whole thing, and did the job with her friends, setting in motion a chain of events yet to be concluded.

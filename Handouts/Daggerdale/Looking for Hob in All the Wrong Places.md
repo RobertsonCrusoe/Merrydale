@@ -1,3 +1,30 @@
+---
+title: "Looking for Hob in All the Wrong Places"
+slug: looking-for-hob-in-all-the-wrong-places
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Agamemnon"
+  - "Zaltim"
+  - "Ansal Bloodshoulder"
+  - "Bartelos"
+locations:
+  - "Waterdeep"
+  - "Dagger Falls"
+tags: []
+---
 == Hob Sets Out ==
 thumb
 During Harvestide of 1371, Hob departed for Neverwinter to seek out Malkor. It was not difficult to find the man. Hob traveled with a Red Shields caravan, and learned that only Malthoon’s High Road Shippers managed to get along on the High Road unhindered all last year. That had changed ever since ‘those Harpers’ cleaned up the mess. Hob decided to start his searching at Malthoon’s.

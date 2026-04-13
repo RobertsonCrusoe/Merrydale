@@ -1,3 +1,29 @@
+---
+title: "Ambush at Jackson's Lodge"
+slug: ambush-at-jackson-s-lodge
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Beliard Emmarask"
+locations:
+  - "Castle Radiance"
+  - "Cormanthor"
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 == Discovery ==
 
 It is the 10th of Flamerule.  The lot of you are headed up to Castle Radiance with a rather large wagon train, which set out from Dagger Falls a day ago.  The war in the west with Netheril is just winding down, but there is still a tremendous amount of danger and violence in the mountains, so the trains have been large and well guarded.  The lot of you are travelling with them more for convenience and added security, than for any formal security arrangement.

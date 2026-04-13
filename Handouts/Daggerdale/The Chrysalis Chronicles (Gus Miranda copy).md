@@ -1,3 +1,47 @@
+---
+title: "The Chrysalis Chronicles (Gus Miranda copy)"
+slug: the-chrysalis-chronicles-gus-miranda-copy
+type: lore
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Templeton"
+  - "Rockland"
+  - "Ambassador Whitmore"
+  - "Mari Thickwickle"
+  - "Cassimar"
+  - "Coutts"
+  - "Lucan Alavandor"
+  - "Alen Reks"
+  - "Godwin Ferguson"
+  - "Iolus Warburton"
+  - "Vessuvian"
+  - "Will"
+locations:
+  - "Thistle Ridge"
+  - "Dagger Falls"
+  - "Charity"
+  - "Quick Axes"
+  - "Saerloon"
+  - "Thistle Ridge Farm"
+  - "Tesh Valley"
+  - "Shadowdale"
+  - "Hillsfar"
+  - "Sembia"
+tags:
+  - "military"
+---
 # 
 
 # **The Chrysalis Chronicles**

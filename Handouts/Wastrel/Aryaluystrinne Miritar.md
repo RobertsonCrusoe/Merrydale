@@ -1,3 +1,31 @@
+---
+title: "Aryaluystrinne Miritar"
+slug: aryaluystrinne-miritar
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Aryaluystrinne Miritar"
+  - "Azalia"
+  - "Bigglesby"
+  - "Synsyrillio Miritar"
+  - "Unuruhl"
+locations:
+  - "Loudwater"
+  - "Cormanthor"
+tags: []
+---
 right|450px
 
 == Manner of Death ==

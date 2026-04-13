@@ -1,3 +1,45 @@
+---
+title: "A letter sent by Jasper Hawkford via Brother Vessuvian"
+slug: a-letter-sent-by-jasper-hawkford-via-brother-vessuvian
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "14 Tarsakh 1483 DR"
+date_ic_sort: 1483105
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Calix"
+  - "Contessa Palus"
+  - "Quercina"
+  - "Vessuvian"
+  - "Embra"
+  - "Fluvia"
+  - "Jasper Hawkford"
+  - "Lucan Alavandor"
+  - "Masra"
+  - "Dol'Rullian"
+  - "Abbot Ambershields"
+  - "Charrah"
+  - "Reginald Boxfray"
+locations:
+  - "Thistle Ridge"
+  - "Greenwood Farm"
+  - "Cormanthor"
+  - "Charity"
+  - "Thistle Ridge Farm"
+  - "Dagger Falls"
+  - "Hillsfar"
+tags:
+  - "military"
+---
 14 Tarsakh, 1483 DR -A letter sent by Jasper Hawkford via Brother Vessuvian. 
 To Malveaiu Greenleaf, 
 I write on behalf of Company Chrysalis with an offer of immediate employment. We are in need of your particular skills and expertise. 

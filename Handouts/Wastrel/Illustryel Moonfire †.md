@@ -1,3 +1,29 @@
+---
+title: "Illustryel Moonfire"
+slug: illustryel-moonfire
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Kethoth Sepret"
+  - "Maeghuen Grimbold"
+  - "Niidross Hyperia"
+locations:
+  - "Loudwater"
+tags: []
+deceased: true
+---
 The gregarious mayor of Loudwater, and close friend of Kethoth.
  
 The half-elven mayor of Loudwater. Illustryel is a star-pact warlock but it is not something that she is keen to put on display for the residents of Loudwater. Illustryel is known for her ability to throw a party, and to dote over adventurers using Loudwater as a way point in their journey rather than being known for her strengths at public policy and governing the settlement of Loudwater. It is widely believed that were it not for Maeghuen Grimbold, Loudwater would be pounded into the soil by the enemies arrayed it against it. Illustryel is the mayor of Loudwater because no one else wants the task.

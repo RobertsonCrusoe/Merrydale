@@ -1,3 +1,27 @@
+---
+title: "By Threes"
+slug: by-threes
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Nathan Gale"
+locations:
+  - "Dwimmerholme Farm"
+tags:
+  - "military"
+---
 With a number of the  injured, more eyes were needed on the walls and she had been one of the first to volunteer. The Chauntean devout were celebrating but it was more muted than normal out of respect for those that were still coping with the loss of loved ones, as well as the ones that were still recovering from the atrocities they experienced and witnessed ... if that was even possible.
 
 The sun was beginning to set and rather than watching the tree line to the north, she had been watching him. He had been out there, seated upon an old tree stump, for hours. Writing in a journal of some sort, only to take a few moments from time to time to look out over the fields and into the forest to the north, before returning to his writing once again. She wondered what he was writing. A report to those he answered to? A retelling of what he had seen; what they had seen?

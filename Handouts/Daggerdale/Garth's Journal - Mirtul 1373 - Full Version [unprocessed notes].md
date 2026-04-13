@@ -1,8 +1,38 @@
+---
+title: "Garth's Journal - Mirtul 1373 - Full Version"
+slug: garth-s-journal-mirtul-1373-full-version
+type: session
+campaign: daggerdale
+voice: ooc
+status: unprocessed
+tier: editor
+author: todd
+curator: ""
+pov: "Garth"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Beljuril"
+  - "Boregar"
+  - "Garth Shanks"
+  - "Sal Worthingham"
+  - "Ailyan"
+  - "Lendon"
+  - "Thebald Rockfist"
+  - "Zantiid"
+locations:
+  - "Waterdeep"
+  - "Sembia"
+tags: []
+---
 [PC Attribution: Garth Shanks (Todd Burry)]
 [RAW - UNEDITED AND UNREVIEWED - extracted by automated process, not yet verified for accuracy or completeness]
 
-Garth
-s Journal
+Garth's Journal
 10 Mirtul
 Last night was a long one, and indeed little to none of it was on the
 to do
@@ -19,16 +49,12 @@ I can only propose that he is under the influence of that senile wandering cleri
 Dorian, the Sembian that Maturin and Boregar had in tow when they returned from Anauroch seems to go with Boregar word-for-word. I see that his views are guided by the simple fact that he prefers bravado to normal conversation. I understand that it is the way of those Sembians and it does well for that people as a whole, I think, as I hear that the number of illegitimate children are astoundingly high in that country. If bravado gets the ladies on their backs then all the power for it.
 
 Dorian and Boregar are two brilliant birds of one common feather I must say. It would not surprise me if they go and get themselves gutted on the steps of Anteos one night because of one too many cups at the Dripping Dagger. I imagine their conversation going thusly:
-You know thar Dorian. I
-m right sick of waiting to slay them dirty Drow.
-Yep. When the Boregar is right he
-s right. I
-ll bet we can take
+You know thar Dorian. I'm right sick of waiting to slay them dirty Drow.
+Yep. When the Boregar is right he's right. I'll bet we can take
 em ourselves
 you and me; just the two of us.
 Hey there Dorian. You just might be on to something ya darn dirty Sembian. Yup; the more I think of it right now I dare say I know yer on to something. I say we go show them Drow what for right now.
-m in if you
-re in
+m in if you're in
 after one more drink.
 Maturin is a slightly different story; this I can only describe through his own words as best I can remember
 
@@ -125,13 +151,10 @@ Behind me raises an elevator and a concealed door opens beneath it revealing an 
 When I see the cratea unpacked my adrenaline starts a pumping as the wares turn out to be very evil looking implements of cultish ceremony. I know that once the cargo goes into the barrels I will have no legal authority to search it and will probably lose it in the sewers anyway. With that reason and the fact that I am getting cramps in my knees from hiding for so long I bust out and announce:
 That will be enough, you are all under arrest.
 If I were to tell my young Garthy self that I would say that someday I would have thought myself mad.
-Oh ho thinks I. You
-ve certainly got yourself into it this time Garthy old boy. But I do more or less have the law on my side, and I also have trusty Beljuril outside.
-Everyone bolts except the two foreigners and wouldn
-t you know it Thebald who comes in swinging on my side
+Oh ho thinks I. You've certainly got yourself into it this time Garthy old boy. But I do more or less have the law on my side, and I also have trusty Beljuril outside.
+Everyone bolts except the two foreigners and wouldn't you know it Thebald who comes in swinging on my side
 best turn around on retainer that I ever made.
-The fighting rages on and it doesn
-t take long for me to figure out that these foreigners are cultists, what with the black morning stars and all the whooping and hollering of spells and such. I will say this
+The fighting rages on and it doesn't take long for me to figure out that these foreigners are cultists, what with the black morning stars and all the whooping and hollering of spells and such. I will say this
 
 it really makes one question why he goes running around like a sociopath arresting people when he is standing there held immobile by magic and being brained nearly dead by a spiked club. However, good Beljuril comes in for me and once he dispels the enchantment I dispatch the cultists.
 
@@ -151,13 +174,11 @@ Going back to Beljuril he tells me that these cultists have each a ticket to the
 the social event of the year and nearly impossible to get into. Well,
 there we have it, this is probably a good lead in the Xvimites case,
 says he.
-And tonight
-s entertainment,
+And tonight's entertainment,
 says I.
 Since it is already the afternoon I steal off at once to get some blasted rest and leave the mopping up to Beljuril and a couple of Jacks. Getting back to Phaulkonmere I find that I really have only a couple of hours to rest so I send for a cleric to see if there is anything he can do for me. Now I appreciate the value of sleep and the body needs it and so on and so forth, but five hundred dragons to alleviate my fatigue seems mighty steep to me. But, when one needs to make up the time he is willing to pay the price so I slip the man the two trade bars I lifted and give him a mum wink.
 Right, so our plan is this: clean and mend the cultists
-clothes, disguise ourselves as them and head to the Cabaret. Since we don
-t even know their names I am not actually that keen on this so I hum and haw about the whole thing. Beljuril suggests that we just go disguised as the front and hind of a mule which sets us to laughing enough to make me just think,
+clothes, disguise ourselves as them and head to the Cabaret. Since we don't even know their names I am not actually that keen on this so I hum and haw about the whole thing. Beljuril suggests that we just go disguised as the front and hind of a mule which sets us to laughing enough to make me just think,
 blast it, let us just do it.
 In the end we decide to go disguised as planned, but with full robe and masquerade over top so that we may reveal our cultist garb only when we see what is what at the Cabaret. One last thing to note: on the cultists were gloves of magical storing that would prove useful at the Cabaret since weapons are taboo there.
 
@@ -170,10 +191,8 @@ This is a far cry from your days on the streets of Dock Ward Garthy my boy,
 thinks I. Looking around makes me remember another one of these Cabarets
 one year during those dark days of my youth.
 * * * * *
-All us street rats back then would always work the crowds of onlookers near the gates of the college on Cabaret night. It was always a grand night out for us poor sop tops too you know? Crowds of people that tightly packed are perfect to get around in and when they are filled with wealthies then that is all the better too. Of course the traps would come out in force a couple of blocks away to keep us out of the area so as not to bother the poor harmless rich folk. They would beat any one of us without pretence or mercy if they saw us too. Didn
-t stop us though
-some people don
-t understand that being beaten to within an inch of your life is not really a deterrent when you live your life on the streets of Dock Ward.
+All us street rats back then would always work the crowds of onlookers near the gates of the college on Cabaret night. It was always a grand night out for us poor sop tops too you know? Crowds of people that tightly packed are perfect to get around in and when they are filled with wealthies then that is all the better too. Of course the traps would come out in force a couple of blocks away to keep us out of the area so as not to bother the poor harmless rich folk. They would beat any one of us without pretence or mercy if they saw us too. Didn't stop us though
+some people don't understand that being beaten to within an inch of your life is not really a deterrent when you live your life on the streets of Dock Ward.
 
 Now I am not a pickpocket at all. Back then, when we would work the crowds I would usually run distraction while another rat would do the lifting. We called it the
 ball up and pinch.
@@ -188,11 +207,9 @@ things like spiked collars acting as leashes to plush whores or barbed rings tha
 One of my pals had told me about these dandies before. He was a fellow adler like me, but was much better at distracting the marks than I for he had a way of flattering people that made them feel like his baseless toadying held the very Divine Truth itself. Anyway one night he came up on us all gleaming describing a noble dressed very similarly to the one I
 
 ve just described. He said the man had offered him twenty-five dragons to be his companion for the night. The man even gave him the first five up front.
-At first we didn
-t believe him, but he produced the five crowns. Then our taunts turned on to the subject of his job and the buggery that it would not doubt incur. To this he answered that he didn
+At first we didn't believe him, but he produced the five crowns. Then our taunts turned on to the subject of his job and the buggery that it would not doubt incur. To this he answered that he didn
 
-t care because twenty dragons was twenty dragons and truth be told we really couldn
-t argue with that.
+t care because twenty dragons was twenty dragons and truth be told we really couldn't argue with that.
 We never found out what happened that night because he refused to talk about it. All he said was that if ever you are offered to go to a gathering of the Cult of Loviatar to run the other way and fast. He was actually never the same after that and I feel sad about it now that I think about it, but at the time I was glad because I then became the best adler and all the good pinchers wanted to work with me thereafter.
 
 Now I knew that these nobles would be trouble, but you have to understand that when you are a poverty stricken street rat you just put off thinking about certain things, and besides there was a gem encrusted chain hanging out of this fellow
@@ -212,8 +229,7 @@ ll flay you alive you filthy bugger!
 said he and started lashing me with it. And did he ever make to end my life too. In my days I have dealt with weapons
 
 both to employ them and have them taken up against me, but never since then have I seen a weapon so well designed to inflict pain. Its barbs stuck into me and pulled out chunks of my flesh when the man raised his arm for the next blow. All the while I could not scream for I was still paralysed. It was beginning to be the end of me right there when one of the women with him put her hand on him.
-Aye, not so fast my love, let
-s make some sport of him first.
+Aye, not so fast my love, let's make some sport of him first.
 She then produced a contraption seemingly out of nowhere that I would describe as a portable pillory, but much more cruelly devised. There was a place to feed my head through, but rather than it having arm holes there were holes for each finger and thumb, all of which could be tightened with efficient accuracy. After that the woman stuck a ball in my mouth and produced a key that fit into its front. As she slowly turned they key two barbs erected from the ball sticking into the roof of my mouth on top and my tongue and then the floor of my mouth on bottom.
 
 It was at this point that the paralysis wore off which was a timely piece of torture because as I opened my mouth to scream over the ball the barbs tore into me and I had to stop. Seeing the limitation of my speech woman gave a satisfied smile and removed the key. She then set to work adjusting the screws on my digits and neck.
@@ -221,20 +237,16 @@ It was at this point that the paralysis wore off which was a timely piece of tor
 She seemed very efficient in this, adjusting each screw so that the pain was just before the point of me flailing about or passing out. She would test her work by giving each finger a slight caress with hers so that just that added pressure would send my body twitching down to compensate for the pain. And all the while she did this her eyes remained locked on mine and her face remained constant with a slight half smile. She would even turn her head to match the angle of mine as my body went flailing about.
 
 One might wonder why no one intervened, but it was very crowded and there really is no sympathy among the wealthies for us street rats.
-After the pillory was adjusted to the woman
-s satisfaction they set me a marching to destination I knew not where. They marched me through the crowd for a time, all the while whipping me and administering other ingenious tortures. I think I became sport for the crowd as well as I felt myself being pelted by fruit and I could not think that my captors would use such a base form of humiliation, but the shame that one might feel in that situation was not there for me
+After the pillory was adjusted to the woman's satisfaction they set me a marching to destination I knew not where. They marched me through the crowd for a time, all the while whipping me and administering other ingenious tortures. I think I became sport for the crowd as well as I felt myself being pelted by fruit and I could not think that my captors would use such a base form of humiliation, but the shame that one might feel in that situation was not there for me
 it was replace by unmitigated pain and terror.
 This all went on for a while and I was beginning to give up hope when I heard a crashing and a hollering come from my flank.
 
 The woman began announcing an incantation, but was immediately drowned out by the smashing of a bottle that I think was landed on her own head. After that there was another smash, and then another.
-Back off from him or this
-ll come to fisticuffs and you can count on that!
+Back off from him or this'll come to fisticuffs and you can count on that!
 I managed to gather the strength to look up to the source of the bawling and saw a boy that I didn
 
 t quite know, but was from my neighbourhood. Though he was not a fellow street rat he was easy to recognize as he was rather big and ungainly and sported scruffy blond whiskers. He was boozed up in spades and was carrying an armful of bottles of liquor that he was throwing at my captors with varying degrees of accuracy.
-Back off from him I say! I
-ll brawl the lot of you, and I won
-t ask again!
+Back off from him I say! I'll brawl the lot of you, and I won't ask again!
 Maybe it was his conviction, or maybe it was the fact that some of the bottles went astray into the crowd and there were some that were now looking on our little situation unfavourably, but my captors stared at him dumfounded and then started to disperse.
 
 ll never know if it was the excitement, his drunkenness, or a trace amount of spite, but he cracked one of my captors over the head for good measure causing the man to slump to the ground and have to be carried away. I gave the man a wicked smile as he went down
@@ -247,8 +259,7 @@ I indicated the opposite direction of the one that the woman used and he employe
 Have a guzzle of this. It will calm your nerves,
 said he and handed me one of his remaining bottles and I gulped it down. As a slight historical aside I will mention that that liquor was strong, stronger than I cared to drink although it did calm my nerves, but I am quite sure that the boy had polished off several bottles already.
 
-So there we were after the most terrifying time I had experienced yet in my life and I didn
-t even think of thanking the boy. All I could manage was:
+So there we were after the most terrifying time I had experienced yet in my life and I didn't even think of thanking the boy. All I could manage was:
 Why did you save me?
 re Garth Shanks, from the Docks right?
 Why yes.
@@ -256,8 +267,7 @@ m Tomas Mudge. We Dock Ward boys have to stick together.
 * * * * *
 Although this digression I write is quite long it only takes an instant to flash by in my head, having lived through the thing. Before I notice Beljuril and I are bouncing our way into the Cabaret, both of us with a girl on each arm.
 
-Departing into the Cabaret grounds and from my escorts I flip each one a gem to match her eyes. Girls like that kind of touch I
-m sure.
+Departing into the Cabaret grounds and from my escorts I flip each one a gem to match her eyes. Girls like that kind of touch I'm sure.
 The college is already busy with people when we arrive at the proper fashionable time. Beljuril and I decide to split up, but remain in contact through use of our remaining sparkling dust.
 
 While he goes around doing his thing, I take to a bit of exploring and dining on the delicacies offered, all of which are free. After a while I settle on the main foyer to make some contacts for my own purposes.
@@ -269,16 +279,14 @@ She gives me a sour look and shuts up about it. That of course is one small affe
 
 So here I am going around trying to find out this and that, all the while squeezing the tits of the odd maiden.
 Do I know you?
-Oh I
-m sorry. I thought you were my sweetheart.
+Oh I'm sorry. I thought you were my sweetheart.
 Much fun this is, but also serves a purpose. People that see you wandering around at ease will be more likely to be at ease with you themselves and not think that you are a Magister or someone else that endeavours to stagnate the flow of society. And if a girl gets uppity at her tits being squeezed then I drop a gem between them and everyone is happy.
 
 To the end of my business I manage to make contact with a moneychanger that has better rates than my current one. I am sitting on a pile of Zhent coin that I would prefer not cost me a twenty five percent premium to exchange. I would melt the stuff down myself and sell it as ingots, but the problem with coinage is so much of it is clipped that melting it down produces an unpleasing return.
 
 I have also met a Thayan man that says he has quite an extensive catalogue of alchemical mixtures
 
-poisons and drugs is the undertone here. I am particularly interested in drugs that will aid in interrogation and one that I have heard eliminates fatigue. It apparently has to be entered into the bloodstream by a needle type device and may leave unsightly marks on the arm, but my man also says that it can be shot in between the toes or through the tear duct of the eye with little adverse cosmetic effect. After the ungodly amount that the church charges for their blessings I
-ll take the chance.
+poisons and drugs is the undertone here. I am particularly interested in drugs that will aid in interrogation and one that I have heard eliminates fatigue. It apparently has to be entered into the bloodstream by a needle type device and may leave unsightly marks on the arm, but my man also says that it can be shot in between the toes or through the tear duct of the eye with little adverse cosmetic effect. After the ungodly amount that the church charges for their blessings I'll take the chance.
 The last piece of information I get is a continual buzz about one of the plays tonight known as the Lady Mamoril. I usually don
 
 t go in for the theatre unless it deals in fornication or murder, but the pulse for this play is so strong that I decide to check it out.
@@ -297,8 +305,7 @@ By the time I and Beljuril get to the stage the remaining cast of the play lay d
 behold the power of Iyactu Xvim
 as he takes out piles of guards with each of his swings.
 I set to work helping the guards on the ground while Beljuril takes care of silencing the bitch so that the crowd may be freed from her enchantment and give us a bloody hand
-they don
-t for the most part, and instead yell like crazed gibberlings and make haste out of the amphitheatre.
+they don't for the most part, and instead yell like crazed gibberlings and make haste out of the amphitheatre.
 
 Beljuril has the bitch on the route, while I am on the route myself and then finally the dean of the college steps in do something. He is completely impotent and the giant Xvimite bounds after him taking out the odd remaining customer with each five row long stride.
 
@@ -307,9 +314,7 @@ I join Beljuril to go at the bitch that is now floating into the orchestra pit i
 In time Beljuril comes back and briefs me on what went on. The dean of the college is a mushy pulp in the foyer of his college and the Xvimites are marauding through the streets. They are so engorged on all of the people that they have slain that they are unstoppable for a time and the watch wizards are pretty much powerless.
 
 At length Beljuril and I make it back home with our prisoner well past midnight. Both of us are damn near spent and well earned I might add. We get to licking our wounds and deciding what to do with our prisoner when one of my Jacks busts in and exclaims that Quellar is storming down the street.
-By the description of Quellar
-s disposition it seems as though this is going to be bad, but I can
-t for the life of me divine what his problem might be.
+By the description of Quellar's disposition it seems as though this is going to be bad, but I can't for the life of me divine what his problem might be.
 I get Dorn to watch the prisoner and Beljuril, I, and a handful of Jacks go out to meet Quellar. Our conversation goes something like this:
 Queller, of what do I owe this visit?
 You have broken the deal that we had when you attacked the Moonstars. For this I will teach you a lesson.
@@ -325,15 +330,10 @@ Now I have more men it is true, but he has a cruel strike and an even crueller b
 Finally Quellar gets his satisfaction. I am dead, my soul is swimming around the abyss that I knew I would end up in, and I am bargaining with some damned deuce for my life.
 This is it Garthy my boy,
 says he.
-This is it, what? No my dear fellow, you must have mistaken me for some whore
-s miscarriage. She is laying beside me in my own bed just now while I am sleeping. You are probably just flummoxed from a hard night of drinking virgin
-s blood or something along those lines, yes?
+This is it, what? No my dear fellow, you must have mistaken me for some whore's miscarriage. She is laying beside me in my own bed just now while I am sleeping. You are probably just flummoxed from a hard night of drinking virgin's blood or something along those lines, yes?
 says I in return.
-Oh no I
-m afraid not. You cannot bluff me out Garthy my boy. I am The Master of Bluffs you see? Hard luck that. I was just about to go off shift too and you would have been under The Master of Discord, and quite frankly she
-s a pushover.
-No. I can
-t go now. I still have a task to do. A task you see? I need just one more chance.
+Oh no I'm afraid not. You cannot bluff me out Garthy my boy. I am The Master of Bluffs you see? Hard luck that. I was just about to go off shift too and you would have been under The Master of Discord, and quite frankly she's a pushover.
+No. I can't go now. I still have a task to do. A task you see? I need just one more chance.
 A task eh? Well then now. What are you willing to pay for that chance?
 * * * * *
 Well, I wake up from my dream in my bed. Dorn had arrived on the scene shortly after my fall and sued for peace. Unfortunately Beljuril did not quite hear him and disembowelled Quellar on the spot, having been polymorhped into a troll at the time. After that my allies took me to this bed and here I lie. Oh yes, and our prisoner escaped during the commotion.
@@ -388,14 +388,10 @@ Finally, and most importantly to me is that I just get the sense that this is ex
 I will pose a small aside presently. Quevin or Isillith, I am a bit relieved that they were willing to sacrifice their brother for their little game. I was beginning to think that the bad guys (so to speak) were more unified and honourable than the good guys (us).
 
 Thus I have my theory. If I am wrong then I am wrong and I have a bunch of lunatics on the other side. If I am right then we still have a dead Quellar, and I understand that when mixed with followers of Vhaeraun produces a result that may be similar to a bunch of lunatics, previous paragraph not withstanding.
-If on the other hand the Dalael
-s are still open to diplomacy then I may be too. At least to the extent that I may break my word when it is convenient for me, not they thank you very much. However, I cannot be the one to initiate diplomacy for I am the injured party (dead Quellar not withstanding). Moreover, me initiating diplomacy is a sure sign of weakness which I surely cannot afford right now.
+If on the other hand the Dalael's are still open to diplomacy then I may be too. At least to the extent that I may break my word when it is convenient for me, not they thank you very much. However, I cannot be the one to initiate diplomacy for I am the injured party (dead Quellar not withstanding). Moreover, me initiating diplomacy is a sure sign of weakness which I surely cannot afford right now.
 
-Therefore, there is a trick to be played here. I cannot triumph if I must go through Isillith
-s treacherous tongue to get to his master
-s ear. So I have decided to play a game that I believe will have the desired effect for my purposes and satisfy my current mood of bitter comedy.
-I have presently sent the following add to be printed in tomorrow
-s paper. The add itself is a satire of sorts, but I will explain that after I have given the add:
+Therefore, there is a trick to be played here. I cannot triumph if I must go through Isillith's treacherous tongue to get to his master's ear. So I have decided to play a game that I believe will have the desired effect for my purposes and satisfy my current mood of bitter comedy.
+I have presently sent the following add to be printed in tomorrow's paper. The add itself is a satire of sorts, but I will explain that after I have given the add:
 
 Your extraordinary behaviour this morning, and the liberty you were pleased to take with me and my territory, makes me this evening give you this, to tell you, because you are an ill-bred puppy, I will meet you outside the very paper office where this is printed on hour past midnight hence; and because you want both breeding and demi-humanity, I desire you would come with a hanger in your hand, and endeavour to stab me through the heart to teach you your manners. If you fail of doing me this pleasure, I shall say you are a rascal, on every post in town: and so, sir, if you will not injure me more, I shall never forgive what you have done already. Pray, sir, do not fail of getting everything ready; and you will infinitely oblige, sir, your most obedient humble servant, etcetera and so on.
 
@@ -403,9 +399,7 @@ Thank luck that the paper is in fact right beside my home and I have a special i
 
 I also find it quite convenient that both Quellar and Quevin both begin with the same letter so if it was in fact Quevin that ordered the assault then he can take it to be himself rather than the other man.
 
-My main goal is to make Quevin know that I see his assault for what it is. And if the charges were in fact trumped up by Isillith then he will have a hard time explaining my little article won
-t he? But what if Isillith manages to keep this paper from Quevin? Well that
-s a tricky one Garth my boy, but is still useful because it can only mean that the seat of power has shifted solely into Isillith
+My main goal is to make Quevin know that I see his assault for what it is. And if the charges were in fact trumped up by Isillith then he will have a hard time explaining my little article won't he? But what if Isillith manages to keep this paper from Quevin? Well that's a tricky one Garth my boy, but is still useful because it can only mean that the seat of power has shifted solely into Isillith
 
 s hands (and that if I do not want Quevin to know a thing then I should endeavour to hide it in the most public place I can find).
 
@@ -416,11 +410,9 @@ There is an art to constructing the bluff. For a bluff, no matter the shape or s
 if there is plausibility then it will sew doubt in any man regardless of who he trusts more on a quality for quality basis. Now taken with a businessman that doubt must grow all the faster because he is unencumbered by such fancies as friendship or family, or at least he only views them as a means to do business. Take that away and the relationship is revealed for the tenuous thing that it is.
 
 And when you look at it everyone are businessmen in their own ways. Acting to get what you want and not what anyone else wants and
-thank you very much, don
-t let my boot hit your arse on the way out good day.
+thank you very much, don't let my boot hit your arse on the way out good day.
 There is no truth except the game. For truth or fiction: it is all bluff in this wretched city of splendours you know?
-Garth
-s Journal, 10 Mirtul
+Garth's Journal, 10 Mirtul
 PAGE
 NUMPAGES
 hyX&

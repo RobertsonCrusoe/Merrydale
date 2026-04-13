@@ -1,3 +1,28 @@
+---
+title: "The Broken Blade"
+slug: the-broken-blade
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Steele"
+  - "Huntmaster"
+  - "Kennyth Thames"
+locations:
+  - "Waterdeep"
+tags: []
+---
 == Alturiak, 1373 - Waterdeep ==
 
 Winter is always cruel in Waterdeep, and for the most part, the City goes into a sort of slumber, relative to the amount of activity it sees in other seasons of the year. This general rule used to apply to the underworld of the City of Splendours, but this winter was different.

@@ -1,3 +1,29 @@
+---
+title: "My Surprise Visit to Greenwood Farm & Ovetchkin's Warnings (Sanduskyn Vale)"
+slug: my-surprise-visit-to-greenwood-farm-ovetchkin-s-warnings-sanduskyn-vale
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "29 Tarsakh 1483 DR"
+date_ic_sort: 1483120
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Thistle Ridge"
+  - "Cormanthor"
+  - "Dagger Falls"
+  - "Greenwood Farm"
+tags:
+  - "military"
+---
 29 Tarsakh, 1483 DR – My Surprise Visit to Greenwood
 Farm & Ovetchkin’s Warnings
 I was reluctant to make the trip to Greenwood farm. It is very busy in my shop before the

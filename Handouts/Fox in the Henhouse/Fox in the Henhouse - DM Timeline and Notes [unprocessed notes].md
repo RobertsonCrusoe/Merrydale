@@ -6,12 +6,10 @@ Malerix of the Moonshaes	advisor to Moorstone
 To deliver a message to the High Battle Chaplain Gordon Stakaria of Tempus in Archenbridge to lend his forces to those of the Triumvirate
 
 Ellendil			ranger hired by Temple of Tyr in Highmoon to rescue William and Malerix
-Ramagar of Highmoon	Paladin of Tyr sent to ensure safe delivery of William
-s message
+Ramagar of Highmoon	Paladin of Tyr sent to ensure safe delivery of William's message
 Timeline
 11 Tarsakh	Odin Talhallow, Winger Shingleton and Phaeton Shingleton leave High Dale to investigate disappearance of recon party in south-eastern Thunder Peaks last heard from 10 miles west of White Ford.
-12 Tarsakh	Malerix and William leave Baldur
-s Gate en route to Archenbridge
+12 Tarsakh	Malerix and William leave Baldur's Gate en route to Archenbridge
 16 Tarsakh	Malerix and William lost in Hullack forest
 19 Tarsakh	Malerix and William found by Ellendil, decide to head for White Ford
 Odin, Winger and Phaeton leave camp in High Dale outpost north into the Thunder Peaks.  Union of the two groups and a battle at the Arkhen ford.
@@ -34,8 +32,7 @@ A lot of employees will probably be taking up residnence at the Hanged Hobgoblin
 Guards say:
 They come and go as they please (i.e. they pump money into the local economy and are not to be trifled with)
 3M say:
-Valgan @ the Noose doesn
-t do business with Darkwater, but with 3M
+Valgan @ the Noose doesn't do business with Darkwater, but with 3M
 Conclusion
 The Noose does enough business to support a small to middling sized company.  It would be a catch for the DBTC for sure.
 Rhiana Lorden
@@ -44,8 +41,7 @@ Wealthy
 pleasant
 inquisitive
 wanted to know about Darkwater from 3M
-wanted to know how to get to Stockard
-s Noose
+wanted to know how to get to Stockard's Noose
 Odin left on the 21st before I had a chance to speak with him.
 If0J
 IfH*

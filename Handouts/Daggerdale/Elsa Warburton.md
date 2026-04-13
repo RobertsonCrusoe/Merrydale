@@ -1,1 +1,8 @@
+---
+title: "Elsa Warburton"
+slug: elsa-warburton
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 Mother of Iolus. She has been living here for the last few years, after her farm became too much to handle. She is a little on the outside here. She keeps a small home and cottage-industry making candles. Business is usually not good, and she looked lean and a bit haggard when she saw Iolus again.

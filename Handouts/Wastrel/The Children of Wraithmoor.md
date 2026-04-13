@@ -1,3 +1,25 @@
+---
+title: "The Children of Wraithmoor"
+slug: the-children-of-wraithmoor
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Waterdeep"
+tags: []
+---
 Yar! Salazar is an olde salte, make ye no mistake. Motherless son of a pirate, he has learned many a harsh tale in his day, and here be one.
 ----
 

@@ -1,3 +1,27 @@
+---
+title: "Kethoth's Journal_ Awakening from Madness"
+slug: kethoth-s-journal-awakening-from-madness
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Kethoth"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "kethoths-journal"
+order: ""
+characters:
+  - "Kossur"
+  - "Janus"
+  - "Kethoth Sepret"
+locations: []
+tags: []
+---
 [PC Attribution: Chadrazzan Kossur (Les Blackwell)]
 Significant Entries from the Journal of Chadrazzan Kossur...
 ----

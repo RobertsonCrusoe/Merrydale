@@ -1,3 +1,33 @@
+---
+title: "Breakfast at the Monastery of the Precipice - Mirtul 11"
+slug: breakfast-at-the-monastery-of-the-precipice-mirtul-11
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Baird"
+  - "Saharel"
+  - "Kuryon"
+  - "Ailyan"
+  - "Thoran"
+  - "Grandfather"
+  - "Janus"
+  - "Turnigal"
+locations:
+  - "Loudwater"
+tags: []
+---
 Following the delivery of the last two \"keys\" by Brother Turnagall and Arya's conversation with Brother Allendi a day and a half prior.
 
 Kethoth addresses the troops; \"We have a few things to discuss, my friends, not least of which is our plan of approach for the 'Mercykillers'\" Kethoth rolls his eyes a little, then smiles warmly after mention of your adversaries.

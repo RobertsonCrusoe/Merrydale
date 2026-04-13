@@ -1,3 +1,33 @@
+---
+title: "Garth's Journal_ The Unseen Army"
+slug: garth-s-journal-the-unseen-army
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: todd
+curator: ""
+pov: "Garth"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Beljuril"
+  - "Garth Shanks"
+  - "Sal Worthingham"
+  - "Esperel"
+  - "Jafar"
+  - "Mina Vauxbourough"
+  - "Yarkul"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 [PC Attribution: Garth Shanks (Todd Burry)]
 ...from the journals of Garth Shanks
 

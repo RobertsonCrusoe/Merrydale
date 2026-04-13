@@ -1,3 +1,29 @@
+---
+title: "A Letter from Alen Reks to Andrea Stuard"
+slug: a-letter-from-alen-reks-to-andrea-stuard
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Alen Reks"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alen Reks"
+  - "Andrea Stuard"
+  - "Hennigan Paros"
+locations:
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 A Letter sent from Alen Reks to Andrea Stuard on the 5th of Marpenoth, 1481.  Delivered by Sgt. Hennigan Paros, unopened.
 
 Dearest Andrea;

@@ -1,3 +1,25 @@
+---
+title: "Ferguson Contract and Lucans Creative Curses - Jun 2025"
+slug: ferguson-contract-and-lucans-creative-curses-jun-2025
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: "2026-04-06"
+series: ""
+order: ""
+characters: []
+locations:
+  - "Thistle Ridge"
+tags: []
+---
 SOURCE INFORMATION
 Thread: "Ferguson" (197b726058d682dd)
 Date Range: 28 Jun 2025

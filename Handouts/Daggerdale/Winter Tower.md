@@ -1,3 +1,26 @@
+---
+title: "Winter Tower"
+slug: winter-tower
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Mr. Acorn"
+locations:
+  - "Castle Radiance"
+tags: []
+---
 ==Headquarters for the Free Defense League==
 
 thumb|Frame|450px|Bridge across a narrowing in the Middle Bailey

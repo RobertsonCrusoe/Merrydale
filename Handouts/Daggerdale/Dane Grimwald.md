@@ -1,3 +1,28 @@
+---
+title: "Dane Grimwald"
+slug: dane-grimwald
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Grimwald"
+  - "Dane Grimwald"
+locations:
+  - "Castle Radiance"
+tags:
+  - "military"
+---
 [PC Attribution: Dane Grimwald (Steve Hicks)]
 :Cuz I'm a wild hearted son.
 :I'm comin' down like a rolling stone.

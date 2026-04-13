@@ -1,3 +1,25 @@
+---
+title: "Redjack Question for Jasper - Lucan's Legal Scheme After Grimaldous"
+slug: redjack-question-for-jasper-lucan-s-legal-scheme-after-grimaldous
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags:
+  - "military"
+---
 Redjack Question for Jasper — Lucan's Legal Scheme After Grimaldous
 Stephen Robertson (as Lucan) and Gus Miranda (as Jasper)
 Email thread: "Redjack Question for Jasper", 25-26 Apr 2024

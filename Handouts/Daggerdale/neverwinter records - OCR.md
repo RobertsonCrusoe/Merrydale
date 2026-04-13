@@ -1,12 +1,46 @@
 ---
-Provenance: OCR transcription of "neverwinter records.pdf" (20 pages, typed)
-Source: DND Scanned Notes / OneDrive DND Scans
-Campaign: Daggerdale (Neverwinter arc — Winter 1371-1372 onward)
-Date processed: 2026-04-03
-Utility: B (extensive 70K-char document; archive 'The Winter of 1371-1372.txt' is only 3,734 chars covering a fraction of this content. Substantial unique material about Neverwinter operations)
-
-Archive counterparts: The Winter of 1371-1372.txt (partial), Red Herrings - Campaign Summary files (partial)
-OCR notes: Clean printed text throughout. Minor artifacts.
+title: "neverwinter records"
+slug: neverwinter-records
+type: narrative
+campaign: daggerdale
+voice: ic
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Yarkul"
+  - "Beljuril"
+  - "Jafar"
+  - "Zaltim"
+  - "Esperel"
+  - "Agamemnon"
+  - "Oberon"
+  - "Xulla"
+  - "Teskul"
+  - "Fazil"
+  - "Grimwald"
+  - "Vader"
+  - "Boregar"
+  - "Jeryth Phaulkon"
+  - "Kionin"
+  - "Kionin"
+  - "Laurel Dawn"
+  - "Ryerson"
+  - "Belduran"
+  - "Derrick Swift"
+locations:
+  - "Waterdeep"
+  - "Dagger Falls"
+  - "Loudwater"
+tags: []
 ---
 
 -. ‘The winter of 1371-1372 (Year of Wild Magic) is miserable, and still is by the date of Greengrass, 1372. A blizzard blew out of the Spine of the World in the middle of _

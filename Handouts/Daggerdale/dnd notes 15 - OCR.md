@@ -1,13 +1,46 @@
 ---
-Provenance: OCR transcription of "dnd notes 15.pdf" (11 pages, typed)
-Source: DND Scanned Notes / OneDrive DND Scans
-Campaign: Daggerdale (Waterdeep arc - "The Lingering Threat" / "Waterdeep Dossier")
-Date processed: 2026-04-03
-Utility: C (redundant — pages 1-8 narrative in "Red Herrings - Campaign Summary Extended [unprocessed notes].txt" lines ~1144-1430; pages 9-11 timeline in "Red Herrings - Chapter 4 - 3 - Knife in the Dark - Waterdeep Mission.txt"; summary version in "Waterdeep Dossier.txt")
-
-Archive counterparts: Waterdeep Dossier.txt, Red Herrings - Campaign Summary Extended [unprocessed notes].txt, Red Herrings - Chapter 4 - 3 - Knife in the Dark - Waterdeep Mission.txt
-
-OCR notes: [?] marks indicate uncertain readings. Minor OCR artifacts corrected (e.g. "grandchitdren" → "grandchildren", "Agamemuon" → "Agamemnon"). Original author spellings preserved.
+title: "dnd notes 15"
+slug: dnd-notes-15
+type: narrative
+campaign: daggerdale
+voice: ic
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Steele"
+  - "Agamemnon"
+  - "Yarkul"
+  - "Teskul"
+  - "Venom"
+  - "Beljuril"
+  - "Esperel"
+  - "Vader"
+  - "Corina"
+  - "Dally"
+  - "Jeryth Phaulkon"
+  - "Xulla"
+  - "Y'morth Dalael"
+  - "Gideon"
+  - "Marcus"
+  - "Dulland"
+  - "Feldon Azadand"
+  - "Gauntlet"
+  - "Jannaxil Serpentil"
+  - "Quellar Dalael"
+locations:
+  - "Waterdeep"
+  - "Hillsfar"
+  - "Inn of the Dripping Dagger"
+tags: []
 ---
 
 Summer, 1372, Waterdeep

@@ -1,3 +1,54 @@
+---
+title: "Red Herrings - Chapter 4 - 2 - Calamity in the Dales - Daggerdale mission"
+slug: red-herrings-chapter-4-2-calamity-in-the-dales-daggerdale-mission
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Grimwald"
+  - "Yarkul"
+  - "Corrina"
+  - "Razor"
+  - "Thezul"
+  - "Zelbross"
+  - "Curlclaw"
+  - "Warburden"
+  - "Cauldrawn"
+  - "Corina"
+  - "Shildevan"
+  - "Stoneman"
+  - "Beljuril"
+  - "Aegis"
+  - "Amon"
+  - "Cornish"
+  - "Daniel Overcourt"
+  - "Dragonwing"
+  - "Drake"
+locations:
+  - "Dagger Falls"
+  - "Shadowdale"
+  - "Loudwater"
+  - "Secomber"
+  - "Dagger Hills"
+  - "Hillsfar"
+  - "Waterdeep"
+  - "Anathar's Dell"
+  - "Castle Daggerdale"
+tags:
+  - "military"
+---
 Greengrass, 1372
 Daggerdale Campaign
 Greengrass, 1372
@@ -5,12 +56,9 @@ heavy snowstorm
 Agamemnon and Khelben induct Rufus, Raven and Beljuril into the Harpers, missions are outlined
 Zeke, Brandel and Raven join the Company of the Red Herring
 Mirtul 5
-leave Waterdeep and arrive at Roark
-s Tavern
-meet Grimwald
-s rangers
-Rufus and Raven don
-t sleep, keep an eye on the Rangers
+leave Waterdeep and arrive at Roark's Tavern
+meet Grimwald's rangers
+Rufus and Raven don't sleep, keep an eye on the Rangers
 3 caravans present: Irlingstar, Red Shields and Moonwheel
 Mirtul 6
 separation of the parties
@@ -34,16 +82,14 @@ Corrina befriends a horse, Grimwald intimidates her in the barn
 we enter the woods, Raven finds a trail, which we follow to the keep.  There are bodies all over, around an altar
 Raven is attacked by a spider
 Hanibal lets off a magic missile, but the spider escapes
-Grimwald
-s Rangers have followed, and attack us at the keep, we drive them off
+Grimwald's Rangers have followed, and attack us at the keep, we drive them off
 Maturin wants to get back to town to inform the guard about the keep, the rest push on to Amphail
 Mirtul 9
 Maturin jousts with the Sherriff, comes off poorly, and Warburden rides him into town, dying
 Raven exchanges the horses; Sparrow gets a +2 dagger somewhere
 left Amphail for Bargewright in, arrive 3pm
 outside of town, a farm is on fire, a giant footprint is found
-fight with ettins and orogs at Ned Griffin
-s farm, victory thanks to Hanibal at around 2200h
+fight with ettins and orogs at Ned Griffin's farm, victory thanks to Hanibal at around 2200h
 Mirtul 10
 raining
 party pushes for Uluvin, arrive near midnight
@@ -62,8 +108,7 @@ Mirtul 11
 Maturin learns about the girl, we suit up to stage a rescue
 Moonwheel, Irlingstar and a smaller caravan are leaving the
 The Moonsea guards (Zhents) work for the Moonwheel caravan, led by a fellow named Thezul
-We knock loudly on Thezul
-s door, and he fires off a spell
+We knock loudly on Thezul's door, and he fires off a spell
 Boregar shoots him
 Hanibal casts knock to get through a door, accidentally casts some kind of explosion spell
 Fight with Thezul, Curlclaw, both die
@@ -73,10 +118,8 @@ Razor to accompany us
 Mirtul 12
 arrive Secomber town at noon, Oliver rents a private room
 Mirtul 13
-0200 arrive at Delimber
-s Rest in Secomber
-fight with the rest of Grimwald
-s Rangers
+0200 arrive at Delimber's Rest in Secomber
+fight with the rest of Grimwald's Rangers
 hard-won Victory cost us the deaths of Raven and Hanibal
 Meeting with Dalak the dwarf
 Razor goes his own way
@@ -91,14 +134,11 @@ Mirtul 16
 arrive Zelbross in the PM
 Red Shields, Moonwheel caravan from Loudwater are present
 Greeted by Garrick Shining, an old friend of Boregar
-apparently the Zhents know we
-re coming
+apparently the Zhents know we're coming
 Maturin distributes the swag from the caravan to the people of Zelbross
-We stay at Durnax Vorn
-s palce
+We stay at Durnax Vorn's palce
 The proprietor of the Last Place, Ordilar, is from Llorkh, and likely a Zhentarim informant or even agent
-Garrick
-s tale
+Garrick's tale
 War in the Heartlands
 Tilverton overrun
 Banite Zhents
@@ -124,8 +164,7 @@ breakfast, then Maturin goes to heal an elderly local who has been sick
 Corrina goes to the inn
 casts charm on the innkeeper, then goes into the pigeon coop where a winged snake is ringing a bell.  It asks her name, then flies away
 
-From a pigeon, she learns that the snakes are used to take messages across the desert, about two days to get to the destination.  She arranges for the next pigeon message to go to Durnax
-s tower, instead
+From a pigeon, she learns that the snakes are used to take messages across the desert, about two days to get to the destination.  She arranges for the next pigeon message to go to Durnax's tower, instead
 Red Shields and Moonwheel caravan are going to be heading east, through the desert
 Garrick is going to be heading west
 Dorian sells our extra horses and we head out
@@ -274,10 +313,8 @@ Something heavy brought out of the ground, and Yarkul left
 Sparrow says
 The trail least cold lies there
 Eleint 7
-set out for Anathar
-s dell
-The Battle of Anathar
-s Dell, between the forces of good and the Banites and Xvimites. The Baron escapes
+set out for Anathar's dell
+The Battle of Anathar's Dell, between the forces of good and the Banites and Xvimites. The Baron escapes
 survivors (Torm)
 Daniel Overcourt, squire
 survivors (Tempus)
@@ -311,8 +348,7 @@ Maturin has a vision of a pile of bleached bones towering to the sky.  Torm tell
 Follow the slabs!
 Eleint 11
 pit cleanup
-discovery of the Beholder doors, Sparrow
-s divination that two large covered objects were removed, and that a squadron of men and four monsters were sent into the hole before it was sealed (Cyricists, apparently)
+discovery of the Beholder doors, Sparrow's divination that two large covered objects were removed, and that a squadron of men and four monsters were sent into the hole before it was sealed (Cyricists, apparently)
 Eleint 13
 arrival at the Chillholm mine, Sparrow sneaks in
 The Fist is setting out for town
@@ -337,8 +373,7 @@ encounter with the 3rd Company
 Eleint 19
 0400 battle
 Eleint 20
-mine 1 abandoned by the Fist on Yarkul
-s orders
+mine 1 abandoned by the Fist on Yarkul's orders
 Eleint 21
 arrive Shadowdale to celeration
 a hanging
@@ -358,8 +393,7 @@ meeting of the Council
 testimony of
 Cornish
 one of the refugees who was a slave cook in the Banite temple
-He recalls a battle where Cormaeril
-s men came in and destroyed the Banites, and tells us how the livery had already been changed
+He recalls a battle where Cormaeril's men came in and destroyed the Banites, and tells us how the livery had already been changed
 Boregar receives a letter from his spy in Dagger Falls
 Sparrow dreams that Mystra touches his hand, and he awakes with it healed (kind of).  He follows a woman to the Old Skull inn
 Dorian getws a message from Dragon that Sparrow is in danger
@@ -385,8 +419,7 @@ First Harvestide Festival; First Lathanderite ceremony, Rule Thunderstorm, the F
 Departure from Dagger Falls, Cormaeril accompanies us for the first couple miles, then bids us godspeed
 Marpenoth 2
 ambush by Hill Giant and ogres (Fist companies
-Gumbottom
-s guards)
+Gumbottom's guards)
 Yin-xu escapes, Garrick is hurt badly
 Marpenoth 5
 at the edge of the desert, we hear voices:
@@ -401,8 +434,7 @@ The One
 , which is the big daddy beholder
 A man named Colonel Jol Dax is in charge of Addis Babar.  He was an adventurer who dropped from repute after pulling an axe out of Myth Drannor
 he keeps no mage, but runs a company of fist (17
-Dax
-s Axes)
+Dax's Axes)
 we turn down the trade of the beholder amulet for 5 potions of magic resistance
 Marpenoth 6
 entropists leave
@@ -410,18 +442,13 @@ heavy snows begin
 Marpenoth 11
 smoke from Addis Babar in the distance
 Fist companies: 18th
-Calishite Fists (Drupar
-s Lances); 6th
-Clangeddin
-s Hmmers (Ogres); 17th.
+Calishite Fists (Drupar's Lances); 6th
+Clangeddin's Hmmers (Ogres); 17th.
 We develop Plan A
 Marpenoth 12
-at midnight, we execute the plan, which doesn
-t go exactly right
+at midnight, we execute the plan, which doesn't go exactly right
 Eventually, the Fist is defeated anyway
-The party secures Malar
-s Maw, the Battle Axe from Myth Drannor (goes to Garrick), and Clangeddin
-s Hammer (2H hammer to Maturin)
+The party secures Malar's Maw, the Battle Axe from Myth Drannor (goes to Garrick), and Clangeddin's Hammer (2H hammer to Maturin)
 liberation of Addis Babar.  The refugees stay on, manning the fort against invaders until spring.  We stay for a couple of days.
 Marpenoth 13
 rest
@@ -452,8 +479,7 @@ mithril/starstone +2/+2
 Gaebril
 handaxe - mithril/starstone +2/+2
 Gaebril
-Kalindroth
-s cloak with sigil of some kind
+Kalindroth's cloak with sigil of some kind
 Garrick
 ornate double-edged serrated dagger
 Dorian
@@ -474,23 +500,17 @@ Uktar 26
 Boregar rides up, finds that the place is abandoned
 a lone fire comes from the chimney of a desecrated Cyricist temple
 crazy man inside, with black cowl, and face painted like a skull
-They came, but we murdered their friends.  I could not stop the Tyrant.  He killed everything.  You didn
-t leave when you were told.  Now you can
-t catch it!
+They came, but we murdered their friends.  I could not stop the Tyrant.  He killed everything.  You didn't leave when you were told.  Now you can't catch it!
 zan the Cyricist
 He is drooling and eating some kind of soup made from corpses
-Maturin calls out, and the Cyricist decides to hotfoot it out of ther, walking through a wall in the back of the temple.  Boregar fires, but it doesn
-t stop him.
+Maturin calls out, and the Cyricist decides to hotfoot it out of ther, walking through a wall in the back of the temple.  Boregar fires, but it doesn't stop him.
 We arrive, the wall is solid.  A wyvern-watch guards the back of the wall, but Gaebril dispels it without any trouble.  A couple of zombies are around, but nothing else of note
 Nightal 26
 we arrive at Vaerlith, fading fast and supplies low
-our camels die, and Boregar doesn
-t think we can continue
+our camels die, and Boregar doesn't think we can continue
 too cold to continue
-a half day
-s march could kill us
-New Year
-s Eve
+a half day's march could kill us
+New Year's Eve
 After perhaps a few weeks, perhaps a few days, a roar is heard.  We hear a lion outside.
 Showdown between Maturin and Grandfather.  8 rounds of bloody hell.
 Warburden returns

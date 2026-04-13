@@ -1,3 +1,25 @@
+---
+title: "Quotes"
+slug: quotes
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Waterdeep"
+tags: []
+---
 \"A long time ago, I uttered these words:  I want two things out of this world before I die: to see Star Wars Episode 1, and to finish Blacky's campaign. That was circa 1997.  Well, Phantom Menace came and went (and disappointed), so all that's keeping me going is my lust for closure as far as Waterdeep is concerned.\"<br>
 - Gus, September 9, 2002
 

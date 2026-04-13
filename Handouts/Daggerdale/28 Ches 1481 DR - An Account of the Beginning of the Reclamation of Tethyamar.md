@@ -1,3 +1,38 @@
+---
+title: "An Account of the Beginning of the Reclamation of Tethyamar"
+slug: an-account-of-the-beginning-of-the-reclamation-of-tethyamar
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "28 Ches 1481 DR"
+date_ic_sort: 1481089
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Darred"
+  - "Melegaunt"
+  - "Tezster Gellinson"
+  - "Luminous Whitegate"
+  - "Iolus Warburton"
+  - "John Tunbridge"
+  - "Lobelia Alavandor"
+  - "Loki Mouvranesh"
+  - "Stuart Angleton"
+locations:
+  - "Tethyamar"
+  - "Castle Radiance"
+  - "Castle Daggerdale"
+  - "Loedegan's Hall"
+tags:
+  - "military"
+---
 [Editorial note (2026-04-11): Two references to "Castle Daggerdale" in this file have been corrected to "Castle Radiance." The original wiki text used "Castle Daggerdale" for Luminous Whitegate's title and in Tunbridge's speech about distance from Cormyr; both clearly refer to Castle Radiance, the mountain fortress in the Desertsmouth where this scene takes place. See Archive Search Report - Castle Daggerdale.md.]
 
 DDC – 1481 – 2: An Account of the Beginning of the Reclamation of Tethyamar

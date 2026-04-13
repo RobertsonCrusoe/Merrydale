@@ -1,3 +1,28 @@
+---
+title: "The Descendants of the Paladin of Shar"
+slug: the-descendants-of-the-paladin-of-shar
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Gaebril Tremalkin"
+  - "Kennyth Thames"
+  - "Hrogan Goringrimm"
+locations:
+  - "Waterdeep"
+tags: []
+---
 Information collected by Hrogan Goringrimm, Fifth of the Monastery of Sundered Faiths in 1474 DR, The Year of the Ageless one.
 
 There is much information to be had regarding Gaebril Tremalkin prior to his arrival at the monastery as well as the events leading up to his demise at the hands of a demon and worshippers of Shar. I have been given the task of detailing what transpired shortly before the events that led to Tremalkin ’s death as well as what transpired following his death.

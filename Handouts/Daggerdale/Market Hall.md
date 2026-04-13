@@ -1,3 +1,24 @@
+---
+title: "Market Hall"
+slug: market-hall
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 This is the second-largest building in the Outer Bailey.  It is 80’ long by 40’ wide.  It is the original stone stables, built in the early years of the construction of the Castle.  
 
 A pair of barn doors at either end of the building are connected by a 10’ wide thoroughfare.  On either side of the thoroughfare are the large stalls.  Each stall has three stone walls, and a floor area of 14’ x 11’.  

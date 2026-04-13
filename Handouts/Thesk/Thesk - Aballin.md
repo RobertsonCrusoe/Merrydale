@@ -18,8 +18,7 @@ CR 4
 1st victim hit by an attack must make an opposed grapple check
 risk of drowning.  Cannot cast spells with a verbal component or any speech-type ability until the grapple is broken
 Passive state
-cannot be harmed by any attack that wouldn
-t hurt a pool of water.
+cannot be harmed by any attack that wouldn't hurt a pool of water.
 Aballin
 Stephen Robertson
 Stephen Robertson

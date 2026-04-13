@@ -1,3 +1,44 @@
+---
+title: "Dagger Falls Harper Missive (1)"
+slug: dagger-falls-harper-missive-1
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Gadbout"
+  - "Yarkul"
+  - "Aegis"
+  - "Blacktooth"
+  - "Boregar"
+  - "Braehl"
+  - "Denethor"
+  - "Drake"
+  - "Garlunk"
+  - "Harrington"
+  - "Mourngrym Amcathra"
+  - "Randal Morn"
+  - "Sandalwood"
+  - "Tren Noemfor"
+  - "Vargul"
+  - "William Cormaeril"
+  - "Yin-Xu"
+locations:
+  - "Dagger Falls"
+  - "Dagger Hills"
+tags:
+  - "military"
+---
 This bloodstained note, addressed to Lord Mourngrym Amcathra waqs the first of a series of missives smuggled out of Dagger Falls by an unnamed Harper agent during the Zhent Occupation of 1372.
 
 Lord Amcathra,

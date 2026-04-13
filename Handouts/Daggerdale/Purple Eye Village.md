@@ -1,3 +1,25 @@
+---
+title: "Purple Eye Village"
+slug: purple-eye-village
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags:
+  - "military"
+---
 == Mule Company's First Sight of Purple Eye Village ==
 
 After winding your way along the rough, rocky road for some time, you come to an intersection of sorts; the road continues east-west, and here it runs along a small, perhaps 80’ high bluff which forms a sort of northern wall.  You can see that a fissure in this wall leads to a well-trod path winding its way north.  Just about 100’ into the winding path, there are two way-markers; a pair of stacks of long bones which support a few skulls atop them haphazardly.  The skulls appear to have been blackened with soot, and around the empty sockets, a purple pigment has been applied like a sort of macabre makeup.

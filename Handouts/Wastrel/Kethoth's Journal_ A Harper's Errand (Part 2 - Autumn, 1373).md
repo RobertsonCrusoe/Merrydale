@@ -1,3 +1,27 @@
+---
+title: "Kethoth's Journal_ A Harper's Errand (Part 2 - Autumn, 1373)"
+slug: kethoth-s-journal-a-harper-s-errand-part-2-autumn-1373
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Kethoth"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "kethoths-journal"
+order: 20
+characters:
+  - "Kossur"
+  - "William Spedicut"
+locations:
+  - "Waterdeep"
+tags: []
+---
 [PC Attribution: Chadrazzan Kossur (Les Blackwell)]
 Significant Entries from the Journal of Chadrazzan Kossur...
 ----

@@ -1,3 +1,10 @@
+---
+title: "Brother Desden"
+slug: brother-desden
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 Newer brother with the Emissaries.
 
 ===Excerpt from Lord's Auction===

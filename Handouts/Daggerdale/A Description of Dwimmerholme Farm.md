@@ -1,3 +1,29 @@
+---
+title: "A Description of Dwimmerholme Farm"
+slug: a-description-of-dwimmerholme-farm
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Renfrew"
+  - "Darius Winters"
+locations:
+  - "Cormanthor"
+  - "Dwimmerholme Farm"
+tags:
+  - "military"
+---
 A narrative from the DM about Dwimmerholme Farm in the Autumn of 1481 DR
 
 Dwimmerholme is a smaller farming village compared to many in the Dale.  It is home to only a few hundred villagers, and the walls which enclose the village proper are only a few hundred feet long on a side.  The walls themselves are roughly oval in shape; they are only 10’ high field stone, much of it dry-laid.  Atop this, wooden battlements have been constructed, with six wooden towers about 25’ high in total topping the stone. You notice that at one tower, there are improvements being made; scaffolding faces the tower and dressed stone is scattered about the base.  The walls and battlements, especially close to the gate, are hung with many autumnal decorations; wreaths of golden and orange leaves hang down in long loops, and stocks of dried corn and some root vegetables are hung in clusters every 10’ or so; the harvest was excellent this year, and they are showing their gratitude to Chauntea in a most conspicuous manner.

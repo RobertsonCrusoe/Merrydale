@@ -1,3 +1,37 @@
+---
+title: "1479 Mirtul Part One"
+slug: 1479-mirtul-part-one
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "Mirtul 1479 DR"
+date_ic_sort: 1479123
+date_ooc: ""
+series: ""
+order: 10
+characters:
+  - "Baird"
+  - "Albus Nistral"
+  - "Dolebrund"
+  - "Bor Grollen"
+  - "Kethoth Sepret"
+  - "Maeghuen Grimbold"
+  - "Megana Nistral"
+  - "Quintus Lucretius Cato"
+  - "Terman Dalus"
+  - "Wilkes Tamblin"
+locations:
+  - "Loudwater"
+  - "Waterdeep"
+tags:
+  - "military"
+---
 == Mirtul 1, 1479 ==
 thumb|450px|Kethoth enjoys the Mayor's charms
 

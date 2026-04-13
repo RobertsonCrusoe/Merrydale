@@ -1,3 +1,25 @@
+---
+title: "Isle of the Lich"
+slug: isle-of-the-lich
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Freeport"
+tags: []
+---
 .]]
 A salty tale told to the future crew of the Wastrel by Captain Lydon of Freeport.
 ----

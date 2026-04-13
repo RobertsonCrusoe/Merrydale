@@ -1,3 +1,31 @@
+---
+title: "Baird of Kelemvor"
+slug: baird-of-kelemvor
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Baird"
+  - "Seriadne"
+  - "Bodr"
+  - "Kuryon"
+  - "Stringer"
+locations:
+  - "Loudwater"
+tags: []
+deceased: true
+---
 == Manner of Death ==
 
 Baird of Kelemvor was killed on the twenty-third of Mirtul, 1479.  In a vicious fight with the Mercykillers in the ruins of Spellgard; surrounded by foes, Baird was attacked from behind by the goliath, Bodr.  Baird stumbled to the ground and while struggling to stand, the man known as Stringer took aim upon the struggling paladin and put a crossbow quarrel through the paladin's skull.

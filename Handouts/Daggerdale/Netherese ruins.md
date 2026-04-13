@@ -1,3 +1,25 @@
+---
+title: "Netherese ruins"
+slug: netherese-ruins
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Castle Radiance"
+tags: []
+---
 # Source: The Sieges Perilous wiki (backup 2010-02-21)
 # Wiki page title: Netherese ruins
 # Extracted: 2026-04-08 via extract_wiki_xml.py

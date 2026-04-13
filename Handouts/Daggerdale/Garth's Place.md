@@ -1,3 +1,10 @@
+---
+title: "Garth's Place"
+slug: garth-s-place
+type: stub
+campaign: daggerdale
+subtype: location
+---
 [PC Attribution: Garth Shanks (Todd Burry)]
 <gallery widths=\"350px\" heights=\"250px\" perrow=\"2\"> 
 :image:Garths 3.JPG|<div align=\"center\">A bird's eye sketch of the ramshackle Dockward lodgings of the young Garth Shanks, circa 1371...

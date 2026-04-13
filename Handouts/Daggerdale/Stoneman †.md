@@ -1,3 +1,26 @@
+---
+title: "Stoneman"
+slug: stoneman
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Stoneman"
+locations: []
+tags: []
+deceased: true
+---
 The mercenary known as Stoneman was the youngest, largest and newest member of the Rangers, armed with a large axe. 
 
 * shaved head, square jaw, scar-covered man 

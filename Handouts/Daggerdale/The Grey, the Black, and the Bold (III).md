@@ -1,3 +1,32 @@
+---
+title: "The Grey, the Black, and the Bold (III)"
+slug: the-grey-the-black-and-the-bold-iii
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Maturin Horgath"
+  - "Gaebril Tremalkin"
+  - "Kennyth Thames"
+  - "Ailyan"
+  - "Gaucon'Suhl Nerhuar"
+  - "Hrogan Goringrimm"
+locations:
+  - "Loudwater"
+  - "Waterdeep"
+tags: []
+---
 Compiled and written by Hrogan Goringrimm, priest of Oghma and Fifth of The Monastery of Sundered Faiths, 1477 DR.
 ----
 

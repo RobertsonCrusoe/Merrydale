@@ -1,3 +1,26 @@
+---
+title: "Kethoth talks to the Troops - Kythorn 7"
+slug: kethoth-talks-to-the-troops-kythorn-7
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "kethoths-journal"
+order: ""
+characters:
+  - "Kethoth Sepret"
+  - "Janus"
+locations: []
+tags: []
+---
 After the brief battle in the torture chambre, Kethoth gathers all the party about him, once the convalescence of the priestesses has begun.
 
 \"I wanted to have a talk with the whole lot of you about how we are going to go about proceeding into the Monastery. After interrogating that orc, I perceive that we are about to embark upon our biggest challenge yet. We need to shape up our tactics and behaviour before we can proceed.

@@ -1,3 +1,27 @@
+---
+title: "The Knight's Journey"
+slug: the-knight-s-journey
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: forum
+date_ic: ""
+date_ic_sort: ""
+date_ooc: "2011-01-27"
+series: ""
+order: ""
+characters:
+  - "Reynard"
+locations:
+  - "Castle Radiance"
+  - "Sembia"
+tags: []
+---
 Source: GDN_Discussion + GDN_Comment
 DiscussionID: 10
 CategoryID: 1

@@ -1,3 +1,10 @@
+---
+title: "Randal Morn"
+slug: randal-morn
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 # Randal Morn †
 # Source: The Sieges Perilous wiki (backup dated 2010-02-21)
 

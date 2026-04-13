@@ -1,3 +1,34 @@
+---
+title: "Letter to Thunderstorm - Lucan and Jasper Draft a Request for Aid"
+slug: letter-to-thunderstorm-lucan-and-jasper-draft-a-request-for-aid
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Dauntless Thunderstorm"
+  - "Jasper Hawkford"
+  - "Jeska Monarch"
+  - "Lucan Alavandor"
+  - "Will"
+locations:
+  - "Thistle Ridge"
+  - "Dagger Falls"
+  - "Greenwood Farm"
+  - "Sembia"
+tags:
+  - "military"
+---
 GREENWOOD FARM - EVENING
 A sturdy wooden table in the corner of the main hall serves as an impromptu writing desk. JASPER sits hunched over a piece of parchment, quill in hand, while LUCAN paces energetically behind him. JESKA's notes rest at the edge of the table.
 

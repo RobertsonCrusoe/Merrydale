@@ -1,3 +1,36 @@
+---
+title: "Summer, Neverwinter"
+slug: summer-neverwinter
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Zaltim"
+  - "Jafar"
+  - "Shuldan"
+  - "Gilth'zan"
+  - "Laurel Dawn"
+  - "Beljuril"
+  - "Kionin"
+  - "Kionin"
+  - "Alt Kor"
+  - "Ansal Bloodshoulder"
+  - "Wilk Shtub"
+locations:
+  - "Waterdeep"
+tags: []
+---
 Being the tale of the Road Mage, Zaltim, and his efforts in the North to remove the Zhent influence in the area. During the trading season of 1370, a deadly plague had come to the North - a plague that sought out Those Who Harp and their allies. This plague, however, came not through boils and fever, and brought no wracking coughs nor dementia nor pox. It brought only death, and came as a blade in the back, an ambush in the night. Its contagion was passed by neither vapours nor vermin, but by the whispers of men with dark hearts and the clink of Moonsea coin. Harpers were dying, disappearing, and worse, and the Road Mage, a Harper himself, had sworn by the memory of a fallen friend that he would discover the root of this pestilence, and burn it out. To this end, he took up with a group of strangers who came together by chance on Greengrass of 1371. These heroes were to take up in Zaltim’s struggle and continue his work when he could no longer do so. Here, then, is the story of the Road Mage and his allies.
 
 ==Attack on the Docks==

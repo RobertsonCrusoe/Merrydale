@@ -1,3 +1,36 @@
+---
+title: "Rufus' Journal_ Hunted North"
+slug: rufus-journal-hunted-north
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Grimwald"
+  - "Beljuril"
+  - "Derrick Swift"
+  - "Agamemnon"
+  - "Belduran"
+  - "Boregar"
+  - "Fazil"
+  - "Tuugan Voun"
+  - "Zaltim"
+  - "Oberon"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 [PC Attribution: Rufus Larrigan (Stephen Robertson)]
 A number of entries salvaged from the journal of Rufus of Selûne concerning the Neverwinter Company's encounter with Grimwald's Rangers, recovered by chance from Neverwinter Harbour and sent by Lord Nasher to Beljuril of Azuth in Waterdeep.
 

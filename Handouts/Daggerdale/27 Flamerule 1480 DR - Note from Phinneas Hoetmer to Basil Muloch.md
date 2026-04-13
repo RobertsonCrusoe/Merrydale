@@ -1,3 +1,28 @@
+---
+title: "Note from Phinneas Hoetmer to Basil Muloch"
+slug: note-from-phinneas-hoetmer-to-basil-muloch
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "27 Flamerule 1480 DR"
+date_ic_sort: 1480209
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Loedegan Whitegate"
+  - "Phineas Hoetmer"
+locations:
+  - "Yellow Abbey"
+tags:
+  - "military"
+---
 DDC – 1481 – 13: Note from Phinneas Hoetmer to Basil Muloch 
 Written on 27 Flamerule, 1480, Hoetmer once again displays his prescience, if not his ability to make others take it seriously. 
 GFD Notes: 

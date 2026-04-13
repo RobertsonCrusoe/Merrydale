@@ -1,3 +1,33 @@
+---
+title: "Ballad of Maturin and the Lion - raw version"
+slug: ballad-of-maturin-and-the-lion-raw-version
+type: session
+campaign: daggerdale
+voice: ooc
+status: unprocessed
+tier: editor
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Grandfather"
+  - "Grimwald"
+  - "Janus"
+  - "Maturin Horgath"
+  - "Shildevan"
+  - "Yarkul"
+locations:
+  - "Dagger Falls"
+  - "Waterdeep"
+tags: []
+---
 [PC Attribution: Maturin Horgath (Stephen Robertson)]
 [RAW - UNEDITED AND UNREVIEWED - extracted by automated process, not yet verified for accuracy or completeness]
 

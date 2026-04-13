@@ -1,3 +1,26 @@
+---
+title: "Keep on the Shadowfell_ Session 2"
+slug: keep-on-the-shadowfell-session-2
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Brash"
+  - "Mandelbrot"
+locations: []
+tags: []
+---
 ===Participants===
 *DM: Gus
 *, playing

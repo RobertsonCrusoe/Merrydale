@@ -1,3 +1,53 @@
+---
+title: "Daggerdale - Unfinished Tales (Fresh Blood 1480 and Abandon Hope 1481)"
+slug: daggerdale-unfinished-tales-fresh-blood-1480-and-abandon-hope-1481
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "abandon-hope"
+order: ""
+characters:
+  - "Reynard"
+  - "Darred"
+  - "Denelius Ormath"
+  - "Beliard Emmarask"
+  - "Carpathia Twist"
+  - "Nathan Gale"
+  - "Tyrian Grey"
+  - "Alen Reks"
+  - "Arkadios Solaris"
+  - "Melegaunt"
+  - "Balak Quickaxe"
+  - "John Tunbridge"
+  - "Roger Dunland"
+  - "Will"
+  - "Drake"
+  - "Invictus"
+  - "Lobelia Alavandor"
+  - "Loki Mouvranesh"
+  - "Xaphan"
+locations:
+  - "Castle Radiance"
+  - "Charity"
+  - "Dagger Falls"
+  - "Quick Axes"
+  - "Cormanthor"
+  - "Tethyamar"
+  - "Sembia"
+  - "Base Camp Silver"
+  - "Yellow Abbey"
+  - "Charity Hills Farm"
+tags: []
+---
 DAGGERDALE
 Unfinished Tales
 

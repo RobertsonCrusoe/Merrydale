@@ -1,3 +1,29 @@
+---
+title: "Mattrick's Journal - The Journey to Saharelgard. 9th Mirtul, 1479"
+slug: mattrick-s-journal-the-journey-to-saharelgard-9th-mirtul-1479
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Mattrick"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Baird"
+  - "Janus"
+  - "Kethoth Sepret"
+locations:
+  - "Loudwater"
+tags:
+  - "military"
+---
 1479, 9th of Mirtul
 
 I had always been under the impression that Aglarond was different from the rest of realms in the fact that it was fraught with danger. After traveling with this group of individuals for nearly a tenday; I now see that my impressions of the world were quite limited. Danger is everywhere but where enthusiasm and optimism has been all but squashed in Aglarond it has not seemed to happen here in the west. Some manner of fell creature seems to be lurking in every other shadow but the people here remain optimistic about their future and view each skulking fiend as an opportunity.

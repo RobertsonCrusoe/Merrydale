@@ -1,3 +1,26 @@
+---
+title: "The Shadowfell Nightmare of Iolus Warburton"
+slug: the-shadowfell-nightmare-of-iolus-warburton
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Iolus Warburton"
+locations:
+  - "Dagger Falls"
+tags: []
+---
 == Darkness Falls ==
 
 Iolus was following his friends through the gloom, and, like Tuugan, noticed that what little light there was in this realm was fading.  Before he, or any of his companions could react, he was in the deepest black, alone, and unable to find his friends.

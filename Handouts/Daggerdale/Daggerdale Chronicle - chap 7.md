@@ -1,3 +1,55 @@
+---
+title: "Daggerdale Chronicle - chap 7"
+slug: daggerdale-chronicle-chap-7
+type: lore
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Gideon"
+  - "Yarkul"
+  - "Darred"
+  - "Drake"
+  - "Grandfather"
+  - "Alystair Dretch"
+  - "Venosar"
+  - "Invictus"
+  - "Nathan Gale"
+  - "Lotus"
+  - "Steele"
+  - "Gaebril Tremalkin"
+  - "Alen Reks"
+  - "Lobelia Alavandor"
+  - "Loki Mouvranesh"
+  - "Seir"
+  - "Luminous Whitegate"
+  - "Braxus"
+  - "Iolus Warburton"
+locations:
+  - "Charity"
+  - "Tethyamar"
+  - "Dagger Falls"
+  - "Liberty Hill"
+  - "Waterdeep"
+  - "Shadowdale"
+  - "Yellow Abbey"
+  - "Castle Radiance"
+  - "Tesh Valley"
+  - "Cormanthor"
+tags:
+  - "military"
+---
 [Editorial note (2026-04-11): Two references to "Castle Daggerdale" in the Situation Report section (~Ches 28th 1481 DR) of this file have been corrected to "Castle Radiance." The original wiki text used "Castle Daggerdale" for Luminous Whitegate's title and in Tunbridge's speech about distance from Cormyr; both clearly refer to Castle Radiance. All other "Castle Daggerdale" references in this file are genuine. See Archive Search Report - Castle Daggerdale.md.]
 
 Contents

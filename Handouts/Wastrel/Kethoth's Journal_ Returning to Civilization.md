@@ -1,3 +1,28 @@
+---
+title: "Kethoth's Journal_ Returning to Civilization"
+slug: kethoth-s-journal-returning-to-civilization
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Kethoth"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "kethoths-journal"
+order: ""
+characters:
+  - "Kossur"
+  - "Illustryel Moonfire"
+  - "Kethoth Sepret"
+locations:
+  - "Loudwater"
+tags: []
+---
 [PC Attribution: Chadrazzan Kossur (Les Blackwell)]
 Significant Entries from the Journal of Chadrazzan Kossur...
 ----

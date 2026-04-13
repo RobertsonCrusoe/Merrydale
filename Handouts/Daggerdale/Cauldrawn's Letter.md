@@ -1,3 +1,28 @@
+---
+title: "Cauldrawn's Letter"
+slug: cauldrawn-s-letter
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Cauldrawn"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Cauldrawn"
+  - "Boregar"
+  - "Duncan Eldoun"
+  - "Hanibal Felthian"
+locations: []
+tags: []
+---
 A letter found on the body of the evil wizard Cauldrawn, dated 2 Mirtul, 1372 DR.
 
 Cauldrawn,

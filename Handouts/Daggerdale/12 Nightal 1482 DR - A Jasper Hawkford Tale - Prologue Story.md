@@ -1,3 +1,33 @@
+---
+title: "A Jasper Hawkford Tale - Prologue Story"
+slug: a-jasper-hawkford-tale-prologue-story
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "12 Nightal 1482 DR"
+date_ic_sort: 1482348
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Khara Sulwood"
+  - "Jasper Hawkford"
+  - "Melka Fairwater"
+  - "Adee Ulphor"
+  - "Lestari Silvermane"
+locations:
+  - "Shadowdale"
+  - "Dagger Falls"
+  - "Thistle Ridge"
+  - "Hillsfar"
+tags: []
+---
 A Jasper Hawkford Tale - Prologue Story
 by Gus Miranda (as Jasper Hawkford)
 Email thread: "A Jasper Hawksford Tale", 5 Jun 2024

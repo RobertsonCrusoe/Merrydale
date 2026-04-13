@@ -1,3 +1,27 @@
+---
+title: "Jasper Recalls Round 2 of the Match Against the Redjacks"
+slug: jasper-recalls-round-2-of-the-match-against-the-redjacks
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Jasper"
+source: handout
+date_ic: "22 Ches 1483 DR"
+date_ic_sort: 1483083
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Mortimer"
+  - "Nemia"
+locations: []
+tags:
+  - "military"
+---
 22 Ches, 1483 DR. - Jasper Recalls Round 2 of the Match Against the Redjacks
 
 "Ha! Take that you fucking bird! Did you see that, Jas?!"

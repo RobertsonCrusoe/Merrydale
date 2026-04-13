@@ -1,3 +1,35 @@
+---
+title: "Phaulkon Cargo - Raw Notes"
+slug: phaulkon-cargo-raw-notes
+type: session
+campaign: daggerdale
+voice: ooc
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Gauntlet"
+  - "Yarkul"
+  - "Xulla"
+  - "Alek Lenter"
+  - "Dulbrawan Anteos"
+  - "Esperel"
+  - "Gotlieb Erlgund"
+  - "Semuldan Anteos"
+  - "Teskul"
+  - "Agamemnon"
+locations: []
+tags:
+  - "military"
+---
 [RAW - UNEDITED AND UNREVIEWED - extracted by automated process, not yet verified for accuracy or completeness]
 
 atch for the CRH, and he continually lost ground all summer to because of this. Further, he thought he had annexed a failing company in the Dalael, but it turned out that he had the picture all wrong. Dalael managed to use Ersgul to bring them back into the game, and the Phaulkon Cargo (which turned out to be a major pot that everyone was playing for) was easy pickings after the losses that Ersgul had suffered throughout the summer, and also through the treachery and complications of the Anteos Family, upon which everything seemed to hinge.
@@ -11,8 +43,7 @@ Though I lack the political clout to attack the Noble Families that have dealing
 ztoid_Z
 {wsokgc_[
 First day of Harvestide Festival
-However, on the day of Harvestide 1371, news of a daring and bloody heist mars the festivities of the day. The merchant house Phaulkon assembled its last caravan for the season. It was to depart for Cormyr the next day, but it was attacked in the court of the White Bull. The New Knights of the Sword Coast, who had been hired to guard it, were all killed, as were all the usual caravan guards and the caravan master. A dozen citizens were killed by various fire-spells that were used in the heist. The entire caravan disappeared around a corner and into the sewers in a matter of minutes. The guard didn
-t seem to get there on time
+However, on the day of Harvestide 1371, news of a daring and bloody heist mars the festivities of the day. The merchant house Phaulkon assembled its last caravan for the season. It was to depart for Cormyr the next day, but it was attacked in the court of the White Bull. The New Knights of the Sword Coast, who had been hired to guard it, were all killed, as were all the usual caravan guards and the caravan master. A dozen citizens were killed by various fire-spells that were used in the heist. The entire caravan disappeared around a corner and into the sewers in a matter of minutes. The guard didn't seem to get there on time
 This heist ruined Phaulkon house, and the old master of the house, Phaulkon himself, hung himself. His villa, Phaulkonmere, would later be purchased by the CRH as a new base of operations.
 Eleint 25	Gunnar's Tavern
 Yarkul asks us to join Ersgul Alliance, which, according to Thagdul, is a ploy by Yarkul to put support behind Corass Anteos, a supporter of Ersgul (a friend of the Dalael) over Dulbrawan Anteos, a supporter of Drurginz (an enemy of the Dalael)
@@ -23,8 +54,7 @@ The first mission that the CRH and the NC decide to do is to raid the Wavesilver
 Marpenoth 1
 Garth plants info, saying that Ersgul knocked over the Phaulkon caravan
 Rufus donates his 2 bars of mithril to the House of the Moon
-Esperel visits Alek Lenter to sell the mithril, gets a price of 1000 gp/bar but he recommends that we don
-t sell it in town
+Esperel visits Alek Lenter to sell the mithril, gets a price of 1000 gp/bar but he recommends that we don't sell it in town
 Marpenoth 2
 Thagdul agrees to move the mithril for us, which he will arrange through his factor, Gotlieb Erlgund
 Teskul is captured by Garth, who defends himself by saying that
@@ -45,7 +75,5 @@ The green-eyed beholder Xulla made another appearance at this point. It and Quev
 In the end, the entire cargo (valued at well over 100 000 gp) went into the UnderDark with the Drow.
 Gauntlet somehow managed to escape.
 Analysis
-Company Ersgul put it
-s faith in the wrong allies, it would seem. Yarkul
-s Reprobates were no m
+Company Ersgul put it's faith in the wrong allies, it would seem. Yarkul's Reprobates were no m
 Microsoft Word 6.0 Document

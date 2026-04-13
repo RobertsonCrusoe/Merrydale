@@ -1,3 +1,10 @@
+---
+title: "Bogrun"
+slug: bogrun
+type: stub
+campaign: wastrel
+subtype: npc
+---
 Currently a wood woad but prior to that, a dim-witted, relatively loyal and seemingly fortunate survivor of The bandit known as Kossur's employ.  Bogrun was used by Kossur to do the more dangerous or unpleasant tasks that Kossur felt were too mundane for a bandit king of his status.  Kossur became known for his exceptionally violent violations that he commited upon those unfortunate enough to encounter him.  Little known to Kossur was his reputation for dispensing of those he had under his \"employ\".  When Kossur decided it was time to \"move on\" he would do so and the first step to doing such a thing was to put to rest those currently under his employ. He was normally quite thorough.  In the case of Bogrun, he wasn't thorough enough.
 
 The Cerulean Circle, a militant order of druids, rangers and the like, hailing from the High Forest had been hunting the bandit known as Kossur for quite some time.  They never caught Kossur but they did end up capturing the barely alive Bogrun.  Bogrun was one of the 'Circle's first attempts at alternative forms of sentencing for the crimes committed against the land as well as the people of that land.

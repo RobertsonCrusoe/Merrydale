@@ -1,3 +1,10 @@
+---
+title: "Wallace Blackhammer's Account of the Purple Feathers"
+slug: wallace-blackhammer-s-account-of-the-purple-feathers
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 From Wallace Blackhammer, Dwarven stone mason;	
 
 \"On the first day, they came in real close before anyone knew what was going on.  I’ve been working on bridges and forts for 10 years up in these mountains, and I’ve never seen them attack like that; there was only about 6 of them, and they didn’t really want to kill any more than they had to, I don’t think.  They snatched Gumboard and Lagerbelly before a drop of blood was spilled, and if the damned lazy mercs that wus supposed to be guarding us hadn’t finally showed up to do something about it, I doubt there’d been a death.  The cod-licking orcs just fought their way outa danger, but killed 2 guards handily as they did so.  They seemed happy to slip away without further carnage, and that ain’t orc-like.

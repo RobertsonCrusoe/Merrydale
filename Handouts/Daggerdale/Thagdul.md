@@ -1,3 +1,26 @@
+---
+title: "Thagdul"
+slug: thagdul
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jafar"
+locations: []
+tags:
+  - "military"
+---
 thumb|left|125px|Thagdul's curious sigil
 thumb|Thagdul introduces himself to the Company of the Red Herring
 

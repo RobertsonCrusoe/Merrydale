@@ -1,3 +1,10 @@
+---
+title: "Morden Blackwater"
+slug: morden-blackwater
+type: stub
+campaign: wastrel
+subtype: npc
+---
 Morden is a dwarf hailing from a clan of dwarves to the  north, beneath Mt. Grimnurr.  He arrived in Loudwater late in the month  of Mirtul of 1480 DR.  His intention was to simply pass through on the  way to Waterdeep but he was convinced to stay by the combined efforts of  Shepherd Malaric and Magistrate Brannikar due his skills as a  blacksmith.  With the death of Megana Nistral, Loudwater was in  desperate need of a competent blacksmith and was fortunate to come  across Morden.  His skill appears to far surpass that of Megana's  although no one is rude or cruel enough to voice it.
 
 Morden is a  typical as it comes.  He is a hard working dwarf with little to say to  most, has a fondness for stiff drinks and takes no small amount of  interest in anything made of metal and appears to be unusual or rare.   His prices also seem to be a little lower than Meghana's.  Without his  lower prices, Morden would have been kept busy in Loudwater.  With those  prices, it almost guarantees any order will involve waiting for him to  get around to it.

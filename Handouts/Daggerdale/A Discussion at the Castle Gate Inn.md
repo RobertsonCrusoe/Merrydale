@@ -1,3 +1,39 @@
+---
+title: "A Discussion at the Castle Gate Inn"
+slug: a-discussion-at-the-castle-gate-inn
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Milli"
+  - "Grimwald"
+  - "Ardelusk Whitegate"
+  - "Dane Grimwald"
+  - "Erevan Ilythiirian"
+  - "Banitt Harbaugh"
+  - "Boregar"
+  - "Lumina Whitegate"
+  - "Luminous Whitegate"
+locations:
+  - "Castle Radiance"
+  - "Dagger Falls"
+  - "Shadowdale"
+  - "Castle Daggerdale"
+  - "Castle Gate Inn"
+  - "Crossed Blades Farm"
+tags: []
+---
 The following characters are at the Castle Gate Inn in Crossed Blades Farm;
 
 #Erevan, drow sorcerer

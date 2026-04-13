@@ -1,3 +1,11 @@
+---
+title: "Lavidius"
+slug: lavidius
+type: stub
+campaign: wastrel
+subtype: npc
+deceased: true
+---
 Revealed by Gavrin Zayle that Lavidius plays a role as being the \"hand\" of Lady Veniitra. It was said that if the Lady wants someone of import done away with, she send Lavidius to do it.
 
 It was revealed that Lavidius was a large, menacing and bold tiefling warrior on Tarsakh 19, 1480 when he rode into Loudwater, killing a number of Wardens, cutting down the personal guard of Grandus Hammerfel and beheading Grandus.

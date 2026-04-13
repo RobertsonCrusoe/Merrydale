@@ -1,3 +1,10 @@
+---
+title: "Ullunarus"
+slug: ullunarus
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 thumb|The Marshall is both a dignitary and an accomplished warrior
 
 Marshall Ullunaris is the official who does most of the governing at the Embassy.  He gives the day-to-day orders and keeps the place running.  He couldn't do this without his Steward.

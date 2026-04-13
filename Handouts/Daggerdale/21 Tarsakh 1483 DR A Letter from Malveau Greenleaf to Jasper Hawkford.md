@@ -1,3 +1,30 @@
+---
+title: "A Letter from Malveau Greenleaf to Jasper Hawkford"
+slug: a-letter-from-malveau-greenleaf-to-jasper-hawkford
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Malveau Greenleaf"
+source: handout
+date_ic: "21 Tarsakh 1483 DR"
+date_ic_sort: 1483112
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jasper Hawkford"
+  - "Illya Elderbough"
+  - "Malveau Greenleaf"
+  - "Vessuvian"
+locations:
+  - "Thistle Ridge"
+  - "Castle Radiance"
+tags: []
+---
 21 Tarsakh, 1483 DR – A Letter from Malveau Greenleaf to Jasper Hawkford 
 Master Hawkford: 
 I have received your correspondence by way of your dutiful and true friend, Brother Vessuvian.  He graciously spent the time to track me to my current whereabouts and send your correspondence to his colleagues here.   

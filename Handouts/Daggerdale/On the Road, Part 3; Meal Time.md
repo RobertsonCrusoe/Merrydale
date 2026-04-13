@@ -1,3 +1,25 @@
+---
+title: "On the Road, Part 3; Meal Time"
+slug: on-the-road-part-3-meal-time
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: 30
+characters:
+  - "Otrallia kel Tannith"
+locations: []
+tags: []
+---
 Two days on the road, early morning once again. Edward looked west from where he sat, towards the orange-red sky hunching protectively over the horizon. The wind carried the smell of salt and sea over the intervening farmland between the ocean and the Trade Way, defying the distance, just to abuse the young man's wrinkled nostrils (or that's how it seemed to him, at least). It was a scent new to him, yet quickly changing from something novel and refreshing to a stench altogether off-putting. Idle thoughts, pondering how any person could spend his or her entire life so close the shore, let alone the farmers that dotted the distant landscape as far as his eyes could spy them - between the fresh manure and the rotten sea-stink, Edward doubted they'd have any sense of smell past the age of twenty. Almost enough to make him lose his appetite. Almost. He stoked the fire, then returned his attention to the thin spit he had just finished unfolding and bracing against the soil, the rough, slender legs splayed out like some emaciated, headless animal. Untying the three twine strings from around the spit, he straightened them out and then beckoned his companion, open palm waiting.
 
 \"I don't get it.\" She muttered, turning the long piece of metal over in her hands, fiddling with the clasps tenatively, too apprehensive to twist them in either direction.

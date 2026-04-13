@@ -1,3 +1,47 @@
+---
+title: "A Speculative History of Thistle Ridge - Lore Analysis - Jun 2025"
+slug: a-speculative-history-of-thistle-ridge-lore-analysis-jun-2025
+type: lore
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Quercina"
+  - "Melegaunt"
+  - "Abrecia"
+  - "Aisling Maeliticus"
+  - "Boregar"
+  - "Contessa Palus"
+  - "Calix"
+  - "Fluvia"
+  - "Abrecia Alavandor"
+  - "Xerces Alavaxi"
+  - "Andarl Alavandor"
+  - "Daphne Dale"
+  - "Invictus"
+  - "Nadia Thistle"
+  - "Nemia"
+  - "Tergus Clarandal"
+  - "Dol'Rullian"
+  - "Khara Sulwood"
+locations:
+  - "Thistle Ridge"
+  - "Hillsfar"
+  - "Dagger Falls"
+  - "Greenwood Farm"
+  - "Sembia"
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

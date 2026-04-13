@@ -1,3 +1,29 @@
+---
+title: "1480 DR - Yellow Abbey Booke - Charity Hills"
+slug: 1480-dr-yellow-abbey-booke-charity-hills
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1480 DR"
+date_ic_sort: 1480001
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Kesh"
+  - "Kesh Oakdale"
+locations:
+  - "Charity"
+  - "Charity Hills Farm"
+tags:
+  - "military"
+---
 right|450px
 
 ==INCOMPLETE - The information below has not been fully finished and edited - this tag will be removed when it is ready for play==

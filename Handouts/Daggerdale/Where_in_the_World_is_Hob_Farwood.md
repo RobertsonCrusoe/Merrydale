@@ -1,3 +1,31 @@
+---
+title: "Where_in_the_World_is_Hob_Farwood"
+slug: where-in-the-world-is-hob-farwood
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Agamemnon"
+  - "Jeryth Phaulkon"
+  - "Beljuril"
+  - "Boregar"
+locations:
+  - "Waterdeep"
+  - "Loudwater"
+tags:
+  - "military"
+---
 Where in the world is Hob Farwood? 
 
 When Raven and Rufus arrived back in Waterdeep on the 29th of Ches, they returned without Hob.  Apparently, Hob was captured by slavers in Neverwinter.  He was shipped north to Luskan, then east to Mirabar, then south along the Long Road, and from Amphail, no one knows.  They traveled with a former friend of the Road Mage, a person of similar vocation by the name of Agamemnon.  In Amphail, Agamemnon went east towards Loudwater to look for signs of the passage of the caravan.  . 

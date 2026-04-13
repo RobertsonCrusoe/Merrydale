@@ -1,1 +1,8 @@
+---
+title: "John Tunbridge"
+slug: john-tunbridge
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 His Majesty's Ambassador of the  at Castle Radiance. Tunbridge is old and fat, and he has made every effort to suggest that Beliard Emmarask will be replacing him when the Grey Lord calls him from this world.

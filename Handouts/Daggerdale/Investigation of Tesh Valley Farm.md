@@ -1,3 +1,37 @@
+---
+title: "Investigation of Tesh Valley Farm"
+slug: investigation-of-tesh-valley-farm
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Wicks"
+  - "Weaver"
+  - "Ander Millstone"
+  - "Argent Whitegate"
+  - "Decker Blackmane"
+  - "Elsa Warburton"
+  - "Grid Hammerfall"
+  - "Kir Lanan"
+  - "Rhuun"
+  - "Sorashana"
+locations:
+  - "Tesh Valley"
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 The White Cloaks traveled to Tesh Valley Farm after a couple of days in Dagger Falls.
 
 On the trip to the farm, they were attacked on the road by a new threat; a flock of Kir Lanan, creatures that Rhuun of Thunder was only too familiar with.  These creatures used darkness and confusion to their advantage, splitting up the party and trying to abduct isolated members; they tried to carry off their victims, and would drop them from great heights when they struggled too much.  In the end, they managed to fight the creatures off, but they realized that they had been found.

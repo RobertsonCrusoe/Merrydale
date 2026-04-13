@@ -1,3 +1,10 @@
+---
+title: "Captain Rainyerd's Account of the Purple Feathers"
+slug: captain-rainyerd-s-account-of-the-purple-feathers
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 From Captain Rainyerd;
 
 \"There isn’t much to say.  The Lord and Zenith Lord Whitegate took counsel at the last Strategic Meeting, and decided that it was best to let things cool off in that region for a while.  I am a Captain. I follow orders, and up here, either of them can give them.

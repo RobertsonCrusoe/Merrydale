@@ -1,3 +1,35 @@
+---
+title: "Road to the Towers Tyrannous (recap)"
+slug: road-to-the-towers-tyrannous-recap
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Kethoth Sepret"
+  - "Baird"
+  - "Seriadne"
+  - "Hrogan Goringrimm"
+  - "Maeghuen Grimbold"
+  - "Quintus Lucretius Cato"
+  - "Radha Leveaux"
+locations:
+  - "Loudwater"
+  - "Waterdeep"
+  - "Sembia"
+tags:
+  - "military"
+---
 ==Heroes ==
 
 *Priya Moonstar – Wielding a Selunite holy artefact – Tremalkin’s Bow. A Waterdhavian priestess of Selune of elven decent and adopted into the Moonstar noble family at a young age. Once; studying at The Monastery of Sundered Faith, she joined The Seven after assisting them with the liberation of the Monastery and it was decided that The Seven would be trying to seek out The Spire (a possible secret location for Selunites on the western edge of the Graypeak mountains.

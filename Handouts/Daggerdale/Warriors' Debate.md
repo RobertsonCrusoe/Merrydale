@@ -1,3 +1,37 @@
+---
+title: "Warriors' Debate"
+slug: warriors-debate
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Drake"
+  - "Grandfather"
+  - "Yarkul"
+  - "Janus"
+  - "Maturin Horgath"
+  - "Nathan Gale"
+  - "Shildevan"
+locations:
+  - "Dagger Falls"
+  - "Sembia"
+  - "Yulash"
+  - "Dagger Hills"
+  - "Shadowdale"
+tags: []
+---
 27-28 Eleint, 1372 - Three friends, Maturin, Boregar and Dorian debate their next moves after the fall of the House of Xvim and Bane.
 
 ----

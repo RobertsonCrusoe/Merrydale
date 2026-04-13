@@ -1,3 +1,30 @@
+---
+title: "The Knight's Journey"
+slug: the-knight-s-journey
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Reynard"
+  - "Denelius Ormath"
+  - "Beliard Emmarask"
+locations:
+  - "Castle Radiance"
+  - "Sembia"
+  - "The Dragon's Gate Inn"
+tags: []
+---
 ==From Westgate by Sea==
 
 Tyrian was ill prepared to make the journey north to Daggerdale.  Almost as soon as Reynard the Boar had issued his challenge, Tyrian was out of the doors of The House of Ilmater and headed to the Bitch Queen's Shrine, where he was sure to find the regular collection of ship captains paying their offerings and uttering their prayers to keep Umberlee's displeasure away.  Aside from the monk's habit he wore, the only other possessions to his name where given to him by Reynard as he left the temple:  a purse with some coins, a sharp knife and a holy symbol of Ilmater.  Most of the captains at the Bitch Queen's shrine laughed him away, but one finally agreed to take him aboard thanks to the holy symbol dangling on the young knight's neck.

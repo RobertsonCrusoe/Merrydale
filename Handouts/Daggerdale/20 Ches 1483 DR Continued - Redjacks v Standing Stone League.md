@@ -1,3 +1,26 @@
+---
+title: "Continued - Redjacks v Standing Stone League"
+slug: continued-redjacks-v-standing-stone-league
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "20 Ches 1483 DR"
+date_ic_sort: 1483081
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Horus"
+locations: []
+tags:
+  - "military"
+---
 20 Ches Continued -- Redjacks v. Standing Stone League
 
 Match Narrative

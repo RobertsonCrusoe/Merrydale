@@ -1,3 +1,42 @@
+---
+title: "From the Archives - The Warders of Waterdeep"
+slug: from-the-archives-the-warders-of-waterdeep
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Steele"
+  - "Gaebril Tremalkin"
+  - "Breton Durinbold"
+  - "Kennyth Thames"
+  - "Kyahs Agbar"
+  - "Rychel Voordan"
+  - "Edgar Grimbold"
+  - "Gable"
+  - "Phineous Reoul"
+  - "Talinvor Durinbold"
+  - "Anioch"
+  - "Bliz'Anioch"
+  - "Dally"
+  - "Y'morth Dalael"
+  - "Harkas Kormallis"
+  - "Richter"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 FROM THE ARCHIVES — THE WARDERS OF WATERDEEP
 CLASSIFICATION: SECONDARY MATERIAL — AI-generated content (Claude/ChatGPT) based on campaign wiki archives, not primary email correspondence
 

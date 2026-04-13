@@ -1,3 +1,32 @@
+---
+title: "Loedegan Close"
+slug: loedegan-close
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Hasting Blackmane"
+  - "Weaver"
+  - "Loedegan Whitegate"
+  - "Luminous Whitegate"
+locations:
+  - "Waterdeep"
+  - "Liberty Hill"
+  - "Dagger Hills"
+tags:
+  - "military"
+---
 ==Recent History==
 The Close was given to the White Cloaks by Luminous Whitegate after the Saints' Battle, in 1480.  Sister Estelmer of Waterdeep notarized the transaction on the eides of Eleasias, 1480 DR.
 

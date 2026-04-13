@@ -1,3 +1,27 @@
+---
+title: "Esperel"
+slug: esperel
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Esperel"
+  - "Steele"
+  - "Gilthanas"
+locations: []
+tags: []
+---
 [PC Attribution: Esperel (Rob)]
 Esperel the moon elf is a cousin to Ellyth and nephew to Gilthanas. He is also a distant relation of Lotharil.
 

@@ -1,3 +1,27 @@
+---
+title: "Arya Nightweaver"
+slug: arya-nightweaver
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Aryaluystrinne Miritar"
+locations:
+  - "Cormanthor"
+  - "Loudwater"
+tags: []
+---
 == House Miritar ==
 '''Aryaluystrinne Miritar''' was born and raised in Mithrendain within her home realm of the Feywild. There, she was a pampered member of the Royal Court within Mithrendain with much of her family's notoriety coming from her uncle [[Seiveril Miritar]]. Seiveril led the retaking of Myth Drannor in 1374 DR and purged the once great but ruined city of the demons and monsters that had called it their home for centuries. He was killed during the later stages of the reclamation of Myth Drannor and for the last century, Myth Drannor and the Eladrin force now occupying Myth Drannor is led by Seiveril's daughter whom has achieved the impressive rank of Coronal in the Eladrin empire. [[Ilsevele Miritar]] is an intelligent, intolerant, ferocious leader that keeps a tight reign on the newly reformed Myth Drannor and when not battling evil that crawls out of the depths of the city and surrounding forest even after nearly a century and a half of "purging" ; she is kept busy with reforging relatioships with the Dalelands and Cormyr as well as keeping a close eye on the ambitious and undisputedly evil realm of Netheril.
 

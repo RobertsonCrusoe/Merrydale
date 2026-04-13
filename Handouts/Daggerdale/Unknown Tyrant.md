@@ -1,3 +1,10 @@
+---
+title: "Unknown Tyrant"
+slug: unknown-tyrant
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 It is unknown whether or not this Beholder is one of the others that the PCs have encountered, or represents another as yet unknown creature.
 
 *Amon and Szuth, the servants of Entropy that we met in Dagger Falls, told us that Zantiid and Xulla were second-rank beholders, serving a more powerful master that they were tracking.

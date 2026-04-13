@@ -1,3 +1,29 @@
+---
+title: "Excerpt from the Yellow Abbeye Book of Surveys and Measures - Tradesmen of Daggerdale"
+slug: excerpt-from-the-yellow-abbeye-book-of-surveys-and-measures-tradesmen-of-daggerdale
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Weaver"
+locations:
+  - "Charity"
+  - "Dagger Falls"
+  - "Tethyamar"
+  - "Liberty Hill"
+tags: []
+---
 Excerpt from the Yellow Abbeye Book of Surveys and Measures – 1482 Edition – Tradesmen of Daggerdale
 
 It being critical to the good governance of the settlements of Daggerdale, and for a fulsome understanding of the productive output of the same, a census of most skilled trades in the dale has been completed and illustrated below.

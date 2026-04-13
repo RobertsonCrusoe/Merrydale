@@ -1,3 +1,33 @@
+---
+title: "Alystair's Report on Dwimmerholme"
+slug: alystair-s-report-on-dwimmerholme
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Alystair"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Lotus"
+  - "Invictus"
+  - "Roger Dunland"
+  - "Tzunamm"
+  - "Yarlick Mean"
+locations:
+  - "Dagger Falls"
+  - "Dwimmerholme Farm"
+  - "Quick Axes"
+tags:
+  - "military"
+---
 Captain Whitegate,
 
 Tuugan and I have recently uncovered a most devious plot unfolding within the region. Its roots are tied to our dreams, the Dark Garden is flowering. We began our investigation here in Dagger Falls a few days prior to the Harvestide festival. [Note: I have secured a room for 1 year at Quick Axes for White Cloak members use.]

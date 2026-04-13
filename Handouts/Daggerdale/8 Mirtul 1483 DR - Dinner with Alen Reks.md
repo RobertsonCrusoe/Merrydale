@@ -1,3 +1,36 @@
+---
+title: "Dinner with Alen Reks"
+slug: dinner-with-alen-reks
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "8 Mirtul 1483 DR"
+date_ic_sort: 1483130
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alen Reks"
+  - "Lucan Alavandor"
+  - "Invictus"
+  - "Vessuvian"
+  - "Ailyan"
+  - "Charrah"
+locations:
+  - "Liberty Hill"
+  - "Quick Axes"
+  - "Saerloon"
+  - "Sembia"
+  - "Dagger Falls"
+  - "Dagger Hills"
+tags: []
+---
 Dinner with Alen Reks - Mirtul 8, 1483 DR
 by Les Blackwell (as Alen Reks) and Stephen Robertson (as Lucan Alavandor)
 Email threads: "A fun writing assignment..." (16-17 Feb 2026) and "Getting Caught Up" (17 Feb 2026)

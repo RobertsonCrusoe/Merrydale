@@ -1,3 +1,27 @@
+---
+title: "Falcon's Roost"
+slug: falcon-s-roost
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Nedard Murtaw"
+  - "Maturin Horgath"
+  - "Maeghuen Grimbold"
+locations: []
+tags: []
+---
 Falcon's Roost has been around for nearly six centuries although it has only been referred to as Falcon's Roost since 1375 DR, when it was renamed following the third known battle with the orc army known as the Red Hand of Doom.
 
 ==Geography and Early History==

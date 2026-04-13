@@ -1,3 +1,30 @@
+---
+title: "From the Casebook of Lucan Alavandor - The Conspiracy Explained to Ser Rowan"
+slug: from-the-casebook-of-lucan-alavandor-the-conspiracy-explained-to-ser-rowan
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Lucan Alavandor"
+  - "Abrecia"
+  - "Contessa Palus"
+  - "Quercina"
+locations:
+  - "Thistle Ridge"
+  - "Greenwood Farm"
+tags: []
+---
 From the Casebook of Lucan Alavandor: The Conspiracy Explained to Ser Rowan
 Date: 22 April 2025
 From: Stephen Robertson

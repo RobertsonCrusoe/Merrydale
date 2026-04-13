@@ -1,3 +1,28 @@
+---
+title: "Mountain Road"
+slug: mountain-road
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Castle Radiance"
+  - "Dagger Falls"
+  - "Cormanthor"
+tags:
+  - "military"
+---
 400px|thumb|The start of The Climb
 
 This road leads from Dagger Falls to Castle Radiance.  It is a good road, perfectly maintained and regularly patrolled.

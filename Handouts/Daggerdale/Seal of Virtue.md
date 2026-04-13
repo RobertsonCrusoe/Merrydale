@@ -1,3 +1,25 @@
+---
+title: "Seal of Virtue"
+slug: seal-of-virtue
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alystair Dretch"
+locations: []
+tags: []
+---
 {{blocktitle|Seal of Virtue|Wondrous Item}}
 This item was granted to Alystair Dretch by Zenith Lord Whitegate for his escort and protection of hundreds of pilgrims through the dale, up to the Castle.
 Item slots: Off hand

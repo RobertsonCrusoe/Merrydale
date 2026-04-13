@@ -1,3 +1,49 @@
+---
+title: "From the Archives - Thagdul Profile"
+slug: from-the-archives-thagdul-profile
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jafar"
+  - "Zantiid"
+  - "Teskul"
+  - "Ansal Bloodshoulder"
+  - "Manshoon"
+  - "Xulla"
+  - "Gilthanas"
+  - "Yarkul"
+  - "Alen Reks"
+  - "Esperel"
+  - "Garth Shanks"
+  - "Gul'dan"
+  - "Sal Worthingham"
+  - "Agamemnon"
+  - "Belduran"
+  - "Boregar"
+  - "Dally"
+  - "Durnax Vorn"
+  - "Fzoul Chembryl"
+  - "Gilth'zan"
+locations:
+  - "Waterdeep"
+  - "Tethyamar"
+  - "Yulash"
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 From the Archives: Thagdul Profile
 CLASSIFICATION: SECONDARY MATERIAL — AI-generated content (Claude) based on campaign wiki archives, not primary email correspondence
 

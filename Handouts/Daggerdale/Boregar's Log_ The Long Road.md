@@ -1,3 +1,10 @@
+---
+title: "Boregar's Log_ The Long Road"
+slug: boregar-s-log-the-long-road
+type: stub
+campaign: daggerdale
+subtype: location
+---
 [PC Attribution: Boregar the Wanderer (Scott McLaren)]
 14 Kythorn The sand is everywhere. In my boots, in my beard, in the very water we drink. The "Golden Death" nearly had us yesterday. If I hadn't seen the shift in the wind and ordered the horses hobbled in the lee of that ridge, we'd be buried under ten feet of Anauroch right now.
 

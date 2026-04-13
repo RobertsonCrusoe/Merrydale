@@ -1,3 +1,31 @@
+---
+title: "Lucan's Investigations - Jasper at Greenwood Lake"
+slug: lucan-s-investigations-jasper-at-greenwood-lake
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Vessuvian"
+  - "Lucan Alavandor"
+  - "Contessa Palus"
+locations:
+  - "Dagger Falls"
+  - "Thistle Ridge"
+  - "Yellow Abbey"
+tags:
+  - "military"
+---
 Lucan's Investigations - Jasper at Greenwood Lake
 by Gus Miranda (Jasper scene) and Stephen Robertson (Lucan's letter to Brother Vessuvian)
 27 Jan 2025

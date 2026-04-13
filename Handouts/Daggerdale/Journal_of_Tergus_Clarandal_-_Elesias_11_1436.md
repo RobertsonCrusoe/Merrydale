@@ -1,3 +1,28 @@
+---
+title: "Journal_of_Tergus_Clarandal_-_Elesias_11_1436"
+slug: journal-of-tergus-clarandal-elesias-11-1436
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Tergus Clarandal"
+locations:
+  - "Thistle Ridge"
+  - "Castle Radiance"
+tags:
+  - "military"
+---
 From the Journal of Tergus Clarandal, recovered at Clarandal Farm 1483 by Company Chrysalis
 
 [Source: burned letters.docx]

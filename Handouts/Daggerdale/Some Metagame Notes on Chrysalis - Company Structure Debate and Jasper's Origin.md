@@ -1,3 +1,30 @@
+---
+title: "Some Metagame Notes on Chrysalis - Company Structure Debate and Jasper's Origin"
+slug: some-metagame-notes-on-chrysalis-company-structure-debate-and-jasper-s-origin
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Godwin Ferguson"
+  - "Jafar"
+locations:
+  - "Thistle Ridge"
+  - "Charity"
+  - "Saerloon"
+tags:
+  - "military"
+---
 Some Metagame Notes on Chrysalis — Company Structure Debate and Jasper's Origin
 Scott Mclaren (as Jeska), Gus Miranda (as Zephrin/Jasper), Stephen Robertson (as Lucan), Todd Burry (as Ser Rowan/Mari), Les Blackwell (DM)
 Email thread: "Some metagame notes on Chrysalis", 16-17 Dec 2023

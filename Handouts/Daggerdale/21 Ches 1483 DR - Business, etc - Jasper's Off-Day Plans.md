@@ -1,3 +1,29 @@
+---
+title: "Business, etc - Jasper's Off-Day Plans"
+slug: business-etc-jasper-s-off-day-plans
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "21 Ches 1483 DR"
+date_ic_sort: 1483082
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Mortimer"
+  - "Gideon"
+  - "Vessuvian"
+  - "Will"
+locations: []
+tags:
+  - "military"
+---
 Ches 21 - Business, etc
 by Gus Miranda (as Jasper)
 25 Mar 2024

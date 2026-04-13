@@ -1,3 +1,26 @@
+---
+title: "Into Dagger Falls - Beliard Tyrian and Carpathia Arrive"
+slug: into-dagger-falls-beliard-tyrian-and-carpathia-arrive
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 Into Dagger Falls — Beliard, Tyrian and Carpathia Arrive
 Source: Into DF.docx, from DND/Daggerdale Forum/ folder
 A narrative opening scene depicting the three companions entering Dagger Falls through the Bridgegate and encountering the Sun Blades registry.

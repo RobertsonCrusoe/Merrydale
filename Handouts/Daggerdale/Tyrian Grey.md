@@ -1,3 +1,10 @@
+---
+title: "Tyrian Grey"
+slug: tyrian-grey
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 ==Appearance==
 Tyrian is a good looking and amiable young man.  In his early twenties, he is clean shaven, his blonde curls cut as short as can be managed, and his blue eyes inviting conversation and friendship.  He carries himself with enough stiffness and efficiency as to betray his obvious military training and the plate armour he wears constantly, despite the summer heat, seems to fit him as a second skin.  That armour is plain, undecorated but well made and even better maintained.  It is kept constantly clean, but Tyrian is careful to keep it from developing a shine.  His large shield, slung on his back betrays some hints of having once been painted with the Cormyrean arms of the Purple Dragons.  The only hint of any allegiance is the holy symbol of Ilmater hung around his neck.
 

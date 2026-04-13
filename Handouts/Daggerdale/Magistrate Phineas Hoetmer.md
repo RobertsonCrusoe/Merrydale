@@ -1,3 +1,10 @@
+---
+title: "Magistrate Phineas Hoetmer"
+slug: magistrate-phineas-hoetmer
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 Magistrate Phineas Hoetmer concluded his official duties in the Church as the Magistrate of Dwimmerholme Farm in the autumn of 1479.  He is a well-meaning and kind old man, but is a little unaware of his surroundings, and allowed a cult of Shar to nearly infiltrate his charge.  Alystair's Report on Dwimmerholme summarizes this event.
 
 It was discovered during this investigation that he had the same sort of dreams that Iolus, Banitt and Alystair share, though his are somewhat different.  He has some sort of connection to these three men, and during the storming of the troll warrens under Gorimdun Mine, he is known to have given Iolus a warning about the danger ahead.  When asked about this later, Hoetmer explained that he was dreaming about watching the group, and could see the danger ahead.

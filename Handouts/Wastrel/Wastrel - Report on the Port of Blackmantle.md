@@ -1,3 +1,26 @@
+---
+title: "Wastrel - Report on the Port of Blackmantle"
+slug: wastrel-report-on-the-port-of-blackmantle
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 Report on the Port of Blackmantle
 
 This report was intercepted in Waterdeep by the Rooken Network, and forwarded to the Master of Vauxboroughs. It is unclear just who it was intended to be delivered to, but there is some suspicion that it was intended for the now-defunct Aldebarran Company, or one of its agents.

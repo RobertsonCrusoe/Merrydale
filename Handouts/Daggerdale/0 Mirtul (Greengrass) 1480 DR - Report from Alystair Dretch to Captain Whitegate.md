@@ -1,3 +1,31 @@
+---
+title: "Report from Alystair Dretch to Captain Whitegate"
+slug: report-from-alystair-dretch-to-captain-whitegate
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Alystair Dretch"
+source: handout
+date_ic: "Greengrass 1480 DR"
+date_ic_sort: 1480122
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alystair Dretch"
+locations:
+  - "Charity"
+  - "Dagger Falls"
+  - "Liberty Hill"
+  - "Lost Stead"
+  - "Mystral's Grove"
+  - "Tesh Valley"
+tags: []
+---
 DDC – 1480 – 1: Report from Report from Alystair Dretch to Cpt. Whitegate 
 Greengrass, 1480 DR Captain Whitegate, 
 It would seem the situation with the Dark Garden is growing beyond Tuugan and I. 

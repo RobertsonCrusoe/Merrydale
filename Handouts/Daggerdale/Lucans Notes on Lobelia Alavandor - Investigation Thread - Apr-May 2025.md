@@ -1,3 +1,32 @@
+---
+title: "Lucans Notes on Lobelia Alavandor - Investigation Thread - Apr-May 2025"
+slug: lucans-notes-on-lobelia-alavandor-investigation-thread-apr-may-2025
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Charrah"
+  - "Invictus"
+  - "Lobelia Alavandor"
+  - "Blaze Whitegate"
+  - "Contessa Palus"
+  - "Will"
+locations:
+  - "Thistle Ridge"
+  - "Dagger Falls"
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

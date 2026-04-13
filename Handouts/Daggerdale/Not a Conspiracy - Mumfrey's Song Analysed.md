@@ -1,3 +1,40 @@
+---
+title: "Not a Conspiracy - Mumfrey's Song Analysed"
+slug: not-a-conspiracy-mumfrey-s-song-analysed
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Mumfrey"
+  - "Lotus"
+  - "Nemia"
+  - "Invictus"
+  - "Lilac Alavandor"
+  - "Lily Clarandal"
+  - "Mortimer"
+  - "Poppy Sweetberry"
+  - "Vessuvian"
+locations:
+  - "Thistle Ridge"
+  - "Waterdeep"
+  - "Dagger Falls"
+  - "Liberty Hill"
+  - "Sembia"
+  - "Tethyamar"
+  - "Yellow Abbey"
+tags: []
+---
 Not a Conspiracy - Mumfrey's Song Analysed
 by Stephen Robertson (as Lucan) and Gus Miranda (as Jasper)
 13-24 Aug 2024

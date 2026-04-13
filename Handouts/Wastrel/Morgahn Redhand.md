@@ -1,3 +1,10 @@
+---
+title: "Morgahn Redhand"
+slug: morgahn-redhand
+type: stub
+campaign: wastrel
+subtype: npc
+---
 Morgahn Redhand is the sergeant of the south-eastern  patrol of the Loudwater Wardens.  Morgahn is the most seasoned of all  the sergeants and he ranges far to the east of Loudwater, well past  Llorkh and sometimes even as far as The Smear.
 
 Morgahn is wed to Syllinallyah, a wood elf from the Woodsinger clan (Taervor'Linnod) in the South Wood.

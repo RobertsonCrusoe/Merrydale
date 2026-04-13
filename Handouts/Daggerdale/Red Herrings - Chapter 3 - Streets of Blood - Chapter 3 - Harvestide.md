@@ -1,39 +1,64 @@
+---
+title: "Red Herrings - Chapter 3 - Streets of Blood - Chapter 3 - Harvestide"
+slug: red-herrings-chapter-3-streets-of-blood-chapter-3-harvestide
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Yarkul"
+  - "Aragorn Thickbrow"
+  - "Canton Belzuril"
+  - "Drake"
+  - "Ekoul"
+  - "Ersgul Mlshool"
+  - "Garth Shanks"
+  - "Jafar"
+  - "Kalindos"
+  - "Krag"
+  - "Rubikawn"
+  - "Sal Worthingham"
+  - "Teskul"
+locations: []
+tags:
+  - "military"
+---
 25 Eleint
 At breakfast, a knocking is heard at the door.  Contrary to popular belief, it is not Tahgdul, but the half-orc Gul
 
-dan dresses in his finest.  He is not invited in.  He invites us to lunch with Yarkul at Gunnary
-s tavern.  WE slam the door in his face after saying we
-ll be there.  Yarkul seeks to enlisth the serveisces ot the Company fo the Reed Herring for Ersgul.  Tomas gets up and leaves, and is soon followed by all but Garth, who remains to make th emost of his free lunch.  Yarkul threates war.  Harvestide this year will be Wartide.
-The company meets with Tahgdul, who is glad that we declined Yarkul
-s offer.  The nature of Yarkul
-s mission was to give Corass Anteos, a patron of Ersgul, and edge over his older brother Delberwan Anteos, a patron of Drurginz.
+dan dresses in his finest.  He is not invited in.  He invites us to lunch with Yarkul at Gunnary's tavern.  WE slam the door in his face after saying we'll be there.  Yarkul seeks to enlisth the serveisces ot the Company fo the Reed Herring for Ersgul.  Tomas gets up and leaves, and is soon followed by all but Garth, who remains to make th emost of his free lunch.  Yarkul threates war.  Harvestide this year will be Wartide.
+The company meets with Tahgdul, who is glad that we declined Yarkul's offer.  The nature of Yarkul's mission was to give Corass Anteos, a patron of Ersgul, and edge over his older brother Delberwan Anteos, a patron of Drurginz.
 The Anteos family is connected in someway with the drwo.
-Thagdul snips us from his apron strings, and we head back to HQ.  We decide that it si high time we get the heart of the Earth back from the Hunabars.  Garth does some reconnaissance while Ellyth does some digging by picking up a guard Edgar at the Dripping Dagger.  Jafar manages to find out that a powerful infoker by the name of Kalindos is protecting Huskar Hunabar.  Edgar is Ko
-d by another guard named Tristan.
+Thagdul snips us from his apron strings, and we head back to HQ.  We decide that it si high time we get the heart of the Earth back from the Hunabars.  Garth does some reconnaissance while Ellyth does some digging by picking up a guard Edgar at the Dripping Dagger.  Jafar manages to find out that a powerful infoker by the name of Kalindos is protecting Huskar Hunabar.  Edgar is Ko'd by another guard named Tristan.
 Meanwhile, Tomas and Raven go to the Reprobate Headquarters to deliver a message.  Sgt. Krag is told that should the CRH find that the Reprobates continue to work for Yarkujl, there will be hell to pay.  As Tomas and Raven turn to leave, Rubikawn leasp out and says that Tomas has 5 days to live.
 Yarkul is alive in Zhentil Keep
-Jannaxil is a friend of Yarkul
-s and a fence for him
+Jannaxil is a friend of Yarkul's and a fence for him
 Yarkul has no relationship with the Hunabars
 Ersgul is beaten
 Ekoul
-Dragon
-s real name
-Teskul
-s girlfriend
+Dragon's real name
+Teskul's girlfriend
 Drow have uncovered a Ghaunadan reproduction device
 Baron Drake is a Cambion
 Cellarers and Plumbers Guild:
 Aragorn Thickbrow
-Cooper
-s Guild
+Cooper's Guild
 Sal Worthingham
 Luskan mage spy.  High in the Guild
 Innkeepers:
 Amnilyn and Vilt
 nith
-drow at the Unicorn
-s horn
+drow at the Unicorn's horn
 Stonecutters:
 Ersgul Mlshool
 Watermen
@@ -157,8 +182,7 @@ OG-c
 13!5>
 V&nd
 8(.}
-Xqiyz
-m@\Y
+Xqiyz'm@\Y
 b|</
 e).5:
 Smi$
@@ -186,8 +210,7 @@ qf8p+
 w62N
 _|!De0
 Ktx:,
-9@EL
-m<;0
+9@EL'm<;0
 u6Yi
 ."Z*
 uKJX}
@@ -382,8 +405,7 @@ js1"
 _WYB
 iBV#m
 12ip
-'e^z
-t!]q
+'e^z't!]q
 y~EA
 h-I>%
 \Z;f

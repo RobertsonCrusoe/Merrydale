@@ -1,3 +1,27 @@
+---
+title: "Jasper Hawkford s Reflections"
+slug: jasper-hawkford-s-reflections
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "15 Tarsakh 1483 DR"
+date_ic_sort: 1483106
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jasper Hawkford"
+  - "Lucan Alavandor"
+  - "Vessuvian"
+locations: []
+tags: []
+---
 15 Tarsakh, 1483 DR – Jasper Hawkford's Reflections 
 It is early evening, and Lucan Alavandor is swinging lazily on a makeshift hammock he had a few of the FDL lads string up for him near the shore of Greenwood Lake. His hat is low, covering his eyes, and only occasionally does he swat violently at some of the season's first mosquitos that are now beginning to emerge from their slumber. 
 

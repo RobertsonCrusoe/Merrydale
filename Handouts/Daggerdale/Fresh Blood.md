@@ -1,3 +1,26 @@
+---
+title: "Fresh Blood"
+slug: fresh-blood
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Castle Radiance"
+  - "The Dragon's Gate Inn"
+tags: []
+---
 ==Introductions==
 *Epiphany, Retribution, Pride, and Penance
 *Sentencing and Exile

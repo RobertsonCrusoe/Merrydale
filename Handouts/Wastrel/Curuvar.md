@@ -1,3 +1,29 @@
+---
+title: "Curuvar"
+slug: curuvar
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Maeghuen Grimbold"
+  - "Anaiya Ossur"
+  - "Ciratto"
+  - "Ilyaska Konig"
+locations:
+  - "Loudwater"
+tags: []
+---
 Curuvar is a wizard that has been living in the Loudwater  region longer than any living resident currently in Loudwater and more  often than not, can be found sitting in his favourite corner at the  Green Tankard, drinking ale and smoking his pipe.
 
 Curuvar is  known to be on the stand offish side with nearly everyone in Loudwater  save a very select few residents; one of them being Maeghuen Grimbold.   He is generally intolerant of most and is quick to judge someone as a  “bumbler”.  For nearly the last year, Curuvar has not been seen around  Loudwater often.  He did arrive  half a day after Maeghuen Grimbold was  returned to Loudwater in a near-death state.

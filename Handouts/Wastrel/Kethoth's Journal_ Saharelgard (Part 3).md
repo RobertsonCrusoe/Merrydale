@@ -1,3 +1,28 @@
+---
+title: "Kethoth's Journal_ Saharelgard (Part 3)"
+slug: kethoth-s-journal-saharelgard-part-3
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Kethoth"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "kethoths-journal"
+order: 30
+characters:
+  - "Baird"
+  - "Ailyan"
+  - "Saharel"
+  - "Kossur"
+locations: []
+tags: []
+---
 [PC Attribution: Chadrazzan Kossur (Les Blackwell)]
 '''15 Mirtul'''
 

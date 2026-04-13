@@ -1,3 +1,26 @@
+---
+title: "Outside the Nexus - Kythorn 12"
+slug: outside-the-nexus-kythorn-12
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Baird"
+  - "Kethoth Sepret"
+locations: []
+tags: []
+---
 After momentarily looking inside the Nexus, the party turned back into the tunnel they had just used and closed the door to the nexus behind them.
 
 The large, thick 15' square door closed suddenly and violently after a hiss of steam and gave the impression that you don't really want to be near the door let alone under it when it closes.

@@ -1,3 +1,26 @@
+---
+title: "Priya Moonstar"
+slug: priya-moonstar
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 Elven in origin and brought to Waterdeep when she was a small child by Captain Nedard Moonstar.  Adopted by the Moonstar house in Waterdeep and raised as one of their own at the request of Nedard.  With the family having extensive ties to the Selûnite faith in Waterdeep, Priya was indoctrinated in the Selûnite faith as she grew older.
 
 Priya flourished under the tutelage of her adopted father Doran Moonstar, brother to Nedard and became one of the more promising and skilled priestesses that had began their studies in the last ten years.

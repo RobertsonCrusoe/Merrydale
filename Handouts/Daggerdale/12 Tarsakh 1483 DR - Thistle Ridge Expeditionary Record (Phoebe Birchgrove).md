@@ -1,3 +1,45 @@
+---
+title: "Thistle Ridge Expeditionary Record (Phoebe Birchgrove)"
+slug: thistle-ridge-expeditionary-record-phoebe-birchgrove
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "12 Tarsakh 1483 DR"
+date_ic_sort: 1483103
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Forge Farmountain"
+  - "Phoebe Birchgrove"
+  - "Bregendy Chiorlindyl"
+  - "Buck Harrowbridge"
+  - "Chastity Dale"
+  - "Daffodil Newharvest"
+  - "Dalak Quickaxe"
+  - "Illya Elderbough"
+  - "Ivy Thickwickle"
+  - "John Carpenter"
+  - "Kelya Cordoza"
+  - "Reginald Boxfray"
+locations:
+  - "Greenwood Farm"
+  - "Thistle Ridge"
+  - "Cormanthor"
+  - "Charity"
+  - "Dwimmerholme Farm"
+  - "Dagger Falls"
+  - "Shadowdale"
+  - "Tethyamar"
+tags:
+  - "military"
+---
 Thistle Ridge Expeditionary Record – Phoebe Birchgrove, Sgt. III, 7th
 Co. 4th Plt, Bright Spears, Aid de Camp for Lt. I Forge Farmountain
 

@@ -1,3 +1,24 @@
+---
+title: "The Stranger"
+slug: the-stranger
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 The bleak winter air cut him deeply, slicing through muscles like frozen fire. Ears throbbed against the howling wind. His throat was raw from the cold. The wanderer's face was harsh and pale as his surroundings, hidden behind a tangle of windswept hair. Lank and sickly, he hunched as though the snowy sky itself weighed upon him. Breath grew solid in the freezing air, and landed softly at his feet.
 
 He gripped a blade like a dying man, black and red across it's breadth.

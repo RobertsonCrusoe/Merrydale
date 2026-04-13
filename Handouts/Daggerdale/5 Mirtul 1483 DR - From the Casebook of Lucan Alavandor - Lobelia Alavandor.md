@@ -1,3 +1,35 @@
+---
+title: "From the Casebook of Lucan Alavandor - Lobelia Alavandor"
+slug: from-the-casebook-of-lucan-alavandor-lobelia-alavandor
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "5 Mirtul 1483 DR"
+date_ic_sort: 1483127
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Charrah"
+  - "Andarl Alavandor"
+  - "Lobelia Alavandor"
+  - "Loki Mouvranesh"
+  - "Lucan Alavandor"
+  - "Aisling Maeliticus"
+  - "Contessa Palus"
+  - "Nemia"
+  - "Susserah Alavandor"
+locations:
+  - "Thistle Ridge"
+  - "Saerloon"
+tags: []
+---
 From the Casebooks of Lucan Alavandor: Lobelia "Alavandor"
 Date: 18 June 2025
 From: Stephen Robertson

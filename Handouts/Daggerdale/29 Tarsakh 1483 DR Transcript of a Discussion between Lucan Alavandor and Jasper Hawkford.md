@@ -1,3 +1,34 @@
+---
+title: "Transcript of a Discussion between Lucan Alavandor and Jasper Hawkford"
+slug: transcript-of-a-discussion-between-lucan-alavandor-and-jasper-hawkford
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "29 Tarsakh 1483 DR"
+date_ic_sort: 1483120
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jasper Hawkford"
+  - "Lucan Alavandor"
+  - "Dauntless Thunderstorm"
+  - "Jeska Monarch"
+  - "Will"
+locations:
+  - "Greenwood Farm"
+  - "Thistle Ridge"
+  - "Dagger Falls"
+  - "Sembia"
+tags:
+  - "military"
+---
 29 Tarsakh, 1483 DR -- Transcript of a Discussion between Lucan Alavandor and Jasper Hawkford in the Evening at Greenwood Farm
 
 A sturdy wooden table in the corner of the main hall serves as an impromptu writing desk. JASPER sits hunched over a piece of parchment, quill in hand, while LUCAN paces energetically behind him. JESKA's notes rest at the edge of the table.

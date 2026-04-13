@@ -1,3 +1,10 @@
+---
+title: "The Remains of Gaebril Tremalkin"
+slug: the-remains-of-gaebril-tremalkin
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 [PC Attribution: Gaebril Tremalkin (Steve Hicks)]
 Information collected by Mincham Goringrimm, First of the Monastery of Sundered Faiths in 1381 DR
 

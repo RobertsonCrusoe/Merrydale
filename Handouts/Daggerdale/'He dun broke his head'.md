@@ -1,3 +1,27 @@
+---
+title: "'He dun broke his head'"
+slug: he-dun-broke-his-head
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Drake"
+  - "Drake Sterling"
+locations: []
+tags:
+  - "military"
+---
 It is not surprising to any of you, upon leaving the tower, to see that the druidic woman has been detained. Nor is it a surprise to see Drake Sterling being hauled off on a littler by a group of clerics.
 
 What had the man been thinking? 

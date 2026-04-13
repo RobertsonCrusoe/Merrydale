@@ -1,3 +1,10 @@
+---
+title: "Kythorn 10 1479 Summer Solstice and new moon This was the first successful"
+slug: kythorn-10-1479-summer-solstice-and-new-moon-this-was-the-first-successful
+type: stub
+campaign: wastrel
+subtype: npc
+---
 Kythorn 10, 1479: Summer Solstice and new moon. This was the first successful Ritual of Founding that the Dark Garden achieved. This was the first we missed, though we knew, after the events of Harvestide that year (c.f. Investigations of Alystair Dretch, 1479) that we had missed something. This was the culmination of decades of inculcation of the cult of Shar at Liberty Hill, masterminded by Mayor Goering, with the help of her mother and the Dark Garden. It now seems that as many as 140 people were part of this cult and the ritual. 
 
 Early Spring, 1480: Belladonna begins to assemble an undead horde, unearthing the evil paladins and soldiers interred at Anathar's Dell, a place that very few could now find. 

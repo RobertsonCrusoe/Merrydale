@@ -1,3 +1,38 @@
+---
+title: "Lucan's Character"
+slug: lucan-s-character
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "19 Ches 1483 DR"
+date_ic_sort: 1483080
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Masra"
+  - "Lucan Alavandor"
+  - "Charrah"
+  - "Dauntless Thunderstorm"
+  - "Invictus"
+  - "Mortimer"
+  - "Mumfrey"
+  - "Nemia"
+  - "Will"
+locations:
+  - "Saerloon"
+  - "Dagger Falls"
+  - "Quick Axes"
+  - "Thistle Ridge"
+  - "Sembia"
+tags: []
+---
 Divine Invocations/Blasphemous Curses:
 
 "By all the gods and their mistresses" - Lucan's opening curse when confronting grief

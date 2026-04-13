@@ -1,3 +1,26 @@
+---
+title: "Wastrel - A Shadow of Heroism 1"
+slug: wastrel-a-shadow-of-heroism-1
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Cedric Blackchalice-Lliandreal"
+  - "Beljuril"
+locations: []
+tags: []
+---
 The following is an excerpt from
 A Shadow of Heroism: the Memoirs of Cedric Blackchalice-Lliandreal
 which reminds me of another time I spent with a certain
@@ -18,8 +41,7 @@ s allies could not at that time contact her directly so they had set about subtl
 Still the message in and of itself was good tidings for I had been dearly missing May and the rest of our friends aboard that most famous ship. I think that of that crew, Edgar missed most the company of Captain Mudge, although he is certainly fond of May
 
 s flattery as well. What that bird sees in the old sea rat I will never know. Perhaps I should have done as Edgar, and spent more time at the helm learning from the captain, rather than smoking the nights away with Salazar. Just thinking of my friends started the old Blackchalice wanderlust stirring within my heart and I suddenly knew that no force in Faerun could hold me to Calimport once they had arrived.
-And so I set my servants about watching for The Wastrel
-s arrival. Days passed without sign of the ship. Edgar and I spent our time getting our affairs in order and purchasing supplies for our pending voyage to Westgate, namely rare spices for my cooking, and a goodly supply of smoke weed. I also spent most nights with Haranna, whose beauty and wit I had come to appreciate above all the other girls in Calimport. It would be years before I would see her fair countenance again.
+And so I set my servants about watching for The Wastrel's arrival. Days passed without sign of the ship. Edgar and I spent our time getting our affairs in order and purchasing supplies for our pending voyage to Westgate, namely rare spices for my cooking, and a goodly supply of smoke weed. I also spent most nights with Haranna, whose beauty and wit I had come to appreciate above all the other girls in Calimport. It would be years before I would see her fair countenance again.
 
 At last came the evening when an outburst from my faithful servant Dango (not the Dengo that Chadrazzan would come to rue) interrupted my nightly luncheon. Leaving Edgar to supervise the packing of the last of our belongs in the villa, I rushed past the nobles through the elevated streets and hurried down through the commoners below to meet my fellow crew members. Arriving at the docks I saw my friends aboard The Wastrel. Kethoth (as he was then known) was descending the gangplank and just as I was about to wave a greeting an attacker materialized beside the dumbfounded tiefling and began an unsolicited assault upon his personage. Well, I know Chadrazzan has his social shortcomings, but this seemed a little over the top to me. It was then that I noticed that the Wastrel itself was under attack. Some sort of floating island was raining down spells and arrows upon my shipmates. Captain Mudge rallied the troops and The Wastrel tried to outmanoeuvre its magical pursuer. Veiling myself with invisibility, I started to close the considerable distance between the violence and myself. My attention to the naval battle was diverted by a sharp cry from the docks. Kethoth
 
@@ -37,8 +59,7 @@ s behind enforces a certain structure on a humanoid. It is really quite similar.
 
 s we are able to ascertain that The Wastrel was safe, although still pursued by the island fortress. My message is relayed to Maevri, and the two of us agree to meet our companions in Baldur
 
-s Gate. Chadrazzan and I agree that we should investigate Westgate first, as the harpers seemed to believe that there is information there that is of import to the both of us. May
-s contact suggested that we contact
+s Gate. Chadrazzan and I agree that we should investigate Westgate first, as the harpers seemed to believe that there is information there that is of import to the both of us. May's contact suggested that we contact
 the free thinker
 upon arrival there, and we set out to do so at once.
 hVdb

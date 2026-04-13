@@ -1,3 +1,10 @@
+---
+title: "Lt. Northman's Account of the Purple Feathers"
+slug: lt-northman-s-account-of-the-purple-feathers
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 From Lt. Northman;
 
 \"We were deployed there on 27 Tarsakh.  There had been two attacks before that, and 3 masons were abducted, and 4 guards killed.  They came in small numbers, but they were smart and careful, unlike the hired guards at the tower.  When the masons refused to continue work on the new tower, the whole project was evacuated, and by the 27th we were there, like I said.

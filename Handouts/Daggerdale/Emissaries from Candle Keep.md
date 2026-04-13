@@ -1,3 +1,10 @@
+---
+title: "Emissaries from Candle Keep"
+slug: emissaries-from-candle-keep
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 A group of monks from Candlekeep who are here to document the unearthing of the many ancient Netherese sites and ruins, and to catalogue the many artifacts being brought to the Castle.
 
 The head monk is a man named Brother Darred, and aged man who is knowledgeable and kind.  He is happy to discuss any topic he is knowledgeable about, and gives professional advice for free.

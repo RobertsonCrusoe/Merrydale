@@ -1,3 +1,31 @@
+---
+title: "Zindyl Aka"
+slug: zindyl-aka
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Grandus Hammerfel"
+  - "Brannikar"
+  - "Dolebrund"
+  - "Griffon"
+  - "Maeghuen Grimbold"
+  - "Nomen Ryne"
+locations:
+  - "Loudwater"
+tags: []
+---
 Zindyl is a dark-skinned beauty hailing from Turmish. She is a worshipper of a little known goddess by the name of Sharess and although Brother Griffon quickly condemns her as a seed of ill within Loudwater she has become quite...quite popular with regulars of the Green Tankard. Zindyl is known for providing companionship for a price if she takes a shine to that person. She seems to favour both males and females of all races.
 
 Zindyl prefers to listen, rather than speak and the few individuals that have been allowed to “know her” refuse to share anything about the experience but always, always speak of her in a reverent tone.

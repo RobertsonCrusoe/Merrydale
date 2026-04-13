@@ -1,3 +1,10 @@
+---
+title: "Ortag Swiftshot"
+slug: ortag-swiftshot
+type: stub
+campaign: wastrel
+subtype: npc
+---
 A ranger of orcish descent, hailing from north of Luskan.
 
 Killed by The Seven during a skirmish in the ruins of Spellgard on the 21st of Mirtul.

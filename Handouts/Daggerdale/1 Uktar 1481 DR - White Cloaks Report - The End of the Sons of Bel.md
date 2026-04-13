@@ -1,3 +1,29 @@
+---
+title: "White Cloaks Report - The End of the Sons of Bel"
+slug: white-cloaks-report-the-end-of-the-sons-of-bel
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1 Uktar 1481 DR"
+date_ic_sort: 1481306
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Gideon"
+locations:
+  - "Charity"
+  - "Dagger Falls"
+  - "Tethyamar"
+tags:
+  - "military"
+---
 Uktar 1, 1481 
 GFD Notes: 
 This is the terrible conclusion of the White Cloaks mission to stop the Sons of Bel in Charity. This report was handed to me by Reks with a great deal of solemnity. It accounts for the death of three heroes in one fell swoop, a terrible sacrifice that was made to cripple the power of the Sons. Nothing else left to say except 'read on' 

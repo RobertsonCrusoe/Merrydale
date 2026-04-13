@@ -1,3 +1,29 @@
+---
+title: "Arcos Brannikar"
+slug: arcos-brannikar
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Brannikar"
+  - "Janus"
+  - "Saharel"
+locations:
+  - "Loudwater"
+  - "Waterdeep"
+tags: []
+---
 Arcos is a warrior hailing from Waterdeep that spent a number of years seeking out Lady Saharel in Spellgard. Although unlucky when it came to finding her, he did manage to cart back a significant amount of treasure, saying that he took it all from a vampire he had managed to destroy. 
 
 With that treasure, he bought a farm.

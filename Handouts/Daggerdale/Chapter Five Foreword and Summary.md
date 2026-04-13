@@ -1,3 +1,29 @@
+---
+title: "Chapter Five Foreword and Summary"
+slug: chapter-five-foreword-and-summary
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Tezster Gellinson"
+locations:
+  - "Tethyamar"
+  - "Castle Radiance"
+  - "East Gate"
+tags:
+  - "military"
+---
 DDC – Chapter Five – Foreword and Summary 
 Wherein the lost city of Tethyamar is discovered and attempts to reclaim it begin, with difficulty. 
 

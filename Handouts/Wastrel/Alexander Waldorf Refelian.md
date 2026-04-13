@@ -1,3 +1,10 @@
+---
+title: "Alexander Waldorf Refelian"
+slug: alexander-waldorf-refelian
+type: stub
+campaign: wastrel
+subtype: npc
+---
 Excerpted from the entry for the  in Volo's Guide to the Oligarchy of Splendour: The Noble Houses & Merchant Families of Waterdeep
 -----
 

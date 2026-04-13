@@ -1,3 +1,28 @@
+---
+title: "Maturin Horgath - Character Sheet (1371)"
+slug: maturin-horgath-character-sheet-1371
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Will"
+  - "Maturin Horgath"
+  - "Ratbiter"
+  - "Warburden"
+locations: []
+tags: []
+---
 [PC Attribution: Maturin Horgath (Stephen Robertson)]
 Brother Maturin "the
   Grey" Horgath

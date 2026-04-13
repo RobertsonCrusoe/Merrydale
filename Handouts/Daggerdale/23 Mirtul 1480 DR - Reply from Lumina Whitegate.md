@@ -1,3 +1,29 @@
+---
+title: "Reply from Lumina Whitegate"
+slug: reply-from-lumina-whitegate
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "23 Mirtul 1480 DR"
+date_ic_sort: 1480145
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alen Reks"
+  - "Ganolen Thendolain"
+  - "Hasting Blackmane"
+locations:
+  - "Quick Axes"
+  - "Tesh Valley"
+tags: []
+---
 Aegus Perigrinus;
 
 I am sending you Troia, Ganolen Thendolain, and Alen Reks to assist you in your research.  It is no longer safe for so few of you to go about in the Dale. Something terrible is going to happen.  I can always see it now, just a little beyond the veil...just a little.

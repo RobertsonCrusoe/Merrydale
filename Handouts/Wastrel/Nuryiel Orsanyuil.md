@@ -1,3 +1,10 @@
+---
+title: "Nuryiel Orsanyuil"
+slug: nuryiel-orsanyuil
+type: stub
+campaign: wastrel
+subtype: npc
+---
 A warlock of human descent, hailing from Daggerdale.
 
 Killed by The Seven during a skirmish in the ruins of Spellgard on the 21st of Mirtul.

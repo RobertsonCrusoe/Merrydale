@@ -1,3 +1,28 @@
+---
+title: "Rough Night - Tyriol Grimbold in the Monastery of Sundered Faith"
+slug: rough-night-tyriol-grimbold-in-the-monastery-of-sundered-faith
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Baird"
+  - "Edgar Grimbold"
+  - "Saharel"
+  - "Steele"
+locations: []
+tags: []
+---
 [PC Attribution: Tyriol Grimbold (Christian)]
 Steele.
 

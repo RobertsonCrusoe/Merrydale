@@ -1,3 +1,10 @@
+---
+title: "Loudwater Notes - Shields Blades Bracers Factions"
+slug: loudwater-notes-shields-blades-bracers-factions
+type: stub
+campaign: wastrel
+subtype: npc
+---
 However, over the last three months (much more detail to follow on the proboard) there is an organized group of warriors run by the Tormtar, Sheppard and they fall into the following categories.
 
 "Shields" \- The "Shields" are the "hearthguard".  They are stationed ONLY in Loudwater.  They are NEVER sent outside of Loudwater.

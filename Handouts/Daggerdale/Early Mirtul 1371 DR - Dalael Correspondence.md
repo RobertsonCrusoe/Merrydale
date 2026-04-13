@@ -1,3 +1,33 @@
+---
+title: "Early Mirtul 1371 DR - Dalael Correspondence"
+slug: early-mirtul-1371-dr-dalael-correspondence
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1371 DR"
+date_ic_sort: 1371001
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Zantiid"
+  - "Xulla"
+  - "Corrina"
+  - "Garth Shanks"
+  - "Manshoon"
+  - "Sal Worthingham"
+  - "Steele"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 DDC – 1371 - 1: Dalael Correspondence – Mirtul 1371 
 A Note found in a drow safehouse by the Company of the Red Herring, Early Mirtul, 1371 DR. 
 Notes from GFD: 

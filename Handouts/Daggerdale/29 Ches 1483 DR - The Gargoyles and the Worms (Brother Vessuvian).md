@@ -1,3 +1,32 @@
+---
+title: "The Gargoyles and the Worms (Brother Vessuvian)"
+slug: the-gargoyles-and-the-worms-brother-vessuvian
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "29 Ches 1483 DR"
+date_ic_sort: 1483090
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Melegaunt"
+  - "Jasper Hawkford"
+  - "Jeska Monarch"
+  - "Vessuvian"
+  - "Darred"
+  - "Tara Hilltop"
+locations:
+  - "Thistle Ridge"
+tags:
+  - "military"
+---
 Tarsakh, 1483 DR — Journal of Brother Vessuvian, Candlekeep Emissary attaché to The Yellow Abbeye of Daggerfalls
 
 Copy submitted to my friend, Jasper Hawkford, as well as to the Yellow Abbeye Chronicle.

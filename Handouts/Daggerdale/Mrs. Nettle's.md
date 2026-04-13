@@ -1,3 +1,10 @@
+---
+title: "Mrs. Nettle's"
+slug: mrs-nettle-s
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 This new restaurant is much smaller than the inn, but it feeds nearly as many men for 2 meals of the day; they serve only breakfast and supper.
 
 There are tables and benches in the large, main room that seat 30 men.  Mrs. Nettle herself stands at the door of the second-floor balcony entrance to this business, and welcomes each and every customer.  She takes their coin at the door and then points them to a seat.  All meals cost 2 sp, and the same thing is served to each customer.  The menu varies daily, but is usually a part loaf of bread, a stew of local vegetables and game, and a glass of beer.

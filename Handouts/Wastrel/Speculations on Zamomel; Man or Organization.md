@@ -1,3 +1,10 @@
+---
+title: "Speculations on Zamomel; Man or Organization"
+slug: speculations-on-zamomel-man-or-organization
+type: stub
+campaign: wastrel
+subtype: npc
+---
 Speculation on Zamomel Stass by Loremaster Sigellius Marbrandt in 1321 DR, The Year of Chains – Marked as argumentative and speculative by Loremaster Tindral Narwok in 1345 DR, The Year of the Saddle.
 
 thumb

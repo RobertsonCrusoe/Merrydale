@@ -1,3 +1,31 @@
+---
+title: "Red Herrings - Chapter 4 - 1 - Return to Neverwinter - Hob's trip"
+slug: red-herrings-chapter-4-1-return-to-neverwinter-hob-s-trip
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Belduran"
+  - "Elgan Halfelven"
+  - "Malkor Githeas"
+locations:
+  - "Waterdeep"
+  - "Cormanthor"
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 s trip to Neverwitner and abroad
 Shortly after the bloody events of the Harvestide festivities in Waterdeep, Hob headed North to Neverwinter in search of the man known as Belduran.  After a couple of days of looking for passage by ship, you realize that you have missed the last shipsout of the city, and have to head by land up the High Road, with one of the last straggling caravans that you found leaving the city.
 
@@ -10,8 +38,7 @@ This information made finding Malkor easy; it was too clear that he had somethin
 s, and so you first went to check ou tthis establishment.  After paying a tour-boy his copper piece, you found yourself outside the shippin ghouse of Malthoon
 
 s next to the harbour board-walk.  Upon inquiring in the small front office about the affairs fo the company, the clerk respons,
-I don
-t know much about what you are talking about, but my boss is just in the back if you would like to talk to him.  He is not too busy right now.
+I don't know much about what you are talking about, but my boss is just in the back if you would like to talk to him.  He is not too busy right now.
 
 He leads you into the shipping area, where there are but a few stacks of crates remaining, and a single man sitting upon one, poring over some invoice or other such thing on a clip-board.
 
@@ -25,16 +52,14 @@ t helping you to visually assess the situation.  You do hear the steps of the ma
 You and your friends have caused me a great deal of loss, halfling
 he explains, as he searches inside your shirt for something.  Coming up empty handed, he smiles,
 
-Well, my diminutive friend, I suppose you are expecting to die right about now, aren
-t you.  Like all your Harper friend,s and you friends from Thundertree.
+Well, my diminutive friend, I suppose you are expecting to die right about now, aren't you.  Like all your Harper friend,s and you friends from Thundertree.
 He twists his neck awkwardly, producing a horrible cracking noice and shoots you another ugly, crooked-toothe smile.
 
 Alas, I have a fate worse than deathf ro you.  A caravan leaves here tomrorrow for th eDaels.  upon it are valuable tools which are needed to restore some important architecture in Daggerdale.  You shall be one of those tools.  Perhaps a short life as a slave in a rock quarry will teach you to meddle in the affaris of Malkor Githeas!
 
 You awake some time later, quite disoriented.  You are in a very tight space, it is completely dark and you are being jostled about continuously.  You reek of your own urine, and are starving, cramped, and ache from a dozen wounds.  Things are bad. You manage to buck up however, the halfling spirit in you, taking over.  Concentrating on the only sense that can tell you anything, you listen, and listen, and listen.  For days and days, you listen, but grow more sore, hungry and despondent.  You hear muffled voices, and have figured out that you are in a barrel, which is on a wagon.
 
-Finally, after an eternity, you bear a noise at the lide of the barrel, and blinding light follows, as the lid is pried off.  In desperation, with what little energy is lef,t you lash out, but you find your face to be on the receiving end of yet another weapon-hilt.  This one doesn
-t knock you out completely, though and you vaguely hear a voice say
+Finally, after an eternity, you bear a noise at the lide of the barrel, and blinding light follows, as the lid is pried off.  In desperation, with what little energy is lef,t you lash out, but you find your face to be on the receiving end of yet another weapon-hilt.  This one doesn't knock you out completely, though and you vaguely hear a voice say
 those little bastards got more fight in
 emthan most things thrice their size,
 and another voice laughs and responds
@@ -53,8 +78,7 @@ After about 30 minutes, the men started hauling your lifeless forms from the wat
 It all seemed surreal.  Your senses were ejust barely returning when you found yourself thrown into a pen with the others.  A stone wall some 8 fee thigh, and 20 feet to a side contained the 20 or so captives that you were part of.  All fof them seemed lifeless.  Many crumpled to the rocky ground of the pen, and you yourself sat against a wall, naked and cold, and watched the sun sissapear behind the looming mountain.
 
 Disbelief. Snow was falling.  Not a sound from 20 captives  You were scared, but your senses had recovered, and you noticed that there were two men atop the wall who kept an eye on everyone, and a steel gate keeping you in.  The gate opened soon after sundown, as the stars began to twinkle through.  Bundles of blankets and clothes were thrown in.  You found yourself springing atop them and covering yourself, but no one else moved.  You looke daround to find the others just blankly staring, the sparse flakes falling from the cold night sky.  Your heart sank for a moment, but then jumped, and you found yourself moved to action.  Naked, you wnet from captive to captive, covering them in the blankets, and leaving clothing at their sides.  You could hear the men talking abou tyou on top of the fieldstone wall.
-that one
-ll have been owrth the effort.
+that one'll have been owrth the effort.
 never seen one able to move like that by Dekanter.
 Nope.
 With this, your reserves were spent, and you prepared to bunk down amidst some blankets against the cold stone wall.  Shrotly though, a huge pot of some steaming hot substance was brought into the middle of the  the pen.  You started to rise to your feet, but found a boot holding you against he wall.  Looking up past the long leg of the amn, you could see a serious face staring down at you.  The man was holding out a wooden ladle, aiming it at your head, and you expected a throttling, but the thing simply landed in your lap, and the man walked away, saying

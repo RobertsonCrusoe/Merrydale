@@ -1,3 +1,47 @@
+---
+title: "Day of the Dalael"
+slug: day-of-the-dalael
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Steele"
+  - "Teskul"
+  - "Agamemnon"
+  - "Esperel"
+  - "Vader"
+  - "Venom"
+  - "Beljuril"
+  - "Huntmaster"
+  - "Briza Uloavae"
+  - "Dulland"
+  - "Kogan"
+  - "Aesclepius"
+  - "Feldon Azadand"
+  - "Garth Shanks"
+  - "Gettard"
+  - "Griswold Horn"
+  - "Jannaxil Serpentil"
+  - "Kennyth Thames"
+  - "Mhairne"
+  - "Quellar Dalael"
+locations:
+  - "Waterdeep"
+  - "Hillsfar"
+tags:
+  - "military"
+---
 ==9 Mirtul - One Note Forward, Two Notes Back ==
 
 On the afternoon of 9 Mirtul, Steele approached Agamemnon with a proposition. The crazy elf had arranged a meeting with Altooth Mzoul, the leader of Company Aldebarran, for the next day, and suggested that the wisest course of action would be a parlay. Perhaps, reasoned the usually unreasonable elf, further bloodshed could be avoided in this way.

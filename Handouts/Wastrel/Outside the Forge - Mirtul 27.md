@@ -1,3 +1,26 @@
+---
+title: "Outside the Forge - Mirtul 27"
+slug: outside-the-forge-mirtul-27
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Kethoth Sepret"
+locations: []
+tags:
+  - "military"
+---
 After returning from the hills and the unfortunate business with Barthas, Kethoth seeks out Hrogan and Paetr, whom he finds talking outside the doors of the forge.
 
 \"Hail, friends\"

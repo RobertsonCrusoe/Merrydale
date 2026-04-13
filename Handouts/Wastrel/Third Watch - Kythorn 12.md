@@ -1,3 +1,24 @@
+---
+title: "Third Watch - Kythorn 12"
+slug: third-watch-kythorn-12
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 As usual, the tiefling and the sorcerer are on third watch together, and most of the party is used to falling to sleep to the hushed voices of these two, as they discuss matters of many sorts into the smallest hours of the morning.
 
 The last couple of nights, they have been quieter than usual, however. Kethoth has his nose stuck in the book that he brought out of the vault in the basement of the Monastery, and Radha studies the writings of Barthas, to whom she still seems inextricably connected. Kethoth mutters arcane words under his breath, and closes his eyes, trying to recite them verbatim. Once in a while, your rest is interrupted as a ball of fire the size of a head dances between Kethoth's hands, and the wizard chuckles with delight and satisfaction.

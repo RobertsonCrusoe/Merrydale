@@ -1,1 +1,8 @@
+---
+title: "Chaplain Hammerstone"
+slug: chaplain-hammerstone
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 Hammerstone is the chaplain for the Sun Blade platoon garrisoned at Crossed Blades. He is a veteran of many campaigns in the mountains, but is getting a little too old for the hiking and cold air. He is enjoying his assignment in the warmer valley of the dale, where he is well fed and enjoys the rural life.

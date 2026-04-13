@@ -1,3 +1,24 @@
+---
+title: "Jeska and Sir Rowan at Greenwood Farm"
+slug: jeska-and-sir-rowan-at-greenwood-farm
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 Jeska and Sir Rowan
 by Scott Mclaren
 25 Jan 2025

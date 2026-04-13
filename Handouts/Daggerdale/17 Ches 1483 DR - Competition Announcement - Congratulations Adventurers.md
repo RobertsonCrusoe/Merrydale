@@ -1,3 +1,29 @@
+---
+title: "Competition Announcement - Congratulations Adventurers"
+slug: competition-announcement-congratulations-adventurers
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "17 Ches 1483 DR"
+date_ic_sort: 1483078
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Thistle Ridge"
+  - "Thistle Ridge Farm"
+  - "Charity"
+  - "Yellow Abbey"
+tags:
+  - "military"
+---
 [Source: extracted from 17 Ches 1483 DR Reclamation Competition Briefing Packet]
 
 Ches 17, 1483 DR 

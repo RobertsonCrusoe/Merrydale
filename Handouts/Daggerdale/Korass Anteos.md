@@ -1,1 +1,8 @@
+---
+title: "Korass Anteos"
+slug: korass-anteos
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 Korass Anteos was the younger brother of the patriarch of House Anteos, Dulbrawan Anteos. The Anteos Family is known to have many Dalael connections, which likely turned into Ersgul connections when Dalael was ‘annexed’ by Ersgul.

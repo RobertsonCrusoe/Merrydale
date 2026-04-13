@@ -1,3 +1,10 @@
+---
+title: "Blaze Whitegate"
+slug: blaze-whitegate
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 Blaze is the chief bureaucrat and official in the town of Dagger Falls. He is also the the highest rated Sunlord in the town, and while Argent is up at Castle Radiance (which is most of the time) his duties include the highest administration of the church and the town/dale. He is a competent leader in both roles, and has the near-unanimous approval of the population of the town. For most commoners, Argent is only a figurative head-of-state and church, while Blaze does the real work.
 
 Blaze is in his early 60's, and shows the Whitegate tendency towards longevity, looking not a day older than 40. He is still fit, a veteran of the Order of the Lambent Shield, and an intelligent diplomat. He is an approachable man, but every hour of his day is scheduled. His assistant is a middling-rank clergyman named Gundleus. Gundleus has an office in Morning Star Cathedral, and is quite accessible.

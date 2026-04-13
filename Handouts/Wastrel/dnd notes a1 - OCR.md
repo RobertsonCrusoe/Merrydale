@@ -1,13 +1,23 @@
 ---
-Provenance: OCR transcription of "dnd notes a1.pdf" (11 pages, typed with illustration)
-Source: DND Scanned Notes / OneDrive DND Scans
-Campaign: Loudwater-Kethoth (Wastrel arc — "Battle Upon The Sea of Fallen Stars" / "Journey to the Great Dale")
-Date processed: 2026-04-03
-Utility: C (redundant — content matches "Journey to the Great Dale.txt" in Loudwater-Kethoth archive almost verbatim)
-
-Archive counterparts: Journey to the Great Dale.txt, Wastrel - Great Dale Players Forward.txt
-
-OCR notes: Page 1 contains an illustration ("The Great Dale") which produced OCR garbage; cleaned. Minor artifacts corrected.
+title: "dnd notes a1"
+slug: dnd-notes-a1
+type: narrative
+campaign: wastrel
+voice: ic
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
 ---
 
 __ The Great Dale

@@ -1,3 +1,26 @@
+---
+title: "Kethoth's Journal_ Kethoth Dreams"
+slug: kethoth-s-journal-kethoth-dreams
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Kethoth"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "kethoths-journal"
+order: ""
+characters:
+  - "Kossur"
+  - "Horus"
+locations: []
+tags: []
+---
 [PC Attribution: Chadrazzan Kossur (Les Blackwell)]
 Mirtul 27, 1479 DR
 

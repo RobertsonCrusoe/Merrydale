@@ -1,3 +1,11 @@
+---
+title: "Gotlieb Erlgund"
+slug: gotlieb-erlgund
+type: stub
+campaign: daggerdale
+subtype: npc
+deceased: true
+---
 Gotlieb Erlgund, a \"non-descript elf\" was a favoured member of the Fellowship of Carters and Coachmen in Thagdul’s employ while Company Drurginz was active. At one point he approached Drurginz men to move stuff out of the Underdark.
 
 He was likely a drow spy within the Drurginz operation.

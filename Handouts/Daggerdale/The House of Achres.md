@@ -1,3 +1,29 @@
+---
+title: "The House of Achres"
+slug: the-house-of-achres
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Reynard"
+  - "Lucion"
+  - "Tyrian Grey"
+locations:
+  - "Castle Radiance"
+  - "Sembia"
+tags: []
+---
 ===The House of Achres===
 For centuries the House of Achres has stood guard on the western approach of the Trade Way as it enters into the Sunset Mountains. It is a harsh land, this barony, but it is, or was, the key to all trade between eastern and western Faerûn. Lord Bartol IXX, Baron of Achres, Keeper of the Sunset Gates, Steward of the Ramparts, Marshal of the Free Towns of the Trade Way rules here. His ancestors have stood guard on their fortress, which they simply called “The Gates,” and ensured that the road would remain safe and open for all to use. Although nominally they fall under the authority of the city of Iriaebor, the barony’s existence has meant that neither Cormyr nor Eltugard nor Darkhold nor any other power could lay claim to this most crucial bottleneck. The House of Achres kept the road and surrounding lands free, and the merchants of Sembia and Baldur’s Gate and Amn paid handsomely for that freedom.
 

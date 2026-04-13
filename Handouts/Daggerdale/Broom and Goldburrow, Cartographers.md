@@ -1,3 +1,28 @@
+---
+title: "Broom and Goldburrow, Cartographers"
+slug: broom-and-goldburrow-cartographers
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Isaac Goldburrow"
+  - "Taylor Broom"
+locations:
+  - "Castle Radiance"
+tags:
+  - "military"
+---
 thumb|This map available for 100 gold!
 This business is run by two talented cartographers; Taylor Broom and Isaac Goldburrow.  These two gentlemen have had an office in the Castle for several years, and have been mapping out the Desertsmouth Mountains and the new plains of Netheril for 20 years.
 

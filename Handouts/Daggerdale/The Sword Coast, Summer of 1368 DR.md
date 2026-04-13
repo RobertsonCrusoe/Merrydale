@@ -1,3 +1,41 @@
+---
+title: "The Sword Coast, Summer of 1368 DR"
+slug: the-sword-coast-summer-of-1368-dr
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Dally"
+  - "Anioch"
+  - "Bliz'Anioch"
+  - "Breton Durinbold"
+  - "Edgar Grimbold"
+  - "Gable"
+  - "Gaebril Tremalkin"
+  - "Harkas Kormallis"
+  - "Kennyth Thames"
+  - "Phineous Reoul"
+  - "Richter"
+  - "Rychel Voordan"
+  - "Talinvor Durinbold"
+  - "Y'morth Dalael"
+  - "Steele"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 == The Warders of Waterdeep ==
 
 The  first encountered the Company Dalael this summer. Both parties were searching for an island known as the Island of Three Curses, somewhere southwest of Neverwinter in the Sea of Swords. On this island, Company Dalael was seeking a location known as Kulgen Sussun in the drow tongue (meaning 'Fortress of Light'), while the Warders sought a keep known as Blethmark. It turned out that Blethmark was one of many layers built upon the millennia-old drow fortress.

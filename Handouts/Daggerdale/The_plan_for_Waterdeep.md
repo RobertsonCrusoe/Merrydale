@@ -1,3 +1,26 @@
+---
+title: "The_plan_for_Waterdeep"
+slug: the-plan-for-waterdeep
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Dulbrawan Anteos"
+locations:
+  - "Waterdeep"
+tags: []
+---
 The plan for Waterdeep
 
 Run an enchanter/diviner that works for the Rooken – a Waterdeep noble named Aramis Fell – handsome but unassuming, a cat’s paw in the background. Maybe 10^(th) level wizard?

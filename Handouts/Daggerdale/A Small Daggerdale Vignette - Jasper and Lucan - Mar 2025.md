@@ -1,3 +1,25 @@
+---
+title: "A Small Daggerdale Vignette - Jasper and Lucan - Mar 2025"
+slug: a-small-daggerdale-vignette-jasper-and-lucan-mar-2025
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Nemia"
+locations: []
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

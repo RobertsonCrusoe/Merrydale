@@ -1,3 +1,33 @@
+---
+title: "Warburton's Report on the Deadnettle Affair"
+slug: warburton-s-report-on-the-deadnettle-affair
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Warburton"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Iolus Warburton"
+  - "Banitt Harbaugh"
+  - "Lumina Whitegate"
+  - "Rhuun"
+locations:
+  - "Dagger Falls"
+  - "Tesh Valley"
+  - "Tethyamar"
+  - "Castle Radiance"
+tags:
+  - "military"
+---
 =Report=
 :20th of Mirtul, 1480 DR
 :Report on Dark Garden Investigation

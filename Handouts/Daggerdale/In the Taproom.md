@@ -1,3 +1,31 @@
+---
+title: "In the Taproom"
+slug: in-the-taproom
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Denelius Ormath"
+  - "Beliard Emmarask"
+  - "Balak Quickaxe"
+  - "Will"
+locations:
+  - "Tethyamar"
+  - "Quick Axes"
+  - "Dagger Falls"
+tags: []
+---
 ==In the Taproom of Quick Axes==
  
 Arriving at the tap room of this establishment late in the day during the peak of the trading season makes it difficult to get a table. There are easily thirty tables in the massive oak-beamed hall, which soars to a ceiling two floors above. Balconies run around the entire perimeter of the walls on two upper floors, and those on the north wall are deep, with more tables and chairs.

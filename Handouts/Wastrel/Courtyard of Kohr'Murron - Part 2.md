@@ -1,3 +1,30 @@
+---
+title: "Courtyard of Kohr'Murron - Part 2"
+slug: courtyard-of-kohr-murron-part-2
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: 20
+characters:
+  - "Baird"
+  - "Bogrun"
+  - "Kethoth Sepret"
+  - "Janus"
+  - "Ghedorh Furrowford"
+  - "Kossur"
+locations: []
+tags: []
+---
 Kethoth mounts up after leading the horses across the rubble. He takes a long look at the edges of the forest, looking for close and dangerous enemies. \"Take a good look before we head out, Tyriol; your eyes are younger than mine. Make sure we are safe to leave.\" (My perception is 5, my nature 7)
 
 (if it doesn't look like we will be instantly overrun by some ogre or giant that is 6 squares away...)

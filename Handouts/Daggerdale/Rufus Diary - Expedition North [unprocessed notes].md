@@ -1,3 +1,30 @@
+---
+title: "Rufus Diary - Expedition North"
+slug: rufus-diary-expedition-north
+type: session
+campaign: daggerdale
+voice: ooc
+status: unprocessed
+tier: editor
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Agamemnon"
+  - "Beljuril"
+  - "Belduran"
+  - "Boregar"
+  - "Grimwald"
+  - "Zaltim"
+locations: []
+tags: []
+---
 [PC Attribution: Rufus Larrigan (Stephen Robertson)]
 [RAW - UNEDITED AND UNREVIEWED - extracted by automated process, not yet verified for accuracy or completeness]
 

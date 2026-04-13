@@ -1,3 +1,10 @@
+---
+title: "Calla Maran"
+slug: calla-maran
+type: stub
+campaign: wastrel
+subtype: npc
+---
 Calla is a middle-aged, round-cheeked, and round-bottomed  proprietor of the general good store in Loudwater.  She is a friendly,  if no-nonsense woman that goes out of her way to have a well-stocked  store despite the challenges she encounters from the current isolation  that Loudwater is suffering from.  Calla is also the ward and what she  perceives to be the adopted mother of a young boy by the name of  Raumadar. 
 
 Raumadar was found by a caravan on the way to Loudwater  fifteen years ago on the shores of Highstar Lake.

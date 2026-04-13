@@ -1,3 +1,10 @@
+---
+title: "Alt Kor"
+slug: alt-kor
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 [PC Attribution: Alt Kor (Rob)]
 thumb
 

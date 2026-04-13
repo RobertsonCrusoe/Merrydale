@@ -1,3 +1,10 @@
+---
+title: "Notes"
+slug: notes
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 Raw notes that have yet to be narrativized.
 
 *Harvestide notes, 1371

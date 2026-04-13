@@ -1,1 +1,8 @@
+---
+title: "Belduran"
+slug: belduran
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 This name was found in a note on a dead Zhentarim wizard named Gilth'zan. Based on another note discovered by the , it seems likely that no such person exists, and that the letter was intended to misdirect the heroes.

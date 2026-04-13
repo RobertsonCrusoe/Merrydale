@@ -1,3 +1,10 @@
+---
+title: "Corrina"
+slug: corrina
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 [PC Attribution: Corrina (Rob)]
 A gnome illusionist.
 

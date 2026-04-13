@@ -1,2 +1,9 @@
+---
+title: "Lexicon of Inestimable Darkness"
+slug: lexicon-of-inestimable-darkness
+type: stub
+campaign: wastrel
+subtype: npc
+---
 Lexicon of Inestimable Darkness – Written in a modified demonic language with a cipher that will be quite difficult to solve. It is a thick tome, thirteen inches deep, twenty-four inches long, and eighteen inches wide. The covers consist of the hide of a black dragon, with the spine and lock upon it consisting of finely wrought brass. The lock itself consists of the front half of a small skull (a child’s), magically protected and preserved with it’s jaws spread open as if in a scream. The tome has six hundred-sixty six pages, consisting of the flayed skin of children, and written in the blood of slain priests of Selûne, Lathander and Amaunator.
 Status of tome - Currently unopened and unread.

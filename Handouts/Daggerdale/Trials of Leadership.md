@@ -1,3 +1,32 @@
+---
+title: "Trials of Leadership"
+slug: trials-of-leadership
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Steele"
+  - "Romulus"
+  - "Will"
+  - "Veritas"
+  - "Garth Shanks"
+  - "Sal Worthingham"
+  - "Beljuril"
+locations:
+  - "Waterdeep"
+tags: []
+---
 ... being an account of the days of Garth Shanks after the Purgation of Chessenta Ward, Waterdeep 1373
 
 ----

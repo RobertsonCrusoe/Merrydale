@@ -1,3 +1,28 @@
+---
+title: "Zeke at the Thirsty Throat"
+slug: zeke-at-the-thirsty-throat
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Richter"
+  - "Garth Shanks"
+  - "Sal Worthingham"
+locations: []
+tags:
+  - "military"
+---
 Zeke arrives at the Thirsty Throat,  looks around, grabs a beer, looks around again, checks the door, looks around yet again, then sits quietly for long enough to down the brew. He walks to the bar and has a glass of rum (or rum-like substitute) then heads over to a table where the Guard is stting.
 “Well met, old man. Join us for a beer.”
 “Arr.”

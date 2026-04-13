@@ -1,3 +1,28 @@
+---
+title: "Malvau"
+slug: malvau
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Tuugan Swift"
+locations:
+  - "Cormanthor"
+  - "Crossed Blades Farm"
+tags:
+  - "military"
+---
 # Source: The Sieges Perilous wiki (backup 2010-02-21)
 # Wiki page title: Malvau
 # Extracted: 2026-04-08 via extract_wiki_xml.py

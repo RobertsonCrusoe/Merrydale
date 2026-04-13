@@ -1,3 +1,26 @@
+---
+title: "Artagan Fairbreen"
+slug: artagan-fairbreen
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Azalia"
+locations:
+  - "Loudwater"
+tags: []
+---
 [PC Attribution: Artagan Fairbreen (Les Blackwell)]
 right|450px
 

@@ -1,3 +1,55 @@
+---
+title: "Elesias 11 1436"
+slug: elesias-11-1436
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Yarkul"
+  - "Jafar"
+  - "Beljuril"
+  - "Zaltim"
+  - "Esperel"
+  - "Agamemnon"
+  - "Drake"
+  - "Grandfather"
+  - "Teskul"
+  - "Xulla"
+  - "Razor"
+  - "Corrina"
+  - "Ebenezer"
+  - "Grimwald"
+  - "Egan"
+  - "Venosar"
+  - "Warburden"
+  - "William Cormaeril"
+  - "Oberon"
+locations:
+  - "Dagger Falls"
+  - "Waterdeep"
+  - "Thistle Ridge"
+  - "Shadowdale"
+  - "Sembia"
+  - "Loudwater"
+  - "Charity"
+  - "Anathar's Dell"
+  - "Dagger Hills"
+  - "Thistle Ridge Farm"
+tags:
+  - "military"
+---
 Elesias 11, 1436 
 
 The Warders of Waterdeep encounter the Company Dalael this summer.  Both parties were searching for something called the Island of Three Curses, somewhere south-west of Neverwinter in the Sea of Swords.  Company Dalael was looking for something called Kulgen Sussun on this island, while the Warders were looking for a place called Blethmark.  It turned out that Blethmark was one of many layers of building upon the ancient Kulgen Sussun (Drow for fortress of light), which was built by Drow millennia ago. 

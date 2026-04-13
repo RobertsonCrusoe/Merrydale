@@ -1,9 +1,55 @@
+---
+title: "Notes on the Return to Waterdeep"
+slug: notes-on-the-return-to-waterdeep
+type: session
+campaign: daggerdale
+voice: ooc
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Beljuril"
+  - "Jafar"
+  - "Dally"
+  - "Egan"
+  - "Xulla"
+  - "Y'morth Dalael"
+  - "Boregar"
+  - "Richter"
+  - "Filiare"
+  - "Halam Umbrusk"
+  - "Maskar Wands"
+  - "Scurluff"
+  - "Steele"
+  - "Durnax Vorn"
+  - "Ebola"
+  - "Ekoul"
+  - "Garth Shanks"
+  - "Jannaxil Serpentil"
+  - "Malagent"
+  - "Manshoon"
+locations:
+  - "Waterdeep"
+  - "Dagger Falls"
+  - "Dagger Hills"
+  - "Yulash"
+  - "Secomber"
+tags:
+  - "military"
+---
 [RAW - UNEDITED AND UNREVIEWED - extracted by automated process, not yet verified for accuracy or completeness]
 
 Notes:
 Greengrass, 1373
-Midnight arrival of the Companions at Roark
-s Tavern
+Midnight arrival of the Companions at Roark's Tavern
 Someone is waiting for us
 it turns out to be Blackstaff
 Garth, Beljuril, Rychel, Nero and Kennyth accompany him
@@ -34,26 +80,21 @@ AMBUSH
 Shellwynd Thann and Derek Swift ambush us along with hirelings
 they take down Beljuril, and then leave
 2 prisoners are captured:
-Story 1: Gaebril
-s interrogation
+Story 1: Gaebril's interrogation
 The thugs were told to carry 2 Harbour Moons each
 Clavius the Mage hired these blokes and was training them to be a special forces unit
 combat training etc.
-Rank and file didn
-t know the rangers, but knew they were there
+Rank and file didn't know the rangers, but knew they were there
 Gaebril asks about Aldebaran
 the fellow knows a little about Kendal Thorne, but not too much
 Were in disguise
 raggy clothes, but MW weapons
-Story 2: Garth
-s interrogation:
+Story 2: Garth's interrogation:
 Garth investigates the mercs at Rhork
 one named Gum (wearing black half-plate):
 20 gp (10 gp per week rate)
-he says he didn
-t see the folks on the 2nd level
-didn
-t know Thann (Shellwynd) but knew the other
+he says he didn't see the folks on the 2nd level
+didn't know Thann (Shellwynd) but knew the other
 Waterdeep base of operations (Dockward)
 Multiple cells of 16 men
 No contact between cells
@@ -94,14 +135,12 @@ Maturin on his own
 Arrival at the Temple of Tempus
 Finds a Priest to Guide him to the Raventree Villa
 About 3x too many guards on duty
-Raven
-s body arrived safely
+Raven's body arrived safely
 Morgan Lathkule has died, apparently slain by rats and wolves
 The family is grieving, and is acting irrationally (?)
 Nandos feels that Ratbiter would find a good home in the hands of the Eastern Storm
 Reconvention at the Dripping Dagger
-Filiare tells Gaebril that Steele doesn
-t hang around anymore
+Filiare tells Gaebril that Steele doesn't hang around anymore
 Additionally, there have been people asking after Steele
 Discussion at Phaulkonmere
 The Rooken network knows that Sal Worthingham originally hired the rangers, and knows that Clavius hired the remaining two rangers to hunt Beljuril
@@ -110,8 +149,7 @@ Egan used to work for Thagdul (according to Halam Umbrusk) but is now devoting h
 
 Halam Umbrusk is a worshipper of Selune and is helping Gaebril only because of a vision he had from the Goddess.
 4 am
-delivery of Nero
-s provisions
+delivery of Nero's provisions
 5 sparkling dusts
 50 metal flasks
 100 potion-barrel of CLW
@@ -124,9 +162,7 @@ Kennyth indicates that Clavius is in studying all the time
 twice a tenday at least
 Clavius has been looking for information on the EOI, Ascelpius of Rethe, etc.
 Others come in now and then
-Dally
-s research doesn
-t follow Clavius
+Dally's research doesn't follow Clavius
 Some investigation on starmetal
 We get a book to give to Beljuril on the subject
 Boregar delivers the book to the Temple of Azuth
@@ -147,11 +183,9 @@ Attack by Gauntil Mercenaries
 Kendal Thorne
 A red snake attacks Garth
 List of Businesses:
-Unicorn
-s Horn
+Unicorn's Horn
 Dark Lantern
-Malthoon
-s High Road Shippers
+Malthoon's High Road Shippers
 Just before Secomber, the tablets went north off the road
 This was before the winter (note: confirm date)
 Message from AM to D:
@@ -168,14 +202,11 @@ Dragon
 Who owns the building South of DW15
 Rhork ran the Wheel of Sands trading company.
 Why are the Beholders in the City?
-What is the Dalael
-s current relationship with Xulla?
-Cargo for Zulpair
-s Pride was supposed to be taken by the Blades of Korombos
+What is the Dalael's current relationship with Xulla?
+Cargo for Zulpair's Pride was supposed to be taken by the Blades of Korombos
 Who is Sylke?
 Q for Egan: Has there been any traffic of slabs through the sewers?
-What
-s the connection with the Blacktail clan?
+What's the connection with the Blacktail clan?
 Does Egan have information on Irlingstars, Muir Quaiggoth?
 Could we co-ordinate with the independents on an assault against the Irlingstars?
 Q for Quevin
@@ -197,8 +228,7 @@ brief conversation with these men
 Garth asks re: starmetal
 Boss man tells Dorian that Dragon will betray him
 Garth Maturin and Dorian cash in their notes from Thagdul, which end up being 6 crates of sugar cane
-Thagdul
-s last laugh.
+Thagdul's last laugh.
 Beljuril
 It has been found out that Clavius has some kind of necromantic dweomer on his face
 he could be Jafar
@@ -250,37 +280,30 @@ Who did the Hunabars steal the staff from again?
 The Beholder In The Staff
 (TBITS) is trying to dissuade us from thinking that the Beholders (through the Zhents) are trying to
 dispel the Weave
-The surface world won
-t be affected
+The surface world won't be affected
 maybe the drow are more interested, as they will be pushed to the surface or perish
 
 TBITS says we should stop the Dalael, as they are currently poised to take over the show
 TBITS thinks that the Heart of the Earth was a grand joke.
 Go find Istolil now!
 it chuckles.
-Soltan (Jafar) is now Xulla
-s right hand man
-TBITS isn
-t aware of whether Kendal Thorne aka Altuth Mzul knows about the connection between Soltan and Xulla
+Soltan (Jafar) is now Xulla's right hand man
+TBITS isn't aware of whether Kendal Thorne aka Altuth Mzul knows about the connection between Soltan and Xulla
 Motives for all are questioned
 Irlingstars are guarding the sewer entrance to the Irlingstar Villa
 Blacktail clan is not
 Contact Egan through a curio-monger named Scurluff
 Note left by Maturin with Scurluff on Mirtul 4:
 Discussion of a meeting with Dally
-Dorian, Garth and Beljuril make for the Eltorchul Villa to meet Dally Dalael.  Here
-s what he has to say
+Dorian, Garth and Beljuril make for the Eltorchul Villa to meet Dally Dalael.  Here's what he has to say
 A mage at Aldebaran speaks with a beholder (Xulla?)
-Beholders generally plot against each other
-s their way
+Beholders generally plot against each other's their way
 Dally knows of 8-10 beholder kin in the GWA
-Zantiid used to manipulate a mage named Thagdul (Z probably considered T it
-s pawn)
+Zantiid used to manipulate a mage named Thagdul (Z probably considered T it's pawn)
 Speculation that beholders operate
 outside
 the Weave
-Dally
-s opinion is that the state of the city is a reflection/echo of some political play by the Beholders
+Dally's opinion is that the state of the city is a reflection/echo of some political play by the Beholders
 Dally tells us that Xulla and Dalael no longer run together
 Historically, beholders come in threes
 Maturin investigates Muir Kwaigoth at the Font of Knowledge to no effect
@@ -307,18 +330,14 @@ Mirtul 7
 Garth and Beljuril loot the Irlingstars
 Maturin goes on Patrol (asking for his share of the treasure later)
 Scrying: Derek and Shellwynd are riding hard for the East
-it looks like they
-ve left Waterdeep and may be returning to the Dales
+it looks like they've left Waterdeep and may be returning to the Dales
 Jannaxil Serpentil is back in town, but not active yet
 A note arrives from Egan in the evening, which indicates that he is keeping a low profile for the time being
-Rychel finds that one of Jafar
-s safehouses has been hastily packed up
+Rychel finds that one of Jafar's safehouses has been hastily packed up
 Jafar was seen leaving the city Mirtul 5 after the battle
 Beljuril and Garth go to visit the Dalael
-Quevin says he has the Encyclopedia Ocularis Indomitus, and says he would be willing to sell it in exchange for a deal that would essentially exclude Garth
-s enterprise from involvement with the Noble Houses of Waterdeep
-Maturin
-s observations:
+Quevin says he has the Encyclopedia Ocularis Indomitus, and says he would be willing to sell it in exchange for a deal that would essentially exclude Garth's enterprise from involvement with the Noble Houses of Waterdeep
+Maturin's observations:
 Quevin is willing to give us backup if we storm the villa
 He is unaware of the aims of the beholders
 Watch the side buildings for flanking opponents

@@ -1,3 +1,35 @@
+---
+title: "Daggerdale - Lucans Casebook - The Slave Orbs and Verinius - Stephen Robertson - Feb 2026"
+slug: daggerdale-lucans-casebook-the-slave-orbs-and-verinius-stephen-robertson-feb-2026
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Invictus"
+  - "Lucan Alavandor"
+  - "Drake"
+  - "Drake Sterling"
+  - "Phineas Hoetmer"
+  - "Vessuvian"
+locations:
+  - "Liberty Hill"
+  - "Dagger Hills"
+  - "Charity"
+  - "Dagger Falls"
+  - "Thistle Ridge"
+tags: []
+---
 From the Casebooks of Lucan Alavandor: The Slave Orbs and the Disappearance of Verinius
 In-character analysis by Stephen Robertson (as Lucan Alavandor)
 18 February 2026

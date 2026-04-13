@@ -1,3 +1,28 @@
+---
+title: "Leilon"
+slug: leilon
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Maevri Dran Qulian"
+  - "Pelinder Filmarya"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 A town on the road from Waterdeep to Neverwinter. The single inn of the town, the Sword of Leilon, is poorly organized, and expensive.
 
 Leilon has featured in the tale on a number of occasions. During their mission to rescue Hob Farwood, Rufus and Raven stayed at the Sword before moving on to Neverwinter. The following year, the  spent an uncomfortable night in the town, during which the town was assaulted by forces under the control of the Zhentarim wizard Atemnon. The Company's treatment by the Lord of Leilon, Pelinder Filmarya, earned both him and the town their undying scorn. Several members of the company vowed silently to one day return and raze the settlement to the ground.

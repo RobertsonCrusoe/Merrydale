@@ -1,1 +1,8 @@
+---
+title: "Corporal Wicks"
+slug: corporal-wicks
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 A semi-retired militia man with a crippled leg.  Wicks looks after the livestock bailey, and actually has a small cottage there.  He always smells like animals. Corporal Wicks was gracious enough to accept the demi-humans in the group (Sorashana and Hruun).  However, shortly after he took them in, giving them austere quarters in one of the barns, he was murdered by Deadnettle, who then took on his appearance (she already had his smell), and gave the two White Cloaks some misinformation, in order to tempt them down a dangerous path upon which she would ambush them.

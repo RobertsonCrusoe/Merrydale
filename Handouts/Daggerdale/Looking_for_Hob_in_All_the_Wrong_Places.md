@@ -1,3 +1,29 @@
+---
+title: "Looking_for_Hob_in_All_the_Wrong_Places"
+slug: looking-for-hob-in-all-the-wrong-places
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Agamemnon"
+  - "Zaltim"
+  - "Bartelos"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 Looking for Hob in All the Wrong Places 
 
 By late Marpenoth of 1371, Raven and Rufus decided that Hob was long overdue.  The autumn was tremendously cold already, and so the two decided to get moving before the snows closed the roads for winter.  The Raventree family supplied horses, and the journey to Neverwinter to locate Hob began. 

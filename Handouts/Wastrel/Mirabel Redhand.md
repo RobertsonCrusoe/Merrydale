@@ -1,3 +1,10 @@
+---
+title: "Mirabel Redhand"
+slug: mirabel-redhand
+type: stub
+campaign: wastrel
+subtype: npc
+---
 Still in her late teens, and still one of the loveliest females in the Grey Vale, Mirabel is a fire-haired half-elf who was once employed at the Green Tankard. Mirabel is the daughter of Sergeant Morgahn Redhand and a wood elf from the Woodsinger clan called Syllynallyah.
 
 Mirabel was seduced by Easak Dromm prior to the Iron Jackal siege and she was led out of town shortly before the siege began. It was discovered by The Ghosts that Mirabel was being held captive at a nearby hunting cabin but did not make rescuing her a priority, nor told Morgahn Redhand for fear of distracting him prior to the impending battle. It was not until The Ghosts were leaving to rescue Mayor Moonfire that they told Sergeant Redhand of where Mirabel might be.

@@ -1,3 +1,28 @@
+---
+title: "Jeska's Speech - Rallying the Community After the Competition"
+slug: jeska-s-speech-rallying-the-community-after-the-competition
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jeska Monarch"
+locations:
+  - "Thistle Ridge"
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 Jeska's Speech - Rallying the Community After the Competition
 by Scott Mclaren (as Jeska Monarch)
 Email thread: "Jeska's speech", 24 Jul 2024

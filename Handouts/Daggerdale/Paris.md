@@ -1,3 +1,24 @@
+---
+title: "Paris"
+slug: paris
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 A character that didn't get as much play as he should have. This was probably the character involved in the [[Conversation at the Thirsty Throat]] during Harvestide of 1371.
 
 == Character Concept ==

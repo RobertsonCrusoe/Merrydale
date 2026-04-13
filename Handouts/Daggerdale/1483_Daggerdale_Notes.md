@@ -1,3 +1,55 @@
+---
+title: "1483_Daggerdale_Notes"
+slug: 1483-daggerdale-notes
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Malveau Greenleaf"
+  - "Nemia"
+  - "Cassimar"
+  - "Charrah"
+  - "Godwin Ferguson"
+  - "Lily Clarandal"
+  - "Mumfrey"
+  - "Alexandus"
+  - "Blaze Whitegate"
+  - "Invictus"
+  - "Ivy Thickwickle"
+  - "Janus"
+  - "John Carpenter"
+  - "Lilac Alavandor"
+  - "Lumina Whitegate"
+  - "Phineas Hoetmer"
+  - "Phoebe Birchgrove"
+  - "Poppy Sweetberry"
+  - "Reginald Boxfray"
+  - "Tara Hilltop"
+locations:
+  - "Charity"
+  - "Thistle Ridge"
+  - "Greenwood Farm"
+  - "Tethyamar"
+  - "Yellow Abbey"
+  - "Cassimar Tower"
+  - "Crossed Blades Farm"
+  - "Dagger Falls"
+  - "Dwimmerholme Farm"
+  - "Gribbons Farm"
+tags:
+  - "military"
+---
 1483 Daggerdale
 
 -   2 libraries at the Yellow Abbey

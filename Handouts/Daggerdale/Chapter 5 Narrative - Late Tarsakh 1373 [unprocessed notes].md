@@ -1,3 +1,41 @@
+---
+title: "Chapter 5 Narrative - Late Tarsakh 1373"
+slug: chapter-5-narrative-late-tarsakh-1373
+type: session
+campaign: daggerdale
+voice: ooc
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jafar"
+  - "Beljuril"
+  - "Amon"
+  - "Bartelos"
+  - "Dolebrund"
+  - "Ebola"
+  - "Huntmaster"
+  - "Janus"
+  - "Khelben Arunsun"
+  - "Lendon"
+  - "Malagent"
+  - "Maturin Horgath"
+  - "Richter"
+  - "Szuth"
+  - "Thasmudyan"
+  - "Whiplass"
+locations:
+  - "Waterdeep"
+tags: []
+---
 [RAW - UNEDITED AND UNREVIEWED - extracted by automated process, not yet verified for accuracy or completeness]
 
 Late Tarsakh, 1373, Rassalantar.

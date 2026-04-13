@@ -1,3 +1,10 @@
+---
+title: "Tethyamar Empire"
+slug: tethyamar-empire
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 # Tethyamar Empire
 # Source: The Sieges Perilous wiki (backup dated 2010-02-21)
 

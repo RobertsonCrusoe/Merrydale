@@ -1,3 +1,47 @@
+---
+title: "Red Herrings - Chapter 1 - The Red Herring - Chapter 1 - Company of the REd Herring"
+slug: red-herrings-chapter-1-the-red-herring-chapter-1-company-of-the-red-herring
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Esperel"
+  - "Jafar"
+  - "Krag"
+  - "Vuldan"
+  - "Teskul"
+  - "Dally"
+  - "Egan"
+  - "Y'morth Dalael"
+  - "Stektine"
+  - "Aganon"
+  - "Aggis"
+  - "Azadon"
+  - "Ebeguld"
+  - "Fang"
+  - "Rubikawn"
+  - "Welland"
+  - "Yarkul"
+  - "Alek Lenter"
+  - "Eldos"
+  - "Feldon Azadand"
+locations:
+  - "Waterdeep"
+  - "Hillsfar"
+tags:
+  - "military"
+---
 Rumour 1:
 An emerging Thieves' Guild
 the Shadow Thieves
@@ -12,15 +56,12 @@ An evil mage, variously known as Ravenblight and Doomface has been killing once 
 Rumour 5
 An evil wizard named Halaster Blackcloack is the Keeper of the Undermountain, and sponsors illicit trade through the region beneath Waterdeep (maybe Skullport, too).
 Rumour 6
-Healing potions can be purchased pretty reasonably from Kappiyan Flurmastyr (though one wouldn
-t want to bug him too often)
+Healing potions can be purchased pretty reasonably from Kappiyan Flurmastyr (though one wouldn't want to bug him too often)
 Rumour 7
 Crimes Against the Lords (impersonation, forgery or treason) are punishable by death.  Crimes Against the city (bribery, etc.) are punished by death or exile..
 Chronicles of the Red Herring:
 Chapter 2: Going Straight
-After the debacle with Serpentil
-s Folios, Garth had little interest in holding a straight job.  He still hadn
-t achieved his childhood dream of being immeasurably rich, however, and without a glance backwards he entered the least honest of Waterdeep
+After the debacle with Serpentil's Folios, Garth had little interest in holding a straight job.  He still hadn't achieved his childhood dream of being immeasurably rich, however, and without a glance backwards he entered the least honest of Waterdeep
 
 s three oldest professions: real estate speculation.  Almost immediately, he was able to rent a room to a visiting Calishite scholar named Jafar, who became a close ally, and eventually a member, of the Company of the Red Herring.  Finding the Jewel of the North to be to his liking, Jafar sought out a local mage named Orilar Thanas to sponsor his entry into the Watchful order of Magists and Protectors.  Jafar soon takes up with the city
 
@@ -41,8 +82,7 @@ s business at The Gentle Mermaid, a local gambling house.  There she meets Arste
 The party rendezvous in the sewer entrance identified by Thagdul.  There, they discover a box with five detonators and directions and Esperel manages to locate the secret entrance that will lead us into the building.  Following the dank passageways for no more than a few minutes, we enter a room directly below the building populated with the ruins of several drow statues enspelled with what appear to be nearly deteriorated enchantments.  In short order, Esperel uncovrers a possible entrance to the building, but as it is opened, party is attacked from the rear by two watchspiders, while three figures burst in from the other side of the door.  One of them is a drow.
 See Map 1
 Dalael Safehouse
-One spider is dispatched by Tomas, though he suffers a bite from the spider
-s fangs.  He runs to help Garth, who is faring less well against the other spider.  Meanwhile, two dodge characters have made it through the door and have confronted Ellyth and Jafar.  Esperel runs to shut the door and block it against the third figure (the drow?), while one of the figures hoots Tomas in the leg with a crossbow bolt.  Tomas dispatches the second spider and moves in with Garth to aid their comrades.  Seeing that they stand little chance of survival, the two opponents (men) surrender and are knocked out by Tomas and Esperel.  Ellyth and Jafar search them and tie them up, discovering
+One spider is dispatched by Tomas, though he suffers a bite from the spider's fangs.  He runs to help Garth, who is faring less well against the other spider.  Meanwhile, two dodge characters have made it through the door and have confronted Ellyth and Jafar.  Esperel runs to shut the door and block it against the third figure (the drow?), while one of the figures hoots Tomas in the leg with a crossbow bolt.  Tomas dispatches the second spider and moves in with Garth to aid their comrades.  Seeing that they stand little chance of survival, the two opponents (men) surrender and are knocked out by Tomas and Esperel.  Ellyth and Jafar search them and tie them up, discovering
 and exotic dagger (Jafar identifies a drow enchantment upon it)
 2 hand crossbows
 Esperel tries the door, but finds it blocked.  Tomas bashes it open and runs into a storeroom of crates, kegs and tuns.  Grabbing a scroll as he looks around, he motions for Garth and Esperel to follow, then sets off in pursuit of the third figure.  The three capitalize on Tomas
@@ -75,39 +115,27 @@ At the end of the day, the party (minus Garth) meets at the Thirsty Throat for d
 s Way and Golden Serpent St. in Northward.  After Esperel leaves, the remaining three decide to take the books to Serpentil
 
 s Books and Folios to sell.  Jafar has the selections form the Draconomicon as a sample.  Tomas has doubts about selling the books, but Jafar pays little attention to the illiterate dullard.
-At Serpentil
-s, we interrupt Jannaxil in conversation with a man and a strange looking elf.  the former is dressed almost exactly like Thagdul, though with longer hair.  He carries a beholder staff slightly shorter that Thagdul
+At Serpentil's, we interrupt Jannaxil in conversation with a man and a strange looking elf.  the former is dressed almost exactly like Thagdul, though with longer hair.  He carries a beholder staff slightly shorter that Thagdul
 
 s.  The elf seems young (about 120) and is dressed in a purple chemise with a silk cloak and thick necklace.  Ellyth senses that he is not what he seems.  Jannaxil dismisses them and they head to the corner while Jafar makes his proposition.  Ellyth notices that the two strangers are paying a lot of attention to the party, and when he sees the book Jafar has brought as a sample (the Draconomicon) he is visibly irate.  Ellyth also hears the elf whisper softly to his partner
 Will she ever fetch a fine price down below!
-Jannaxil urges us to bring the books, and Jafar offers to stay while Tomas and Ellyth fetch them.  After Tomas and Ellyth leave, Jafar tells the elf that he
-s working, and the elf glares at him, saying You
-d better be.
+Jannaxil urges us to bring the books, and Jafar offers to stay while Tomas and Ellyth fetch them.  After Tomas and Ellyth leave, Jafar tells the elf that he's working, and the elf glares at him, saying You'd better be.
 Meanwhile, Esperel ahs been followed since losing Teskul, but manages to trick his pursuer, turning the chase around.  He soon loses them however.  Ellyth, manages to swindle herself a cart, and she and Tomas meet Garth and load the books and head back to Serpentil
 
 s.  On the way, the Magistrate Thumin accosts us with the card and accuses us of stealing the books.  Ellyth defends us and implicates Azadon, her fence.  With the guards are the elf and others fellow from the shop.  A watch-wizard casts detect magic and all of our books glow with the same sigil around the neck of the elf.  Thanks to Ellyth
 
-s quick thinking, Thumin lets us go with a warning to stay in Waterdeep, which irritates the elf even further.  The books and carts are confiscated (and a receipt is given) and the party returns to Jannaxil
-s.  He expresses concern, but little initiative.  All return to Garth
-Thagdul shows up, having learned of the group
-s predicament.  He tells us that the tall man
-s name is Aleshkun, one of the directors of Company Ersgul.  He reveals that Jannaxil is an Ersgul Agent, and offers to save us any legal hassle in exchange for another favour.  All accept.
+s quick thinking, Thumin lets us go with a warning to stay in Waterdeep, which irritates the elf even further.  The books and carts are confiscated (and a receipt is given) and the party returns to Jannaxil's.  He expresses concern, but little initiative.  All return to Garth
+Thagdul shows up, having learned of the group's predicament.  He tells us that the tall man's name is Aleshkun, one of the directors of Company Ersgul.  He reveals that Jannaxil is an Ersgul Agent, and offers to save us any legal hassle in exchange for another favour.  All accept.
 
 It is at this time that Tomas realizes that Jafar is not a Calishite.  He may in fact be from the same area of the world as Aleshkun and Thagdul seem to be.  Also, Jafar slips up with his lie, and Ellyth makes him admit that the books we found are not in fact being studied, but are just sitting in his locker at the Magic Guild.
 
-Ellyth returns home to find that someone has tried to break into her room.  The bouncers tell her that the attempt failed.  Tomas finds that his mother has been beaten and that his house has been ransacked.  All is stolen except for two harbour moons he had hidden, including his grandfather
-s spyglass.  Garth and Esperel decide to case out Serpentil
-s Books and Folios, but on the way there, Esperel doubles back to Garth
-s house.
-Meanwhile, Tomas, having seen to his mother
-s safety, runs back to Garth
-s house to wake up Jafar.  He explains what has happened and his suspicions about the rest of the party
+Ellyth returns home to find that someone has tried to break into her room.  The bouncers tell her that the attempt failed.  Tomas finds that his mother has been beaten and that his house has been ransacked.  All is stolen except for two harbour moons he had hidden, including his grandfather's spyglass.  Garth and Esperel decide to case out Serpentil's Books and Folios, but on the way there, Esperel doubles back to Garth's house.
+Meanwhile, Tomas, having seen to his mother's safety, runs back to Garth's house to wake up Jafar.  He explains what has happened and his suspicions about the rest of the party
 
 s homes and possessions.  Jafar agrees, and returns to the Magic Guild.  Esperel comes back to find Tomas guarding the Jade.  The two decide to sell it immediately, rather than risk it being stolen.  They split up, Tomas taking a decoy on the main streets, and Esperel taking the alleys to the Copper Cup.  On the way, Esperel encounters two thieves, but he is able to avoid them by taking to roofs and using caltrops.  Tomas is attacked by at least one man with drugged darts, and two thugs with swords.  He manages to kill one thug and knock the other out, but is hit with a dart and falls unconscious.  He manages to call the guards before falling asleep.
 
 Esperel sells the jade to Maylar for 54 pp, and waits awhile for Tomas, then tries to find him, unsuccessfully.  Tomas awakens the next morning in a guard tower with Captain Jalthor Murlyn of the watch (who knew his farther, and a shifty little character named Egan, who witnessed the attack.
-Upon regrouping at Garth
-s house, the party decides to form the Company of the Red Herring.  Strangely, Garth
+Upon regrouping at Garth's house, the party decides to form the Company of the Red Herring.  Strangely, Garth
 
 s house was not robbed while Tomas, Ellyth and Esperel all reported break-ins or attempted ones at the very least.
 
@@ -119,34 +147,28 @@ Ellyth gets a bow and we make up a plan, then head to the Slide and into the sew
 
 s caltrops, then into the water.  Ellyth then shoots him again, while Tomas is suddenly engulfed in darkness, and attacked by another figure.  Tomas gets lucky and gashes his attacker.  As his companions note a drow head and shoulders fall out of the darkness and go floating by, Tomas walks out of the darkened area and rescues four little girls.
 
-The company recovers two backpacks, full of spices and spell components, respectively.  The girls were taken up, and those that didn
-t run away immediately were returned to their parents anonymously.
+The company recovers two backpacks, full of spices and spell components, respectively.  The girls were taken up, and those that didn't run away immediately were returned to their parents anonymously.
 Later
 Ellyth joins the Watchful Order of Magists and Protectors
 Garth, as merchant Munk Applet, sells the spices.
-Tomas runs into Egan again, who tells him to be prepared, but won
-t say why.  Researching Ersgul leads Tomas to the offices of the Ersgul Shipping Company, on Net and Spice St. across from the Helmfast warehouse.
+Tomas runs into Egan again, who tells him to be prepared, but won't say why.  Researching Ersgul leads Tomas to the offices of the Ersgul Shipping Company, on Net and Spice St. across from the Helmfast warehouse.
 
 Garth, again as Muck Applet, heads to the Plinth to meet with a sage named Northund to find out more about Lycanthropes.  He is told about the Company of the Deep Delvers and Morgan Lathkule
 a specialist in exterminating lycanthropes
 Mirtul 24
-Jafar is attempting to translate the journals, and pays for 5 days in the Magic Guild
-s library.  Ellyth is being tutored by a fellow named Janados Eltorkul.
+Jafar is attempting to translate the journals, and pays for 5 days in the Magic Guild's library.  Ellyth is being tutored by a fellow named Janados Eltorkul.
 Tomas is going to the Thirsty Throat quite often these days.
-In the middle of the day, a man named Raven shows up at Garth
-s house, asking for help to rescue his sister.  He is told to come back later.
+In the middle of the day, a man named Raven shows up at Garth's house, asking for help to rescue his sister.  He is told to come back later.
 Ellyth disguises herself and heads out to buy a sword
 Garth goes back to the house we burned, only to find that the house is still standing .  Entering, he hears someone upstairs, and sees two figures, which smell and look horrible (zombies) carrying chests.  He is soon caught, and a dark elf with long yellow hair, yellow/orange eyes and a sphinx staff talks to him.   He wears a long grey cloak with grey clothes and with him is Vuldan , the beholder-creature we saw before.  Vuldan calls eth elf
 master
 .  Garth is caught lying, and the elf, who introduces himself as Y
-morth, tells him to come upstairs to the fourth floor, which is unburned.  Vuldan
-s room looks like a lab being packed up.  Y
+morth, tells him to come upstairs to the fourth floor, which is unburned.  Vuldan's room looks like a lab being packed up.  Y
 morth knows Thagdul, and tells Garth that he is in his debt, then casts a spell.  Garth now remembers talking to an man named Dally, not a dark elf.
 
 Tomas makes a deal to arrange protection for his mother.  Thagdul tell Tomas that Yarkul is a Zhent.
 
-Garth, upon returning, tells the story of his adventure.  Jafar is familiar with Dally from the Magic Guild.  Tomas meets with Raven and the two of them drink together as Raven tells the story of his life and his sister
-s kidnapping.
+Garth, upon returning, tells the story of his adventure.  Jafar is familiar with Dally from the Magic Guild.  Tomas meets with Raven and the two of them drink together as Raven tells the story of his life and his sister's kidnapping.
 Mirtul 25
 Jafar has succeeded in translating the scrolls from the house, but is horrified at twhat he has found (see Dalael scroll handout).  It turns out that Erzgul and Drurginz and therefore the party have some connection to a company of drow operating out of Waterdeep.  Tomas meets him at the Crawling Spider and Jafar tells him what has happened.
 
@@ -166,29 +188,21 @@ Magic backpack of holding
 2 potions
 The box was packed with shavings from a magical rock in Chult known as the Heart of the Earth.
 27 Mirtul
-The Company of the Red Herring purchases Garth
-s house and the deed is signed by Stugard Ashe, of the Exotic Fish Retrieval Company.  The Company buys a steel door and an excellent lock.
+The Company of the Red Herring purchases Garth's house and the deed is signed by Stugard Ashe, of the Exotic Fish Retrieval Company.  The Company buys a steel door and an excellent lock.
 
-Wesperel got a loan and purchased a two-story workshop as Sylvanus Starmelder, Son of Aliforus and secured it against intrusion.  Tomas meets Welland of Hillsfar at Company Drurginz, a member of Thagdul
-s staff.  He ends up helping out with a shipment of Ildar Orsabbas
-and didn
-t end up with much thanks for it.
-Raven asks Morgan Lathkule about the Reprobates.  Lathkule says they
-re running slaves in Undermountain.  They are exclusively demi-human, and hang out at the Bloody Fist.
+Wesperel got a loan and purchased a two-story workshop as Sylvanus Starmelder, Son of Aliforus and secured it against intrusion.  Tomas meets Welland of Hillsfar at Company Drurginz, a member of Thagdul's staff.  He ends up helping out with a shipment of Ildar Orsabbas
+and didn't end up with much thanks for it.
+Raven asks Morgan Lathkule about the Reprobates.  Lathkule says they're running slaves in Undermountain.  They are exclusively demi-human, and hang out at the Bloody Fist.
 
 Esperel find sout some of what your average man on the street knows about the Company of the Red Herring:
 Rumour 8:
-Didn
-t they put the drop on the Colmpany of the Southern Star
+Didn't they put the drop on the Colmpany of the Southern Star
 They do legwork for the Company Drurginz
-Raventree noble is adventuring with them (but he
-s disguising himself).  In fact, aren
-t the whole lot of them nobles, slumming it?
+Raventree noble is adventuring with them (but he's disguising himself).  In fact, aren't the whole lot of them nobles, slumming it?
 The Company of the Red Herring is a cover for Zhentarim agents.
 Garth, as the sailor Brass Tharg, discovers that an elf named Mas
 Illyn Vosch is a fence at the Elfstone Tavern.  He moves high-end stuff, often for Ersgul.
-A chest is purchased for the CRH
-s loot.  The shaving so fthe Heart of the Earth are secured in it, the chest is magically locked and then buried.
+A chest is purchased for the CRH's loot.  The shaving so fthe Heart of the Earth are secured in it, the chest is magically locked and then buried.
 Kythorn 3
 Esperel and Garth do a job in Castleward ended up stealing a box of plates.  Jafar fixed the broken casualty wagon.
 Kythorn 4
@@ -203,8 +217,7 @@ dan is challenged to a duel by Raven, and says to meet him at an alley in an hou
 
 wisewoman for some patching up, while Garth and Esperel follow the Reprobates.  Raven heads to the alley.  Garth and Ellyth see the whole pack of Reprobates come out of a house
 a hooded figure, Sgt. Krag, Gul
-dan, another half-orc, Balkine and the were-rat mage emerge.  Garth stays with the others while Esperel follows the hooded figure onto the roof, and tails him to the alley, Esperel comes under fire where he loses his quarry.  When he gets to the alley, Esperel comes under fire from the hooded figure.  Esperel cries out that
-s and ambursh
+dan, another half-orc, Balkine and the were-rat mage emerge.  Garth stays with the others while Esperel follows the hooded figure onto the roof, and tails him to the alley, Esperel comes under fire where he loses his quarry.  When he gets to the alley, Esperel comes under fire from the hooded figure.  Esperel cries out that's and ambursh
 and is wreathed by faerie fire.  Lots of jumping ensues on high, while all hell breaks loose below.  Raven takes a mighty blow from Gul
 
 dan and exercises discretion as the better part of valour while Tomas steps in to take his palce.  Tomas goes down pretty quickly, and is soon dragged out of the way and into the fog where he is bandaged by Ellyth.  Raven manages to do a lot of damage to the hunched were-rat, but both parties back off with apparently no fatalities.
@@ -217,10 +230,8 @@ Garth gives each member of the party 5 light pellets.  Esperel stakes out the Re
 
 Raven is healed, and asks the sewer workers guild for a Map, while Ellyth shops for equipmnt.  Garth goes to talk to Loremaster Kenneth Thames at the Font of Knowledge, to research the drow and the Reprobates.  Jafar researches beholders, while Tomas convalesces.
 Kythorn 6
-Rumour: Carter
-s guild is free of search and seizure by members of the Watch.
-Garth, in the guise of the merchant Daste Jim, gathers information about Huskar Hunabar, a noble who tried to sell the shavings of the Heart of the Earth to Alek Lenter at the Thirsty Throat.  Heart of the Earth is going in bulk at 5000 gp for 10 lbs, but it
-s probably worth twice that.
+Rumour: Carter's guild is free of search and seizure by members of the Watch.
+Garth, in the guise of the merchant Daste Jim, gathers information about Huskar Hunabar, a noble who tried to sell the shavings of the Heart of the Earth to Alek Lenter at the Thirsty Throat.  Heart of the Earth is going in bulk at 5000 gp for 10 lbs, but it's probably worth twice that.
 The Hunabar family is involved in trading and importing fashions.  Huskar is the patriarch of the family, while other members of the family include Jan, a Knight of the Sword Coast, and Horth, a Deep Delver.  Their villa is located at N35.
 
 Raven gets a map of the sewers and together with Esperel, starts figuring out a plan.  Tomas attempts to learn the habits of the wererat Reprobates, but is given a warning to stop poking around.  Ellyth continues to shop.  Espere borrows some money from Jafar tgo buy a bow
@@ -235,8 +246,7 @@ Raven and Esperel mark he doors of the Reprobate Hideout to see if they are used
 Rumour 8
 A priest of Tyr has interrogated victims of the Ravenblight/Doomface creature post-mortem.
 Kythorn 7
-Ellyth gets 2 silver arrows for free from someone, which Raven treats with Jafar
-s poison.  Raven and Esperel discover that the doors have not been used since they last checked.  Everyone but Jafar heads into the sewers.
+Ellyth gets 2 silver arrows for free from someone, which Raven treats with Jafar's poison.  Raven and Esperel discover that the doors have not been used since they last checked.  Everyone but Jafar heads into the sewers.
 
 A drow mark (B) is noticed in the sewer.  Esperel and Ellyth note a wall inconsistency across from another drwo mark B.  Jafar takes off in the night, casting alter self to give himself wings and nabbing one of the goblins from outside the Reprobate headquarters.  However, he blacks out flying over Fish St., after being hit by some darts.
 
@@ -244,14 +254,11 @@ When the company emerges from the sewers, Tomas and Garth head to the Blushing M
 
 Raven and Esperel descend into the sewers again.  They notice two figures quietly padding by, then see Gul
 
-dan, Krag and the half-orc Stektine walk by.  Epserel follows, and is the n followe dyb the two figures, who seem to have doubled back.  Raven attacks, dealing a huge blow to Balkine, but is paralysed by a spell.  The other three Reprobates turn around and Esperel makes himself scarce.  Raven
-s eye is torn out by the wererats, and then they flee.
+dan, Krag and the half-orc Stektine walk by.  Epserel follows, and is the n followe dyb the two figures, who seem to have doubled back.  Raven attacks, dealing a huge blow to Balkine, but is paralysed by a spell.  The other three Reprobates turn around and Esperel makes himself scarce.  Raven's eye is torn out by the wererats, and then they flee.
 Above, Tomas and Ellyth see the same group heading into the Ersgul warehouse.  Tomas goes for the others, whiel garth scouts out the warehouse from the roof.  He listens to a conversation:
-so there
-s nothing you can do about it?
+so there's nothing you can do about it?
 You figure it out.
-dan
-re a lot of use, Yarkul.
+dan're a lot of use, Yarkul.
 sound of wood hitting the floor (staff)
 Jafar wakes up shirtless with a bandage head in a watchtower.  A Black-haired halfling is standing over him, with a look of scrutiny and disdain.  Apparently Jafar had crashed into a window with a bolt stuck in his side.  The halfling, Ilf, discharges him with a warning.  Jafar then meets Egan, who leads him to an alley and says
 Run down there
@@ -279,8 +286,7 @@ Jafar buys components
 Raven is healed, sulks about his eye and fantasizes about murdering Lucien
 Ellyth goes to the Elfstone Tavern and tells about the wererat fights.
 Arkiem Arun, a priestess of Mili and Vedellin Hawkhand are there, both sued to be ina  company specializaing in exterminating wererats.  Many wererats are contributing members of socity.  Loremaster Kenneth Thames at the Font of Knowledge may know more about a potential cure.
-Ellyth goes to the Mage
-s Guild to research Kalug
+Ellyth goes to the Mage's Guild to research Kalug
 dun, the creator fo the insect swarm spell found in the spellbook recovered from the Company of the Southren Star.  Ellyth is again tutored by Janados Eltorkul.
 
 At supper time, Thagdul arrives for dinnear and gives the party the gift of a dark grey cloak emblazoned with the sigil of the Red Herring.  Jafar  takes it, and the party is told that there will be one for everybody soon.  We will be ooing on a mission to the Underdark in a tenday, so we had best be prepared.
@@ -288,8 +294,7 @@ At supper time, Thagdul arrives for dinnear and gives the party the gift of a da
 In the meantime, some Sembian statuary has been stolen from Thagdul by thte Reprobates, and he wants us to get it ofr him.
 Kythorn 10
 Garth purchases a dog from the Ilvestar family.  He names it Fang.
-Esperel commences Fang
-s training so that he will be immune to knockout poison.
+Esperel commences Fang's training so that he will be immune to knockout poison.
 Tomas joins the Fellowship of Salters, Packers and joiners under the supervision of Master Rahannsoz Burihildar.
 Esperel purchases some twine, and he and gGarth pull a job on a hardware store.
 Tomas and Jafar head to the Bloody Fist ot see if the Reprobates are around.  They are not, but upon exiting the two encounter Aganon, the deceased fighter from the Company of the Southern Star.  He is dead, and yet he demands that they accompany him.  The two are led into a trap, and Jarfar manages to save Tomas by magic.  Lucien, it would seem, is behind it.  Afterwards they meet Egan at the Bowels of the Earth.
@@ -317,10 +322,8 @@ Kythorn 12
 There is a huge argument with Esperel about what to do with the treasure.  The party eventually goes to Virgin
 
 s Square to hire 5 mercenaries all of whom vouched for as Lawful Good (whatever that means) by Ellyth.
-We got to the Mage
-s Guild to get the stuff identified
-one of Lucien
-s blades is turned in for destruction, where Ellyth finds a note from Gregor Kassack, a weird-looking mage with a dirty flying cat familiar named Aggis.  Gregor wants to buy the spellbook of Kalug
+We got to the Mage's Guild to get the stuff identified
+one of Lucien's blades is turned in for destruction, where Ellyth finds a note from Gregor Kassack, a weird-looking mage with a dirty flying cat familiar named Aggis.  Gregor wants to buy the spellbook of Kalug
 
 dun.  Ellyth and Jafar argue abou tthis for a long time.  Gregor eventually says he just wants tWave swarm and protection from swarms for 5000 gp.
 identified by the mages are:
@@ -329,17 +332,14 @@ ring of spell-storing
 silver cutlass of moderate enchantment
 scroll of hcill touch
 scroll of embalming
-Inside Lucien Adard
-s chest are an evil-looking spellbook, 4 poitions, spell components and a hoard of coins
+Inside Lucien Adard's chest are an evil-looking spellbook, 4 poitions, spell components and a hoard of coins
 Kythorn 13
 Gregor buys the body off Lucien (which ahd been kept and drained of blood).  Gregor reveals that he hates Zhents because they screwed him out of an artifact fashioned by Myrkul.
 Tomas buys a dog named Captain.
 Kythorn 17
-Teskul invites the company to dinner at Thagdul
-s on the folloiwn gday.
+Teskul invites the company to dinner at Thagdul's on the folloiwn gday.
 Kythorn 18
-The Company of the Red Herrign heads to Trasdesward to attend Thagdul
-s dinner party.  We meet Faerne, the serving girl, and are surprised to see Gregor there.  Soon Tahgdul appears and tafter we eat, he reveals the impending meeting of the Dark Market in the Skullport..  Cultissts of Iyachtu Xvim, in collusion with Ersgul, have captured surface echildren to acrifice and/or sell.  Notably, three Raventree children
+The Company of the Red Herrign heads to Trasdesward to attend Thagdul's dinner party.  We meet Faerne, the serving girl, and are surprised to see Gregor there.  Soon Tahgdul appears and tafter we eat, he reveals the impending meeting of the Dark Market in the Skullport..  Cultissts of Iyachtu Xvim, in collusion with Ersgul, have captured surface echildren to acrifice and/or sell.  Notably, three Raventree children
 relatives o fRAven
 are to be sold to the Beholder Miskur, who will auction them off to the highest bidder.  The company is enlisted to rescue these children from the cultists.
 Tomas heads out immediately to the Riven Shiled Shopppe purchases a magic shield
@@ -354,25 +354,21 @@ A fight with an ettin occurs, and it is swiftly dealt with.  Raven says not to k
 
 should er is broken, but Gregor sets it.  A key ring is seen on the ceiling but before much happens, a  party of rocs approaches.  The CRH hightails it out of the area, but Esperel drops some caltrops and fires a couple fo arrows intot he party, angering the orcs.  Gregor casts web, and we move on.
 
-We find a room with a sarcophagus, fight a snake and a grell.  After the grell died, we took a 2yh sword form the sarcophagus, and found a small box of treasure (300 gp and 2 rubies) in the grell
-s cave.
+We find a room with a sarcophagus, fight a snake and a grell.  After the grell died, we took a 2yh sword form the sarcophagus, and found a small box of treasure (300 gp and 2 rubies) in the grell's cave.
 At approximately 1445 h, we find a room of gargoyles.   All flee save Tomas, who is attacked.  Tomas gets in a hit and is nearly ripped apart by the gargoyles before he flees finding that Raven has been hit by lightning.  Finally after another hour of wandering, a party of approximately a dozen ogres and 40 goblins is sighted going southeast.  We follow wthem to the dar Market.
 
 At approximately 1700h, we enter, 7 against heell.  Saves, undead, shadows and monsters aplenty populate this huge cavern.  High above what seems to be a dragon wign flaps by.  (Tomas realizes that this is just a show).  The lathkule boy and the Raventree children are ofund in the pen.  Gregor sends a corpselinked spider to investigate the cultist caverns, and once that is done, casts a spell that bring sup a magical pyramid house.  Back at the market, Tomas reluctantly offers 850 go to buy his old dockeward acquaintance, Job, never having liked him much, but nevertheless feeling obligated to the fine folk fo dockward.
 A mithril falil was purchased for Job (300 gp)
 In an area wher drow seem to congregate, a derow (Y
-morth Dalael) is seen walking around with the human mage Dally
-s sphinx staff.
+morth Dalael) is seen walking around with the human mage Dally's sphinx staff.
 A bone ring of protection from leveldraining is purchased from the necromancer Ebeguld, and given to Garth.
 
 Back at the auchtion, Sara and Lodan Ravwentree are purchased for 16500 and 7y50 gp respectively.  Adenai Lathkule, however, is apparently ah ot commodity, who we end up purchasing for 4500 gp.  A humanoid figure dressed in a purple robe is unduly interested in Adenai.
 
 The next day, the assault is mounted on the cultists.  One group of undead is quickly dealt with, after which, Gregor uses a skull explosion to decimate the human forces.  Jafar detects invisibility and catches the purple fellow from the previous evening watching us.  Ellyth givechase and makes a hedgehog out of him with arrows, but he manages to escape.  Jafar and Esperel head back to block the entreanc ewith fire.  Raven and Tomas confront the three remaining Hatemasters, but unfortunately Tomas is immedieately incapacitated and knocked to the gournd.  Raven takes out two of the three.  While Esperel and Garth come sin from behind to take out the final cultist.  All the loot we cn scrounge is loaded onto a cart, but we are soon accoste dby ettins, who have crawled their way into the caves.  One is killed by Tomas, a second is fooled by Garth and the third avenged its mate by incapacitiating Tomas.  The purple mage is revealed again, and chased by Esperel.  Gregor makes hsort work of the remaining etting, and all leave the caves to Esperel in shock.
 
-He had just been accosted by a beholder named Xulla, who accused him of being mwean to the purple mage.  In exchange for Esperel pledging us all to his service, Xull spared Esperel
-s life.
-Above, after we
-ve recovered and rested, Nandos Raventree holds a party in our honour.  Midway through, however, the party is interrupted by Mylan Lathkule, carryin gthe body of Jasmine Raventree.  Ravenblighr/Doomface has struck again.  Nandos cancels the party and gives each member of the CrH 500 gp
+He had just been accosted by a beholder named Xulla, who accused him of being mwean to the purple mage.  In exchange for Esperel pledging us all to his service, Xull spared Esperel's life.
+Above, after we've recovered and rested, Nandos Raventree holds a party in our honour.  Midway through, however, the party is interrupted by Mylan Lathkule, carryin gthe body of Jasmine Raventree.  Ravenblighr/Doomface has struck again.  Nandos cancels the party and gives each member of the CrH 500 gp
 
 Eseperel muses that the purple mage might have been Ravenblihgt, but Tomas asks why Ravenblight would have wanted the Lathkule.  Adenia has no suggestions.
 Reprobates:
@@ -425,8 +421,7 @@ yo<+)A
 3<Mexx*
 NNV!
 \GK5
-4xfRr
-d$Hx
+4xfRr'd$Hx
 no t2h
 YejU
 Ln;3
@@ -524,8 +519,7 @@ RR ini
 w=gz
 dkE!
 $VUx
-3>ej
-t+Ht
+3>ej't+Ht
 }>grj
 v{%b^
 a*gW
@@ -559,8 +553,7 @@ N$=H
 l@Op
 I^Pr
 ]19I
-/*Rf
-t"2&
+/*Rf't"2&
 p+*u
 %[5!
 JD_s

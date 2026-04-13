@@ -1,3 +1,33 @@
+---
+title: "Into Cormanthor"
+slug: into-cormanthor
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "26 Ches 1483 DR"
+date_ic_sort: 1483087
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Mortimer"
+  - "Brendle Vale"
+locations:
+  - "Cormanthor"
+  - "Thistle Ridge"
+  - "Greenwood Farm"
+  - "Dagger Falls"
+  - "Dagger Hills"
+  - "Tesh Valley"
+tags:
+  - "military"
+---
 26 Ches -- Into Cormanthor!
 
 Opening Narrative

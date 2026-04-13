@@ -1,3 +1,10 @@
+---
+title: "Free Defense League"
+slug: free-defense-league
+type: stub
+campaign: daggerdale
+subtype: organization
+---
 # Free Defense League
 # Source: The Sieges Perilous wiki (backup dated 2010-02-21)
 

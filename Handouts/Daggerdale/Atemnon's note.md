@@ -1,3 +1,10 @@
+---
+title: "Atemnon's note"
+slug: atemnon-s-note
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 A note from the Zhentarim enchanter Atemnon, delivered to the Neverwinter Company following a harrowing night in Leilon.
 
 Dear Friends & Fellows

@@ -1,3 +1,53 @@
+---
+title: "Whitegate Chronicle - Liberation of Dagger Falls and the End of the Daggerdale Expedition"
+slug: whitegate-chronicle-liberation-of-dagger-falls-and-the-end-of-the-daggerdale-expedition
+type: lore
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "25 Eleint 1372 DR"
+date_ic_sort: 1372269
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Yarkul"
+  - "Grandfather"
+  - "Drake"
+  - "Venosar"
+  - "Turan"
+  - "William Cormaeril"
+  - "Janus"
+  - "Rewel Thunderstorm"
+  - "Ailyan"
+  - "Amaretta"
+  - "Amon"
+  - "Dragkul"
+  - "Gaebril Tremalkin"
+  - "Gond Pistola"
+  - "Morgul"
+  - "Shildevan"
+  - "Warburden"
+  - "Xulla"
+  - "Zantiid"
+locations:
+  - "Dagger Falls"
+  - "Shadowdale"
+  - "Waterdeep"
+  - "Castle Daggerdale"
+  - "Anathar's Dell"
+  - "Castle Radiance"
+  - "Sembia"
+  - "Yulash"
+tags:
+  - "military"
+---
 Eleint 25, 1372 DR 
 Things are changing here very quickly now, and it is difficult to keep track of it all. 
 

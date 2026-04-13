@@ -1,3 +1,37 @@
+---
+title: "Maddrick Thunderstorm"
+slug: maddrick-thunderstorm
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Maddread Thunderstorm"
+  - "Dauntless Thunderstorm"
+  - "Karrigan Thunderstorm"
+  - "Laurel Thunderstorm"
+  - "Leedo Forester"
+  - "Maddrick Thunderstorm"
+  - "Pauldron"
+  - "Radiance Whitegate"
+  - "Randall Eversmoore"
+locations:
+  - "Crossed Blades Farm"
+  - "Yellow Abbey"
+  - "Castle Radiance"
+tags:
+  - "military"
+---
 # Maddrick Thunderstorm
 # Source: Compiled from Sieges Perilous wiki (backup dated 2010-02-21), White Cloaks narratives, and DDC 1480 Pedigrees
 

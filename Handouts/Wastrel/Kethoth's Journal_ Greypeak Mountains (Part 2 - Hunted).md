@@ -1,3 +1,25 @@
+---
+title: "Kethoth's Journal_ Greypeak Mountains (Part 2 - Hunted)"
+slug: kethoth-s-journal-greypeak-mountains-part-2-hunted
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Kethoth"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "kethoths-journal"
+order: 20
+characters:
+  - "Kossur"
+locations: []
+tags: []
+---
 [PC Attribution: Chadrazzan Kossur (Les Blackwell)]
 Mirtul 26
 

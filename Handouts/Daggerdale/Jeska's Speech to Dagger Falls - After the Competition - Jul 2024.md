@@ -1,3 +1,28 @@
+---
+title: "Jeska's Speech to Dagger Falls - After the Competition - Jul 2024"
+slug: jeska-s-speech-to-dagger-falls-after-the-competition-jul-2024
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jeska Monarch"
+  - "Will"
+locations:
+  - "Thistle Ridge"
+tags:
+  - "military"
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

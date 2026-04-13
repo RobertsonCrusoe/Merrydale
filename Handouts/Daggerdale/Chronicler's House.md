@@ -1,3 +1,27 @@
+---
+title: "Chronicler's House"
+slug: chronicler-s-house
+type: lore
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Landrick"
+  - "Neddle"
+  - "Darred"
+locations: []
+tags: []
+---
 This is a smaller building found at the base of the middle wall in the Outer Bailey.  The building was originally placed as a strategic revile, breaking up the otherwise unobstructed course of the courtyard between the north and south gates.
 
 The building has one small wooden door set into a deep stone archway.  On either side of the entrance is hung a rich purple standard with the heraldry of Candle Keep.  The standards are further embellished by each having a pair of brass lamps on either side of the banner which cast a continuous and even glow on the face of the building.

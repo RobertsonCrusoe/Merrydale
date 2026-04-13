@@ -1,3 +1,43 @@
+---
+title: "Songs of the Thistle - Collected by Tammen Gale of Scardale"
+slug: songs-of-the-thistle-collected-by-tammen-gale-of-scardale
+type: poetry
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Mumfrey"
+  - "Alexandus"
+  - "Jasper Hawkford"
+  - "Tammen Gale"
+  - "Lucan Alavandor"
+  - "Vessuvian"
+  - "Beliard Emmarask"
+  - "Alen Reks"
+  - "Darred"
+  - "Melegaunt"
+  - "Phineas Hoetmer"
+  - "Tara Hilltop"
+locations:
+  - "Dagger Falls"
+  - "Thistle Ridge"
+  - "Yellow Abbey"
+  - "Castle Radiance"
+  - "Charity"
+  - "Quick Axes"
+tags:
+  - "military"
+---
 SONGS OF THE THISTLE
 
 AND OTHER VERSES

@@ -1,3 +1,29 @@
+---
+title: "The Loyalist - Muloch Estate, Gideon Bounty, and White Cloaks Citizenship"
+slug: the-loyalist-muloch-estate-gideon-bounty-and-white-cloaks-citizenship
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "21 Marpenoth 1481 DR"
+date_ic_sort: 1481296
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Gideon"
+  - "Godwin Ferguson"
+locations:
+  - "Charity"
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 21 Marpenoth, 1481 DR 
 
 Despite the treachery of the former Editor of The Loyalist, the News must to Press go! Today I, Thomas Page, assume the duties of Editor, as well as those of Guild Master of the Scriveners. There is much mending to be done in both of these Houses, but this cannot stand in the way of Truth, nor will it keep us from our Duty to our Fellow Men of Charity. 

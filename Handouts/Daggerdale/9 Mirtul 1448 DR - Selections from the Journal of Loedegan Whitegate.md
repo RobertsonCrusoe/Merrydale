@@ -1,3 +1,28 @@
+---
+title: "Selections from the Journal of Loedegan Whitegate"
+slug: selections-from-the-journal-of-loedegan-whitegate
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "9 Mirtul 1448 DR"
+date_ic_sort: 1448131
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Loedegan Whitegate"
+  - "Phineas Hoetmer"
+locations:
+  - "Tethyamar"
+tags:
+  - "military"
+---
 DDC – 1481 – 14: Selections from the Journal of Loedegan Whitegate, 1448 DR. 
 Copied by Magistrate Phineas Hoetmer, Flamerule, 1480 DR. 
 GFD Notes: 

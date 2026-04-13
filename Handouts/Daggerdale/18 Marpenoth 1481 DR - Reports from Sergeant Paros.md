@@ -1,3 +1,28 @@
+---
+title: "Reports from Sergeant Paros"
+slug: reports-from-sergeant-paros
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "18 Marpenoth 1481 DR"
+date_ic_sort: 1481293
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Gideon"
+  - "Loedegan Whitegate"
+  - "Phineas Hoetmer"
+locations:
+  - "Charity"
+tags: []
+---
 DDC – 1481 – 12: Reports from Sgt. Paros 
 18 – 20 Marpenoth 
 GFD Notes: 

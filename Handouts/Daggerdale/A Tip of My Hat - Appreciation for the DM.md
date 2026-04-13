@@ -1,3 +1,26 @@
+---
+title: "A Tip of My Hat - Appreciation for the DM"
+slug: a-tip-of-my-hat-appreciation-for-the-dm
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Mumfrey"
+locations:
+  - "Thistle Ridge"
+tags: []
+---
 A Tip of My Hat — Appreciation for the DM
 Stephen Robertson and Les Blackwell (DM)
 Email thread: "A tip of my hat", 20 Jun 2025

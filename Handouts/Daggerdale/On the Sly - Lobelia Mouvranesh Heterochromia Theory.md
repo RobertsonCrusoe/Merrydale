@@ -1,3 +1,25 @@
+---
+title: "On the Sly - Lobelia Mouvranesh Heterochromia Theory"
+slug: on-the-sly-lobelia-mouvranesh-heterochromia-theory
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Mumfrey"
+locations: []
+tags: []
+---
 On the Sly — Lobelia/Mouvranesh Heterochromia Theory
 Stephen Robertson (as Lucan) and Gus Miranda (as Jasper)
 Email thread: "On the sly...", 18 Aug 2024

@@ -1,3 +1,40 @@
+---
+title: "daggerale_info_2"
+slug: daggerale-info-2
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Gwath"
+  - "Randal Morn"
+  - "Manshoon"
+  - "Gauntlet"
+  - "Fzoul Chembryl"
+  - "Janus"
+locations:
+  - "Dagger Falls"
+  - "Tethyamar"
+  - "Shadowdale"
+  - "Dagger Hills"
+  - "Sembia"
+  - "Tesh Valley"
+  - "Teshwave"
+  - "Hillsfar"
+  - "Waterdeep"
+  - "Castle Daggerdale"
+tags: []
+---
 796 DR Year of the Gray Mists
 
 Merrydale becomes Daggerdale following vampiric infestation.

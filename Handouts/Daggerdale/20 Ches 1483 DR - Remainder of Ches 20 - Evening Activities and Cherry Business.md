@@ -1,3 +1,25 @@
+---
+title: "Remainder of Ches 20 - Evening Activities and Cherry Business"
+slug: remainder-of-ches-20-evening-activities-and-cherry-business
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "20 Ches 1483 DR"
+date_ic_sort: 1483081
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Thistle Ridge"
+tags: []
+---
 Remainder of Ches 20 - Evening Activities and Cherry Business
 by Les Blackwell (DM) and Scott Mclaren (Jeska)
 Email thread: "Remainder of Ches 20", 12 Mar 2024

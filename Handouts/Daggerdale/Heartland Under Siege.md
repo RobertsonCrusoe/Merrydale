@@ -1,3 +1,36 @@
+---
+title: "Heartland Under Siege"
+slug: heartland-under-siege
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Banitt Harbaugh"
+  - "Alystair Dretch"
+  - "Ardelusk Whitegate"
+  - "Drake"
+  - "Drake Sterling"
+  - "Rhuun"
+  - "Sorashana"
+  - "Tuugan Swift"
+locations:
+  - "Castle Radiance"
+  - "Dagger Falls"
+  - "Dwimmerholme Farm"
+tags:
+  - "military"
+---
 This was the opening narrative for the adventure \"Deadnettle\"
 
 ----

@@ -1,3 +1,26 @@
+---
+title: "Nomen Ryne"
+slug: nomen-ryne
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Maeghuen Grimbold"
+locations: []
+tags: []
+deceased: true
+---
 Nomen is is a pale-scaled dragonborn hailing from  Tymanther.  It is unknown when he arrived in the Gray Vale but it has  been some time in the past year.  He was hired by Arcos Branikar to be  the “captain of the guard” for the the Over-Flow that Branikar and those  at his farm have taken upon themselves to tend to , protect and bully  where needed.
 
 Nomen is a soft-spoken dragonborn that carries a  steel-shod flail. 

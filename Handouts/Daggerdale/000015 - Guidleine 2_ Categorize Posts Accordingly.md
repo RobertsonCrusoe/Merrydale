@@ -1,3 +1,24 @@
+---
+title: "Guidleine 2_ Categorize Posts Accordingly"
+slug: guidleine-2-categorize-posts-accordingly
+type: meta
+campaign: daggerdale
+voice: ooc
+status: raw
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: forum
+date_ic: ""
+date_ic_sort: ""
+date_ooc: "2011-01-27"
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 Source: GDN_Discussion + GDN_Comment
 DiscussionID: 15
 CategoryID: 7

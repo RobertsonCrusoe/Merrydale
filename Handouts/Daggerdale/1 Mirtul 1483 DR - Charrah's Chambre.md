@@ -1,3 +1,28 @@
+---
+title: "Charrah's Chambre"
+slug: charrah-s-chambre
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1 Mirtul 1483 DR"
+date_ic_sort: 1483123
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Charrah"
+  - "Jeska Monarch"
+locations:
+  - "Dagger Falls"
+  - "Thistle Ridge"
+tags: []
+---
 1 Mirtul 1483 DR – Charrah's Chambre
 
 Mirtul 1, 1483 DR – Charrah's Chambre

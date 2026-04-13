@@ -1,3 +1,36 @@
+---
+title: "Descent to the Dark Market"
+slug: descent-to-the-dark-market
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Esperel"
+  - "Jafar"
+  - "Mhairne"
+  - "Aggis"
+  - "Dally"
+  - "Ebeguld"
+  - "Misker"
+  - "Myelin Lathkule"
+  - "Nandos Raventree"
+  - "Xulla"
+  - "Y'morth Dalael"
+locations: []
+tags:
+  - "military"
+---
 == 17 Kythorn, 1371 - Guess Who's Coming to Dinner==
 400px|right
 The Red Herrings had much to celebrate with the defeat of the Reprobates, and few would argue that they had done the City a grand service in carrying out that much-needed extermination. But Ersgul itself was the greater threat, and the companions had the forboding sense that like some Chultan hydra, their amputation of one verminous appendage would spawn a multitude of others before long. For a time, however, there was peace in the streets, and the companions took a well-deserved rest. It wasn’t until a week later that the final events were put in motion, which would seal their allegiance, and their fates, in the war that was to come.

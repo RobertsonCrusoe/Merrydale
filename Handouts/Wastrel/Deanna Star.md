@@ -1,3 +1,10 @@
+---
+title: "Deanna Star"
+slug: deanna-star
+type: stub
+campaign: wastrel
+subtype: npc
+---
 * AKA \"Starra\"
 
 The proprietor of Starra’s Knives, Deanna “Starra” Star   hails from Tethyr.  She has long, black hair; very slender with a severe  edge to her beauty.  She often wears a relatively unknown form of make  up around her eyes that looks to be coal.  Although unusual, it does  make her blue-violet eyes appear to be that much more vivid and some of  the younger girls in town have tried to mimic “Starra” with generally  disastrous results.

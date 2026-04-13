@@ -1,3 +1,38 @@
+---
+title: "The Shadow Lifted - Part 3"
+slug: the-shadow-lifted-part-3
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1 Kythorn 1455 DR"
+date_ic_sort: 1455153
+date_ooc: ""
+series: "the-shadow-lifted"
+order: 30
+characters:
+  - "Milli"
+  - "Blaze Whitegate"
+  - "Invictus"
+  - "Iolus Warburton"
+  - "Lumina Whitegate"
+  - "Tuugan Swift"
+locations:
+  - "Liberty Hill"
+  - "Waterdeep"
+  - "Castle Gate Inn"
+  - "Castle Radiance"
+  - "Crossed Blades Farm"
+  - "Dagger Falls"
+  - "Tesh Valley"
+  - "Yellow Abbey"
+tags: []
+---
 ==The Whitegates==
 The massacre at Liberty Hill was an unprecedented blow to the Whitegate family. It is not even rivalled by the massacre of 1 Kythorn, 1455. Both of Lumina’s siblings, Lumen and Luminosus, as well as her cousin Lucidus, were fed to the Ritual of Corruption, dying unthinkable deaths. Her mother, Lanya (Forester) was found in the chapel, and had clearly been the object of the cruellest and vilest entertainments for the monsters that held the place; her body did not endure her torments, and we pray daily that her soul is intact. The fates of the children of Lucidus and Sarah Forester, who were two, three, and five years at the time, cannot be reported in detail. They are dead, and that is enough. Various other cousins, aunts and uncles were likewise killed, so that as Lumina mounted the walls during the battle, she was the only living Whitegate in the town. She was soon joined by her uncle, Bishop Blaze Whitegate, as his unit stormed down the concourse. These are the only two Whitegates to spend so much as one night at Liberty Hill since that dreadful day.
 

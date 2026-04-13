@@ -1,3 +1,54 @@
+---
+title: "1439 DR - The Daggerdale Expedition (Luminous Whitegate)"
+slug: 1439-dr-the-daggerdale-expedition-luminous-whitegate
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1439 DR"
+date_ic_sort: 1439001
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Yarkul"
+  - "Grandfather"
+  - "Drake"
+  - "Corrina"
+  - "Will"
+  - "Braehl"
+  - "Gadbout"
+  - "Gaebril Tremalkin"
+  - "Gauntlet"
+  - "Sandalwood"
+  - "Shildevan"
+  - "Venosar"
+  - "Warburden"
+  - "William Cormaeril"
+  - "Yin-Xu"
+  - "Aegis"
+  - "Blacktooth"
+  - "Cassimar"
+  - "Denethor"
+locations:
+  - "Shadowdale"
+  - "Dagger Falls"
+  - "Waterdeep"
+  - "Dagger Hills"
+  - "Anathar's Dell"
+  - "Loudwater"
+  - "Cormanthor"
+  - "Castle Radiance"
+  - "Liberty Hill"
+  - "Sembia"
+tags: []
+---
 DDC – 1372 – 2: The Daggerdale Expedition 
 A collection of notes and narrative by Luminous Whitegate, Submitted to the Yellow Abbey in 1439. 
 GFD Notes: 

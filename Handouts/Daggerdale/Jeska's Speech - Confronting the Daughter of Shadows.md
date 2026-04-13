@@ -1,3 +1,24 @@
+---
+title: "Jeska's Speech - Confronting the Daughter of Shadows"
+slug: jeska-s-speech-confronting-the-daughter-of-shadows
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 Jeska's Speech - Confronting the Daughter of Shadows
 by Scott Mclaren (as Jeska)
 Email thread: "Jeska's speech", 11 May 2025

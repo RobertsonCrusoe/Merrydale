@@ -1,3 +1,35 @@
+---
+title: "Storm from the East"
+slug: storm-from-the-east
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Jeryth Phaulkon"
+  - "Warburden"
+  - "Zelbross"
+  - "Corrina"
+  - "Ordilar"
+  - "Shildevan"
+locations:
+  - "Waterdeep"
+  - "Dagger Falls"
+  - "Tesh Valley"
+  - "Loudwater"
+tags: []
+---
 == Early Winter, 1373 - Shadowflight ==
 
 The Sun rises in the snow-covered Tesh Valley. Shadows recede slowly but surely to reveal the naked oaks and cherry trees, and the snow flecked pines of the wilds of Daggerdale. Soon, at the heart of the valley, shadow leaves the Tesh River, and the ice-covered river is revealed. High atop the fortified battlements of the Tower of Freedom in Dagger Falls, two fresh-faced guards wearing tabards of purple and rose emerge from the stair. The wind is cold, but the sun is warm on their faces. The sun is the promise of their faith. They smile. Two weary guards in black tabards with silver stars cross the wind-swept battlement to meet their relief.

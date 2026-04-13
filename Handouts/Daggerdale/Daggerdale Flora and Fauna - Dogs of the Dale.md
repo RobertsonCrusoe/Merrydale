@@ -1,3 +1,27 @@
+---
+title: "Daggerdale Flora and Fauna - Dogs of the Dale"
+slug: daggerdale-flora-and-fauna-dogs-of-the-dale
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Tesh Valley"
+  - "Yellow Abbey"
+  - "Crossed Blades Farm"
+tags: []
+---
 [Source: Daggerdale Flora and Fauna.txt, lines 1+]
 
 Daggerdale Flora and Fauna 

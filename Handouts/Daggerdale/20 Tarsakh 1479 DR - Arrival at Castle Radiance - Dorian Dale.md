@@ -1,3 +1,32 @@
+---
+title: "Arrival at Castle Radiance - Dorian Dale"
+slug: arrival-at-castle-radiance-dorian-dale
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "20 Tarsakh 1479 DR"
+date_ic_sort: 1479111
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Dorian Dale"
+  - "Lumina Whitegate"
+  - "Troia Trustar"
+locations:
+  - "Castle Radiance"
+  - "Dagger Falls"
+  - "Loedegan's Hall"
+  - "Morning Star Cathedral"
+tags:
+  - "military"
+---
 == Day 1 - Daggerford Farm ==
 
 Tarsakh 20, 1479

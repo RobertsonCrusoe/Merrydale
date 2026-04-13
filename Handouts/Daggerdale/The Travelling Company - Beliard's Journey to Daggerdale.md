@@ -1,3 +1,33 @@
+---
+title: "The Travelling Company - Beliard's Journey to Daggerdale"
+slug: the-travelling-company-beliard-s-journey-to-daggerdale
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Denelius Ormath"
+  - "Tyrian Grey"
+  - "Carpathia Twist"
+  - "Beliard Emmarask"
+locations:
+  - "Sembia"
+  - "Castle Radiance"
+  - "The Dragon's Gate Inn"
+  - "Cormanthor"
+tags:
+  - "military"
+---
 The Travelling Company — Beliard's Journey to Daggerdale
 
 Source: Email from Stephen Robertson to the group, 8 January 2011. Subject: 'Re: The Dragon's Tale Inn - Arabel (continuity rejig)'. Thread ID 12d66d72523c786c. Also forwarded by Stephen in February 2024 with contextual notes.

@@ -1,3 +1,10 @@
+---
+title: "Nytheela Medeila"
+slug: nytheela-medeila
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 thumb|Nytheela is not known for her gentle spirit or her friendly countenance
 
 This eladrin wizard, of the noble , is a fixture at the Castle. She is one of two permanent members of the , and it is rumoured that the name of this organization stems from her personality.

@@ -1,3 +1,26 @@
+---
+title: "A Mission for Rhuun"
+slug: a-mission-for-rhuun
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Castle Radiance"
+tags:
+  - "military"
+---
 =The Cloudy Peak Embassy=
 
 The dead of winter is a difficult time to travel in the mountains for many, but not for one of your tribe; your people are hardly impaired at all by freezing winds and 6’ snow drifts.  Thus, it was decided that your mission would start in just the type of storm that keeps most agents of Netheril out of the mountains.  It was time for you to head to Castle Radiance to pledge your allegiance to the Sun Blades and the Knights with which your people have had a very tenuous peace for nearly a decade.  It was time to give your people hope for survival.

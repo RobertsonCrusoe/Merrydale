@@ -1,3 +1,37 @@
+---
+title: "From the Casebook of Lucan Alavandor - The Sembian Families of Thistle Ridge"
+slug: from-the-casebook-of-lucan-alavandor-the-sembian-families-of-thistle-ridge
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Aisling Maeliticus"
+  - "Claudius Clarandal"
+  - "Saralla Sakurth"
+  - "Abrecia"
+  - "Blaze Whitegate"
+  - "Lucan Alavandor"
+  - "Kionin"
+  - "Minerva Maerimmon"
+  - "Tergus Clarandal"
+locations:
+  - "Thistle Ridge"
+  - "Sembia"
+  - "Saerloon"
+  - "Yellow Abbey"
+tags: []
+---
 From the Casebooks of Lucan Alavandor
 So, I unearthed a letter from among my great-grandmother’s belongings in Saerloon, a relic dated 3540 MC—what Brother Vesuvian confirms is the Mulhorand Calendar equivalent of 1406 DR. The letter, signed with the initials “AA,” seems to be the work of Alvund Alavandor, my great-grandmother’s elder brother. My aunt corroborated this, recalling that Alvund, once a struggling artist, severed ties with the family after leaving Sembia—or perhaps it was the other way around.
 

@@ -1,3 +1,24 @@
+---
+title: "Tojo - Scun's Investigator Character Concept - Oct 2003"
+slug: tojo-scun-s-investigator-character-concept-oct-2003
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 [PC Attribution: Tojo Hollowbough (Stephen Robertson)]
 ===============================================================================
 SOURCE INFORMATION

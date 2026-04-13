@@ -1,3 +1,29 @@
+---
+title: "Dagger Falls Harper Missive (4)"
+slug: dagger-falls-harper-missive-4
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Yarkul"
+  - "Dragkul"
+  - "William Cormaeril"
+locations:
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 This is the second in a series of missives smuggled out of Dagger Falls by an unnamed Harper agent during the Zhent Occupation of 1372. The letter is dated 25 Eleint, 1372 DR.
 
 Things are changing here very quickly now, and it is difficult to keep track of it all.

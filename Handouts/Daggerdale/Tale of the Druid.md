@@ -1,3 +1,27 @@
+---
+title: "Tale of the Druid"
+slug: tale-of-the-druid
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Cormanthor"
+  - "Dagger Hills"
+tags:
+  - "military"
+---
 After coming back from their trip to the Dagger Hills, the White Cloaks were given a cottage to stay in and recover from their harrowing journey that brought them face to face with a number of terrible werewolves, and a short trip into the Shadowfell where they crossed blades with Agents of Netheril.
 
 They came back exhausted, wounded, and soaked and chilled to the bone, but the stay in the small, cozy cottage put all of them in the spirit of camaraderie, as they warmed themselves with a small fire and some rabbit stew. Malvau sat quietly, listening to the other members of this new group which had tagged along with, learning that they too are just getting to know each other. Eventually, when discussion turned to what they would do next; further explore the Shadowfell, or chase after the Bloody Eye, Malvau begins his tale.

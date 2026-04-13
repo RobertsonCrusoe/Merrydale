@@ -1,3 +1,28 @@
+---
+title: "Journal of Tergus Clarandal"
+slug: journal-of-tergus-clarandal
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "3 Flamerule 1435 DR"
+date_ic_sort: 1435185
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Tergus Clarandal"
+  - "Lobelia Alavandor"
+locations:
+  - "Thistle Ridge"
+tags:
+  - "military"
+---
 From the Journal of Tergus Clarandal, recovered at Clarandal Farm 1483 by Company Chrysalis
 
 [Source: burned letters.docx]

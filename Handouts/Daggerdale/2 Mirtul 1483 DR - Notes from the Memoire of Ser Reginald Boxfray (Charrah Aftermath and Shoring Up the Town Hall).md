@@ -1,3 +1,48 @@
+---
+title: "Notes from the Memoire of Ser Reginald Boxfray (Charrah Aftermath and Shoring Up the Town Hall)"
+slug: notes-from-the-memoire-of-ser-reginald-boxfray-charrah-aftermath-and-shoring-up-the-town-hall
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "2 Mirtul 1483 DR"
+date_ic_sort: 1483124
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Charrah"
+  - "Masra"
+  - "Embra"
+  - "Cassimar"
+  - "Nemia"
+  - "Reginald Boxfray"
+  - "Aisling Maeliticus"
+  - "Alexandus"
+  - "Buck Harrowbridge"
+  - "Chastity Dale"
+  - "Daffodil Newharvest"
+  - "Forge Farmountain"
+  - "Garrick Greenfields"
+  - "Illya Elderbough"
+  - "Ivy Thickwickle"
+  - "Kelya Cordoza"
+  - "Phoebe Birchgrove"
+  - "Tergus Clarandal"
+locations:
+  - "Thistle Ridge"
+  - "Dagger Falls"
+  - "Greenwood Farm"
+  - "Saerloon"
+  - "Shadowdale"
+  - "Tethyamar"
+tags: []
+---
 2 Mirtul, 1483 DR – Notes from the Memoire of Ser Reginald Boxfray
 
 Time for my axe to rest and be sharpened, and my pen to do some work.

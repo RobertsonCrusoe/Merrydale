@@ -1,3 +1,36 @@
+---
+title: "Journal of Brother Vessuvian - Part 1"
+slug: journal-of-brother-vessuvian-part-1
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "2 Tarsakh 1483 DR"
+date_ic_sort: 1483093
+date_ooc: ""
+series: ""
+order: 10
+characters:
+  - "Nemia"
+  - "Melegaunt"
+  - "Jeska Monarch"
+  - "Vessuvian"
+  - "Jasper Hawkford"
+  - "Darred"
+  - "Lobelia Alavandor"
+  - "Loki Mouvranesh"
+  - "Tara Hilltop"
+locations:
+  - "Thistle Ridge"
+  - "Cormanthor"
+tags:
+  - "military"
+---
 Journal of Brother Vessuvian, Candlekeep Emissary attaché to The Yellow Abbeye of Daggerfalls, 2 Tarsakh, 1483 DR.
 
 Copy submitted to my friend, Jasper Hawkford, as well as to the Yellow Abbeye Chronicle.

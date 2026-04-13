@@ -1,3 +1,35 @@
+---
+title: "Report from Hennigan"
+slug: report-from-hennigan
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Hennigan"
+source: handout
+date_ic: "7 Marpenoth 1481 DR"
+date_ic_sort: 1481282
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Hennigan Paros"
+  - "Doghan"
+  - "Alen Reks"
+  - "Boraz"
+  - "Darius Winters"
+  - "Kesh"
+  - "Kesh Oakdale"
+  - "Nathan Gale"
+  - "Sabnock"
+  - "Seir"
+locations: []
+tags:
+  - "military"
+---
 [PC Attribution: Hennigan Paros (Jeff)]
 :7th of Marpenoth, 1481 DR
 :Report on the Dwimmerholme Abductions Investigation

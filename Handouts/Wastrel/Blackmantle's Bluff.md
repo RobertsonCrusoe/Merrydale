@@ -1,3 +1,26 @@
+---
+title: "Blackmantle's Bluff"
+slug: blackmantle-s-bluff
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Lendin"
+locations:
+  - "Waterdeep"
+tags: []
+---
 == Whispers on the Wind ==
 
 It all started somewhere on the open Sea of Swords. Somewhere between Baldur’s Gate and Waterdeep, there was a whispering on the Wind, or so Brenaen would say. At those sullen moments at dusk and at dawn, the Windwalker could be seen riding the bow of the ‘‘Wastrel’’, leaning out as if to replace the bowsprit with his nose, and his long moustache blowing in the wind. One evening, after a couple of mornings and evenings of this peculiar behaviour, he ran back to the poop deck, and up to the wheel, where the Captain himself was steering the ship.

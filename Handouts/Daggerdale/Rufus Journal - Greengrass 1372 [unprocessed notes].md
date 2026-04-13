@@ -1,3 +1,44 @@
+---
+title: "Rufus Journal - Greengrass 1372"
+slug: rufus-journal-greengrass-1372
+type: session
+campaign: daggerdale
+voice: ooc
+status: unprocessed
+tier: editor
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Rubikawn"
+  - "Xulla"
+  - "Zantiid"
+  - "Teskul"
+  - "Kionin"
+  - "Yarkul"
+  - "Alek Lenter"
+  - "Garth Shanks"
+  - "Jafar"
+  - "Joldara Hunabar"
+  - "Kappiyan Flurmastyr"
+  - "Quellar Dalael"
+  - "Sal Worthingham"
+  - "Belduran"
+  - "Corina"
+  - "Edgar Grimbold"
+  - "Horth Hunabar"
+  - "Kalindos"
+  - "Malkor Githeas"
+locations: []
+tags:
+  - "military"
+---
 [PC Attribution: Rufus Larrigan (Stephen Robertson)]
 [RAW - UNEDITED AND UNREVIEWED - extracted by automated process, not yet verified for accuracy or completeness]
 
@@ -7,8 +48,7 @@ The night has been long, yet the snow still falls on these quiet streets. In a m
 s time, the heavy drifts will melt and flow to the sea, conquered by the spring. My Lady grant that the mysteries that my brothers and I have been initiated into this night will prove as yielding.
 
 Perhaps, Brother, you question my design in starting this account. In doing so, I violate the solemn and secret vows of brotherhood and conspiracy that I swore not an hour ago. I confess that I do not disagree with your observation - this quill in my hand may well be composing a death warrant I cannot refute. Yet the word is the only remaining avenue that lies open to me to impose order on the chaos of my thoughts. It is my fervent wish that these words will be as moonglow in the darkening night, and reveal to me that which hides in the shadows that plague my brethren. When my task is done, I shall consign these pages to the fire, and so oblivion. Until then, may Our Lady in Silver protect them from the eyes of the Enemy. My one justification is that I write these words in the cipher taught to me by those I now serve. I address you, who read these pages, with the knowledge that you have taken up the Harp, and so I call you brother and beg your absolution.
-ne grant that you do not bear a traitor
-s knife.
+ne grant that you do not bear a traitor's knife.
 Mirtul 1, 1372
 It is surely a measure of desperation that such a task as this is entrusted to such as us, setting off on our journeys little better than pilgrims.
 Mirtul 25, 1371
@@ -65,8 +105,7 @@ s hand, then such a charade, if not born of suicidal madness, must surely have h
 
 s blessing. To corroborate this, we saw that Rubikawn was working in concert with the silver-sashed drow who ambushed us in Dockward, undoubtedly members of Company Dalael. Having left the Reprobates, it is a good bet that Rubikawn had found a new master in Quevin Dalael. Given this hypothesis, we can propose that the Dalael, through Rubikawn, were trying to infiltrate yet another Waterdhavian House, as they have with the Houses of Eltorchul, Dezlentyr and Anteos. There are many connections by which this budding alliance may have been facilitated:
 
-Horth Hunabar, who I suppose to be a close relative, though I know not his position in the family, is a member of the Company of the Deep Delvers. Another member of this company is Corina Dezlentyr, who we know to be Quellar Dalael
-s wife.
+Horth Hunabar, who I suppose to be a close relative, though I know not his position in the family, is a member of the Company of the Deep Delvers. Another member of this company is Corina Dezlentyr, who we know to be Quellar Dalael's wife.
 Rubikawn, a member of the Reprobate mercenary crew, was a colleague of the evil lycanthrope brothers Balkine and Lucien. No children of Selune these, I wonder if they had similar religious convictions to the Hunabars. Conjecture, surely, but also plausible.
 
 There seems no question that, whatever circumstance had come to pass to bring them together, Joldara Hunabar was being wooed by a drow. But if Rubikawn was indeed
@@ -75,8 +114,7 @@ Istolil
 
 In my nightmares, I still see the frothing jaws of Huskar Hunabar, as that lupine fiend leapt at me from the balcony in his House. That his rage at the name
 Thagdul
-, so fatefully mentioned in Rychel
-s letter, was so immediate and so complete, it seems clear to me that the patriarch knew of the mage
+, so fatefully mentioned in Rychel's letter, was so immediate and so complete, it seems clear to me that the patriarch knew of the mage
 
 s interest in the staff, and that it would take far more than the words of a terrified messenger to convince Thagdul, well aware of the nature of the prize, to relinquish it. To Huskar then, man and staff were linked in some way. Why would Huskar so desperately want to keep the staff from Thagdul personally?
 
@@ -92,11 +130,9 @@ s activities, and leaves the problem open to conjecture and speculation as much 
 
 As the director of Company Drurginz, Thagdul was in open competition with the Dalael (through their association with Ersgul) with whom I suspect the Hunabars to have been negotiating an alliance, possibly to be cemented by a marriage between Joldara and
 Istolil
-. With this in mind, Huskar
-s actions can be seen as the result of seeing a valuable item go to the enemy of a possible ally, of potential family. But the alliance never came to fruition. Rubikawn was slain, and we presume the Dalael to have fled to the Underdark, after securing the Phaulkon cargo. But what if the alliance was mooted even before the events on damnable night? I have said before that the Dalael were only pretending to the Hunabars, and a house built on a foundation of lies will easily topple. Why the charade if not to quickly acquire something from the Hunabars without creating a powerful enemy? If
+. With this in mind, Huskar's actions can be seen as the result of seeing a valuable item go to the enemy of a possible ally, of potential family. But the alliance never came to fruition. Rubikawn was slain, and we presume the Dalael to have fled to the Underdark, after securing the Phaulkon cargo. But what if the alliance was mooted even before the events on damnable night? I have said before that the Dalael were only pretending to the Hunabars, and a house built on a foundation of lies will easily topple. Why the charade if not to quickly acquire something from the Hunabars without creating a powerful enemy? If
 Istolil
-and Joldara were indeed to be married, then perhaps the dowry was to be the staff itself, a gesture between the Hunabars and the Dalael. That he would lose such a key strategic tool to the very enemy of an ally he hoped to gain would surely be a painful thorn in Huskar
-s paw.
+and Joldara were indeed to be married, then perhaps the dowry was to be the staff itself, a gesture between the Hunabars and the Dalael. That he would lose such a key strategic tool to the very enemy of an ally he hoped to gain would surely be a painful thorn in Huskar's paw.
 That both the Dalael and Thagdul were after the Hunabar Staff is very telling. If my suspicions about
 Belduran
 are correct, then Thagdul, like Malkor, is confirmed as a Zhentarim pawn of Zantiid, just as he was supposed to be by the Dalael, themselves associates of Xulla. If the beholders Xulla and Zantiid were the true seekers after the staff, then the events of last Harvestide can be seen much more clearly.
@@ -111,10 +147,7 @@ s High Road Shippers (Malkor again!) and the Dalael. We can presume that during 
 
 s remained in the dark. Indeed the note Garth showed me from Quellar Dalael mentions a brush with Zantiid by the drow. I wonder if it may relate to this matter. If so then it may be that the competition for the staff may have been more of a long-term project than I suspected.
 
-A final matter remains. It seems very odd that the Red Herrings should have stumbled into this alliance, as it would have been very much in the interests of the parties involved to keep them as far away as possible. It would seem this involvement guaranteed both Xulla
-s failure and Zantiid
-s victory. The circumstances of the staff
-s recovery, theft and reappearance seem to be overly coincidental. I believe the Red Herrings were set up.
+A final matter remains. It seems very odd that the Red Herrings should have stumbled into this alliance, as it would have been very much in the interests of the parties involved to keep them as far away as possible. It would seem this involvement guaranteed both Xulla's failure and Zantiid's victory. The circumstances of the staff's recovery, theft and reappearance seem to be overly coincidental. I believe the Red Herrings were set up.
 
 Information that the Hunabars had stolen the Heart of the Earth was the motivating factor in the involvement of the Red Herrings. Little evidence concerning the identity of the thief has been uncovered. True, the box formerly containing the HoE was found in the Hunabar villa, but we have already determined that it was previously in the possession of Rubikawn. It seems unlikely that Huskar would have stolen the box, sold the Heart of the Earth, and then given the box to Rubikawn only to have it regifted containing a pledge for the love of Joldara. Such a series of events is possible, I admit, but overly complex to be likely. Given equal evidence, the simplest explanation is best. How then, did Rubikawn come to possess the box that contained the HoE? Answer? He got it from the thief that stole it from the Red Herrings.
 

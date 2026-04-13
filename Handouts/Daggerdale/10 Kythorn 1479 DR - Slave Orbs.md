@@ -1,3 +1,54 @@
+---
+title: "Slave Orbs"
+slug: slave-orbs
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "10 Kythorn 1479 DR"
+date_ic_sort: 1479162
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Drake"
+  - "Lotus"
+  - "Braxus"
+  - "Gaebril Tremalkin"
+  - "Alystair Dretch"
+  - "Lumina Whitegate"
+  - "Neddle"
+  - "Pauldron"
+  - "Tuugan Swift"
+  - "Zuldrick"
+  - "Milli"
+  - "Alen Reks"
+  - "Banitt Harbaugh"
+  - "Blaze Whitegate"
+  - "Decker Blackmane"
+  - "Drake Sterling"
+  - "Ganolen Thendolain"
+  - "Hardigan"
+  - "Invictus"
+  - "Kesh"
+locations:
+  - "Liberty Hill"
+  - "Dagger Falls"
+  - "Crossed Blades Farm"
+  - "Tethyamar"
+  - "Castle Daggerdale"
+  - "Castle Radiance"
+  - "Foot Hills Farm"
+  - "Yellow Abbey"
+  - "Waterdeep"
+  - "Castle Gate Inn"
+tags: []
+---
 The Heart of the Shadow, the Heart of the Dale
 
 The Dark Garden successfully established two covens in the autumn of 1479. The coven at Dwimmerholme Farm, which was to be established by the Dark Garden agent known as Lotus, was foiled by Alystair and Tuugan. However, two were established before that; the lesser of these was at Foot Hills Farm, and was likely established by Deadnettle, who was operating around there at the time. The greater was at Liberty Hill Farm.

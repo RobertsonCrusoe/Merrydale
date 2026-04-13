@@ -1,3 +1,26 @@
+---
+title: "Post Assassination Attempt - Netherese Assassins at Temple - Apr 2025"
+slug: post-assassination-attempt-netherese-assassins-at-temple-apr-2025
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Invictus"
+locations:
+  - "Saerloon"
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

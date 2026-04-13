@@ -1,3 +1,35 @@
+---
+title: "Abandon Hope, Chapter 1_ Bravo Team"
+slug: abandon-hope-chapter-1-bravo-team
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "abandon-hope"
+order: ""
+characters:
+  - "Alen Reks"
+  - "Andrea Stuard"
+  - "Nathan Gale"
+  - "Invictus"
+  - "Phineas Hoetmer"
+  - "Stephiani Weaver"
+  - "Weaver"
+locations:
+  - "A Description of Dwimmerholme Farm"
+  - "Cormanthor"
+  - "Dwimmerholme Farm"
+  - "The Amber Hart Inn"
+tags: []
+---
 14
 DURING the whole of a dull, dark, and soundless day in the autumn of the year, when the clouds hung oppressively low in the heavens, I had been passing alone, on horseback, through a singularly dreary tract of country, and at length found myself, as the shades of the evening drew on, within view of the melancholy House of Usher. I know not how it was—but, with the first glimpse of the building, a sense of insufferable gloom pervaded my spirit. I say insufferable; for the feeling was unrelieved by any of that half-pleasureable, because poetic, sentiment with which the mind usually receives even the sternest natural images of the desolate or terrible. I looked upon the scene before me—upon the mere house, and the simple landscape features of the domain—upon the bleak walls—upon the vacant eye-like windows—upon a few rank sedges—and upon a few white trunks of decayed trees—with an utter depression of soul which I can compare to no earthly sensataion more properly than to the after-dream of the reveller upon opium—the bitter lapse into every-day life—the hideous dropping off of the veil.
 

@@ -1,3 +1,29 @@
+---
+title: "Competition Scoring and Intro"
+slug: competition-scoring-and-intro
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "17 Ches 1483 DR"
+date_ic_sort: 1483078
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Thistle Ridge"
+  - "Thistle Ridge Farm"
+  - "Yellow Abbey"
+  - "Charity"
+tags:
+  - "military"
+---
 Ches 17, 1483 DR 
 You have been selected to participate in the Thistle Ridge Reclamation Competition. You and other holders of Charters Militant will have a tenday to prove that you are the organization best suited to be chartered to Reclaim Thistle Ridge Farm, potentially becoming the lords and owners of that once-shining jewel in the eastern edge of Daggerdale. 
 

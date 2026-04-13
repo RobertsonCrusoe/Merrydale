@@ -1,3 +1,27 @@
+---
+title: "Phaulkonmere"
+slug: phaulkonmere
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jeryth Phaulkon"
+  - "Bronson Phaulkon"
+locations:
+  - "Waterdeep"
+tags: []
+---
 *Phaulkonmere (Waterdeep location AQ17)
 
 By far one of the grandest and best-kept buildings of South Ward, this walled villa seems very much out of place among the warehouses and tradeshops of the area. Four warehouses once stood where Phaulkonmere is now, but these were destroyed in the Wardfires of 1358 DR (326 NR); the land was purchased by an up-and-coming merchant, well-to-do caravan organizer, and minor noble from Cormyr. Lord Bronson Phaulkon took the land and built his wife and family a manor \"amongst those people who support us, not amongst those who wish to associate with us due only to our income\". The manor and its high-walled gardens were finished by winter of the next year.

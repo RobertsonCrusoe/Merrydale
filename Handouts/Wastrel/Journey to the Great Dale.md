@@ -1,3 +1,24 @@
+---
+title: "Journey to the Great Dale"
+slug: journey-to-the-great-dale
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 == Battle upon the Sea of Fallen Stars ==
 
 It is the stormy season in the early spring, and no time to be upon the Sea of Fallen Stars for many mariners. But, for the Wastrel and her crew, no storm has proved her master, and she claws her way through wave after wave upon this relentless, tumultuous sea. And she is not alone.

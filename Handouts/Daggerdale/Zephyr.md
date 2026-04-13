@@ -1,3 +1,10 @@
+---
+title: "Zephyr"
+slug: zephyr
+type: stub
+campaign: daggerdale
+subtype: organization
+---
 A misunderstood creature, and escaped convict, from the prison City of Cormyr, Wheloon.
 
 A genasi with both air and water heritage.

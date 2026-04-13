@@ -1,3 +1,55 @@
+---
+title: "Daggerdale_History_Table_of_Contents"
+slug: daggerdale-history-table-of-contents
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Nathan Gale"
+  - "Alystair Dretch"
+  - "Maturin Horgath"
+  - "Phineas Hoetmer"
+  - "Steele"
+  - "Luminous Whitegate"
+  - "Alen Reks"
+  - "Andrea Stuard"
+  - "Darred"
+  - "Gaebril Tremalkin"
+  - "Grandfather"
+  - "Helm Thunderstorm"
+  - "Jalthor Murlyn"
+  - "Jeryth Phaulkon"
+  - "Lobelia Alavandor"
+  - "Loedegan Whitegate"
+  - "Loki Mouvranesh"
+  - "Perspicuus Whitegate"
+  - "Rewel Thunderstorm"
+  - "Roger Dunland"
+locations:
+  - "Tethyamar"
+  - "Charity"
+  - "Liberty Hill"
+  - "Waterdeep"
+  - "Shadowdale"
+  - "Yellow Abbey"
+  - "Castle Radiance"
+  - "Dagger Falls"
+  - "Dwimmerholme Farm"
+  - "Foot Hills Farm"
+tags:
+  - "military"
+---
 Table of Contents
 
 Prefatory Matter

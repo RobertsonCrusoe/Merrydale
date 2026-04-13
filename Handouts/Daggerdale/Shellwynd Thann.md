@@ -1,3 +1,25 @@
+---
+title: "Shellwynd Thann"
+slug: shellwynd-thann
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Waterdeep"
+tags: []
+---
 This middle-aged Dalesman is a mercenary assassin and sharpshooter. He wields a musket with uncanny accuracy.
 
 No known connection to the Waterdhavian noble House of Thann.

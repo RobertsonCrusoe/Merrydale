@@ -1,3 +1,30 @@
+---
+title: "Jasper's Tenday Revised - Objectives Crafting and Intelligence"
+slug: jasper-s-tenday-revised-objectives-crafting-and-intelligence
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Mortimer"
+  - "Nemia"
+  - "Jasper Hawkford"
+locations:
+  - "Thistle Ridge"
+  - "Shadowdale"
+  - "Dagger Falls"
+tags: []
+---
 Jasper's Tenday (Revised) - Objectives, Crafting, and Intelligence
 by Gus Miranda (as Jasper Hawkford)
 Email thread: "Jasper's Tenday (revised)", 18 Aug 2024

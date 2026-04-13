@@ -1,3 +1,28 @@
+---
+title: "Courtyard of Kohr'Murron - Part 1"
+slug: courtyard-of-kohr-murron-part-1
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: 10
+characters:
+  - "Kethoth Sepret"
+  - "Curran Feldegar"
+  - "Sheel Parin"
+locations:
+  - "Loudwater"
+tags: []
+---
 The remaining wardens were keeping busy. Those not keeping watch for probing strikes from the Red Hand hobgoblins were busy with clearing aside dead bodies and fighting a losing battle against putting out the fires that were blazing on various parts of the Kohr'Morrun stables.
 
 There just didn't seem to be enough hands to help with everything. Two wardens, Curran Feldegar(human male) and Sheel Parin (half-elf female) are struggling with keeping up with the fire brigade, weary from the rushed journey from Falcon's Roost in the northern Graypeaks, the panicked fortifying of the Khor'Murron homestead and the battle following that.

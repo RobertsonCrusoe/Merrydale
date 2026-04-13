@@ -1,3 +1,28 @@
+---
+title: "Missive to Prince Melegaunt"
+slug: missive-to-prince-melegaunt
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Lobelia Alavandor"
+  - "Loki Mouvranesh"
+  - "Melegaunt"
+locations: []
+tags:
+  - "military"
+---
 This is a note intercepted by Mule Company in the early summer of 1379 DR.  It is written in old Netherese, and was deciphered by Ambassador Miritar much later.
 
 Prince Melegaunt;

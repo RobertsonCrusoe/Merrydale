@@ -1,3 +1,32 @@
+---
+title: "Beliard's Favourite Things - A Song from Castle Radiance"
+slug: beliard-s-favourite-things-a-song-from-castle-radiance
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Vessuvian"
+  - "Melegaunt"
+  - "Beliard Emmarask"
+locations:
+  - "Castle Radiance"
+  - "Beliard's Favourite Things - A Song from Castle Radiance"
+  - "Charity"
+  - "Thistle Ridge"
+tags:
+  - "military"
+---
 Beliard's Favourite Things - A Song from Castle Radiance
 by Stephen Robertson (as Beliard Kathklan Emmarask)
 Email thread: "Journal of Brother Vessuvian - Part 1", 27-29 Sep 2024

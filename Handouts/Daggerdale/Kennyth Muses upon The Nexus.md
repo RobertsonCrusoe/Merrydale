@@ -1,3 +1,25 @@
+---
+title: "Kennyth Muses upon The Nexus"
+slug: kennyth-muses-upon-the-nexus
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Kennyth Thames"
+locations: []
+tags: []
+---
 [PC Attribution: Kennyth Thames (Scott McLaren)]
 thumb
 Information collected by Loremaster Kennyth Thames while studying in The Monastery of Sundered Faiths in 1381 DR, The Year of the Starving

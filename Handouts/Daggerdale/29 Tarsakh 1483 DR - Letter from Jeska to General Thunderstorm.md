@@ -1,3 +1,32 @@
+---
+title: "Letter from Jeska to General Thunderstorm"
+slug: letter-from-jeska-to-general-thunderstorm
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Jeska"
+source: handout
+date_ic: "29 Tarsakh 1483 DR"
+date_ic_sort: 1483120
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jeska Monarch"
+  - "Dauntless Thunderstorm"
+  - "Jasper Hawkford"
+  - "Lucan Alavandor"
+locations:
+  - "Greenwood Farm"
+  - "Thistle Ridge"
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 29 Tarsakh, 1483 DR — Letter from Captain Jeska Monarch to General Dauntless Thunderstorm
 
 [Source: Daggerdale - All Chapter 7 Content - june 11 revised.docx, extracted 2026-04-09. Drafted at Greenwood Farm on the eve of the Greengrass battles; carried by Ambassador's hand.]

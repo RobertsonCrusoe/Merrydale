@@ -1,3 +1,41 @@
+---
+title: "1479 DR - Part 3 - The White Cloaks - Late Summer"
+slug: 1479-dr-part-3-the-white-cloaks-late-summer
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1479 DR"
+date_ic_sort: 1479001
+date_ooc: ""
+series: ""
+order: 30
+characters:
+  - "Alystair Dretch"
+  - "Gaebril Tremalkin"
+  - "Madrick"
+  - "Randall Eversmoore"
+  - "Tuugan Swift"
+  - "Blaze Whitegate"
+  - "Braxus"
+  - "Leedo Forester"
+  - "Pauldron"
+locations:
+  - "Dagger Falls"
+  - "Dagger Hills"
+  - "Crossed Blades Farm"
+  - "Cormanthor"
+  - "Dwimmerholme Farm"
+  - "Shadowdale"
+  - "Tethyamar"
+tags:
+  - "military"
+---
 ==Hunting the Bloody Eye - Late Flamerule==
 
 When the White Cloaks were rested and ready after their foray into the Dagger Hills, they made good on their promise to help Malvau in his hunt for The Bloody Eye.  This particularly devious and slippery group of bandits had plagued the roads of the Dale for more than a year, and had killed two of his companions before he hooked up with the White Cloaks.

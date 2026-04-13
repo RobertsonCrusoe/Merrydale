@@ -1,3 +1,32 @@
+---
+title: "Thunderstorm Family"
+slug: thunderstorm-family
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Blaze Whitegate"
+  - "Dauntless Thunderstorm"
+  - "Loedegan Whitegate"
+  - "Radiance Whitegate"
+  - "Rewel Thunderstorm"
+locations:
+  - "Dagger Falls"
+  - "Yellow Abbey"
+tags:
+  - "military"
+---
 # Thunderstorm Family
 # Source: The Sieges Perilous wiki (backup dated 2010-02-21)
 

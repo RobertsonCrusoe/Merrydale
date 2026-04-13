@@ -1,3 +1,25 @@
+---
+title: "Gems of Insight"
+slug: gems-of-insight
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Will"
+locations: []
+tags: []
+---
 ==The Wonderbringer Warforge==
 
 After making a number of inquiries around the Castle, Iolus is able to locate Bollinger's residence at the Wonderbringer Warforge above Fort Luminous. He frowned a moment as he brushed momentarily at a wrinkle in his tabard with one hand before reaching out firmly as well as loudly knocking on Bollinger's door.

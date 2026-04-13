@@ -1,3 +1,25 @@
+---
+title: "Zechary and Smiling Jack"
+slug: zechary-and-smiling-jack
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Freeport"
+tags: []
+---
 [PC Attribution: Zechary Mudge (Stephen Robertson)]
 Being one of the many tales of how Zechary Mudge died to live another day...
 ----

@@ -1,3 +1,26 @@
+---
+title: "A Whispered Word in the Right Ear"
+slug: a-whispered-word-in-the-right-ear
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Ciratto"
+locations:
+  - "Secomber"
+tags: []
+---
 Ciratto had been in town for four days now, and felt it about time he was on the move again. Tarsk’s offer had been perfectly timed. A slight smile touched the corner of his mouth as he thought on that. Well of course it had. He had a hand in arranging it.
  
 A “subtle” conversation here; 

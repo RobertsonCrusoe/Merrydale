@@ -1,3 +1,29 @@
+---
+title: "Mattrick's Journal - Everything must start somewhere."
+slug: mattrick-s-journal-everything-must-start-somewhere
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Mattrick"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Baird"
+  - "Janus"
+  - "Kethoth Sepret"
+locations:
+  - "Loudwater"
+tags:
+  - "military"
+---
 1479, 1st of Mirtul
 
 It has been some time since I put my thoughts down in this well-worn journal. When my brother and I set forth on this journey I was determined to chronicle the entire passing from our homeland to Saharelgard and then back.

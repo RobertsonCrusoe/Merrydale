@@ -1,3 +1,30 @@
+---
+title: "Breakfast at the Monastery of the Precipice - Mirtul 10"
+slug: breakfast-at-the-monastery-of-the-precipice-mirtul-10
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Saharel"
+  - "Ailyan"
+  - "Baird"
+  - "Kuryon"
+  - "Kethoth Sepret"
+locations:
+  - "Loudwater"
+tags: []
+---
 Everyone is gathered around the breakfast table in the main room of the Inn.
 
 Lucretius says \"Well, we are half way through our task. This Lady Moonfire has paid us some small token, but we have agreed to share in equal treasure for equal blood risked.

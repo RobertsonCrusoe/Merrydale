@@ -1,5 +1,4 @@
-The saga of Crofter
-s Rest
+The saga of Crofter's Rest
 Harmon (LN) and Lucerne (LE) Morningstar were two brothers from Halfhap who enlisted in the Cormyrian army and served for four years on tours of duty throughout the kingdom and the Dales.  Harmon, who had become a lieutenant by the time the pair left service, saved his brother
 
 s life by helping him frame a junior sergeant for the murder of an elven priest.  Though Lucerne still claims innocence, not even his Harmon suspected the authenticity of the evidence.
@@ -9,9 +8,7 @@ After the incident, the two retired to become mercenaries with a Sembian company
 s temper resulted in the deaths of two prostitutes.  Travelling to the Dales, the brothers chanced upon a party of drow outside of Shadowdale who were badly wounded after slaying a company of adventurers heading for Myth Drannor.  The two brothers were able to overcome the three survivors, though Lucerne was badly maimed in the fray, losing his right eye and ear.  Nevertheless, the encounter made their fortune, and after a year of living it up in the Dales, the two retired to Thesk in 1328.  In the idyllic settlement of Crofter
 
 s Rest, the two brothers married sisters, Shanya and Milila Crofter, the daughters of local farmers Matthias and Lisabet Crofter
-Harmon lived at Crofter
-s Rest, where he had a son (Harmon the Yonger) by Shanya in 1331.  Lucerne, with help from Milila and her brother Mila, cleared a farm adjacent to Matthias and Lisabet
-s lands, establishing a homestead five miles north and a mile west of Matthias
+Harmon lived at Crofter's Rest, where he had a son (Harmon the Yonger) by Shanya in 1331.  Lucerne, with help from Milila and her brother Mila, cleared a farm adjacent to Matthias and Lisabet's lands, establishing a homestead five miles north and a mile west of Matthias
 home.  Milila, who obsessed over her husband, gave birth to a daughter, Rojania, in 1333.
 
 Mila, then a sullen youth, was initially glad that his sisters had found men willing to carry on his father
@@ -19,8 +16,7 @@ Mila, then a sullen youth, was initially glad that his sisters had found men wil
 s farm.  Quite soon, however, he began to resent the industry that the Morningstar brothers were bringing to the enterprise.  Within a few years, he felt that his own efforts were unappreciated.  He especially grew to resent Lucerne, whose weird effect on his sister seemed unnatural.  He got little sympathy from Matthias himself, who looked on Mila as a failure, though Lisabet favoured him above his
 airhead
 sisters and their brutish husbands.
-In 1336, Mila left Crofter
-s Rest, travelling with an itinerant bard named Sune Quayman, who had been rooming at the Rest for the winter.  Three years later, the two returned from the Savage Frontier, married and with a young daughter that Mila had named after his mother.  Sune was blind, her eyes burned by the Uthgardt tribes of the Savage Frontier after she witnessing a forbidden ritual.
+In 1336, Mila left Crofter's Rest, travelling with an itinerant bard named Sune Quayman, who had been rooming at the Rest for the winter.  Three years later, the two returned from the Savage Frontier, married and with a young daughter that Mila had named after his mother.  Sune was blind, her eyes burned by the Uthgardt tribes of the Savage Frontier after she witnessing a forbidden ritual.
 
 The Mila who returned was an incredibly different man than the one who had followed the beautiful young minstrel three years earlier.  Always something of a dreamer, Mila had become even more distant, though somehow much more focussed.  He spent much of his day meditating and practicing strange exercises.  Odd behaviou aside, the new Mila worked like a machine, clearing a farm to the south of Crofter
 
@@ -42,10 +38,8 @@ Mila was devastated, and severed all ties with his parents and sisters.  Even th
 
 company, his brother-in-law maintained his enmity, refusing to acknowledge his grandson.  As Mila withdrew into himself, Sune grew increasingly frustrated and restless
 
-and the lands around the new Crofter farm fell fallow.  It was the next year, 1353, that Osric Dargaard, a Northman from Icewind Dale who the two had met in their time away, arrived with news that an Uthgardt shaman had requested Sune
-s presence at the summer gathering place
-with a promise that her sight would be restored  Overjoyed, Mila and Sune set out together, glad to be away from Crofter
-s Rest.
+and the lands around the new Crofter farm fell fallow.  It was the next year, 1353, that Osric Dargaard, a Northman from Icewind Dale who the two had met in their time away, arrived with news that an Uthgardt shaman had requested Sune's presence at the summer gathering place
+with a promise that her sight would be restored  Overjoyed, Mila and Sune set out together, glad to be away from Crofter's Rest.
 That same summer, tragedy struck.  During a visit from Harmon the Elder to his brother
 
 s farm, Milila snapped, after years of abuse at the hands of her husband.  In a fit of hysteria, she attacked him in the kitchen, clawing at his face.  Without even thinking, Lucerne lashed out with a huge fist, nearly crushing her skull.  His brother, shocked at the inhumanity of the scene, refused to turn another blind eye to the results of his brother
@@ -54,8 +48,7 @@ s murderous rages.  The two began a heated argument, and fell to struggling.  Th
 
 s good eye.  When Rojania returned from her visit with Mrs. Fizz, she found her father being bandaged by Harmon the Younger.  Lucerne told them how he had entered the house to find his brother drunkenly assaulting Milila.  Confronting his brother, he was slashed in the eye, but still managed to wrestle Harmon the Elder into submission Unfortunately, it was too late for Milila.  Harmon never regained consciousness, and passed away hours later.  The twin tragedies of her husband and sister
 
-s deaths were too much for Shanya, who fell into a swoon when her son told her the news.  Though she recovered a week later, she grew frail and distant, and not a month had passed before Lisabet found her aunt hanging from the rafters in the barn.  None questioned Lucernes
-s grief, or his version of the story.
+s deaths were too much for Shanya, who fell into a swoon when her son told her the news.  Though she recovered a week later, she grew frail and distant, and not a month had passed before Lisabet found her aunt hanging from the rafters in the barn.  None questioned Lucernes's grief, or his version of the story.
 Rojania, though saddened by the death of her mother, had never been close to her.  Milila
 
 s mood swings and obsessions had left her daughter ill at ease in her company.   She hardened herself to the responsibility of looking after her invalid father and running the farm. Lucerne sulked in the farmhouse, doing little but eat, sleep, and rage at his daughter for refusing his requests for ale.  But his temper was not what it once had been, and he often grew scared and confused.  More than once, Rojania awoke to hear him sobbing obscenities in his sleep
@@ -64,9 +57,7 @@ s mood swings and obsessions had left her daughter ill at ease in her company.  
 
 Terrence grew a full black beard and managed to keep his half-elf nature a secret from Harmon and Lisabet (pregnant again) during the few family gatherings they had, and all were happy when Rojania announced her engagement to Terrence at Midwinter.  It was Greengrass the next year when all were together at Crofter
 
-s Rest with Sammel Dan, Mrs Fizz and Father Borndahl, that the secret emerged when the young Palatine was playing with his new uncle
-s beard and pointed out Terrence
-s odd ears.  Harmon and Lucerne were enraged, and much shouting followed.  Lucerne refused to return to the
+s Rest with Sammel Dan, Mrs Fizz and Father Borndahl, that the secret emerged when the young Palatine was playing with his new uncle's beard and pointed out Terrence's odd ears.  Harmon and Lucerne were enraged, and much shouting followed.  Lucerne refused to return to the
 elf-fouled
 house and was invited by Harmon to stay with Lisabet and himself.  Terrence, despondent, and Rojania, enraged, returned to the Morningstar farm.  Rojania refused to leave the farm that she had worked so hard on, and Terrence deferred to her wishes, knowing that though things might be hard, disobeying her wishes would be harder.
 
@@ -75,8 +66,7 @@ In the summer of 1354, Lisabet gave birth to a second son, Clerist, and Rojania 
 s vision had been restored and her belly was heavy.  They were shattered to hear of the tragedy of the year before, and though they remained cool towards the other Morningstars, they renewed their ties with Rojania and became great friends with Terrence.  Triplet sons, a rare blessing indeed, were named Osric, Bjorn and Wulfram Crofter named in honour of Osric and two other Northmen who had been slain in a battle on the Trollmoors that spring, saving the lives of Mila and Sune.
 
 Mila spent some time with Abbot Borndahl, and began training with the Chaunteans, who helped the couple farm their land.  Another son, Tormic, was born to Lisabet and Harmon, and the three farms
-the New Farm, the Feldspar and Crofter
-s Rest (now called the Morningstar Farm in the immediate area)
+the New Farm, the Feldspar and Crofter's Rest (now called the Morningstar Farm in the immediate area)
 thrived
 Matthias spoke little in the decades following the deaths of his daughters, and by the spring of his ninety-third year his health was failing rapidly.  The ancient man relived fragments of his life at all hours of the day, jumping from memory to memory in his senility.  Two weeks before Greengrass, he fell very ill, and a week later had died, at the venerable age of ninety-three.  His funeral is to be held the day before Greengrass 1372, and the local Greengrass festival, which all three families, the Chaunteans and the local halflings are promising to attend, will be held in his honour.
 1269
@@ -337,8 +327,7 @@ Harmon Morningstar (the Elder), Matthias and Lisabet Crofter, Shanya and Milila 
 Brother Mourngrym (P4 CG)
 Loud, burly, and jovial friend-of-all and brewmaster popular with even the most dour farmers  for his jokes and good barley beer. Mourngrym possesses bushy brown sidewhiskers and a moustache that appears and disappears with the passing months, even as the hair on the top of his head slowly but steadily recedes. He has something going with Lisabet Morningstar that nobody knows about.  Spells only occasionally work.  Always the one the brothers roll their eyes at.
 Brother Dannel (P3 LG)
-Borndahl
-s assistant.  In charge of accounts, storage, disbursement of harvest and other economic aspects of running the abbey.  Tight-fisted, tight-assed, young mucky-much with a  short temper.  Quite talented and a great healer.  Bad interpersonal skills.  Red hair, close-cropped, lean and fit.  Originally from Damara.  Little experience beyond the abbey, however.
+Borndahl's assistant.  In charge of accounts, storage, disbursement of harvest and other economic aspects of running the abbey.  Tight-fisted, tight-assed, young mucky-much with a  short temper.  Quite talented and a great healer.  Bad interpersonal skills.  Red hair, close-cropped, lean and fit.  Originally from Damara.  Little experience beyond the abbey, however.
 Obadiah Ravenbeak/Jamshed Dergulstan
 Martyn Bullwhistle N male human Com2
 CR 1
@@ -371,8 +360,7 @@ Toughness, Improved Unarmed Strike
 Martyn is extremely tough.  Martyn is considered to be armed even when unarmed
 that is armed opponents do not get attacks of opportunity when you attack them while unarmed.  However, you still get an opportunity attack against any opponent who makes an unarmed attack on you.
 
-Half-wit.  Keeps the animals in the abbey.  Very affable, but only talks to animals, and uses them to communicate with people.  Hates Palatine and his brothers, who tease him, but hasn
-t done anything yet.  Hugely strong.
+Half-wit.  Keeps the animals in the abbey.  Very affable, but only talks to animals, and uses them to communicate with people.  Hates Palatine and his brothers, who tease him, but hasn't done anything yet.  Hugely strong.
 Brother Bellister, CN male half-elf Clr5
 CR 5
 Size M (5 ft., 3 in. tall)
@@ -404,10 +392,8 @@ Possessions:  4,300 gp  in gear.
 Cleric Domains:  War, Chaos.
 Cleric Spells Per Day:  5/4+1/3+1/2+1.
 Mad as a hatter.  Has discovered how to open the catacombs below the abbey, but kept it a secret while he attempts to discover any treasures.  Originally from Damara, he was the son of a merchant captain who was sick of trade.  Loves farming, but is growing less stable.  Librarian and historian in the abbey, he is aware of its odd history.  Was raised in the abbey by the former librarian, who told him the secrets
-that it is built on the ruins of a more ancient temple.  Spells don
-t work
-Malcolm is aware, but isn
-t certain what is wrong, and is hoping for divine guidance.
+that it is built on the ruins of a more ancient temple.  Spells don't work
+Malcolm is aware, but isn't certain what is wrong, and is hoping for divine guidance.
 Young Patriarch Malcolm Borndahl, LG male half-elf Clr9 (95 years)
 CR 9
 Size M (6 ft., 1 in. tall)
@@ -465,8 +451,7 @@ Watchful
 Close ones
 Together, these three faithful lead a clergy of four Watchfuls. Watchful Brothers Erlan Faerlnar (NG hm P3) is an expert in matters of soil, compost, and tillage, and Lothan Maergh (LN hm P3) is a master of storage and tending of bulbs, seeds, and graftings. Watchful Sisters Ardethra Murmarand (NG hf P3) and Jhalanessa Brithlar (CG hf P3), the latter of which is known for her
 wild impishness
-and ardent nature, are the Bounty
-s herbalists for both humans and livestock. There are also eight Close Ones (NG and CG P2s: three human males and five human females), of whom the best known is the temple carter and seed-seller, old and crag-faced Haronstin
+and ardent nature, are the Bounty's herbalists for both humans and livestock. There are also eight Close Ones (NG and CG P2s: three human males and five human females), of whom the best known is the temple carter and seed-seller, old and crag-faced Haronstin
 Leatherjaws
 Garulth known for his easygoing ways and prodigious capacity for drink.
 Hooks
@@ -556,13 +541,11 @@ lory,
 Forgotten again, same old story!
 (CHORUS)
 We may be here, we may be there,
-Like men of course we
-re everywhere!
+Like men of course we're everywhere!
 We may be fair, but so are elves,
 Ga People, see, are just themselves!
 We may be stout, but so are dwarves,
-At least we
-re not afraid of wharves!
+At least we're not afraid of wharves!
 We may be small, but so are hin,
 At least we have hair on our chin!
 We may be fierce, but so are orcs,
@@ -600,11 +583,9 @@ Oops, not our fault, and not our story!
 gnome drinking ditty entitled "Ga Nomes"
 blamed on Mintiper Moonsilver
 Year of the Boot (1343 DR)
-The saga of Faermyr
-s Rest
+The saga of Faermyr's Rest
 Stephen Robertson
 Stephen Robertson
 Microsoft Word 9.0
-The saga of Faermyr
-s Rest
+The saga of Faermyr's Rest
 Microsoft Word Document

@@ -1,3 +1,25 @@
+---
+title: "Retribution"
+slug: retribution
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Cormanthor"
+tags: []
+---
 \"Silence.\"  Cirdan said sharply to the two children sobbing in grief and fear.  He perked an ear and could hear the wind carrying another of Eremus's epiphanies. \"Or would you prefer I send the both of you over to him?\" He said, pointing to the figure standing over a blood-soaked stump.  The sobbing quieted, but only just.
 
 Kneeling down in front of the children he said quietly, \"Your kind are nothing more than a short-lived plague that has been infecting this region and its inhabitants for far too long.\"  Cirdan had been alive a very long time and he found that it is not enough to merely destroy your enemy through warfare.  If one is to thoroughly defeat an adversary, one must educate their progeny.

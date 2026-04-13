@@ -1,3 +1,26 @@
+---
+title: "A Note from Basil Muloch to Brother Darred"
+slug: a-note-from-basil-muloch-to-brother-darred
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "11 Marpenoth 1481 DR"
+date_ic_sort: 1481286
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Darred"
+  - "Nathan Gale"
+locations: []
+tags: []
+---
 A note from Basil Muloch to Brother Darred, a copy of which was given to Nathan Gale
 
 11 Marpenoth, 1481

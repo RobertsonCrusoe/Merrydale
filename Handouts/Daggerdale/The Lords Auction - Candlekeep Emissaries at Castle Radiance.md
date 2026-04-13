@@ -1,3 +1,30 @@
+---
+title: "The Lords Auction - Candlekeep Emissaries at Castle Radiance"
+slug: the-lords-auction-candlekeep-emissaries-at-castle-radiance
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Desden"
+  - "Darred"
+  - "Dolebrund"
+  - "Neddle"
+locations:
+  - "Castle Radiance"
+tags:
+  - "military"
+---
 The Lord's Auction — Candlekeep Emissaries at Castle Radiance
 Source: Email from Les Blackwell to the group, 5 July 2011. Subject: "Auction"
 Set on 29th Ches 1481 DR. Les's narrative introduction to the Candlekeep Emissaries' Auction, held in Madigan's Hall in the Inner Bailey of Castle Radiance. Describes the Hall (Sun Blades and Knights barracks, capacity 400, typically half garrisoned), the Inner Bailey layout (Madigan's Hall, Loedgan's Hall, Fortress Cathedral), and the three Candlekeep auctioneers: Brother Neddle, Brother Desden, and Sister Caylam, with Brother Darred presiding. Lord Whitegate ordered the auction moved before the Green Grass Festival. Every company captain and many sergeants attend.

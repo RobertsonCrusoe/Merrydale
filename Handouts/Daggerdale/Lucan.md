@@ -1,3 +1,24 @@
+---
+title: "Lucan"
+slug: lucan
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 Divine Anatomy and Lewdness
 
 This category includes Lucan’s signature style of invoking the specific and often grotesque body parts of various deities.

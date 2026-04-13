@@ -1,3 +1,36 @@
+---
+title: "The Troubling Tale of Leirran Grennirath"
+slug: the-troubling-tale-of-leirran-grennirath
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Steele"
+  - "Gable"
+  - "Rychel Voordan"
+  - "Gaebril Tremalkin"
+  - "Kennyth Thames"
+  - "Romulus"
+  - "Talinvor Durinbold"
+  - "Edgar Grimbold"
+  - "Khelben Arunsun"
+  - "Kyahs Agbar"
+  - "Phineous Reoul"
+locations:
+  - "Waterdeep"
+tags: []
+---
 Information compiled by Sandoval Luchra, Rank Three Watch Wizard of Waterdeep, 1457 DR
 ----
 

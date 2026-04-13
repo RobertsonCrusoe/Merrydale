@@ -1,3 +1,28 @@
+---
+title: "Intelligence Report (Vespers) by Dove from Castle Radiance"
+slug: intelligence-report-vespers-by-dove-from-castle-radiance
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "24 Ches 1483 DR"
+date_ic_sort: 1483085
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Cassimar"
+locations:
+  - "Castle Radiance"
+  - "Thistle Ridge"
+tags:
+  - "military"
+---
 Intelligence Report — Vespers, Ches 24, 1483 DR, by Dove from Castle Radiance
 For General Thunderstorm, Bishop Whitegate and Mayor Cassimar
 

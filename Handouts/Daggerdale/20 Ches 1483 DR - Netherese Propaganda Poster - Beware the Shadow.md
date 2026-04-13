@@ -1,3 +1,25 @@
+---
+title: "Netherese Propaganda Poster - Beware the Shadow"
+slug: netherese-propaganda-poster-beware-the-shadow
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "20 Ches 1483 DR"
+date_ic_sort: 1483081
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Dagger Falls"
+tags: []
+---
 Netherese Propaganda Poster #3 - "Beware the Shadow"
 DM Handout (Les Blackwell)
 First appeared in Dagger Falls: 20 Ches 1483 DR

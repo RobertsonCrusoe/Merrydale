@@ -1,3 +1,10 @@
+---
+title: "Mandelbrot"
+slug: mandelbrot
+type: stub
+campaign: wastrel
+subtype: npc
+---
 File:Mandelbrot.jpg
 
 *Full Name: Mandelbrot Vo Mandor

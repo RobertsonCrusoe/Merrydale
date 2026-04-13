@@ -1,3 +1,29 @@
+---
+title: "Charrahs Chambre - End of Last Session Narrative - Pre-Session Discussion - May 2025"
+slug: charrahs-chambre-end-of-last-session-narrative-pre-session-discussion-may-2025
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Charrah"
+  - "Jasper Hawkford"
+  - "Jeska Monarch"
+locations:
+  - "Thistle Ridge"
+  - "Dagger Falls"
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

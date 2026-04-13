@@ -1,3 +1,24 @@
+---
+title: "Weekend - Post-Session Shadowfell and Pathbuilder Discussion - Aug 2025"
+slug: weekend-post-session-shadowfell-and-pathbuilder-discussion-aug-2025
+type: meta
+campaign: daggerdale
+voice: ooc
+status: raw
+tier: editor
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

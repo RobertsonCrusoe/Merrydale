@@ -1,3 +1,46 @@
+---
+title: "Sign of the Red Herring"
+slug: sign-of-the-red-herring
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jafar"
+  - "Esperel"
+  - "Teskul"
+  - "Thuman"
+  - "Gilthanas"
+  - "Garth Shanks"
+  - "Jalthor Murlyn"
+  - "Sal Worthingham"
+  - "Vuldan"
+  - "Azadon"
+  - "Egan"
+  - "Jannaxil Serpentil"
+  - "Ezrelda"
+  - "Feldon Azadand"
+  - "Ildar Orsabbas"
+  - "Kaldunh"
+  - "Orilar Thanas"
+  - "Tomas Quoyle"
+  - "Turith Maylar"
+  - "Will"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 == Greengrass, 1371 - A Story of Swords ==
 The origins of the Company of the Red Herring are best told by Jalthor Murlyn, Captain of the Night Watch, Dock Ward in his report on the activities of Company of the Red Herring:
 

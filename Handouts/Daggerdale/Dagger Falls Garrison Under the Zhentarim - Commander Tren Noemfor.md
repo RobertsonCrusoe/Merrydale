@@ -1,3 +1,33 @@
+---
+title: "Dagger Falls Garrison Under the Zhentarim - Commander Tren Noemfor"
+slug: dagger-falls-garrison-under-the-zhentarim-commander-tren-noemfor
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Tren Noemfor"
+  - "Aegis"
+  - "Braehl"
+  - "Denethor"
+  - "Randal Morn"
+  - "Vargul"
+locations:
+  - "Dagger Falls"
+  - "Dagger Hills"
+tags:
+  - "military"
+---
 Dagger Falls Garrison Under the Zhentarim — Commander Tren Noemfor
 Source: garrison.htm, from DND/_Wiki/check online and delete/ folder
 The pre-Concordat military organisation of Dagger Falls under Zhentarim occupation. This is the garrison that the Sun Blades replaced after the Liberation.

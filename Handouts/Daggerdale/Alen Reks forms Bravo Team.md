@@ -1,3 +1,28 @@
+---
+title: "Alen Reks forms Bravo Team"
+slug: alen-reks-forms-bravo-team
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Ailyan"
+  - "Alen Reks"
+locations:
+  - "Dwimmerholme Farm"
+tags:
+  - "military"
+---
 A narrative read to the players after the resolution of Bravo Tourney
 
 For what seems like an hour, the lot of you have been seated at the ornate table set in the second-floor dining room of the Close. Stern wooden benches support your battle-weary bones as you bide your time. Two uncomfortably comfortable-looking chairs sit at either end of the table, suspiciously unoccuptied. At the very least, the gradually warming scent of fresh dinner wafting in from distant halls, tempting your imaginations and stomachs, is enough to ease any anxious or impatient thoughts that may have crossed your minds. The proceedings directly following your victory were something of a strange blur. Disconcerting, to say in the least.

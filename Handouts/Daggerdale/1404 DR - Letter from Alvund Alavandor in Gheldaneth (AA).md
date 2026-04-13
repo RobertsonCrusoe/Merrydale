@@ -1,3 +1,31 @@
+---
+title: "1404 DR - Letter from Alvund Alavandor in Gheldaneth (AA)"
+slug: 1404-dr-letter-from-alvund-alavandor-in-gheldaneth-aa
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Alvund Alavandor"
+source: handout
+date_ic: "1404 DR"
+date_ic_sort: 1404001
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Vessuvian"
+  - "Lucan Alavandor"
+  - "Kossur"
+  - "Horus"
+locations:
+  - "Thistle Ridge"
+  - "Saerloon"
+  - "Sembia"
+tags: []
+---
 Letter from Alvund Alavandor ("AA"), written from Gheldaneth in Mulhorand, dated 27th of SetMoon, 3,540 MC. Recovered 1483 DR by Lucan Alavandor among the effects of his great-grandmother (Alvund's sister), preserved through four generations of the cadet Alavandor line. Source: Correspondence from AA 3540 MC.docx (uploaded by Stephen as authoritative copy).
 
 Keywords: Alvund Alavandor, AA, Gheldaneth, Mulhorand, Old Patriarch, Shadovar, name-sale, Thistle Ridge imposture, hypogamy, Sembia exile, Saerloon, Turmish, Chessenta, Luthcheq, Imaskari, courtesan sister, bag of precious stones, Ho-Ka-Tep, Horus-Re, Immotep thokari, Kossur m'pha

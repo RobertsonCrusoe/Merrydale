@@ -1,3 +1,27 @@
+---
+title: "Daggerdale 1481 Adventure Details"
+slug: daggerdale-1481-adventure-details
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "28 Ches 1481 DR"
+date_ic_sort: 1481089
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Base Camp Silver"
+  - "Tethyamar"
+tags:
+  - "military"
+---
 Here are links to new material for Daggerdale, 1481.
 
 *The Shadow Lifted - Make sure you read all of this; there are 4 parts plus the appendix

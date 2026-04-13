@@ -1,3 +1,10 @@
+---
+title: "Edgar Grimbold"
+slug: edgar-grimbold
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 [PC Attribution: Edgar Grimbold (Les Blackwell)]
 Better known by his alias, Stuart Bold, Edgar Grimbold is a former adventurer with the Warders of Waterdeep.
 

@@ -1,3 +1,27 @@
+---
+title: "Thorbardson's Hall"
+slug: thorbardson-s-hall
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Tezster Gellinson"
+locations:
+  - "Base Camp Silver"
+  - "Tethyamar"
+tags: []
+---
 ==Excerpt from the narrative, \"The Journey to Base Camp Silver\"==
 right|300px|thumb|Map (in progress) of Thorbardson's Hall
  

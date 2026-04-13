@@ -1,3 +1,27 @@
+---
+title: "Oliver Windemchester"
+slug: oliver-windemchester
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: todd
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Azanza Mizzrym"
+locations:
+  - "Waterdeep"
+  - "Hillsfar"
+tags: []
+---
 [PC Attribution: Oliver Windemchester (Todd Burry)]
 The noted riddler and self-described 'Master of Human Nature' Oliver Windemchester is a minor scion of the Ormlintar noble family of Tantras. While certainly no stranger to the plots and schemes of that city's aristocracy (indeed, he is a veritable expert in the politics of skulduggery), his heritage is darker and more dangerous than even he suspects.
 

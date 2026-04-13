@@ -1,3 +1,29 @@
+---
+title: "Journal of Tergus Clarandal"
+slug: journal-of-tergus-clarandal
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "21 Tarsakh 1434 DR"
+date_ic_sort: 1434112
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Tergus Clarandal"
+locations:
+  - "Thistle Ridge"
+  - "Castle Radiance"
+  - "Tesh Valley"
+tags:
+  - "military"
+---
 From the Journal of Tergus Clarandal, recovered at Clarandal Farm 1483 by Company Chrysalis
 
 [Source: burned letters.docx]

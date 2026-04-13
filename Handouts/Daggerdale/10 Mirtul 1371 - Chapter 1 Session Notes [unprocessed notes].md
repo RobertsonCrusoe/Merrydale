@@ -1,3 +1,31 @@
+---
+title: "Chapter 1 Session Notes"
+slug: chapter-1-session-notes
+type: session
+campaign: daggerdale
+voice: ooc
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "10 Mirtul 1371 DR"
+date_ic_sort: 1371132
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Esperel"
+  - "Jafar"
+  - "Gilthanas"
+  - "Orilar Thanas"
+  - "Vuldan"
+  - "Arsten Thunderstaff II"
+locations: []
+tags:
+  - "military"
+---
 10 Mirtul 1371 - Repaying Debts
 The characters have much to think about during the tenday that follows. Forswearing honest work after his experience at Serpentil’s Folios, Garth decides to invest in Dockward’s real estate market and become a landlord. He purchases a rather rundown house, and soon rents a room to a recently arrived Calishite scholar and wizard named Jafar. Finding the Jewel of the North to be to his liking, Jafar joins the Watchful Order of Magists and Protectors with the sponsorship of a local mage, Orilar Thanas. As a member of the Order, he is assigned to the City Firewatch in order to meet his civic responsibility. Esperel, too, finds sponsorship into the local Finesmith’s Guild, though his reasons are perhaps less noble. Master Halthor Duzmund is either an idiot or a criminal to allow Esperel to join this particular guild, but no questions are asked.
 

@@ -1,3 +1,48 @@
+---
+title: "1372_DR_-_The_Daggerdale_Expedition_Journey_to_Anauroch"
+slug: 1372-dr-the-daggerdale-expedition-journey-to-anauroch
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Razor"
+  - "Curlclaw"
+  - "Grandfather"
+  - "Grimwald"
+  - "Corrina"
+  - "Stoneman"
+  - "Cauldrawn"
+  - "Gond Pistola"
+  - "Warburden"
+  - "Azmund"
+  - "Archibald Suresmith"
+  - "Duncan Eldoun"
+  - "Janus"
+  - "Maturin Horgath"
+  - "Ned Griffin"
+  - "Ordilar"
+  - "Zelbross"
+  - "Beljuril"
+locations:
+  - "Loudwater"
+  - "Sembia"
+  - "Secomber"
+  - "Waterdeep"
+  - "Shadowdale"
+tags: []
+---
 The incredible tale of the Daggerdale expedition becomes it's own tale begins on 6 Mirtul, when the heroes of this story depart the Roarke's tavern and the NC.  Maturin, Raven, Sparrow, Hannibal and Corrina take the Long Road north and west towards Rassalantar, and ultimately towards the road through Anauroch to Daggerdale. 
 
 The first village along the route towards the desert is Rassalantar.  Here, the Daggerdale Expedition (DE) found that they were being followed by 4 members of the Rangers. 

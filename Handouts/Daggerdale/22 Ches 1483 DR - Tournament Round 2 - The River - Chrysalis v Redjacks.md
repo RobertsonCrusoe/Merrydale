@@ -1,3 +1,25 @@
+---
+title: "Tournament Round 2 - The River - Chrysalis v Redjacks"
+slug: tournament-round-2-the-river-chrysalis-v-redjacks
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "22 Ches 1483 DR"
+date_ic_sort: 1483083
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags:
+  - "military"
+---
 22 Ches -- Tournament Round 2 - The River -- Chrysalis v. Redjacks
 
 1. River Plunder

@@ -1,3 +1,24 @@
+---
+title: "Eratselandril Dhardrageth"
+slug: eratselandril-dhardrageth
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 [PC Attribution: Eratselandril Dlardrageth (Stephen Robertson)]
 [[image:ratsel.jpg|right]]
 '''Eratselandril Dhardrageth''', better known as '''Ratsel Drageth''' is a moon elf ranger of no importance, but rich character.

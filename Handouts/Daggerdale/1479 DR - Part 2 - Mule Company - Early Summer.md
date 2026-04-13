@@ -1,3 +1,46 @@
+---
+title: "1479 DR - Part 2 - Mule Company - Early Summer"
+slug: 1479-dr-part-2-mule-company-early-summer
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1479 DR"
+date_ic_sort: 1479001
+date_ooc: ""
+series: ""
+order: 20
+characters:
+  - "Josalle"
+  - "Grendel"
+  - "Grendel"
+  - "Grimwald"
+  - "Lobelia Alavandor"
+  - "Loki Mouvranesh"
+  - "Northman"
+  - "Wlodimir"
+  - "Dane Grimwald"
+  - "Ardelusk Whitegate"
+  - "Argent Whitegate"
+  - "Banitt Harbaugh"
+  - "Mr. Bollinger"
+  - "Rainyerd"
+  - "Zephyr"
+  - "Erevan Ilythiirian"
+locations:
+  - "Dagger Falls"
+  - "Castle Gate Inn"
+  - "Castle Radiance"
+  - "Crossed Blades Farm"
+  - "Tethyamar"
+tags:
+  - "military"
+---
 The story of the men that would come to be known as Mule Company begins in the spring of 1479 DR.  Travelling towards Dagger Falls and Castle Radiance in various caravans, a group of men (and one drow) met at the taproom of the Castle Gate Inn in Crossed Blades Farm, which included Dane Grimwald, Erevan Ilythiirian (aka Grym), and Banitt Harbaugh.  They got off to a shaky start, with Dane clearly distrustful of the smooth-talking drow, and the Pilgrim (Banitt) being uneasy with all of them.  Each of these men was going to the Castle for his own reasons; Grym on some ancient and unspoken family business, Banitt as a pilgrim from a far-and-frozen land to see the tomb of Ardelusk Whitegate, and Dane to confront some old demons, or possibly just returning to, or running from the scene of some old crime.
 
 By the time they reached the Castle, they had resolved to stick to together; the world was a dangerous place as it was, and the Desert’s Mountains even more-so.  In Dagger Falls they added the mercurial creature Zephyr to their ranks, making them easily the motliest group of souls in the region.  They had a difficult time even gaining entry to the Castle, and only by the will of the Pilgrim, and some pass given the Drow by the Myth Drannor Embassy did they make the gates.

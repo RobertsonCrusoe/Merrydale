@@ -1,3 +1,28 @@
+---
+title: "Garth Shanks"
+slug: garth-shanks
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: todd
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Garth Shanks"
+  - "Sal Worthingham"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 [PC Attribution: Garth Shanks (Todd Burry)]
 13\"There is no truth except the game. For truth or fiction: it is all bluff in this wretched City of Splendours, you know?\"
 

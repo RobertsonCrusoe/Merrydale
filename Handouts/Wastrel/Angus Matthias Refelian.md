@@ -1,3 +1,10 @@
+---
+title: "Angus Matthias Refelian"
+slug: angus-matthias-refelian
+type: stub
+campaign: wastrel
+subtype: npc
+---
 Excerpted from the entry for the  in Volo's Guide to the Oligarchy of Splendour: The Noble Houses & Merchant Families of Waterdeep
 -----
 

@@ -1,1 +1,8 @@
+---
+title: "Marsh Laval"
+slug: marsh-laval
+type: stub
+campaign: wastrel
+subtype: npc
+---
 Marsh is a halfling hailing from Secomber and runs the Green Tankard. Marsh is a loud, easy-speaking individual that isn't afraid of ignoring his thirsty patrons for an opportunity to regale any that would listen with tales of his days as an adventurer north of Waterdeep

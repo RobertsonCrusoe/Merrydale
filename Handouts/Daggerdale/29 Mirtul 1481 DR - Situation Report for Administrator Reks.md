@@ -1,3 +1,28 @@
+---
+title: "Situation Report for Administrator Reks"
+slug: situation-report-for-administrator-reks
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "29 Mirtul 1481 DR"
+date_ic_sort: 1481151
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Iolus Warburton"
+locations:
+  - "Tethyamar"
+  - "Base Camp Silver"
+tags:
+  - "military"
+---
 DDC – 1481 – 3: Situation Report for Administrator Reks, 29 Mirtul, 1481 
 Being a note delivered by runner from Base Camp Silver to Loedegan Close, from Captain Iolus Warburton 
 GFD Notes: 

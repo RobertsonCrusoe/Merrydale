@@ -1,3 +1,27 @@
+---
+title: "Post Shadowvar Battle at the Temple of Jannath"
+slug: post-shadowvar-battle-at-the-temple-of-jannath
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "28 Tarsakh 1483 DR"
+date_ic_sort: 1483119
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Abbot Ambershields"
+locations:
+  - "Greenwood Farm"
+tags:
+  - "military"
+---
 28 Tarsakh, 1483 DR - Post Shadowvar Battle at the Temple of Jannath
 DM Handout (Les Blackwell)
 

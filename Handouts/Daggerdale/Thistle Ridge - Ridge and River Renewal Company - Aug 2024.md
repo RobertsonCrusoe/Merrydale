@@ -1,3 +1,27 @@
+---
+title: "Thistle Ridge - Ridge and River Renewal Company - Aug 2024"
+slug: thistle-ridge-ridge-and-river-renewal-company-aug-2024
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Dagger Falls"
+  - "Thistle Ridge"
+tags:
+  - "military"
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

@@ -1,3 +1,25 @@
+---
+title: "Spedicut's Letter"
+slug: spedicut-s-letter
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Spedicut"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "William Spedicut"
+locations: []
+tags: []
+---
 A letter from Master William Spedicut, The Free Thinker
 ----
 

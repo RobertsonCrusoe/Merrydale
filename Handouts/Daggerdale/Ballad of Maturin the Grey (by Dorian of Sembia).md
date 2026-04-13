@@ -1,3 +1,36 @@
+---
+title: "Ballad of Maturin the Grey (by Dorian of Sembia)"
+slug: ballad-of-maturin-the-grey-by-dorian-of-sembia
+type: poetry
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Corrina"
+  - "Grimwald"
+  - "Ailyan"
+  - "Grandfather"
+  - "Janus"
+  - "Maturin Horgath"
+  - "Yarkul"
+locations:
+  - "Sembia"
+  - "Secomber"
+  - "Castle Daggerdale"
+tags:
+  - "military"
+---
 [PC Attribution: Maturin Horgath (Stephen Robertson); Dorian of Sembia (Gus Miranda)]
 
 Notes found in the library of Castle Daggerdale after the passing of Dorian of Sembia, the Count of Daggerdale.

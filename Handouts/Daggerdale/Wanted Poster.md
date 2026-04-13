@@ -1,3 +1,26 @@
+---
+title: "Wanted Poster"
+slug: wanted-poster
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Secomber"
+tags:
+  - "military"
+---
 <div style=\"text-align: center; font-family: Bernard MT Condensed; font-size: 20pt\">
 
 NOTICE

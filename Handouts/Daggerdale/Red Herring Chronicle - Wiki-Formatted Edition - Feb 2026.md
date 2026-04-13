@@ -1,3 +1,47 @@
+---
+title: "Red Herring Chronicle - Wiki-Formatted Edition - Feb 2026"
+slug: red-herring-chronicle-wiki-formatted-edition-feb-2026
+type: lore
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: "2026-04-06"
+series: ""
+order: ""
+characters:
+  - "Esperel"
+  - "Jafar"
+  - "Krag"
+  - "Teskul"
+  - "Gul'dan"
+  - "Egan"
+  - "Thuman"
+  - "Vuldan"
+  - "Aganon"
+  - "Balkine Adard"
+  - "Dally"
+  - "Eldos"
+  - "Gilthanas"
+  - "Rubikawn"
+  - "Stektine"
+  - "Yarkul"
+  - "Aggis"
+  - "Azadon"
+  - "Ebeguld"
+  - "Fang"
+locations:
+  - "Waterdeep"
+  - "Hillsfar"
+tags:
+  - "military"
+---
 SOURCE INFORMATION
 Source File: Red_Herring_Chronicle_ChronicleStyle.pdf (from To Process folder)
 Producer: ReportLab PDF Library

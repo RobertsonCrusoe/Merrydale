@@ -1,3 +1,26 @@
+---
+title: "The Bloody Fist"
+slug: the-bloody-fist
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 This Dock Ward tavern was a hangout of the Company of  before their destruction by the Company of the Red Herring.
 ----
 

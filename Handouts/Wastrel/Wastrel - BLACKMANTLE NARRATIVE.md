@@ -1,6 +1,28 @@
+---
+title: "Wastrel - BLACKMANTLE NARRATIVE"
+slug: wastrel-blackmantle-narrative
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Lendin"
+locations:
+  - "Waterdeep"
+tags: []
+---
 Blackmantle's Bluff
-It all started somewhere on the open Sea of Swords. Somewhere between Baldur
-s Gate and Waterdeep, there was a whispering on the Wind, or so Brenaen would say. At those sullen moments at dusk and at dawn, the Windwalker could be seen riding the bow of the
+It all started somewhere on the open Sea of Swords. Somewhere between Baldur's Gate and Waterdeep, there was a whispering on the Wind, or so Brenaen would say. At those sullen moments at dusk and at dawn, the Windwalker could be seen riding the bow of the
 Wastrel
 , leaning out as if to replace the bowsprit with his nose, and his long moustache blowing in the wind. One evening, after a couple of mornings and evenings of this peculiar behaviour, he ran back to the poop deck, and up to the wheel, where the Captain himself was steering the ship.
 We have to turn about, Captain
@@ -8,8 +30,7 @@ said the Windwalker, in such a tone that conveyed not a command, but a fact. The
 Yar!
 Days later, the
 Wastrel
-was back where it last departed; docked in Baldur
-s Gate. A quick provisioning was once again carried out in this port by the Master, while the rest of the crew went about the City to find what entertainment they could. But it was not entertainment that some sought. After two days in port, both May and the Captain came back to the ship with news.
+was back where it last departed; docked in Baldur's Gate. A quick provisioning was once again carried out in this port by the Master, while the rest of the crew went about the City to find what entertainment they could. But it was not entertainment that some sought. After two days in port, both May and the Captain came back to the ship with news.
 
 There is a great work happening on the lake of Steam. I would go there to see what the news is, and assess the situation.
 What the cryptic little jade hints at
@@ -19,14 +40,11 @@ Is that there is some sort of work on the Lake of Steam that is supposed to chan
 There is a short and non-illuminating conversation, followed by a show of hands. All save Kethoth show their hands in favour of travel to that destination, but even he does not make any argument against going.
 The next morning, the
 Wastrel
-heads out of the harbour at Baldur
-s Gate, and heads south. It is past Harvestide, and a fine time to sail south, by all accounts. The
+heads out of the harbour at Baldur's Gate, and heads south. It is past Harvestide, and a fine time to sail south, by all accounts. The
 Wastrel
 needs little time to make Calimport, heading south with the Trades this time of year. Indeed, less than a tenday finds her back in the sheltered Port of Calim, and the crew are once again abroad in the City looking for news.
 
-That first night finds the crew assembled in a private dining room in a fine inn called the Tuugan
-s Head, where sailor
-s mouths find something more palatable than the dried pork and hard tack that the Master seems to favour.
+That first night finds the crew assembled in a private dining room in a fine inn called the Tuugan's Head, where sailor's mouths find something more palatable than the dried pork and hard tack that the Master seems to favour.
 Yar!
 is the expected salutation of the Captain.
 The Master here, and me, see, we been sniffing about. And we turned up a thing or two. I had to purposefully loose a few hands in order to get some old saltes to talk
@@ -35,16 +53,13 @@ he says, and Salazar, the most seditious Master on any boat on this coast, gives
 
 Yar! There is indeed something happening at a place called Blackmantle's Port. It
 
-s a place neither me nor the Master here ever been to, or heard of, or can even find on a chart, and by Umberlee
-s Cunny
+s a place neither me nor the Master here ever been to, or heard of, or can even find on a chart, and by Umberlee's Cunny
 You need to look a little further than those lines that separate land from water, my able and inscrutable Captain
-is the venomous interjection of the Ship
-s Navigator and Cartographer, Kethoth.
+is the venomous interjection of the Ship's Navigator and Cartographer, Kethoth.
 There is a very important piece of land here
 he says, indicating on the main charts, which he has brought with him.
 This narrowing in the land is all that separates the Sea of Fallen Stars, by way of the Nagaflow, from the Lake of Steam, and the West Coast. There is a rocky bluff there called by many names over many ages, but today it is known as
-Black mantle
-s Bluff
+Black mantle's Bluff
 , for the self-important man-lord of that region. There are two miles of stone there that keep the Nagaflow from the Lake of Steam. I think I know what is that is going on there, but I shall spare you all my speculations.
 Yar! Sounds like ye know yer maps, me Abyssal Cartographer! Good job!
 I know a thing or two about the nearest City
@@ -79,11 +94,7 @@ lry, to the
 Wastrel
 once more!
 Yar. He sees
-im sure, Whiskers. He
-s just putting to, so
-s our man put
-s to, and put
-s them broads to, too. Har har!
+im sure, Whiskers. He's just putting to, so's our man put's to, and put's them broads to, too. Har har!
 Sure enough, Cedric comes rolling up the dark dock, wreathed in smoke, a shapely wench on each arm, and a smile from ear to ear. Just out of earshot, he dismisses the ladies, and then hustles the rest of the way to the boat, just in time to make the gang. The
 Wastrel
 begins to float away as Salazar takes all the lines in. As she drifts out, the gang is brought in by the Captain, and the Master makes an unnatural leap aboard, carrying the lines.
@@ -101,18 +112,11 @@ overtakes a good many ships heading east as well. The wind is from the north, bu
 Wastrel
 captures every knot out of those winds, and she makes 5 knots all the way from the Port of Calim to the Straight of Storms. This is a distance of some 600 miles, and she makes it in under 7 days. The weather for the travel couldn
 
-t be better; a warm wind keeps the sails full, and the weather is warm enough that most of the men aren
-t wearing much more than leggings.
+t be better; a warm wind keeps the sails full, and the weather is warm enough that most of the men aren't wearing much more than leggings.
 Towards the end of those 7 days, Captain and Master are heard discussing the approach to the Straight of Storms.
-Yar! She
-s the most turbulent bit of water on the face of the globe, Master Salazar! When last I passed her, I was headed the other direction, and we still had to wait for the wind. Too much one direction and too little the other, and you can swirl about in those eddies
+Yar! She's the most turbulent bit of water on the face of the globe, Master Salazar! When last I passed her, I was headed the other direction, and we still had to wait for the wind. Too much one direction and too little the other, and you can swirl about in those eddies
 til your hull rots!
-This boat needs little wind, Zech. I say we just charge the Straight. Leto Cooke
-s ship will not falter nor founder. And I don
-t mean nothing about the celestial promise in some old log book; I mean wind and canvas, Captain. Mast and rigging! She
-d fly right up the Dessarin all the way to Arabel, I
-d wager. Let
-s just run
+This boat needs little wind, Zech. I say we just charge the Straight. Leto Cooke's ship will not falter nor founder. And I don't mean nothing about the celestial promise in some old log book; I mean wind and canvas, Captain. Mast and rigging! She'd fly right up the Dessarin all the way to Arabel, I'd wager. Let's just run
 Yar!
 A day later, the discussion about the Straight of Storms was understood by the crew. As the
 Wastrel
@@ -153,8 +157,7 @@ Though the waters of this Lake are poisonous to us, even more so than regular sa
 It is indeed an amazing slice of Faerun. For the most part, the weather has been sunny and warm. It is breezy on the Lake, and there is no humidity to speak of. The place seems the Nest of Paradise. When the sun is bright, the bottom of the lake is usually visible through the yellow waters. At many points, the waters are scarcely more than 20 feet deep, and thousands of varieties of fish, plants and all manner of ocean creatures can be seen. Schools of bright orange fish over 2 yards long, thousands strong, follow the
 Wastrel
 one day, leaving her wake a turbulent playground for the jumping and diving fish.
-But there is some worry in the Captain
-s face at the presence of such a school, and his worries are soon realized. Running in about 100 feet of water, with the school all about the ship, a great shadow is seen beneath the boat, running from her port, then underneath, then out from starboard. The shadow is larger than the
+But there is some worry in the Captain's face at the presence of such a school, and his worries are soon realized. Running in about 100 feet of water, with the school all about the ship, a great shadow is seen beneath the boat, running from her port, then underneath, then out from starboard. The shadow is larger than the
 Wastrel
 , and no mistake. And it glides menacingly under the water twice as fast as the
 Wastrel
@@ -167,15 +170,10 @@ When mainland is spotted, the same volcanic cliffs, covered in voracious life ar
 Halfway through the journey, a huge mountain is espied to the North. It is a few thousand feet high, and has a flat top. The mountain and island are completely covered in the bright greens of this tropical paradise, and smoke from many small fires rises up from the beach, the mountain side, and from the mountain top itself. With the spyglass, little huts can be seen on the beaches of this mountain island, and little bronze skinned halflings are at work and play close by. At one point, a group of long canoes with outriggers on each side, and carrying 15-20 of these nearly naked, little bronze halflings row out to the
 Wastrel
 . They are covered in little bits of bronze jewellery of a local manufacture, much of it set with pearls of green, lavender and blue.
-It isn
-t long before scores of the nimble little halflings are aboard ship and crowding the crew. They give many of the more threatening looking crew members a wide berth, but they close in around such charismatic ones as May, Zeke and Cedric, attempting to trade their bits of jewellery and fresh fruits for any number of things.
+It isn't long before scores of the nimble little halflings are aboard ship and crowding the crew. They give many of the more threatening looking crew members a wide berth, but they close in around such charismatic ones as May, Zeke and Cedric, attempting to trade their bits of jewellery and fresh fruits for any number of things.
 
 At length, Zech has May tell them to go ashore, and that a trading party will be sent to deal with them. They are brushed off the deck, with a little less tenderness than they deserve by the likes of Kethoth.
-Yar! Proper little pirates, aren
-t they? Well, we
-ve made good enough speed the last couple days. There
-s no reason why a few crew couldn
-t go ashore for a few hours, re-supply and maybe do a bit of trading. I need some volunteers to fill the casks!
+Yar! Proper little pirates, aren't they? Well, we've made good enough speed the last couple days. There's no reason why a few crew couldn't go ashore for a few hours, re-supply and maybe do a bit of trading. I need some volunteers to fill the casks!
 ***THE PC
 S GO ASHORE AND DO SOME TRADING; JOURNAL ARTICLES AND SUCH FROM SAID PC
 S TO FOLLOW, I

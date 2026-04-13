@@ -1,3 +1,35 @@
+---
+title: "Notes for Beliard"
+slug: notes-for-beliard
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "13 Marpenoth 1481 DR"
+date_ic_sort: 1481288
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alen Reks"
+  - "Iolus Warburton"
+  - "Janus"
+  - "John Tunbridge"
+  - "Nathan Gale"
+  - "Stuart Angleton"
+locations:
+  - "Tethyamar"
+  - "Base Camp Silver"
+  - "Castle Radiance"
+  - "Charity"
+tags:
+  - "military"
+---
 Notes for Beliard
 
 Between your arrival at Castle Radiance in the spring of 1480 DR, and the current adventure, which kicks off for you on 13 Marpenoth, 1481, you have had an eventful residency. You replaced an aging bureaucrat that had served Ambassador John Tunbridge for several years, basically taking on the role of secretary to the Ambassador. Your daily duties have been many; you receive and send the correspondence of the Ambassador, taking caring of the logistics of the embassy, sitting in on all meetings that the embassy is invited to (and taking notes), and so on. Though this work at first seemed below you, you quickly realize that you have access to some of the most privileged information in the Castle. Further, Tunbridge is old and fat, and he has made every effort to suggest that you will be replacing him when the Grey Lord calls him from this world.

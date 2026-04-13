@@ -1,9 +1,31 @@
+---
+title: "Wanted Poster and NPC Considerations"
+slug: wanted-poster-and-npc-considerations
+type: session
+campaign: daggerdale
+voice: ooc
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Secomber"
+tags:
+  - "military"
+---
 [RAW - UNEDITED AND UNREVIEWED - extracted by automated process, not yet verified for accuracy or completeness]
 
 NOTICE
 A Group of Criminals heads this way!
-A gang of murderers being led by a brigand named RAVEN and a rapist named BOREGAR have been spotted and chased out of points west (known to have killed 10 people in Amcathra, abducted 2 children from Bargewright Inn and raped 2 women on the road to Secomber at Griffin
-s Farm.
+A gang of murderers being led by a brigand named RAVEN and a rapist named BOREGAR have been spotted and chased out of points west (known to have killed 10 people in Amcathra, abducted 2 children from Bargewright Inn and raped 2 women on the road to Secomber at Griffin's Farm.
 RAVEN is described as a large, muscular man with a patch over his left eye, and BOREGAR is described only as a large, fat man who favours a staff.
 These men should be avoided by all but the most skilled of swordsmen.
 A 200 gold piece reward for either of these men can be claimed in Llorkh at the Garrison.
@@ -44,8 +66,7 @@ CY/}r
 pO#R
 5L&B
 B\(
-El;G
-d#]<
+El;G'd#]<
 sTV#N
 U(4N5
 Z+a}
@@ -105,8 +126,7 @@ oL&S
 )G7;
 WDAQ
 SM[+$
-Wtog+g
-d#V*
+Wtog+g'd#V*
 hphg
 |L$A
 U_Pu
@@ -358,8 +378,7 @@ G@;L'f
 *.UL
 AuJ}
 zgDx
-}e1p
-d*P5
+}e1p'd*P5
 c~A;A
 1Qur
 ^ykt
@@ -868,8 +887,7 @@ v28n
 Un{[
 HNd}
 x%hhke
-)#,A
-d%:M
+)#,A'd%:M
 E6@*
 MT6&
 !a~&r
@@ -906,8 +924,7 @@ Vzc+
 ]jqA
 Ah|@+
 Y`L<0
-U16DS
-m&2VN
+U16DS'm&2VN
 0`j1
 |`tDx
 MJ/X
@@ -952,8 +969,7 @@ ddMG
 ?5?|
 (^n`1
 VkZbbp4
-9uvS
-d/e2
+9uvS'd/e2
 .b2&
 $/hs
 HS]_
@@ -993,8 +1009,7 @@ YzR
 Pz>X?
 B`?/h~&
 `RB&
-Fi6c
-m=H1
+Fi6c'm=H1
 tL#1
 =p!5
 kcO}
@@ -1019,8 +1034,7 @@ $JL?
 4i"z
 P<zx
 'J$R
-]KqU
-d(mtA
+]KqU'd(mtA
 Mo ]
 93=Ni<
 ?e$zM`g
@@ -1064,8 +1078,7 @@ NJA%`u
 KQ8O
 M 'Mi
 i"2^
-C$nu
-s@%@&
+C$nu's@%@&
 D6?mGZ
 W~vQ
 "DH}
@@ -1165,8 +1178,7 @@ v# 3
 9D.L}&i]
 _XmXb
 _Lf!t
-mTfH
-ve.q!
+mTfH've.q!
 6%xA
 FoA#
 >2jK
@@ -1592,8 +1604,7 @@ ZU`>
 T?:h
 i}+u
 '0!\
-5i(f
-t)q)
+5i(f't)q)
 dQcI
 xN%i
 h-D-
@@ -1718,8 +1729,7 @@ z,.+
 cR9W
 F5^(/
 Vp5[E
-$`pt
-d;|W
+$`pt'd;|W
 BC q
 IS|y
 'qk[
@@ -1727,13 +1737,11 @@ aS'@d
 P4fb"
 K pPi
 eC)zwL8
-%J&v
-t<Pt2
+%J&v't<Pt2
 -WB^
 9M l
 ]Xy#.
-1AHb
-t`0.x
+1AHb't`0.x
 "4be
 &fz,^
 <(oD
@@ -1904,8 +1912,7 @@ mrF#
 8yq>
 whK
 E`|g|ar>
-u(}(=Q
-m@[Co
+u(}(=Q'm@[Co
 y([D
 3iAA
 !ue
@@ -2072,8 +2079,7 @@ E5})
 2UaW
 :;?mV
 X/jY
-.vtU
-s'3C
+.vtU's'3C
 ^_[v
 qDX|f
 ~x6sw
@@ -2265,8 +2271,7 @@ W^2I
 (rM;
 =w84
 ;S4')
-m"hi
-m(51
+m"hi'm(51
 \T4v
 tU\r
 GxAL
@@ -2496,8 +2501,7 @@ q}+m
 MEMC
 T*&a
 YClUk-%J~
-d=|W
-m;o{
+d=|W'm;o{
 )aVdA
 /QmQ
 U)n92
@@ -2523,8 +2527,7 @@ k;1P
 HS[VC
 dJ2A
 tHHa{
-E!!l
-t#N1~<
+E!!l't#N1~<
 P;Hk
 LDO]
 ;_wr@
@@ -2638,8 +2641,7 @@ ob$T!
 }{v{h
 :\ ^kj
 (@>WE
-CFcJ
-t.p=
+CFcJ't.p=
 "/&0pSC(
 Aof<
 P E##i
@@ -2666,8 +2668,7 @@ AQAhB
 r>}B
 ?8>h
 UNVS~Q
-IHuaU
-t[,yO
+IHuaU't[,yO
 d2LN
 n'ob
 ey_c
@@ -2819,8 +2820,7 @@ On&.
 Gs|3"
 B=f`0c
 @hc,+
-.>_#+owwy
-t<b3q;
+.>_#+owwy't<b3q;
 ldUb
 k+wh
 b9 ?k
@@ -2930,8 +2930,7 @@ sClg
 5Prh
 TLU.pu
 r7![
-d/kUf
-t)-g
+d/kUf't)-g
 7k-6VGkq
 R~X2<
 bzud
@@ -2947,8 +2946,7 @@ UQ\0
 eUYw
 8[t(
 Ee8T
-zq4nB
-m+a5
+zq4nB'm+a5
 m:Q?
 Vm2wc
 B?wu
@@ -3979,8 +3977,7 @@ U/es
 Hzk1
 P"yn9
 !Ifdh
-gkL
-s][Y
+gkL's][Y
 >7l
 ej$#
 GSEP
@@ -4036,8 +4033,7 @@ Q%gM'
 v"L9n,
 ce>ti
 hw4"
-72DuFC
-m!5DrjO
+72DuFC'm!5DrjO
 PWwTJH
 ';]&U
 cBjr
@@ -4157,8 +4153,7 @@ nZD&
 4zT~
 lEnH
 M8i%+
-3YDp
-s@nQ*
+3YDp's@nQ*
 'F[<!
 6(+|
 n%s
@@ -4208,8 +4203,7 @@ Pr{k
 2eb8
 =/,
 |Zep
-DyRD
-t+0
+DyRD't+0
 r7`wX
 twtt
 !b_hz)

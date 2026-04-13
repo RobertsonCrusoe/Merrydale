@@ -1,3 +1,10 @@
+---
+title: "Innish Pyet"
+slug: innish-pyet
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 15\"Seek for a shadow that drifts before a cloud that hides the moon; grope in the dark for a cobra; follow a mist that steals out of the swamp at midnight.\"
 :—Robert E. Howard, The Black Stranger
 

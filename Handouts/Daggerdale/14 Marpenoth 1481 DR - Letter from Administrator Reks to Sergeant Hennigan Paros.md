@@ -1,3 +1,28 @@
+---
+title: "Letter from Administrator Reks to Sergeant Hennigan Paros"
+slug: letter-from-administrator-reks-to-sergeant-hennigan-paros
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Administrator Reks"
+source: handout
+date_ic: "14 Marpenoth 1481 DR"
+date_ic_sort: 1481289
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Hennigan Paros"
+locations:
+  - "Charity"
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 [PC Attribution: Hennigan Paros (Jeff)]
 DDC – 1481 – 10: Letter from Administrator Reks to White Cloak Sgt. Hennigan Paros 
 Marpenoth 14 

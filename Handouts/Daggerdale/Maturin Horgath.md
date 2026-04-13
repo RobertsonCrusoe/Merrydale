@@ -1,3 +1,33 @@
+---
+title: "Maturin Horgath"
+slug: maturin-horgath
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Maturin Horgath"
+  - "Anya Pellervoinen"
+  - "Arkos Thunderstaff"
+  - "Grandfather"
+  - "Janus"
+  - "Pohjola"
+  - "Turan"
+  - "William Horgath"
+locations:
+  - "Waterdeep"
+tags: []
+---
 [PC Attribution: Maturin Horgath (Stephen Robertson)]
 Sir Maturin 'the Grey' Horgath, aka 'Brother Grey', aka Saint Maturin of Anauroch
 thumb|Maturin Horgath

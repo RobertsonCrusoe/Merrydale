@@ -1,3 +1,34 @@
+---
+title: "From the Casebook of Lucan Alavandor - A Letter Posted to Saerloon (Cipher)"
+slug: from-the-casebook-of-lucan-alavandor-a-letter-posted-to-saerloon-cipher
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Lucan Alavandor"
+  - "Invictus"
+locations:
+  - "Saerloon"
+  - "Dagger Falls"
+  - "Hillsfar"
+  - "Yulash"
+  - "Blackfeather Bridge"
+  - "Cormanthor"
+  - "Essembra"
+  - "Teshwave"
+tags: []
+---
 From the Casebook of Lucan Alavandor: A Letter Posted to Saerloon (Cipher Letter)
 Date: 15 June 2025
 From: Stephen Robertson

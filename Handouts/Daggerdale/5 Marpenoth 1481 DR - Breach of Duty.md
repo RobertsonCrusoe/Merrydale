@@ -1,3 +1,27 @@
+---
+title: "Breach of Duty"
+slug: breach-of-duty
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "5 Marpenoth 1481 DR"
+date_ic_sort: 1481280
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Invictus"
+  - "Alen Reks"
+locations:
+  - "Tethyamar"
+tags: []
+---
 ==A Meeting between Alen Reks and Magistrate Invictus - Marpenoth 5, 1481 DR (Narrative intended for Christian)==
 
 Part way through the final day of the tourney, you notice a bit of a commotion at the gates.  There, you see the infamous Magistrate Invictus coming through the gates, frightened clerks and soldiers parting before him.  Most of the clergy and soldiery in the courtyard notice the determined pace of Invictus as he marches along in front of the stands on the south edge of the courtyard, while a distracting pitched battle between two teams of competitors is waged just a few feet to his right.

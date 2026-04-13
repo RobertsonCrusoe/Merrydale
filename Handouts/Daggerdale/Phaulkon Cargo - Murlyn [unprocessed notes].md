@@ -1,3 +1,24 @@
+---
+title: "Phaulkon Cargo - Murlyn"
+slug: phaulkon-cargo-murlyn
+type: session
+campaign: daggerdale
+voice: ooc
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 I)_:
 C]9N
 N_UZB

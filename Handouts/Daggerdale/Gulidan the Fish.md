@@ -1,1 +1,8 @@
+---
+title: "Gulidan the Fish"
+slug: gulidan-the-fish
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 Guildan 'the Fish' was captain of The Orion (a Wavesilver Cog), and Member of the Master Mariners' Guild. Guildan had 15 Zhent soldier/sailors under him. He has recently lost his command of the last Wavesilver ship, as there is great debate over claims to that Family’s Estate (the last Wavesilver, the Patriarch Bleskos, vanished at Sea on the Silver Spear, which is presumed to have foundered).

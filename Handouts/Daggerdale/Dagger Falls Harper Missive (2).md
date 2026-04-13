@@ -1,3 +1,29 @@
+---
+title: "Dagger Falls Harper Missive (2)"
+slug: dagger-falls-harper-missive-2
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Braehl"
+locations:
+  - "Dagger Falls"
+  - "Dagger Hills"
+  - "Cormanthor"
+tags:
+  - "military"
+---
 This is the second in a series of missives smuggled out of Dagger Falls by an unnamed Harper agent during the Zhent Occupation of 1372. The letter is dated 9 Eleint, 1372 DR.
 
 Friends,

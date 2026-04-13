@@ -1,3 +1,35 @@
+---
+title: "Erevan Ilythiirian"
+slug: erevan-ilythiirian
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "17 Marpenoth 1413 DR"
+date_ic_sort: 1413292
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Yarkul"
+  - "Ekoul"
+  - "Mourngrym Amcathra"
+  - "Kionin"
+  - "Shilve Silverhand"
+locations:
+  - "Shadowdale"
+  - "Dagger Hills"
+  - "Waterdeep"
+  - "Castle Daggerdale"
+  - "Sembia"
+tags: []
+---
 thumb|right|Grym
 *erevan ilythiirian: an elven insult, meaning \"mischievous drow\".  A taunt often thrown at Grym while he was growing up, and the name he hastily adopted as a pseudonym upon deciding to leave Shadowdale for a few days of anonymous rest in Daggerdale...
 

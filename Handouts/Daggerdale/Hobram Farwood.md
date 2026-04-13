@@ -1,3 +1,10 @@
+---
+title: "Hobram Farwood"
+slug: hobram-farwood
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 [PC Attribution: Hobram Farwood (Stephen Robertson)]
 Hobram 'the Fox' Farwood, known to his friends as Hob, is a shifty character from the town of Corm Orp. Before he was caught up in the adventure in Neverwinter, he was a professional cartographer, and is known to be an artist of no small talent.
 

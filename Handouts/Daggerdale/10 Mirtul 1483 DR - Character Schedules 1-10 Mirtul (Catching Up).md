@@ -1,3 +1,35 @@
+---
+title: "Character Schedules 1-10 Mirtul (Catching Up)"
+slug: character-schedules-1-10-mirtul-catching-up
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "10 Mirtul 1483 DR"
+date_ic_sort: 1483132
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alexandus"
+  - "Blaze Whitegate"
+  - "Nemia"
+  - "Onyx"
+  - "Vessuvian"
+  - "Calix"
+  - "Masra"
+locations:
+  - "Thistle Ridge"
+  - "Dagger Falls"
+  - "Liberty Hill"
+tags:
+  - "military"
+---
 Catching Up - Character Schedules for 1-10 Mirtul 1483 DR
 Date: 14 July 2025
 From: Les Blackwell

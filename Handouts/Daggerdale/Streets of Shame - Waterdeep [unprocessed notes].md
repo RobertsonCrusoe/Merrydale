@@ -1,3 +1,49 @@
+---
+title: "Streets of Shame - Waterdeep"
+slug: streets-of-shame-waterdeep
+type: session
+campaign: daggerdale
+voice: ooc
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Gideon"
+  - "Steele"
+  - "Agamemnon"
+  - "Ebola"
+  - "Teskul"
+  - "Jeryth Phaulkon"
+  - "Esperel"
+  - "Beljuril"
+  - "Ersgul Mlshool"
+  - "Marcus"
+  - "Vader"
+  - "Venom"
+  - "Boregar"
+  - "Jafar"
+  - "Gauntlet"
+  - "Gotlieb Erlgund"
+  - "Grimwald"
+  - "Huntmaster"
+  - "Kogan"
+  - "Mhairne"
+locations:
+  - "Waterdeep"
+  - "Inn of the Dripping Dagger"
+  - "Dagger Falls"
+  - "Hillsfar"
+tags:
+  - "military"
+---
 [RAW - UNEDITED AND UNREVIEWED - extracted by automated process, not yet verified for accuracy or completeness]
 
 Streets of Shame: Waterdeep

@@ -1,3 +1,28 @@
+---
+title: "A Discussion with Administrator Reks about Tethyamar"
+slug: a-discussion-with-administrator-reks-about-tethyamar
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "15 Flamerule 1482 DR"
+date_ic_sort: 1482197
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alen Reks"
+locations:
+  - "Tethyamar"
+  - "Base Camp Silver"
+tags:
+  - "military"
+---
 DDC – 1481 – 4: A Discussion with Administrator Reks about Tethyamar 
 From our meeting on 15 Flamerule, 1482 
 GFD Notes: 

@@ -1,3 +1,38 @@
+---
+title: "Lucan's Notes - Discussion with Blaze Whitegate and Session Notes"
+slug: lucan-s-notes-discussion-with-blaze-whitegate-and-session-notes
+type: session
+campaign: daggerdale
+voice: ooc
+status: raw
+tier: editor
+author: les
+curator: ""
+pov: "Lucan"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Blaze Whitegate"
+  - "Forge Farmountain"
+  - "Invictus"
+  - "Ivy Thickwickle"
+  - "Lilac Alavandor"
+  - "Lily Clarandal"
+  - "Phoebe Birchgrove"
+  - "Poppy Sweetberry"
+  - "Vessuvian"
+locations:
+  - "Dagger Falls"
+  - "Thistle Ridge"
+  - "Tethyamar"
+  - "Charity"
+tags:
+  - "military"
+---
 Discussion with Blaze Whitegate about his memories of Thistle Ridge as a young magistrate
 The Thistle Ridge families were very tight-lipped about the hunting accident
 Aisling had killed herself by the time of Blaze’s visit

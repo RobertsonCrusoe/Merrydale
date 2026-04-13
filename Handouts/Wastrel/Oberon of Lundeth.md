@@ -1,3 +1,25 @@
+---
+title: "Oberon of Lundeth"
+slug: oberon-of-lundeth
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Oberon"
+locations: []
+tags: []
+---
 [PC Attribution: Oberon of Lundeth (Gus Miranda)]
 15
 The little poets sing of little things: <br />

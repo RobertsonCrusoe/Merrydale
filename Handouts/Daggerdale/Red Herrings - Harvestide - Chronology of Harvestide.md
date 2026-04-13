@@ -1,18 +1,55 @@
+---
+title: "Red Herrings - Harvestide - Chronology of Harvestide"
+slug: red-herrings-harvestide-chronology-of-harvestide
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Yarkul"
+  - "Jafar"
+  - "Esperel"
+  - "Beljuril"
+  - "Rubikawn"
+  - "Teskul"
+  - "Alt Kor"
+  - "Elbing Hightimber"
+  - "Wilk Shtub"
+  - "Alek Lenter"
+  - "Aragorn Thickbrow"
+  - "Belduran"
+  - "Bleskos Wavesilver"
+  - "Drake"
+  - "Ekoul"
+  - "Garth Shanks"
+  - "Gulidan"
+  - "Jalthor Murlyn"
+  - "Jannaxil Serpentil"
+  - "Joldara Hunabar"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 The party is joined
 25 Eleint
 At breakfast, a knock is heard at the door of the Headquarters of the Company of the Red Herring.  It is not Thagdul, as popularly surmised, but the half-orc Gul
 dan dressed in his finest.
-He is not invited in.  He extends Yarkul
-s request to join him for lunch at Gunnar
-s Tavern.  We slam the door in his face, after saying we
-ll be there.
-At Gunnar
-s, Yarkul tells us that he seeks to enlist the services of the Company of the Red Herring for Ersgul.  Tomas gets up and leaves, and is soon followed by all but Garth.
+He is not invited in.  He extends Yarkul's request to join him for lunch at Gunnar's Tavern.  We slam the door in his face, after saying we'll be there.
+At Gunnar's, Yarkul tells us that he seeks to enlist the services of the Company of the Red Herring for Ersgul.  Tomas gets up and leaves, and is soon followed by all but Garth.
 Livid, Yarkul warns us that "Harvesttide will be War Tide."
 Garth stays for the free lunch, shrugging and looking slightly embarrassed.
-The rest of the party meets up later that afternoon with Thagdul, who is heartened that we declined Yarkul
-s offer.  The nature of Yarkul
-s mission for us, he says, was to give Corass Anteos an edge over his older brother Delberwan Anteos, an ally of Drurginz.  The Anteos family is connected in someway with the drow.
+The rest of the party meets up later that afternoon with Thagdul, who is heartened that we declined Yarkul's offer.  The nature of Yarkul's mission for us, he says, was to give Corass Anteos an edge over his older brother Delberwan Anteos, an ally of Drurginz.  The Anteos family is connected in someway with the drow.
 Jafar introduced his
 friends from Neverwinter
 Alt Kor, Wilk Shtub, Rufus, Beljuril and Hob [DID THIS HAPPEN HERE?]
@@ -51,9 +88,7 @@ Return to the Hunabars
 The next day, Rufus decides to go to the Hunabars to do a little damage control and put in a good word for Selune.
 
 He speaks with the patriarch, Huskar, who tells him to deliver a message to the Red Herrings
-Give us back the staff
-s mine, and my son
-s antics have nothing to do with me.  You have 24 hours to comply
+Give us back the staff's mine, and my son's antics have nothing to do with me.  You have 24 hours to comply
 or something like that.
 Rufus turns to leave, then remembers that Rychel had given him a note to deliver to the Hunabars, something
 
@@ -108,24 +143,19 @@ Esperel and Garth were sneaking in through the kitchen
 Wilk Shtub and Alt Kor both end up dead
 Rychel manages to tumble past the rank and file characters, and take out Yarkul with his cutlass of speed.
 Yarkul is captured by the Company of the Red Herring
-meanwhile, the Hunabar staff is stolen from Beljuril
-s protective storage place
+meanwhile, the Hunabar staff is stolen from Beljuril's protective storage place
 The interrogation of Yarkul
 Eleint 29
 The interrogation of Yarkul reveals
 Late in the day, a message arrives from Elbing Hightimber, offering a trade of Yarkul for Raven.  Yarkul is to be brought to the Wavesilver Villa by 7 pm, otherwise, Raven will die at that time.
 
 Rychel and another character take Yarkul to the appointed place and the trade takes place for a bruised and battered Raven
-Rychel and/or Jafar put a notice in Waterdeep
-s daily news, proclaiming that "the Hunabars are werewolves"
+Rychel and/or Jafar put a notice in Waterdeep's daily news, proclaiming that "the Hunabars are werewolves"
 Jafar
-puts Yarkul
-s staff away for safety
-at the Mage
-s Guild
+puts Yarkul's staff away for safety
+at the Mage's Guild
 Back at the headquarters, Raven is revived and tries to piece together what happened
-Raven
-s memory is blocked, so Beljuril uses a scroll to read his memory
+Raven's memory is blocked, so Beljuril uses a scroll to read his memory
 Raven was forced to fight in a pit of some kind
 Raven was in a pit filled with broken glass, naked save for a loincloth
 Three men were in the pit with him, also in a state of near nakedness
@@ -156,8 +186,7 @@ Rufus asks about the bald guy
 his name is Sabrel Lightstar, a watchwizard and abjurer, on the Ersgul payroll, part of a heist that was pulled on a Phaulkon family caravan last week
 Jafar remembers that Sabrel associates with Captain Griswald Horn
 an Ersgul watch agent
-Thagdul also tells us that the girl with the dark hair, small, busted nose is Dragon, a mage, and Yarkul
-s daughter.
+Thagdul also tells us that the girl with the dark hair, small, busted nose is Dragon, a mage, and Yarkul's daughter.
 HIGHHARVESTIDE
 First mission to the Wavesilver villa
 Fight in the courtyard, with Watchspiders; Jafar summons bullywugs; Rufus calls lightning, which is reflected onto him
@@ -168,8 +197,7 @@ discovery of the mithril
 Voices in the sewers, goading us, guiding us
 Tomas stumbles through an invisible wall, is held, is pushed into a pit
 Rufus floods the sewers
-Jafar
-s first-ever fireball, courtesy of a ring from Thagdul, nearly fries himself, Garth
+Jafar's first-ever fireball, courtesy of a ring from Thagdul, nearly fries himself, Garth
 Rubikawn makes good on his promise
 Raven fights with Hightimber, who escapes in a dramatic fashion
 Iyachtu Xvim is manifested, Tomas
@@ -179,8 +207,7 @@ Dragon is captured
 1 Marpenoth, 1371
 Garth plants info, saying that Ersgul knocked over the Phaulkon caravan (that was immolated by the fireball)
 Rufus donates 2 bars of mithril to the House of the Moon
-Esperel visits Alek Lenter to sell the mithril, gets a price of 1000 gp/bar but he recommends that we don
-t sell it in town
+Esperel visits Alek Lenter to sell the mithril, gets a price of 1000 gp/bar but he recommends that we don't sell it in town
 Rychel asked Kenneth about religion, fact-finding about Iyachtu Xvim
 Beljuril visted the real estate office looking for a new HQ for the CRH
 6 pm
@@ -217,24 +244,18 @@ Rufus tells the Church of Selune, casts Wyvern Watch on the house
 Tomas funeral in the City of the Dead
 Rufus casts enthral, then gives a eulogy
 After the funeral, Thagdul visits, delivers 400 HM for the 17 mithril bars
-Tells us the history of the Hunabar
-s Beholder Staff
-Came first to the city with Malthoon
-s High Road Shippers, who fought Company Dalael, and forced them underground
+Tells us the history of the Hunabar's Beholder Staff
+Came first to the city with Malthoon's High Road Shippers, who fought Company Dalael, and forced them underground
 Then, the Shadow Thieves got a hold of the staff, before Drurginz and Ersgul moved in.
 Huskar II stole the staff
 3 Marpenoth
 A two-timing rat named Guantlet makes a deal with Drurginz (?) and tells Thagdul (and us) about  the Silver Pride, which the Xvimites are using ship the Phaulkon swag out of the city
-a cog Captained by Semuldan Anteos heading to Baldur
-s Gate
+a cog Captained by Semuldan Anteos heading to Baldur's Gate
 leaving on Marpenoth 10
 Second mission into the Wavesilver Villa
-A beholder ensorcels Esperel to try and take Yarkul
-s beholder staff from Jafar
+A beholder ensorcels Esperel to try and take Yarkul's beholder staff from Jafar
 A fight with Hightimber?
-Jafar
-s second-ever fireball, thanks to Thagdul
-s helpful ring, fries Magistrate Thumin and two dozen peons
+Jafar's second-ever fireball, thanks to Thagdul's helpful ring, fries Magistrate Thumin and two dozen peons
 Escape back to the HQ
 the Company chews out Jafar
 Magistrate Rictor takes over the investigation into the Wavesilver villa
@@ -247,16 +268,12 @@ Green-eyed beholder turns Rychel to stone
 We capture Dragon
 Interrogation of Dragon:
 Yarkul is alive, has relocated to the Central Heartlands
-Jannaxil Serpentil is a friend of Yarkul
-s and fence to Ersgul
+Jannaxil Serpentil is a friend of Yarkul's and fence to Ersgul
 Ersgul has no relationship with the Hunabars
 Ersgul is falling apart at the seams
-Dragon
-s real name is Ekoul
-Dragon is Teskul
-s girlfriend
-Yarkul doesn
-t like Teskul at all
+Dragon's real name is Ekoul
+Dragon is Teskul's girlfriend
+Yarkul doesn't like Teskul at all
 The drow uncovered a Ghaunadan reproduction device
 Baron Drake is a Cambion
 Names of Ersgul agents/associates
@@ -272,8 +289,7 @@ Zhent
 Guildan the Fish
 Zhent
 Dragon escapes
-Jafar arranges an attempt on Beljuril
-s life
+Jafar arranges an attempt on Beljuril's life
 Rufus and Raven head north to find Hob for the winter
 B*	CJ
 ]KNz

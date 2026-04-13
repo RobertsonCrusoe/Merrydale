@@ -1,3 +1,10 @@
+---
+title: "Vetis"
+slug: vetis
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 left|500px
 
 A warlock who had both a pact with, and can trace his blood line to, the Devil known as Bel.

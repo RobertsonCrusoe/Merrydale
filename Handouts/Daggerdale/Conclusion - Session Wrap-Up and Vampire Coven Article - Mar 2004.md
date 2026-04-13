@@ -1,3 +1,24 @@
+---
+title: "Conclusion - Session Wrap-Up and Vampire Coven Article - Mar 2004"
+slug: conclusion-session-wrap-up-and-vampire-coven-article-mar-2004
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

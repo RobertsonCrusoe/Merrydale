@@ -1,3 +1,35 @@
+---
+title: "1371 DR - Remarks on the Company of the Red Herring"
+slug: 1371-dr-remarks-on-the-company-of-the-red-herring
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1371 DR"
+date_ic_sort: 1371001
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Teskul"
+  - "Esperel"
+  - "Gilthanas"
+  - "Ezrelda"
+  - "Garth Shanks"
+  - "Ildar Orsabbas"
+  - "Jalthor Murlyn"
+  - "Jannaxil Serpentil"
+  - "Sal Worthingham"
+  - "Zantiid"
+locations: []
+tags:
+  - "military"
+---
 DDC - 1371 - 2 : Remarks on the Company of the Red Herring 
 Winter, 1372. By Jalthor Murlyn, Captain of the Night Watch, Dockward 
 GFD Notes: 

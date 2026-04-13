@@ -1,3 +1,28 @@
+---
+title: "From the Journal of Tergus Clarandal - Lobelia Alavandor at Eight"
+slug: from-the-journal-of-tergus-clarandal-lobelia-alavandor-at-eight
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "3 Flamerule 1435 DR"
+date_ic_sort: 1435185
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Lobelia Alavandor"
+  - "Tergus Clarandal"
+locations:
+  - "Thistle Ridge"
+tags:
+  - "military"
+---
 Flamerule 3, 1435 
 The gentle embrace of Thistle Ridge has welcomed me home once more, and I find great joy in the company of my family. The village is abuzz with the laughter and energy of the many children born during my absences. My heart swells with pride and contentment as I spend time with my beloved Senthia and our ever-growing clan of cousins, nieces, and nephews. 
 

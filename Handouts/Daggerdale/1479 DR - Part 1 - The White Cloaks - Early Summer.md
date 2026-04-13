@@ -1,3 +1,40 @@
+---
+title: "1479 DR - Part 1 - The White Cloaks - Early Summer"
+slug: 1479-dr-part-1-the-white-cloaks-early-summer
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1479 DR"
+date_ic_sort: 1479001
+date_ooc: ""
+series: ""
+order: 10
+characters:
+  - "Braxus"
+  - "Madrick"
+  - "Dorian Dale"
+  - "Tuugan Swift"
+  - "Alystair Dretch"
+  - "Argent Whitegate"
+  - "Iolus Warburton"
+  - "Lumina Whitegate"
+  - "Otis Fairfield"
+  - "Troia Trustar"
+locations:
+  - "Dagger Hills"
+  - "Cormanthor"
+  - "Crossed Blades Farm"
+  - "Castle Radiance"
+  - "The Old Man in the Hill"
+tags:
+  - "military"
+---
 A summary of the significant events of the Summer of 1479 DR
 
 In the early summer of 1479, a company of capable men and women came together that would eventually be known as The White Cloaks. The company was founded by Lumina Whitegate (granddaughter to Zenith Sunlord Argent Whitegate), Dorian Dale, Tuugan Swift and Alystair Dretch.

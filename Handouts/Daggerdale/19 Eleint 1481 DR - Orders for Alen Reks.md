@@ -1,3 +1,31 @@
+---
+title: "Orders for Alen Reks"
+slug: orders-for-alen-reks
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "19 Eleint 1481 DR"
+date_ic_sort: 1481263
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Iolus Warburton"
+  - "Alen Reks"
+  - "Alystair Dretch"
+locations:
+  - "Tethyamar"
+  - "Castle Radiance"
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 A note sent to Alen Reks from Iolus Warburton.
 
 ==Eleint 19, 1481 The Year of the Grinning Halfling==

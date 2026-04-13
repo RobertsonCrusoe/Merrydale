@@ -1,3 +1,10 @@
+---
+title: "Logan"
+slug: logan
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 [PC Attribution: Logan (Gus Miranda)]
 Some metagame ruminations from Gustavo Miranda:
 

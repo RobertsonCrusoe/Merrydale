@@ -1,3 +1,25 @@
+---
+title: "Daecob's Journal_ The Mummy's Tomb"
+slug: daecob-s-journal-the-mummy-s-tomb
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: todd
+curator: ""
+pov: "Daecob"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Daecob Myth"
+locations: []
+tags: []
+---
 [PC Attribution: Daecob Myth (Todd Burry)]
 An excerpt from Volume 15 of Myth's Motions: The Complete Works of Daecob Myth\"
 ----

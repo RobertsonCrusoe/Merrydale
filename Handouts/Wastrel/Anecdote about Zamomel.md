@@ -1,3 +1,10 @@
+---
+title: "Anecdote about Zamomel"
+slug: anecdote-about-zamomel
+type: stub
+campaign: wastrel
+subtype: npc
+---
 Interview with Second Sergeant Brahm Tilton of the Watchwall and Volothamp Geddarm in 1352 DR, The Year of the Dragon - Information collected by Hrogan Goringrimm, Fifth of the Monastery of Sundered Faiths in 1465 DR, The Year of the Sword.
 
 thumb

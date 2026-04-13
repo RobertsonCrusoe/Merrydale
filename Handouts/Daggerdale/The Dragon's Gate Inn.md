@@ -1,3 +1,30 @@
+---
+title: "The Dragon's Gate Inn"
+slug: the-dragon-s-gate-inn
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Carpathia Twist"
+  - "Denelius Ormath"
+  - "Tyrian Grey"
+  - "Beliard Emmarask"
+locations:
+  - "Castle Radiance"
+  - "Sembia"
+tags: []
+---
 ==Three Strangers Meet==
 
 It is in a large road-house outside the walls on the northern side of Arabel, that Beliard and Tyrian first meet.  This should be a busy place; 100 years ago, this 'road-house', which more resembles a small fortress built outside the walls of the great Sembian city, would have been packed with traders, this time of year especially.  These days, the world such as it is, the enormous tap-room of this inn is 90% empty.  It would have been nothing for merchants to exchange thousands of gold a day in handshakes in this place, but now, the roads are a dangerous place, and travel up the road and into the dales is not what it once was.

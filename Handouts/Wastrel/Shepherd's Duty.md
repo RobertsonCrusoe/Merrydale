@@ -1,3 +1,26 @@
+---
+title: "Shepherd's Duty"
+slug: shepherd-s-duty
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Loudwater"
+  - "Secomber"
+tags: []
+---
 [PC Attribution: Shepherd (Les Blackwell)]
 The harbour in the City of Splendours is a busy place most of the year, but it is never quite as energetic and chaotic as the opening weeks of the trading season. The boats that have been coming into the harbour the last couple of days are covered in ice, but they have arrived, and the season has opened with their arrival after a doubtlessly-perilous journey up the ice-floe-ridden Sea of Swords.
  

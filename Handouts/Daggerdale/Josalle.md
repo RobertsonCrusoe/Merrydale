@@ -1,3 +1,10 @@
+---
+title: "Josalle"
+slug: josalle
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 This was a slave found in the lair of Tuumig on The Old Man's Tooth.  She was brought back to Castle Radiance, but her entry into the Castle was challenged by the clerks at the South Gate, which nearly came to blows between Corran and a pair of Paladins of the .
 
 ==Description==

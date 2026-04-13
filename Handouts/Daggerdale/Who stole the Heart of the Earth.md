@@ -1,3 +1,44 @@
+---
+title: "Who stole the Heart of the Earth"
+slug: who-stole-the-heart-of-the-earth
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Rubikawn"
+  - "Xulla"
+  - "Zantiid"
+  - "Teskul"
+  - "Yarkul"
+  - "Kionin"
+  - "Alek Lenter"
+  - "Garth Shanks"
+  - "Joldara Hunabar"
+  - "Kappiyan Flurmastyr"
+  - "Quellar Dalael"
+  - "Sal Worthingham"
+  - "Belduran"
+  - "Haskar Hunabar"
+  - "Horth Hunabar"
+  - "Jafar"
+  - "Kalindos"
+  - "Malkor Githeas"
+  - "Rychel Voordan"
+locations: []
+tags:
+  - "military"
+---
 The following notes and speculations were composed by Rufus of Selûne during his brief tenure with the Company of the Red Herring, between the events of Harvestide and his expedition to the North with Raven in search of Hob during the winter of 1371-2.
 ----
 

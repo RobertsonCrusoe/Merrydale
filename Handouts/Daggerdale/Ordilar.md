@@ -1,1 +1,8 @@
+---
+title: "Ordilar"
+slug: ordilar
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 Proprietor of the Last Place, an inn in Zelbross. Ordilar was a Zhentarim agent and a link in a network of spies that communicated by winged messengers. Hanged by the good citizens of Zelbross in the winter of 1372.

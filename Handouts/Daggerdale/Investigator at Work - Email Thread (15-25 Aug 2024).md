@@ -1,3 +1,49 @@
+---
+title: "Investigator at Work - Email Thread (15-25 Aug 2024)"
+slug: investigator-at-work-email-thread-15-25-aug-2024
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Abrecia"
+  - "Aisling Maeliticus"
+  - "Nemia"
+  - "Saralla Sakurth"
+  - "Lucan Alavandor"
+  - "Blaze Whitegate"
+  - "Claudius Clarandal"
+  - "Vessuvian"
+  - "Lily Clarandal"
+  - "Mortimer"
+  - "Tergus Clarandal"
+  - "Lotus"
+  - "Andarl Alavandor"
+  - "Invictus"
+  - "Kionin"
+  - "Lilac Alavandor"
+  - "Melegaunt"
+  - "Minerva Maerimmon"
+  - "Mumfrey"
+  - "Senthia Alavandor"
+locations:
+  - "Thistle Ridge"
+  - "Sembia"
+  - "Saerloon"
+  - "Dagger Falls"
+  - "Yellow Abbey"
+tags: []
+---
 Investigator at Work — Email Thread
 Stephen Robertson, Gus Miranda (as Jasper), Leslie Desmond Blackwell (as DM), Scott Mclaren, Todd Burry
 Email thread: "Investigator at work", 15–25 Aug 2024

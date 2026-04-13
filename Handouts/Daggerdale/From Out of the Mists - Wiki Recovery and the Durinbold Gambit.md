@@ -1,3 +1,27 @@
+---
+title: "From Out of the Mists - Wiki Recovery and the Durinbold Gambit"
+slug: from-out-of-the-mists-wiki-recovery-and-the-durinbold-gambit
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Waterdeep"
+  - "Tethyamar"
+tags:
+  - "military"
+---
 From Out of the Mists - Wiki Recovery, the Durinbold Gambit, and the Warders of Waterdeep
 by Stephen Robertson and Les Blackwell
 Email thread: "From out of the mists...", 25-26 Feb 2026

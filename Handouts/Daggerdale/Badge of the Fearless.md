@@ -1,3 +1,10 @@
+---
+title: "Badge of the Fearless"
+slug: badge-of-the-fearless
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 {{blocktitle|Badge of the Fearless|Wondrous Item}}
 A sunburst badge of polished steel with a pair of crossed blades engraved upon it.
 Item slot: Wondrous Item

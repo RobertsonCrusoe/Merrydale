@@ -1,3 +1,35 @@
+---
+title: "Investigation Report - Thistle Ridge Ghosts and Sembian Families"
+slug: investigation-report-thistle-ridge-ghosts-and-sembian-families
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Claudius Clarandal"
+  - "Lucan Alavandor"
+  - "Andarl Alavandor"
+  - "Lilac Alavandor"
+  - "Lily Clarandal"
+  - "Nemia"
+  - "Poppy Sweetberry"
+  - "Senthia Alavandor"
+  - "Tergus Clarandal"
+locations:
+  - "Thistle Ridge"
+  - "Saerloon"
+tags: []
+---
 Investigation | Facts | Hypotheses | Action Items
 The ghosts of Thistle Ridge | There are three ghosts
 Poppy Sweetberry

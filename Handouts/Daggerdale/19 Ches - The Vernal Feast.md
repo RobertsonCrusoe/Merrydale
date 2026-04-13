@@ -1,3 +1,33 @@
+---
+title: "19 Ches - The Vernal Feast"
+slug: 19-ches-the-vernal-feast
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Ardelusk Whitegate"
+  - "Darred"
+  - "Jovian Ash"
+  - "Mumfrey"
+  - "Phineas Hoetmer"
+  - "Vessuvian"
+locations:
+  - "Charity"
+  - "Dagger Falls"
+  - "Hillsfar"
+tags: []
+---
 [Source: Daggerdale Flora and Fauna.txt, lines 334+]
 
 19 Ches - The Vernal Feast – A Shared Holiday of the Two Faiths of Daggerdale 

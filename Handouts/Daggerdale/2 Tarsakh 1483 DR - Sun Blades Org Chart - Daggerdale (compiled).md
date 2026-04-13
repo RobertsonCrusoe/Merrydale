@@ -1,3 +1,55 @@
+---
+title: "Sun Blades Org Chart - Daggerdale (compiled)"
+slug: sun-blades-org-chart-daggerdale-compiled
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "2 Tarsakh 1483 DR"
+date_ic_sort: 1483093
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Rainyerd"
+  - "Kesh"
+  - "Kesh Oakdale"
+  - "Alaric Swift"
+  - "Tuugan Swift"
+  - "Chastity Dale"
+  - "Claudius Clarandal"
+  - "Dauntless Thunderstorm"
+  - "Dorian Dale"
+  - "Hardigan"
+  - "Lucius"
+  - "Northman"
+  - "Weaver"
+  - "Alystair Dretch"
+  - "Ander Millstone"
+  - "Bella Birtch"
+  - "Brendle Vale"
+  - "Buck Harrowbridge"
+  - "Buck Thistledown"
+  - "Daffodil Newharvest"
+locations:
+  - "Thistle Ridge"
+  - "Castle Radiance"
+  - "Dagger Falls"
+  - "Cormanthor"
+  - "Tesh Valley"
+  - "Liberty Hill"
+  - "Charity"
+  - "Anathar's Dell"
+  - "Crossed Blades Farm"
+  - "Tethyamar"
+tags:
+  - "military"
+---
 # **⚔ THE SUN BLADES OF DAGGERDALE ⚔**
 
 Organizational Chart — Compiled from Wiki & Archive Sources, c. 1479–1483 DR

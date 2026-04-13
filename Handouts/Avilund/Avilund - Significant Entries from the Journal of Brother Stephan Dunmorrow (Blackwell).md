@@ -16,8 +16,7 @@ high.  Like any natural forest growth, it is thinnest and shortest at the edges.
 After a couple hours of this winding and trail blazing, we came to the densest part of the hedge.  By this time, the road was a little better, and as we progressed, the Hedge around us became thicker and more sinister looking; large and wickedly curved thorns decorate the cheerless Hedge trees.  One cannot pass anything larger than a hand into the hedge at this point, without sustaining many lacerations.
 
 This thickness and impassability of the hedge is, at this point, marked by its vast height as well.  The hedge is certainly over 100
-high, but only at some points is it possible to take a sounding of it
-s height, for it is mostly like a tunnel; the grim coppice forming a vaulted tunnel, sometimes just barely over our heads, sometimes many scores of feet above us.  Most times, the light of day is so thoroughly obstructed and diffused that one would think it the twilight hour.  At some points it is pitch darkness.  Still, at times, the canopy opens up, and sunlight falls, and it is much like taking a deep draught of air after a long submersion in a cold and inky lake.
+high, but only at some points is it possible to take a sounding of it's height, for it is mostly like a tunnel; the grim coppice forming a vaulted tunnel, sometimes just barely over our heads, sometimes many scores of feet above us.  Most times, the light of day is so thoroughly obstructed and diffused that one would think it the twilight hour.  At some points it is pitch darkness.  Still, at times, the canopy opens up, and sunlight falls, and it is much like taking a deep draught of air after a long submersion in a cold and inky lake.
 
 I should say that the path is by no means straight.  I doubt very much that we followed one tract of that gloaming grotto that stayed its course for more than 100 yards before an obtuse change in course presented itself.  At many times, the conduit of the Hedge diverged from the ancient stones, only to find the venerable path again after several twists and turns.
 
@@ -41,8 +40,7 @@ We continue on.  Though I have read almost all there is to read of this Hedge an
 Brave words then.  Thinking back on those Hedge-hidden blocks of stone has certainly fueled my imagination.  Whatever could those buildings be used for?  By whom?  How does one arrive at them?  How long is it since they have seen the sight of Men?
 
 After those mysterious structures, the path became more serpentine and increased in its opacity for the next several hours, until at last, we were sure that darkness had fallen on the Natural World outside of this confounding Hedge.
-We have now made what camp we can.  I am thankful, just now, for Janvermin
-s expertise and circumspection.  He had filled all of our skins with fresh water in the nape of the valley before the aperture of the Hedge.  I was too excited to tend to such minutiae, but after such a journey, we are both in need of replenishment.
+We have now made what camp we can.  I am thankful, just now, for Janvermin's expertise and circumspection.  He had filled all of our skins with fresh water in the nape of the valley before the aperture of the Hedge.  I was too excited to tend to such minutiae, but after such a journey, we are both in need of replenishment.
 
 If I never saw pitch blackness before, I have tonight.  Our camp is of such a stygian nature, as to make me suspect that cheer and light were but tricks of the mind; falsely remembered and unconceived in fact.
 October 7
@@ -57,8 +55,7 @@ At any rate, we continued on.  The day was full of the same findings as yesterda
 
 Finally, though, the road and the path widened, and we followed a straight path up a hill for several hundred yards.  The road here, though grown over considerably, revealed some particularly large stones that had engravings of all manners of things upon them.  At a few spots along the way, the broken remnants of old statues of many sizes, now covered in the same bracken as the rest of the land, evoked disconsolate images of a great Empire, erstwhile and unremembered.  I wanted to examine some of the carvings and statues, but Janvermin would abide none of my distractions.  Today, I did not argue with him.  He is now a sick man.
 
-That steep approach is bathed in a wan light, as the gorse above is presumably not so thick.  Towards the top of the hill, we were able to see quite clearly, a stone wall which obstructed our path, and a great archway in that wall through which we might pass.  As before, I misjudged the size of that which I observed.  The wall and the archway seemed to get no nearer with my first many steps, until it seemed like we were marching up a most unnatural hill, which checked our progress.  But it was long after apparent that the hill was just longer and higher than I thought, as was the wall, and the width of the very road leading to it.  Though this misconception is partly due to clever engineering and tricks of scale and perspective, it is also largely due, I am sure, to the unnatural and oppressive nature of the Hedge, and it
-s adeptness for inspiring confusion and doubt.
+That steep approach is bathed in a wan light, as the gorse above is presumably not so thick.  Towards the top of the hill, we were able to see quite clearly, a stone wall which obstructed our path, and a great archway in that wall through which we might pass.  As before, I misjudged the size of that which I observed.  The wall and the archway seemed to get no nearer with my first many steps, until it seemed like we were marching up a most unnatural hill, which checked our progress.  But it was long after apparent that the hill was just longer and higher than I thought, as was the wall, and the width of the very road leading to it.  Though this misconception is partly due to clever engineering and tricks of scale and perspective, it is also largely due, I am sure, to the unnatural and oppressive nature of the Hedge, and it's adeptness for inspiring confusion and doubt.
 At length, we came to the top of the hill, and found ourselves before a great wall and a great archway.  I should think that it may have been a veritable splendour of the ingenuity, industry and will of Men, if the wall and the aperture could be seen in the unobstructed light of day.  But, though some little light did come through the furze above, it was still no brighter than a cloudy twilight.  Details and convolutions upon the wall and the archway there were aplenty.  Too many, in fact, to get a focus on one, for the first time observer of this magnificent and cyclopean structure.  I should have liked to stay a while and recorded some of them.  There is an entire encyclopedia of information and history in that archway, I am sure.  But, it was not to be.  For starters, my guide would not have permitted a lingering.  But it was our new company that hastened things along.
 
 For, we were not alone under that prodigious structure.  Under the archway stood a trio of sentinels, as quiet as they were dark.  We were both quite frightened when we saw them, and no one stirred a fig for quite some time.  I confess that I went through a series of thoughts and emotions.  The figures, under that enormous archway, looked like toy soldiers beneath a more commonly sized archway.  They provoked fear at first, but then doubt; I thought that perhaps they were statues, so still they stood.  But then I knew that they were living things, of a stamp.  They did not move or make noise or give any other indication to the observer of their prescience, but they did inspire one to realization and further fear.
@@ -96,14 +93,11 @@ Though I feel well, I wonder how poor Janvermin is faring.  Already, I am far be
 October 14
 Today has been drizzly all day.  The soggy skies seem satisfied to deliver as little moisture as possible, to protract it
 
-s irrigous business as long as possible.  The wind blows right into my face as I continue in what I now think is a south-easterly direction.  It has been increasing it
-s fierceness all day, and the organic smell of the ocean is growing stronger.
+s irrigous business as long as possible.  The wind blows right into my face as I continue in what I now think is a south-easterly direction.  It has been increasing it's fierceness all day, and the organic smell of the ocean is growing stronger.
 I saw people for the first time today.  They were very distant, perhaps the better part of a mile away, and several hills removed from the road.  They seemed to have a small flock of sheep or some other animal with them.  We looked at each other for a long time across a hilly lowland, and at length I decided to approach them.  I was not certain what I would have to say to a bunch of rustic shepherds (in any part of the world, let alone this bygone country), but I was in need of any human interaction.  I think I would have settled for a beating from them, if they would have it.
-They wouldn
-t.  By the time I got to their previously espied location, they were gone.  I must confess that I doubted my sanity at that point.  I worried that I was imagining people, and shepherds at that!  But no; I have spent enough time on the road with Janvermin to know to look at it once in a while, and sure enough, there were plenty of tracks of both men and beasts, and I was satisfied that I was not insane, but rather unsavoury company for these folks, and set back to my trail.
+They wouldn't.  By the time I got to their previously espied location, they were gone.  I must confess that I doubted my sanity at that point.  I worried that I was imagining people, and shepherds at that!  But no; I have spent enough time on the road with Janvermin to know to look at it once in a while, and sure enough, there were plenty of tracks of both men and beasts, and I was satisfied that I was not insane, but rather unsavoury company for these folks, and set back to my trail.
 October 15
-I am camped at the gates of the Valdenwail, and won
-t be admitted tonight.  Such execrable hospitality I have never encountered, in even the most anomalous of bywaters.
+I am camped at the gates of the Valdenwail, and won't be admitted tonight.  Such execrable hospitality I have never encountered, in even the most anomalous of bywaters.
 
 The day began with a continuation of the doleful weather for which I have now come to associate with this dispiriting Ecclesiarchy.  A deliberate march through the rolling hills brought me alternatively from the boggy swales, to the wind-blasted heaths of this woebegone moor.  As the march progressed, I became aware that I was climbing higher and higher, and the nadirs of the rolling moor became tolerably moist the further I went, though the bitter wind became fiercer upon those unwelcoming zeniths.
 
@@ -148,8 +142,7 @@ When I did finally recover from the elements, having bundled up tight and shrink
 
 To begin, this portion of the rocky land becomes more gentle; it is less than a mile from beneath the arch of the two towers to the cliff that drops off to the Sea which forms the Valdenwail
 
-s most resolute southern boundary, and this expanse is mostly a benign plateau, for the most part free of the rugous mountains through which the traveler has just emerged.  From the archway, there is a gentle slope downwards towards the Valdenwail which broadens from it
-s span of about 100
+s most resolute southern boundary, and this expanse is mostly a benign plateau, for the most part free of the rugous mountains through which the traveler has just emerged.  From the archway, there is a gentle slope downwards towards the Valdenwail which broadens from it's span of about 100
 under the arch, to perhaps a mile at the foot of the bulwark of the Valdenwail.  On either side of this gentle descent, the rocky eminence rises nearly straight up like a jagged wall.  The plateau upon which the Valdenwail has stood for so many centuries is perhaps 7 miles from east to west, and the thickest parts of the sprawling and ancient acropolis might be as wide as 1 and one half miles from the southern cliff to the northern mountain which make it
 
 s borders.  In the middle, which is roughly where I find myself now, the Valdenwail is at it
@@ -158,15 +151,10 @@ s thinnest, being only perhaps 200 yards from bulwark and gate to the southern c
 
 The plateau is also very lunate, curving away sharply from the narrow middle, so that I can see the face of the steep cliff and the great walls that sit upon it at the eastern- and western-most reaches, and how those walls have the seeming of something that has grown from the rock, rather than having been hewn from it, or stacked upon it, so long have they cohabitated together.  Now that I think of it, if one was to imagine the seagull
 
-s view of this place (though there are fewer of those than one would expect to find around a seaside castle of any size, let alone this one) I suppose it would look much like a gentleman
-s bow-tie in shape.
-The Valdenwail rises slightly towards it
-s eastern and western extremities, and at it
-s edges it has crept up the sides of the steep rock that borders the plateau, so that thousands of empty windows and archways, and hundreds of balconies and small towers, decorate the lower reaches of those impassable bluffs which frame the plateau.  The Valdenwail chokes every square inch of the plateau, save for the open approach from the two towers to the main Gates below.  The approach, here as with much of the Lower Channel, is bordered by the steep walls that have been hewn out of the stone, upon which the bulwarks and small towers of the Upper Channel sit, abandoned, watching with sightless eyes for erstwhile enemies.
+s view of this place (though there are fewer of those than one would expect to find around a seaside castle of any size, let alone this one) I suppose it would look much like a gentleman's bow-tie in shape.
+The Valdenwail rises slightly towards it's eastern and western extremities, and at it's edges it has crept up the sides of the steep rock that borders the plateau, so that thousands of empty windows and archways, and hundreds of balconies and small towers, decorate the lower reaches of those impassable bluffs which frame the plateau.  The Valdenwail chokes every square inch of the plateau, save for the open approach from the two towers to the main Gates below.  The approach, here as with much of the Lower Channel, is bordered by the steep walls that have been hewn out of the stone, upon which the bulwarks and small towers of the Upper Channel sit, abandoned, watching with sightless eyes for erstwhile enemies.
 
-After crossing about 200 yards down the yawning approach to the illimitable fortress-city, I find myself at the Gates of the Valdenwail.  At this point, the great wall rises up before me, and stretches in it
-s incongruous and convoluted manner, from one precipice to the other.  At it
-s lowest point, the wall must be 60
+After crossing about 200 yards down the yawning approach to the illimitable fortress-city, I find myself at the Gates of the Valdenwail.  At this point, the great wall rises up before me, and stretches in it's incongruous and convoluted manner, from one precipice to the other.  At it's lowest point, the wall must be 60
 or perhaps less, but well over 200
 in some of the highest portions of this mile and a half long battlement.  There are towers every 100
 
@@ -174,8 +162,7 @@ or so, and they are of a great variety of styles, shapes and sizes.  One thing i
 
 At the centre of the great wall is the unmistakable Portis Primus of the acropolis.  A great tower over 200
 
-in height, and covered in smaller balconies and towers like an ancient tree covered with countless hoary burls and clinging lunate fungi, dominates the centre of the wall.  At it
-s base, an archway stands like a great letter
+in height, and covered in smaller balconies and towers like an ancient tree covered with countless hoary burls and clinging lunate fungi, dominates the centre of the wall.  At it's base, an archway stands like a great letter
 , with a pillar the size of which I have never encountered elsewhere, supporting the middle.  The double-archway is over 100
 high, and to each side of the pillar, a 25
 wide opening marks the entrance to the Valdenwail.  That this tower is old beyond reckoning is doubtless.  The stone is covered in a thick and shaggy green moss higher than the apex of the double arch, and above that, it is so worn from centuries of this merciless weather as to be polished to a shine.
@@ -186,16 +173,14 @@ s years by millennia, it has been modified relatively recently.  It is important
 relatively
 , for the newer stones of which I speak were certainly laid hundreds of years ago, likely about 400 years ago, if I am any student of History.  The huge double aperture of the Gate Tower has been sealed almost entirely shut; large stone blocks have obstructed those twin maws, like so many bricked-over windows to be found in Waldheim.  However, at the base of the easterly opening, a large wooden door stands in a new archway, some 8
 wide and 12
-tall; large enough for any activities that this castle sees in it
-s denouement.
+tall; large enough for any activities that this castle sees in it's denouement.
 There are three Armoured Guardians, nearly identical to those found at the Hedge Gate, standing in the great Tower Gate double arch which I have just described, and these three made the same supernatural contact with me as I approached.  They seemed to expect me, and I sensed that I could approach the door.  As I approached, one turned it
 
 s armoured head to take me in.  I could see no flesh beyond the slight opening of his full helmet, and though I could see my breath come as excited puffs of fog on this cold maritime eve, none issued forth from their helms.
 
 The centre of the large door is adorned with a cast-iron ring about the size of a well tile, and it was only with great effort that I was able to swing it precariously back, and then strike the door with a resounding
 thud
-.  The castle is so large that I couldn
-t imagine that a doorman would be by any time soon, and, indeed, the sentinels seemed to suggest to me by way of their disquieting mental impressions, that I would have to wait for some time, and not strike the door again.
+.  The castle is so large that I couldn't imagine that a doorman would be by any time soon, and, indeed, the sentinels seemed to suggest to me by way of their disquieting mental impressions, that I would have to wait for some time, and not strike the door again.
 
 The next couple of hours were the worst I ever spent.  I feared to stay too close to the door and the Sentinels, but feared to stray too far from it as well.  When I became anxious, at times, and contemplated striking the door again, I was met with those same walls of resolute will that told me
 wait, and do not strike that door again
@@ -203,8 +188,7 @@ wait, and do not strike that door again
 
 But, at last, the door opened.  Or rather, a small aperture, heretofore unnoticed by this envoy, opened up in the door; it was a smaller door about 2
 x 2
-, and I was immediately warned of it
-s opening by the pale flickering light that issued forth from it.  I was startled, but gathered myself quickly, and stepped up as professionally as I am known to do, and began into my usual salutations, which were cut short before I had one syllable formed, by a very inelegant and loutish greeting from an unseen mouth;
+, and I was immediately warned of it's opening by the pale flickering light that issued forth from it.  I was startled, but gathered myself quickly, and stepped up as professionally as I am known to do, and began into my usual salutations, which were cut short before I had one syllable formed, by a very inelegant and loutish greeting from an unseen mouth;
 It is late!  The Valdenwail will have no visitors this time of night!
 and with that, the little door slammed shut.
 Though the sentinels moved not an inch after this, I could feel their great Wills pressing down upon me, and knew that I could not press the issue further.  I made a hasty and downcast retreat back up the gentle slope of the approach, and over the tempest-swept crest beneath the two towers, where I now write from.
@@ -256,8 +240,7 @@ Anyway, he opened the door, and hobbled in, and made an irritated gesture for me
 Dunvegan House.  You will be our guest here and here only.  There is logs and food in here.
 
 I began to muster myself for a delivery of my formal request to deliver my letter to the Scion, but Numble guessed I had something to say, and cut me off by waving both his hands at me in a feeble and tired dismissive gesture.
-Save yer breath for billowing your fire, messenger.  And don
-t leave Dunvegan House
+Save yer breath for billowing your fire, messenger.  And don't leave Dunvegan House
 .  He left, and he locked the door from the outside after he did.  I am now a prisoner in the Valdenwail.
 
 However, it is not a terrible incarceration.  Though, Perhaps I am just happy of any place that will shelter me from the relentless rains and wind that assault the Lower Channel and any luckless traveler thereupon.
@@ -266,8 +249,7 @@ After Numble left, I took the candle, and wandered through the dusty place, and 
 
 My time on the road with Janvermin has again proven useful.  After walking around the house searching for more candles to light, I noticed a track in the dust heading into a chambre that I had not yet been to.  I cautiously entered the room, a lighted candle held aloft as my only weapon.  The room was a kitchen, and it was empty of all life save mine.  I followed the tracks to a large oak table, and thereupon I found a small sack of food and a bundle of sticks and one small log for a fire.
 
-I am ashamed to own that I conducted myself like a beggar who has found a shilling, at that point.  Upon discovering the food in the bag, I began to consume it in a most beastly manner, and it was this lapse in manners that earned me the gastric discomfort that I now own.  At first glance, it seemed a rustic, though hearty meal; a couple of apples, a small wheel of cheese, some bread and a piece of thick dark meat.  I ate the bread first, and had it all in my gullet before I noticed the dull acidic taste of mold in the back of my throat.  It was strong enough to put me into a bout of coughing that might have rivaled Numble
-s knells.
+I am ashamed to own that I conducted myself like a beggar who has found a shilling, at that point.  Upon discovering the food in the bag, I began to consume it in a most beastly manner, and it was this lapse in manners that earned me the gastric discomfort that I now own.  At first glance, it seemed a rustic, though hearty meal; a couple of apples, a small wheel of cheese, some bread and a piece of thick dark meat.  I ate the bread first, and had it all in my gullet before I noticed the dull acidic taste of mold in the back of my throat.  It was strong enough to put me into a bout of coughing that might have rivaled Numble's knells.
 With no more dining caution than I practiced with the bread, I attacked the meat, tearing a mouthful from it and swallowing it down with little mastication.  It stuck, and I paused.  In this short pause, I took a moment to smell the morsel in my hand, and found it to be a very sub-comestible slab of foulness; it smelled like a leper
 
 s foot, and was waxy as a corpse.  I tried to hack up the piece stuck in the back of my throat, but somehow managed to swallow it down completely during my masticatory convulsions.  It now rots in my stomach, but it must have some virtue in it, for though I feel trembles in my depths, at least I have some feeling.
@@ -365,9 +347,7 @@ Before I came to the light, having traveled some hundred and fifty paces, I foun
 
 a very large archway with an open door.  I peeked my head inside, and found a capacious stairway leading up.  The stairs were a spiral, and ten men could easily have marched shoulder to shoulder up them.  They were solid stone the entire way up, even though my circuitous journey brought me many times about; such is the architecture of the Valdenwail.  At length, I climbed the last broad stair, and found myself on a slippery, mossy landing, facing another large and unobstructed archway, and beyond, the pale grey of the ceiling of the world.
 
-I was even more elated as I crossed that threshold, and felt the sting of the full wind on my face, it
-s autumnal chill waking me from a dream, it
-s saltiness like a breath taken after a long plunge.  I should say it was nearly eventide, of what day I am not sure.  The sun was a pale circle of lighter grey in the darker clouds.  The Harbour of the Valdenwail was before me, and the violent sea beyond it was the same colour and temper as the sky, so grey and cold and roiling were they both.
+I was even more elated as I crossed that threshold, and felt the sting of the full wind on my face, it's autumnal chill waking me from a dream, it's saltiness like a breath taken after a long plunge.  I should say it was nearly eventide, of what day I am not sure.  The sun was a pale circle of lighter grey in the darker clouds.  The Harbour of the Valdenwail was before me, and the violent sea beyond it was the same colour and temper as the sky, so grey and cold and roiling were they both.
 
 The Harbour is perfect.  It is a circle perhaps two miles in radius, with the Valdenwail making up one half of it
 
@@ -440,16 +420,14 @@ I will brook no more Exonerations of St. Jack Ass, or Flatulence of St. Orifice.
 January 9, 1747
 I am certain of the date, though I am sure that it was given to me as a form of medicine.  I have been raving about the time for months now, and I am sure that Numble, though likely given orders to tell me nothing of the date, let a little detail slip.  He was mentioning another obscure Saint, and the reason for the furtherance of my delay.  I took no notice of the name of the event.  But then he said something that I did catch, as I am sure he intended.
 
-Yesterday was the Investiture of Saint Ignatius, and the Collegium Founding, in case you
-ve lost track of time, my guest
+Yesterday was the Investiture of Saint Ignatius, and the Collegium Founding, in case you've lost track of time, my guest
 he said, and started into a bout of coughing and rattling again, and headed for the door.  I awoke from my madness in that instant, and rose quickly to follow him to the door.
 So it is January the ninth!  By all the Saints, a new year has begun!
 I nearly wept.  I was happy and sad, and malnourished and saw a glimmer of hope, for some reason.  I saw some spark that hinted to me that my deliverance was near.  I looked to Numble, and I asked
 What is tomorrow, good sir?
 Nuthin
 was his curt reply.  He made his way out as unceremoniously as ever.
-I will meet with the Scion tomorrow.  Tonight, I must clean myself as best I can, and mend these garments.  I know there are some implements of tailoring in the butler
-s den.
+I will meet with the Scion tomorrow.  Tonight, I must clean myself as best I can, and mend these garments.  I know there are some implements of tailoring in the butler's den.
 January 10.
 I write this from outside the Gate of the Valdenwail.  The diminutive door in the great double arch of the Gates has only recently slammed shut behind me, and the trio of Sentinels have reeled back their oppressive wills from within my head.  I am over the crest, beneath the great fork-towers and arch under which I camped for days.  I shall only camp one night here this time.  I am on my way home, finally.
 
@@ -466,8 +444,7 @@ Follow I did.  The first thing I noticed was the absence of the Sentinel at my d
 Numble lead me through miles of veiled street, through avenues even broader than before, and through great gates in thick walls.  Back through time we seemed to journey; the architecture became more simple and prodigious as we journeyed, and the choking dustiness seemed to hit a peak somewhere partway through that twilight journey.  At a couple points, we passed by streets down which I could see daylight shining, and at one point, we even walked through an open-air garden.  There was a great opening above, and though it dripped at it
 
 s edges from a recent rain, the sun was shining through as bright as I have seen it in this Ecclesiarchy.  Though the journey was filled with greater wonders and mysteries, and seemed to grow more optimistic as we proceeded, I should add that we did not encounter another soul on that journey, nor even heard or saw a sign of one.
-Finally, we arrived at a great manor home, similar to Dunvegan House in it
-s opulence and size.  It was covered by the same road-roof as the rest of the Valdenwail, but there were torches burning at all corners of the place, and several lights on inside.  The sight of bright light in those windows was so encouraging that I gave a veritable laugh, and straightened my weatherworn jacket, and propped my soiled hat.  I noticed that standing in one curtain was a silhouette of a man, with his hand over his eyes, likely straining to see into the darkness through the panes of glass.  He must have seen us, for as we approached, he turned away.
+Finally, we arrived at a great manor home, similar to Dunvegan House in it's opulence and size.  It was covered by the same road-roof as the rest of the Valdenwail, but there were torches burning at all corners of the place, and several lights on inside.  The sight of bright light in those windows was so encouraging that I gave a veritable laugh, and straightened my weatherworn jacket, and propped my soiled hat.  I noticed that standing in one curtain was a silhouette of a man, with his hand over his eyes, likely straining to see into the darkness through the panes of glass.  He must have seen us, for as we approached, he turned away.
 
 I should boast that I knew I would not meet the Scion, as soon as we approached the main door to this House (Grimwood House, Numble called it).  There were no Sentinels around, and I am sure that a meeting with Him would have been preceded by a scrutiny of those voiceless devils-in-bronze.  There was none.
 

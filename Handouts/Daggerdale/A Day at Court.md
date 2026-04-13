@@ -1,3 +1,30 @@
+---
+title: "A Day at Court"
+slug: a-day-at-court
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Denelius Ormath"
+  - "Tyrian Grey"
+locations:
+  - "Cormanthor"
+  - "Sembia"
+  - "The Dragon's Gate Inn"
+tags:
+  - "military"
+---
 ==The Travelling Company ==
 
 It had been a long day for Beliard. The journey from Suzail had been relatively uneventful, save for an unexpected meeting with a group of demihuman performers journeying south - a pair of androgynous half-elf twins whom he took to be actor-prostitutes, and a midget duo that styled themselves “The Dwarven Trebuchet and The Flying Gnome.” From this motley troupe he learned that trade from Arabel was beginning to flow eastwards once more over the Thunder Peaks, and that he might seek secure passage with one of the merchant caravans that would be gathering at The Dragon's Gate Inn. They had heard that there were at least three such expeditions expected to leave in the next ride.

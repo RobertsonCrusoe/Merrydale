@@ -1,3 +1,33 @@
+---
+title: "Agamemnon"
+slug: agamemnon
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Beljuril"
+  - "Bartelos"
+  - "Jeryth Phaulkon"
+  - "Khelben Arunsun"
+  - "Zaltim"
+  - "Agamemnon"
+locations:
+  - "Waterdeep"
+  - "Loudwater"
+tags:
+  - "military"
+---
 A Harper Wizard and enemy of the Zhentarim. Agamemnon was first met by Rufus and Raven as a member of a Red Shield Trading Company caravan at the end of Marpenoth 1371.
 
 * had directed Hob Farwood to the offices of Malthoon’s High Road Shippers in Neverwinter

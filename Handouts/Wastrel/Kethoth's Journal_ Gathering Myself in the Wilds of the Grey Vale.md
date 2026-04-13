@@ -1,3 +1,29 @@
+---
+title: "Kethoth's Journal_ Gathering Myself in the Wilds of the Grey Vale"
+slug: kethoth-s-journal-gathering-myself-in-the-wilds-of-the-grey-vale
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Kethoth"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "kethoths-journal"
+order: ""
+characters:
+  - "Kossur"
+  - "Zelbross"
+  - "Kethoth Sepret"
+locations:
+  - "Loudwater"
+  - "Waterdeep"
+tags: []
+---
 [PC Attribution: Chadrazzan Kossur (Les Blackwell)]
 Significant Entries from the Journal of Chadrazzan Kossur...
 ----

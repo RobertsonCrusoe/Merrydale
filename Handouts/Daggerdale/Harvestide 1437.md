@@ -1,3 +1,29 @@
+---
+title: "Harvestide 1437"
+slug: harvestide-1437
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Tergus Clarandal"
+locations:
+  - "Thistle Ridge"
+  - "Saerloon"
+  - "Sembia"
+tags:
+  - "military"
+---
 From the Journal of Tergus Clarandal, recovered at Clarandal Farm 1483 by Company Chrysalis
 
 Harvestide, 1437

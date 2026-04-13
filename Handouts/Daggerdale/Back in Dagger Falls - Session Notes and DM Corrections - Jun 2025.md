@@ -1,3 +1,44 @@
+---
+title: "Back in Dagger Falls - Session Notes and DM Corrections - Jun 2025"
+slug: back-in-dagger-falls-session-notes-and-dm-corrections-jun-2025
+type: session
+campaign: daggerdale
+voice: ooc
+status: raw
+tier: editor
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Invictus"
+  - "Nemia"
+  - "Vessuvian"
+  - "Cassimar"
+  - "Charrah"
+  - "Aisling Maeliticus"
+  - "Alexandus"
+  - "Coventina Cassimar"
+  - "Forge Farmountain"
+  - "Godwin Ferguson"
+  - "Masra"
+  - "Khara Sulwood"
+  - "Ambassador Whitmore"
+locations:
+  - "Dagger Falls"
+  - "Thistle Ridge"
+  - "Hillsfar"
+  - "Shadowdale"
+  - "Charity"
+  - "Quick Axes"
+  - "Yellow Abbey"
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

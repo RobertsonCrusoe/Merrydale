@@ -1,3 +1,39 @@
+---
+title: "Opening Narrative - War in the Deep"
+slug: opening-narrative-war-in-the-deep
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "28 Ches 1481 DR"
+date_ic_sort: 1481089
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Darred"
+  - "Tezster Gellinson"
+  - "Luminous Whitegate"
+  - "Hastle Blackwater"
+  - "Lobelia Alavandor"
+  - "Loki Mouvranesh"
+  - "Stuart Angleton"
+  - "Iolus Warburton"
+  - "Melegaunt"
+locations:
+  - "Tethyamar"
+  - "Castle Radiance"
+  - "Castle Daggerdale"
+  - "Cormanthor"
+  - "Loedegan's Hall"
+tags:
+  - "military"
+---
 [Editorial note (2026-04-11): Two references to "Castle Daggerdale" in the opening narrative below have been corrected to "Castle Radiance." The original wiki/email text used "Castle Daggerdale" for Luminous Whitegate's title and in Tunbridge's speech about distance from Cormyr; both clearly refer to Castle Radiance, the mountain fortress in the Desertsmouth where this scene takes place. See Archive Search Report - Castle Daggerdale.md.]
 
 Opening Narrative — Daggerdale 1481: War in the Deep

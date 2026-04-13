@@ -1,3 +1,32 @@
+---
+title: "Daggerdale Through the Ages - A History Through Maps"
+slug: daggerdale-through-the-ages-a-history-through-maps
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Cassimar"
+  - "Randal Morn"
+  - "Steele"
+locations:
+  - "Dagger Falls"
+  - "Cassimar Tower"
+  - "Dagger Falls Cathedral"
+  - "Quick Axes"
+  - "Tethyamar"
+tags: []
+---
 [Source: Daggerdale Through the Ages A History Through Maps.txt, lines 1+]
 
 Daggerdale Through the Ages  A History Through Maps 

@@ -108,8 +108,7 @@ if divination magic is cast on any of my spells, the Weave user must make a DC 1
 user must do a level check to reveal the effects of my spells
 Any divination spell I make against Weave magic, I have to make a level check against DC 9 + caster level (
 Pernicious Magic
-weave user attempting counterspell must make a DC 11 + caster level check (except for Evoc/Trans) or PC
-s using dispel magic
+weave user attempting counterspell must make a DC 11 + caster level check (except for Evoc/Trans) or PC's using dispel magic
 I have to make a DC 9 + caster level check to counterspell others (not on Illus/Ench/Necro)
 Tenacious Magic
 weave user trying to to dispel my magic must make a DC 15 + caster level check (not on Evoc/Trans)
@@ -117,8 +116,7 @@ I have to make a DC 13 + caster level check (not on Illus/Ench/Necro)
 Possessions:  9,400 gp  in gear.
 Cleric Domains:  Caverns, Darkness.
 Cleric Spells Per Day:  5/4+1/3+1/1+1.
-Sorcerer Spells Known (cast per day 6/6/1):  0th -- Detect Magic, Silent Portal, Read Magic, Mage Hand, Horizikaul
-s Cough.  1st
+Sorcerer Spells Known (cast per day 6/6/1):  0th -- Detect Magic, Silent Portal, Read Magic, Mage Hand, Horizikaul's Cough.  1st
 Net of Shadows, Charm Person, Negative Energy Ray.  2nd Shadow Mask
 Granted Powers:
 Stonecunning - +2 bonus on checks to notice unusual stonework, such as sliding walls, stonework traps, new construction, unsafe stone surfaces, shaky stone ceilings, etc.  Make a check within 10

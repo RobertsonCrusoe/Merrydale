@@ -1,3 +1,36 @@
+---
+title: "Kethoth's Journal_ Greypeak Mountains (Part 5 - Lower Monastery)"
+slug: kethoth-s-journal-greypeak-mountains-part-5-lower-monastery
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Kethoth"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "kethoths-journal"
+order: 50
+characters:
+  - "Ailyan"
+  - "Gaebril Tremalkin"
+  - "Janus"
+  - "Darmol Rugan"
+  - "Ithrax Mal Turik"
+  - "Kethoth Sepret"
+  - "Kossur"
+  - "Kulda Murghom"
+  - "Leosferis Duo'din"
+  - "Mendel Krioy"
+  - "Saharel"
+locations:
+  - "Waterdeep"
+tags: []
+---
 [PC Attribution: Chadrazzan Kossur (Les Blackwell)]
 ==Helgorod Valley==
 

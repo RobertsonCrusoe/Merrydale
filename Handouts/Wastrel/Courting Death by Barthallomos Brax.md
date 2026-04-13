@@ -1,3 +1,26 @@
+---
+title: "Courting Death by Barthallomos Brax"
+slug: courting-death-by-barthallomos-brax
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Kethoth Sepret"
+  - "Radha Leveaux"
+locations: []
+tags: []
+---
 Courting Death by Barthallomos Brax
 
 *Item Description:

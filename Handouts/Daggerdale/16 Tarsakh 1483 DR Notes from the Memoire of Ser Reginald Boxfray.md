@@ -1,3 +1,39 @@
+---
+title: "Notes from the Memoire of Ser Reginald Boxfray"
+slug: notes-from-the-memoire-of-ser-reginald-boxfray
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "16 Tarsakh 1483 DR"
+date_ic_sort: 1483107
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Calix"
+  - "Dol'Rullian"
+  - "Contessa Palus"
+  - "Quercina"
+  - "Embra"
+  - "Fluvia"
+  - "Masra"
+  - "Abbot Ambershields"
+  - "Charrah"
+  - "Reginald Boxfray"
+locations:
+  - "Thistle Ridge"
+  - "Charity"
+  - "Cormanthor"
+  - "Greenwood Farm"
+  - "Hillsfar"
+tags: []
+---
 16 Tarsakh, 1483 DR – Notes from the Memoire of Ser Reginald Boxfray 
 The pen is mightier than the sword!  Ha, but not the axe!  Still, here I am, waging what I hope will be battle from beyond the grave.  For though my body will fail, hopefully in glorious battle with axe in hand, these words may live on, and hopefully lend courage to future generations of warriors. 
 

@@ -1,3 +1,55 @@
+---
+title: "Timeline of the Thistle Ridge Campaign - 1483 DR"
+slug: timeline-of-the-thistle-ridge-campaign-1483-dr
+type: lore
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Vessuvian"
+  - "Lucan Alavandor"
+  - "Charrah"
+  - "Reginald Boxfray"
+  - "Jasper Hawkford"
+  - "Alexandus"
+  - "Cassimar"
+  - "Coventina Cassimar"
+  - "Invictus"
+  - "Malveau Greenleaf"
+  - "Calix"
+  - "Dol'Rullian"
+  - "Khara Sulwood"
+  - "Mortimer"
+  - "Aisling Maeliticus"
+  - "Alen Reks"
+  - "Godwin Ferguson"
+  - "Lobelia Alavandor"
+  - "Loki Mouvranesh"
+  - "Melegaunt"
+locations:
+  - "Thistle Ridge"
+  - "Greenwood Farm"
+  - "Dagger Falls"
+  - "Castle Radiance"
+  - "Cormanthor"
+  - "Hillsfar"
+  - "Saerloon"
+  - "Shadowdale"
+  - "Gribbons Farm"
+  - "Jasper and Lucan at the Campfire - Greenwood Farm"
+tags:
+  - "military"
+---
 Timeline of the Thistle Ridge Campaign – 1483 DR
 From the Arrival of Chrysalis in Dagger Falls to the Latest Record
 

@@ -1,3 +1,25 @@
+---
+title: "A Simple Mission"
+slug: a-simple-mission
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Freeport"
+tags: []
+---
 ...Being the tale of Salazar’s Solo Adventure
 
 ==Summary==

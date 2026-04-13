@@ -1,3 +1,26 @@
+---
+title: "Barred from Leilon"
+slug: barred-from-leilon
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Pelinder Filmarya"
+locations: []
+tags:
+  - "military"
+---
 A note from Pelinder Filmarya, the Lord of Leilon, barring the Neverwinter Company from returning to the town.
 
 Dear Troublesome Travelers;

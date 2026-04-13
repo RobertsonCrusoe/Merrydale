@@ -1,3 +1,10 @@
+---
+title: "Wonder Bringer Warsmiths"
+slug: wonder-bringer-warsmiths
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 This is a small sect of highly skilled smiths and inventors who have come to Daggerdale to undertake some projects that are being funded by the Whitegates.  They arrived in Castle Radiance several years ago, and have been working on the great gun at Fort Luminous for much of that time.
 
 The sect has a quirky religious tone to it; they mostly profess to worship Gond, even though Gond is a 'dead' god in this age.  For evidence of the power of Gond, they point to all the mavelous inventions and weapons they have created.  Some seem to be dead serious about this claim, while others give a wistful smile when they make their case.

@@ -1,3 +1,25 @@
+---
+title: "Some Ideas for Lucan - Todd's Pre-Campaign Character Advice"
+slug: some-ideas-for-lucan-todd-s-pre-campaign-character-advice
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Thistle Ridge"
+tags: []
+---
 Some Ideas for Lucan — Todd's Pre-Campaign Character Advice
 Todd Burry (as Ser Rowan/Mari) and Stephen Robertson (as Lucan)
 Email thread: "Some ideas for Lucan", 19-20 Dec 2023

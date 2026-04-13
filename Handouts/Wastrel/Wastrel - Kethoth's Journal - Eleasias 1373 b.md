@@ -1,3 +1,28 @@
+---
+title: "Wastrel - Kethoth's Journal - Eleasias 1373 b"
+slug: wastrel-kethoth-s-journal-eleasias-1373-b
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Kethoth"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "kethoths-journal"
+order: ""
+characters:
+  - "Kossur"
+  - "Lendin"
+  - "William Spedicut"
+locations:
+  - "Waterdeep"
+tags: []
+---
 [PC Attribution: Chadrazzan Kossur (Les Blackwell)]
 a City in this archipelago, but May is insisting that we stay a few days. Of course, she gets her way. Few will stand up to her wishes, including our lack-wit Captain, and least of all Brenean, who is her constant shadow. I guess I can
 
@@ -8,8 +33,7 @@ Well, the Witch and the Windwalker have departed for Neverwinter on some terribl
 s ears, I feel a little put out that my former adventuring colleagues would not include me in their plans. But, such is the life of one such as I.
 
 Still, I am forced to wonder at what Maevri thinks of Chadrazzan. We have endured some adventure and hardship together, and I wonder how she ranks my friendship. This will bear closer investigation. I need only a lock of her hair
-As it stands, we will be meeting May and Brenean in Baldur
-s Gate sometime around the Autumnal Equinox. In the mean time, we have heard that there are many naval cannons in Lantan (which isn
+As it stands, we will be meeting May and Brenean in Baldur's Gate sometime around the Autumnal Equinox. In the mean time, we have heard that there are many naval cannons in Lantan (which isn
 
 t too far from here) that we will go to look at. While I believe that such modern contrivances do a haphazard, loud and violent job that could easily be accomplished with Art, they certainly have some value as tools of deterrence. Most men (foolishly) think that a cannon is more dangerous than myself, or even May.
 Next day
@@ -34,18 +58,12 @@ In behind him came a pair of Sanguinus nigricollis ignemus, leaving smoking litt
 
 I look on, horrified, as one of the little creatures scampers up onto my desk, setting my scroll aflame. I have just enough time to swipe everything into a drawer before complete fiery ruination is visited upon the rest of my work. Zechary is oblivious to this too. He just begins to prattle on.
 Yar, Kethoth me man! What do ye make of these then?
-I am certain of their nature. Though they resemble smoky, molten monkeys, they are in fact a form of Elemental Kin. A very destructive breed, in fact. I find them endearing, especially their fiery little eyes. But I cannot bring myself to admire them at this moment, as an entire days work, and several hundred gold coins worth of materials have just been consumed by the little demons, the machines of Zech
-s impudence and ignorance.
-I won em off a salt at thee taps. Fella told me they
-d fetch a few thou in Calimport.
+I am certain of their nature. Though they resemble smoky, molten monkeys, they are in fact a form of Elemental Kin. A very destructive breed, in fact. I find them endearing, especially their fiery little eyes. But I cannot bring myself to admire them at this moment, as an entire days work, and several hundred gold coins worth of materials have just been consumed by the little demons, the machines of Zech's impudence and ignorance.
+I won em off a salt at thee taps. Fella told me they'd fetch a few thou in Calimport.
 I give the good Captain the name of the creatures, and indicate the damage they have done. Zechary is aware of neither of these facts until I tell him.
-Eh don
-t be such er a soggy roger. I
-ll split the profits with ye. A sag-nigri-ig-what
-s it?
+Eh don't be such er a soggy roger. I'll split the profits with ye. A sag-nigri-ig-what's it?
 To Calimport then
-I don
-t know what I wanted more; to have the money or to just have the idiot out of my domicile. We are off to Calimport either way, and I am glad of the news. I have been meaning to visit that City for some time.
+I don't know what I wanted more; to have the money or to just have the idiot out of my domicile. We are off to Calimport either way, and I am glad of the news. I have been meaning to visit that City for some time.
 
 In the morning, I shall have to memorize an arcane lock and fix that lock of mine.
 Later in Eleasias..
@@ -64,11 +82,8 @@ Well, the brigand had heels, no doubt. He could run twice as fast as a man, and 
 It was at this point that I noticed that I was not alone in my struggle. Coming towards us was a previous acquaintance, Cedric Blackchalice, a half elf from Aglarond, and a sorcerer of unique ability. Clearly, he had seen some of the struggle, as his guard was up, but he could not see the villain running right towards him.
 Cedrick!
 exclaim I.
-There
-s a good man! He
-s right here!
-and with this, I send a spectral hand following after the invisible coward, pointing him out. Cedric wasted no time in putting a shadowy fiendish ape right in his path. With this, the fleeing brigand decided he would make one more attempt for Kethoth
-s throat, and he turned about to come after me.
+There's a good man! He's right here!
+and with this, I send a spectral hand following after the invisible coward, pointing him out. Cedric wasted no time in putting a shadowy fiendish ape right in his path. With this, the fleeing brigand decided he would make one more attempt for Kethoth's throat, and he turned about to come after me.
 Well, this man was not to be trifled with in close quarters, I can testify. So, I decided to bury the odds completely in my favour, and used a scroll to summon forth another Abyssal hound. The villainous monk thought better of the situation, and made to flee. I should think that the monk would have actually done fairly well against my wolves in a flat out foot race, but my first wolf managed a reckless, flying lunge at the fellow, and nearly ripped the running man
 
 s leg from its socket. The second wolf found the prostrate monk easy prey, and took him by the head. The wolf shook with such vigour that the monk was quickly transformed into a limp and bloody mess that was somewhat unrecognizable as a man.
@@ -76,8 +91,7 @@ Good to see you, Cedric!
 I properly said, as I closed to examine the pulpy mess.
 If my welcoming party was a little crude, the rest of the crew of the Wastrel were given an even colder welcome. Of all things, a floating island-fortress, which I think to be of Netherese origin, attacked the Wastrel! A score of archers and some mages rained down an overwhelming attack upon the Wastrel, and I thought she would be bested.
 
-Indeed, I am sure of it. But the Captain showed his stuff, as he does with the barest frequency possible to maintain his position on the ship. He put her out as quickly as possible, and the battle raged on into the harbour. By the time my fight had ended, the Wastrel was already making for the gates of the harbour, and I saw that she was slowly making distance on the floating fortress. Wonder of Wonders! I can
-t believe I actually saw that!
+Indeed, I am sure of it. But the Captain showed his stuff, as he does with the barest frequency possible to maintain his position on the ship. He put her out as quickly as possible, and the battle raged on into the harbour. By the time my fight had ended, the Wastrel was already making for the gates of the harbour, and I saw that she was slowly making distance on the floating fortress. Wonder of Wonders! I can't believe I actually saw that!
 Cedric and I marvelled for a time, and speculated, and at length we stripped all of value from my attacker. He had little of real value, but did have a minor abjurative ring that I am sure will fetch a nice price. It was with the Wastrel out of view that I took the time to examine my attacker closely. He was a lean and fit man, no doubt, and he was of a hue something between a drow and a dusky man, and between Cedric and I, we both agree that he is from Anauroch or some such place. With this piece of the puzzle in place, I speculate that the rumoured inhabitants of ancient Netherese cities have come after the Wastrel, and that is bad news. Just about everything I own is on that ship! Certainly, the attack upon Kethoth and the attack upon the Wastrel are not happenstance.
 
 I wished to preserve the look and memory of my attacker, for future benefit, and made to do so. However, Cedric was taken aback by my drawing my blade, as I made to take the head. I explained that all I really wanted was to remember his face, in case we needed to identify the man in days to come. Cedric, a man of quality, taste and skill, proposed preserving the man
@@ -117,35 +131,27 @@ My first attempt was upon May, and I am delighted to report that it actually wor
 
 s Gate at the Equinox, and that we should proceed to Westgate to investigate this
 Free Thinker
-Next, I scried upon Lendin aboard the Wastrel, and was able to speak with him as well. The crew is well, but the Netherese fortress continues to harass the Wastrel. The Wastrel is faster, if the wind is right and she takes a straight course, but the floating fortress is more manoeuvrable and will catch up when the Wastrel has to tack aggressively. All aboard are unsure why they are being pursued, but suspect it is simply for the artefact-quality ship that we command. I indicated that we would head to Westgate to follow up on the message intended for May, and that we would meet in Baldur
-s Gate at the prearranged time.
+Next, I scried upon Lendin aboard the Wastrel, and was able to speak with him as well. The crew is well, but the Netherese fortress continues to harass the Wastrel. The Wastrel is faster, if the wind is right and she takes a straight course, but the floating fortress is more manoeuvrable and will catch up when the Wastrel has to tack aggressively. All aboard are unsure why they are being pursued, but suspect it is simply for the artefact-quality ship that we command. I indicated that we would head to Westgate to follow up on the message intended for May, and that we would meet in Baldur's Gate at the prearranged time.
 Though I am somewhat worried about the Wastrel, I am sure that the capable hands on board will deliver her from danger, and that we shall see their faces again.
 
 Cedric and I are relieved to have contacted the Witch and the Wastrel, and to have a focused plan. Tomorrow, we shall set out for Westgate.
 Day Four in Calimport
 This morning has been busy. We were lucky to have found a boat bound for Waterdeep first thing in the morning, and Cedric had his boys pack us up quickly. Before ten bells, we were aboard the Bodiger, and well on our way. The trip will not be luxurious; our accommodations are sparse, but clean, and I had the misfortune of spying the larder as it was packed in; naught but salted pork for the better part of a month.
 Days Later, at sea
-Cedric is a pretty good fellow. I don
-t find him to be the least bit judgmental, and he certainly knows how to enjoy himself, and spread a little of that joy about him. I can
-t remember the last sober night I spent aboard these planks.
+Cedric is a pretty good fellow. I don't find him to be the least bit judgmental, and he certainly knows how to enjoy himself, and spread a little of that joy about him. I can't remember the last sober night I spent aboard these planks.
 Of his natural talents, I know little. But not nothing. The man employs the shadow weave, and that is certain. I know enough of arcana and religion to recognize his brand of sorcery. Now, I don
 
 t put as much stock in most sorcerers as I do mages; a sorcerer is an unrefined and uneducated creature who wields magic like a bugbear wields a club. But Cedric does a great deal with the few tricks he knows, and his creativity is an asset to his brand of spell slinging. Certainly, his spells make life easier for us aboard ship.
 
 Of the religious consequences of his employment of the Shadow Weave, I can say that I honestly do not care. I don
 
-t care for the Creation Myth of Shar and Selune, whether it is true or not. I don
-t care if his employment of the Shadow Weave somehow furthers Shar
-s ends. There is more than enough Weave to go around, and Cedric has never acted in such a way to suggest that he is somehow looking to end the source of my power. He hasn
+t care for the Creation Myth of Shar and Selune, whether it is true or not. I don't care if his employment of the Shadow Weave somehow furthers Shar's ends. There is more than enough Weave to go around, and Cedric has never acted in such a way to suggest that he is somehow looking to end the source of my power. He hasn
 
 t even acted in such a way as to suggest some form of support for Shar. Not that the followers of Shar bother me much, anyway.
 
-Cedric is a capital fellow, and I am glad to have him along. My only complaint is this; though his brand of weed is half as offensive as Salazar
-s, he smokes twice as much, and Tiefling or no, I can
-t countenance the stuff!
+Cedric is a capital fellow, and I am glad to have him along. My only complaint is this; though his brand of weed is half as offensive as Salazar's, he smokes twice as much, and Tiefling or no, I can't countenance the stuff!
 Early Eleint
-We have made Baldur
-s Gate in horrible time. The Wastrel would have made this journey in a quarter the time, and I do not foresee us getting all the way to Westgate and back in less than 20 days! We shall be late for certain, but our errand shall be run. We would not want to upset the Harpers, would we?
+We have made Baldur's Gate in horrible time. The Wastrel would have made this journey in a quarter the time, and I do not foresee us getting all the way to Westgate and back in less than 20 days! We shall be late for certain, but our errand shall be run. We would not want to upset the Harpers, would we?
 
 We have purchased passage upon a barge to go up river. The trip to Ireaebor is to take nine days I am told. This will be a more difficult nine days than any upon the Wastrel or even the Bodiger; this boat is full of small minds and suspicious eyes that never leave me. I think I will save my writing until we make the safety of Irieabor
 Mid Eleint
@@ -237,8 +243,7 @@ We both agreed that tonight we would have some fun, and that tomorrow we would g
 
 Every man has his vices, and I have several. The feel of a struggling lover, the taste of a thick red wine, the coppery smell of spilled blood; these are all things that are fond to me. But roolet, now there is a real diversion!
 
-While there were many men playing the table, and most betting heavily (with platinum being the only currency bet, of course), I guess I got a little caught up in my habit, and drew more attention to myself than I should have. I played fifteen coins each round, and lost, in merciless unbroken succession, nine rounds. Had I the coin, I would have played a tenth, but, as I write this, the Casino has every coin I have come to the City with. The funny thing is, I don
-t feel the least bit upset about it. Easy come, easy go.
+While there were many men playing the table, and most betting heavily (with platinum being the only currency bet, of course), I guess I got a little caught up in my habit, and drew more attention to myself than I should have. I played fifteen coins each round, and lost, in merciless unbroken succession, nine rounds. Had I the coin, I would have played a tenth, but, as I write this, the Casino has every coin I have come to the City with. The funny thing is, I don't feel the least bit upset about it. Easy come, easy go.
 Westgate, Day Two
 Today we got down to business, and it was a long day indeed. Longer for Cedric, who is laying here, still in quite a bit of pain from the nearly fatal skewering he received today.
 Our first order of business was to pay a visit to this paper known as the
@@ -270,8 +275,7 @@ It was this very paper that exposed this scandal, in an article that this author
 behaviour as harmless raillery rather than treasonous behaviour. I am proud to say that this article popularized that point of view and led to the beginning of the Raillery Party.
 
 Through the lucky misfortune of the Campion family, the Raillery Party was able to purchase a noble title for William Darter thus allowing the Raillery Party to enter into the election as a candidate.
-It didn
-t take long for the other candidates to realize that the Raillery Party was distinctly from them and that although they had a vast majority of the support the vote would be split between the lot of them.
+It didn't take long for the other candidates to realize that the Raillery Party was distinctly from them and that although they had a vast majority of the support the vote would be split between the lot of them.
 
 At this time the other candidates decided to unite into a single party headed by Victor Dhostar, the previous ruler of Westgate.
 

@@ -1,3 +1,46 @@
+---
+title: "The Woeful Company of Reprobates"
+slug: the-woeful-company-of-reprobates
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Esperel"
+  - "Jafar"
+  - "Krag"
+  - "Gul'dan"
+  - "Rubikawn"
+  - "Stektine"
+  - "Alek Lenter"
+  - "Egan"
+  - "Fang"
+  - "Haskar Hunabar"
+  - "Kennyth Thames"
+  - "Aganon"
+  - "Aggis"
+  - "Arkiem Arren"
+  - "Balkine Adard"
+  - "Ebeguld"
+  - "Janados Eltorchul"
+  - "Janed Surefletch"
+  - "Lucien Adard"
+  - "Rahannsoz Burihildar"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 |650px]]
 == Early Kythorn, 1371 ==
 

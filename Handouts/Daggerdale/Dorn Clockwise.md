@@ -1,3 +1,27 @@
+---
+title: "Dorn Clockwise"
+slug: dorn-clockwise
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Garth Shanks"
+  - "Sal Worthingham"
+locations:
+  - "Waterdeep"
+tags: []
+---
 A dwarf advisor to Garth Shanks, and member of the Rooken Network
 
 ==History==

@@ -1,3 +1,25 @@
+---
+title: "Dreaming of the Black Quiver"
+slug: dreaming-of-the-black-quiver
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Loudwater"
+tags: []
+---
 Tyriol poked the bags under his eyes. He felt coarse and sickly, like the helpless runt of the litter, which he supposed he sort of was considering the position he held amongst his companions. He coughed into the crook of his elbow and drew himself tighter into the folds of his still-damp cloak, clicking his tongue against the dryness of his throat and sinuses with equal parts frustration and despair.
  
 This place was not for him, he concluded. The Shadowfell. Darkness clung deeper to the corners of the walls, everything seemed hazy and out of focus the longer he tried to stare. The cold seemed to bite at his very soul, filling the air in an eerie fashion considering the weather outside. He rubbed his face, returning his fingers a second time to prod at the rough flesh beneath his bad eye. Despite the dwarf's healing prowess, which Tyriol was exceptionally grateful for, his flesh was still marred slightly by the lick of that black dragon's tongue.

@@ -1,18 +1,45 @@
+---
+title: "Red Herrings - Chapter 1 - The Red Herring - Murlyn Chapter 1"
+slug: red-herrings-chapter-1-the-red-herring-murlyn-chapter-1
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Teskul"
+  - "Esperel"
+  - "Gilthanas"
+  - "Ezrelda"
+  - "Garth Shanks"
+  - "Ildar Orsabbas"
+  - "Jalthor Murlyn"
+  - "Jannaxil Serpentil"
+  - "Sal Worthingham"
+locations: []
+tags:
+  - "military"
+---
 Remarks on the Company of the Red Herring by
 Jalthor Murlyn, Captain of the Night Watch, Dockward
-The only knowledge I have of the Company of the Red Herring concerns the months between Greengrass and Harvestide of 1371.  They did the City a couple of favours, but on the whole we
-d have been better off without them.
-From what I understand, the company centred on a Dockward orphan that had more than a few run-ins with the Watch in my patrol days.  Garth Shanks was always something of a character, as I recall, getting up to mischief with Szarah Mudge
-s boy, Tomas, when he wasn
-t cutting purses in the markets.  He was always one to put on a show whenever anyone the authorities had any questions.  Eventually, he cleaned himself up enough to land a job at a respectable, if not strictly legitimate, shop as an errand boy.  Do you know Serpentil
+The only knowledge I have of the Company of the Red Herring concerns the months between Greengrass and Harvestide of 1371.  They did the City a couple of favours, but on the whole we'd have been better off without them.
+From what I understand, the company centred on a Dockward orphan that had more than a few run-ins with the Watch in my patrol days.  Garth Shanks was always something of a character, as I recall, getting up to mischief with Szarah Mudge's boy, Tomas, when he wasn't cutting purses in the markets.  He was always one to put on a show whenever anyone the authorities had any questions.  Eventually, he cleaned himself up enough to land a job at a respectable, if not strictly legitimate, shop as an errand boy.  Do you know Serpentil
 
 s Books and Folios?  Jannaxil Serpentil sells maps and books, usually authentic, to a fairly large customer base, but most of his business is on the shady side, dealing intelligence and worse to the usual suspects.  From what I understand, Serpentil was dealing fairly often in those days with Quevin Dalael, in his surface guise, of course.
 
 I imagine they were circumspect enough that Shanks never got beyond the usual suspicions that anyone of at least moderate intelligence would have dealing with Serpentil. One of Shanks
 first jobs for Serpentil was connected to this Dalael business
 delivery
-to Castleward.  The package turned out to be an incendiary device of some kind, and I hear the hit really got under the skin of one of the Zhent traders who were active in the city at that time.  That was pretty much it for Garth
-s association with Serpentil.
+to Castleward.  The package turned out to be an incendiary device of some kind, and I hear the hit really got under the skin of one of the Zhent traders who were active in the city at that time.  That was pretty much it for Garth's association with Serpentil.
 The company came together following that business. Ildar Orsabbas was a fop who owned a Seaward trade outlet called Orsabbas
 
 Fine Imports.  The idiot fancied himself a bit of a crime boss, calling himself the
@@ -28,38 +55,20 @@ colleagues
 a bit named Ezrelda, and like the rookie she was, she came right out and offered to put together some people for the job.  That
 
 s really where it all started.  Ellyth got in touch with her uncle and her crazy cousin Esperel, Esperel got a hold of Garth, and Garth brought in Tomas.
-What Orsabbas didn
-t know, and Ellyth didn
-t find out until too late, was that it was Teskul
-s boss that had arranged the shipment.  They say Beshaba is just Tymora on a bad day.
-Teskul
-s boss had arranged the shipment with Chuldan Helmfast, who managed the warehouse for his family. Helmfast
-s is usually pretty well looked after, good light, guards on the roof, etc.  Won
-t keep out the mages, but it
-s good enough to stop hoods like Garth and Esperel. The logs indicate that the cargo was to be loaded on to a privately-owned cog called The Misty.
+What Orsabbas didn't know, and Ellyth didn't find out until too late, was that it was Teskul's boss that had arranged the shipment.  They say Beshaba is just Tymora on a bad day.
+Teskul's boss had arranged the shipment with Chuldan Helmfast, who managed the warehouse for his family. Helmfast's is usually pretty well looked after, good light, guards on the roof, etc.  Won't keep out the mages, but it's good enough to stop hoods like Garth and Esperel. The logs indicate that the cargo was to be loaded on to a privately-owned cog called The Misty.
 
-Tomas told me all this, or most of it, at least, shortly before his own death some months later.  The five of them decided to ambush the shipment and make a switch during the commotion of the festival. It wasn
-t hard for a couple of Dockward lads to pull together a wagon and team, and I
-m not surprised they were able to make the switch without too much trouble.  At least, no immediate trouble.  This is all a prelude, remember, to the real show.
-Once they got back to Garth
-s house, that
-s when the shit hit the fan.  They were so excited about the heist, that there wasn
+Tomas told me all this, or most of it, at least, shortly before his own death some months later.  The five of them decided to ambush the shipment and make a switch during the commotion of the festival. It wasn't hard for a couple of Dockward lads to pull together a wagon and team, and I'm not surprised they were able to make the switch without too much trouble.  At least, no immediate trouble.  This is all a prelude, remember, to the real show.
+Once they got back to Garth's house, that's when the shit hit the fan.  They were so excited about the heist, that there wasn
 
 t much more than a token attempt to keep their guard up.  A man on the roof took out Esperel pretty quick, and the rest of them didn
 
-t have much to say to their door being beat down by four thugs.  Right behind them were Teskul and his boss, a Zhent named Thagdul who ran the Drurginz Trading Company.  Drurginz was a semi-legit trading company with connections to the Moonsea region, but we know that they probably ran contraband through Skullport more often than not.  Garth recognized him as someone who wasn
-t too pleased at Serpentil
-s stunt with the fire, and had a pretty good idea where this was going.  It turned out that he
-d had Teskul build up about as much of a dossier on this bunch as you could get.
-If you knew this bunch, you
-d have expected a hopeless fight to break out.  But Ellyth saw something in the doorway that pretty much took the fight out of them that day.
-Thagdul knew he had them over a barrel.  It didn
-t take much convincing to get Ellyth and Garth to agree to run a few
+t have much to say to their door being beat down by four thugs.  Right behind them were Teskul and his boss, a Zhent named Thagdul who ran the Drurginz Trading Company.  Drurginz was a semi-legit trading company with connections to the Moonsea region, but we know that they probably ran contraband through Skullport more often than not.  Garth recognized him as someone who wasn't too pleased at Serpentil's stunt with the fire, and had a pretty good idea where this was going.  It turned out that he'd had Teskul build up about as much of a dossier on this bunch as you could get.
+If you knew this bunch, you'd have expected a hopeless fight to break out.  But Ellyth saw something in the doorway that pretty much took the fight out of them that day.
+Thagdul knew he had them over a barrel.  It didn't take much convincing to get Ellyth and Garth to agree to run a few
 errands
-for Drurginz, doing some corporate sabotage on another Zhent organization in the city, Company Ersgul.  Tomas and Esperel followed suit, but Gilthanas knew the scene and wouldn
-t have any of it. No one ever proved that Gilthanas
-death had anything to do with the Zhents, but I
-m a druid if they had nothing to do with it.
+for Drurginz, doing some corporate sabotage on another Zhent organization in the city, Company Ersgul.  Tomas and Esperel followed suit, but Gilthanas knew the scene and wouldn't have any of it. No one ever proved that Gilthanas
+death had anything to do with the Zhents, but I'm a druid if they had nothing to do with it.
 IHDR
 gAMA
 pHYs
@@ -75,8 +84,7 @@ l_d>H
 HbnZ
 F;{~'~
 ww<g
-i5*j
-m'FQ_
+i5*j'm'FQ_
 YuYm
 dY/K
 b41vO
@@ -170,8 +178,7 @@ o*G8
 EZ0Yf
 ^^TC
 M%)k
-bZEjf
-m@hA%
+bZEjf'm@hA%
 &OK5t
 -[~r
 D9gS
@@ -326,8 +333,7 @@ $?Y
 ng#V+
 }=PX~LG
 A?ZD
-<`yJ
-t<d3F
+<`yJ't<d3F
 cuJ*
 6z(c
 EokW:R
@@ -652,8 +658,7 @@ T,gU`k
 }MW#
 !/#X
 D@Y^
-'>v>O
-m}|_
+'>v>O'm}|_
 >8/q
 jCfW
 k}eu
@@ -719,10 +724,8 @@ e}e2d
 \Ci:
 `_-u
 5-gH
-;	gqk
-t~p@
-2+H!o
-s> n
+;	gqk't~p@
+2+H!o's> n
 C2^X
 Ky~c
 p{Xh
@@ -761,8 +764,7 @@ QyY
 4Kf"
 d\19
 ZPz(
-{X%@e
-t #y
+{X%@e't #y
 Z[A=M]{
 (Rq+
 oA4Q
@@ -971,8 +973,7 @@ I2	R:d
 ]yZd
 uu]m4{
 g:eB/[
-E.8_y
-s;f|
+E.8_y's;f|
 (y;m
 1&~m
 *uti
@@ -989,8 +990,7 @@ jUCg
 :tep$
 Ekm]]
 ab3f
-IDAT
-d\wH<<D
+IDAT'd\wH<<D
 L7w0$
 :$iO
 SxP9lh
@@ -1009,8 +1009,7 @@ vAum
 ~~<o|A
 r!O\
 /kL3
-YWkvF
-t@|]
+YWkvF't@|]
 .>:s2
 dj7rEE8
 f*~q
@@ -1306,8 +1305,7 @@ udYVY
 kK_|
 $=H!
 #}YP}O
-z:;i
-m)#z4
+z:;i'm)#z4
 >|=Z
 gi_D
 F0bq
@@ -1407,8 +1405,7 @@ U{dT
 P:tJ
 1>mBN(
 /Y2/
-LXGB
-t&Lx
+LXGB't&Lx
 1|\h
 4<(FB7
 >rmQ
@@ -1426,8 +1423,7 @@ $Mq+m
 7zo6
 P#{f
 F$-n
-HJ#6[#R
-m+0]
+HJ#6[#R'm+0]
 ^:XxBF
 p$y:
 <kIy
@@ -1618,8 +1614,7 @@ zU{m
 5PFZ
 =QOY
 A; #
-yFN
-d [{
+yFN'd [{
 4$e`
 I"YE
 GLtc
@@ -1698,8 +1693,7 @@ B3Ys
 /h3@
 .c"=C
 q{Ww
-nyQ3A
-s%Fh{h
+nyQ3A's%Fh{h
 ~8;N'Z
 &Z)QZ
 cQwmg
@@ -1710,8 +1704,7 @@ evQR
 XJ]]
 \U4Q
 R!6?U7
-IDATh
-s?y|
+IDATh's?y|
 ]KRUV
 }_Ww
 TH6FK
@@ -1810,8 +1803,7 @@ r}A^
 "b5.8
 0LXz
 GP[/
-oDfd
-t`2m
+oDfd't`2m
 L	vXV
 NC1`
 IA^ru
@@ -1877,8 +1869,7 @@ GSFD
 usF W
 *}-k
 kJucS
-1bRLPK
-m*O2F
+1bRLPK'm*O2F
 "~9Y
 <}!Ok~
 ;;;\J<3
@@ -2013,8 +2004,7 @@ S9WI
 )(\&
 l4/'Zi
 >|h:K
-@TFe
-t+.(+
+@TFe't+.(+
 .Ps*
 #_vL
 x%ZPn
@@ -2139,8 +2129,7 @@ Q]g<
 kGlt)R
 MC-F
 ;H9j+"
-=<SAB
-d|/!M
+=<SAB'd|/!M
 $+:U
 OY7xz
 Fw*1S;
@@ -2241,8 +2230,7 @@ p#$]
 jz]?
 ]/mu
 w8]5
-dWHS
-m**2
+dWHS'm**2
 fm]*
 {3_8
 k|}[T
@@ -2331,8 +2319,7 @@ sn]b
 yTJQ
 \XbJ}
 ^1AX
-1'CVJ
-d-,`
+1'CVJ'd-,`
 {a0T
 *.3$
 )z4*
@@ -2465,8 +2452,7 @@ aXrG
 "g~(c
 0Sm$L
 b%Qf
-pWrL
-t=#f
+pWrL't=#f
 'R$5
 AT,K
 ;4K\
@@ -2595,8 +2581,7 @@ V7lv$`
 l1$7'a
 x|,l
 pBNS
-sNT
-s*3.
+sNT's*3.
 Q[w^+
 eJ>)
 lN.rF
@@ -2627,8 +2612,7 @@ WTii
 ^Zxri
 5xkVga
 -jZ$#=P
-ykVW
-m,p(
+ykVW'm,p(
 Hb,!
 {o9\hL
 mj-J
@@ -2659,8 +2643,7 @@ x*(u
 8V6Z
 4^Hi.
 $^&_
-~(ea
-t|(-B
+~(ea't|(-B
 59oQ
 PGy(
 .(V>
@@ -3061,8 +3044,7 @@ t&-[Z
 Q4g\I
 U_O'
 EI$A
-MuJV
-m~y=G
+MuJV'm~y=G
 7.F!g
 )G\giy
 B3r&y
@@ -3169,8 +3151,7 @@ e`	1(
 _XQk
 H&{7
 &Y47r7R
-n.'i
-s( q[(i
+n.'i's( q[(i
 MDa:S
 "cgm
 5+\;
@@ -3356,8 +3337,7 @@ k<-2?
 9!c4
 PuW*m
 %v}Q
-TEh(ta
-t<8{
+TEh(ta't<8{
 bE<x
 O_>O
 RAerAl
@@ -3412,8 +3392,7 @@ zQ"%:
 @*fZ
 L~]m
 f$!M
-=mCi
-t.mSqh
+=mCi't.mSqh
 :b`D
 pdkp
 h-m.
@@ -3704,14 +3683,12 @@ is:?
 lUj;
 lz7n
 H9[uS
-0"  o
-s}''
+0"  o's}''
 Zr@x
 rI(-EJ
 ',44P
 E=d8
-Mb<d
-d|n}
+Mb<d'd|n}
 =|F>^B
 82s*o
 krr_
@@ -3814,8 +3791,7 @@ L6\!
 U]dH
 2tW6:
 [i&4<
-d0F^cC
-t SM
+d0F^cC't SM
 .'0_
 ruIu
 D!]7
@@ -3987,8 +3963,7 @@ KW,Ho
 O6P!
 F:Wrt
 ]nci
-~V5q
-d.=?
+~V5q'd.=?
 T~R(
 v]\?
 ZKf5
@@ -4017,8 +3992,7 @@ ycU7
 tqx"m-S
 \joC3
 <1`_*
-,:T2o
-t|,I
+,:T2o't|,I
 "u0,
 !)MnL
 Su+m
@@ -4289,8 +4263,7 @@ Rb&q
 ]Y2Dy|m$
 h"-&7&V
 Ki/:B
-mx>a
-s]]j.
+mx>a's]]j.
 v[TY
 o{xt
 uUCUi
@@ -4298,8 +4271,7 @@ uUCUi
 Nu't[
 2iQ(
 tvYn
-5O5N
-m)T/BI
+5O5N'm)T/BI
 l@.f@
 etoaS(
 OhZCB
@@ -4555,8 +4527,7 @@ n|]J
 B&qV
 8YKA
 -sG;
-(":f
-t!6>
+(":f't!6>
 G?#O
 Q<[qK
 _c91
@@ -4737,8 +4708,7 @@ L\]X
 >~YfS7=
 CC/.
 "(9/e
-mJ&q
-s+$",
+mJ&q's+$",
 (BT2
 HRB]S
 K-$eJ
@@ -4809,8 +4779,7 @@ BCh&
 ti{{
 f'ppv
 {;t{]t^
-FRgIMs
-s!YP
+FRgIMs's!YP
 HB67z[
 nI4?
 aruqxt
@@ -4880,8 +4849,7 @@ N"`c
 E@?4
 I2$.A
 tP/TMU
-<^'D
-s	.VE
+<^'D's	.VE
 w$If
 mUfV
 ]IjnK
@@ -4913,8 +4881,7 @@ U:{#
 *{F)
 SkK]U_
 #F)c
-26q
-s}|<2
+26q's}|<2
 2q| +
 Q@86
 -YMKR
@@ -5385,8 +5352,7 @@ szOp
 M~K+
 ^r_D
 Pr4z
-`rRR
-t:1a
+`rRR't:1a
 N1 )<
 &oN 7-^
 nDFf
@@ -5447,8 +5413,7 @@ gwExi`%
 m&*>$
 HKjU
 IDAT
->02zd
-t#lz
+>02zd't#lz
 jMn|
 ?cr20#
 QI9U6+Xj
@@ -5466,8 +5431,7 @@ celI3
 t apu
 B:a2
 G!GID
-Uk^X
-d<f/
+Uk^X'd<f/
 <Y~
 0g#j$
 AKxn
@@ -5511,8 +5475,7 @@ k"Ir
 g^Fm
 Wx&u
 %JXUq~
-W=*y
-s^2*l
+W=*y's^2*l
 !J}X
 I;}D
 ;.K<
@@ -5773,8 +5736,7 @@ atdg
 Tk/-K_
 K+[R
 RZn4;Z+
-o<lC
-s"3@
+o<lC's"3@
 'E/v
 u%w~=
 AqB`8
@@ -5858,11 +5820,9 @@ i3S1
 zz}o
 Z,$iVh
 ]:W.
-DE'6M:G
-s}=+
+DE'6M:G's}=+
 7!)Q>
-Ts~F
-t)-$
+Ts~F't)-$
 RIoR]
 hT}|j.fba
 j'p)
@@ -6149,8 +6109,7 @@ MuK*
 X*66
 qZnx
 XayE
-S]q:NC
-t^ez
+S]q:NC't^ez
 f9?#
 &4<xh
 ;XX4
@@ -6340,8 +6299,7 @@ d|lTz
 |WC~
 324W{K
 ~V,0
-IDAT
-t(}R
+IDAT't(}R
 p9/D
 *6#A
 4J!(
@@ -6426,8 +6384,7 @@ g*H(
 zuEU
 h~,"R
 ;@99
-|Cf('<G
-d^]F
+|Cf('<G'd^]F
 wwEL
 w6++
 C(8sE
@@ -6460,8 +6417,7 @@ v9:%I
 xs}{SP
 |gEj
 ?G6{R(
-9Ota
-m#r&
+9Ota'm#r&
 p} rSj
 I0`6L
 X<j$
@@ -6576,8 +6532,7 @@ g<^1
 *i_s
 BU6$*joH-}U
 WbDvThK
-ExGp
-d\BM
+ExGp'd\BM
 8s}J
 LIS/g=&fLBB
 Yy, r8%I
@@ -6785,8 +6740,7 @@ UjmS
 4gI6
 ]1^T`N
 \fDpM
-bq~e
-t(Uk:hm
+bq~e't(Uk:hm
 YVK[
 A>"fZ
 7E)
@@ -6794,8 +6748,7 @@ A>"fZ
 <tpVd
 &WWUI
 _s=V
-RI7e
-s{n#9
+RI7e's{n#9
 F[{7T
 "K &
 %Oqe
@@ -6879,8 +6832,7 @@ v @+*
 oPES
 im7}
 {r@LrJ)/q`
-U3%U
-d(yA/
+U3%U'd(yA/
 ;Ehm
 o:%U
 .vET
@@ -7093,8 +7045,7 @@ LJ3O
 Fc#@
 -;NRYnS5
 `#%R
-N3y+Te
-s],T
+N3y+Te's],T
 g8u:&
 @eVD
 4L?r9

@@ -1,3 +1,34 @@
+---
+title: "1479 Mirtul Part Two"
+slug: 1479-mirtul-part-two
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "Mirtul 1479 DR"
+date_ic_sort: 1479123
+date_ooc: ""
+series: ""
+order: 20
+characters:
+  - "Turnigal"
+  - "Allendy"
+  - "Chara"
+  - "Ailyan"
+  - "Baird"
+  - "Gietel Helgorod"
+  - "Maeghuen Grimbold"
+  - "Milek"
+locations:
+  - "Waterdeep"
+  - "Loudwater"
+tags: []
+---
 == Mirtul 7, 1479 ==
 
 The journey to Spellgard had been relatively uneventful for the first day.  The Seven, encountering Maeghuen Grimbold on patrol was not by chance and she made no effort to present it as such.  She gave explicit instructions to avoid the bandit village of Llorkh on the way to Spellgard as well as a tersely worded reminder to Kethoth that should something happen to her son, Tyriol; worse might very well happen to him.

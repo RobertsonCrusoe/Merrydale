@@ -1,3 +1,36 @@
+---
+title: "Letter to Balak - 28th Eleint variant"
+slug: letter-to-balak-28th-eleint-variant
+type: session
+campaign: daggerdale
+voice: ooc
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Drake"
+  - "Turan"
+  - "Yarkul"
+  - "Gaebril Tremalkin"
+  - "Grandfather"
+  - "William Cormaeril"
+locations:
+  - "Dagger Falls"
+  - "Shadowdale"
+  - "Loudwater"
+  - "Anathar's Dell"
+  - "Yulash"
+tags: []
+---
 [RAW - UNEDITED AND UNREVIEWED - extracted by automated process, not yet verified for accuracy or completeness]
 
 Early on the morning of the 28th of Eleint, two young men ride into Shadowdale from Dagger Falls, insisting that they speak to a Master Balak.  "We bear missives from Lord Horgath!"  Taking a brief respite from his hearth, Balak receives a pair of letters and a sack of coins from one of the envoys before they head into the town with more letters.

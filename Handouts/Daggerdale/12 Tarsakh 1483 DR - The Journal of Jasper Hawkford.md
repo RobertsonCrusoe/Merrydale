@@ -1,3 +1,42 @@
+---
+title: "The Journal of Jasper Hawkford"
+slug: the-journal-of-jasper-hawkford
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "12 Tarsakh 1483 DR"
+date_ic_sort: 1483103
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jasper Hawkford"
+  - "Vessuvian"
+  - "Nemia"
+  - "Mari Thickwickle"
+  - "Ivy Thickwickle"
+  - "Rowan Grumbold"
+  - "Jeska Monarch"
+  - "Lucan Alavandor"
+  - "Forge Farmountain"
+locations:
+  - "Thistle Ridge"
+  - "Dagger Falls"
+  - "Greenwood Farm"
+  - "Gribbons Farm"
+  - "Cormanthor"
+  - "Thistle Ridge Farm"
+  - "Shadowdale"
+  - "Tethyamar"
+tags:
+  - "military"
+---
 The Journal of Jasper Hawkford
 by Gus Miranda (as Jasper Hawkford)
 Email thread: "The Journal of Jasper Hawkford", 1 Oct 2024

@@ -1,3 +1,25 @@
+---
+title: "The Shadow Lifted - Campaign Discussion and Wrap-Up - Jun 2011"
+slug: the-shadow-lifted-campaign-discussion-and-wrap-up-jun-2011
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "the-shadow-lifted"
+order: ""
+characters: []
+locations: []
+tags:
+  - "military"
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

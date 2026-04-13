@@ -1,11 +1,53 @@
 ---
-Provenance: OCR transcription of "Dagger Falls notes.pdf" (15 pages, typed)
-Source: DND Scanned Notes / OneDrive DND Scans
-Campaign: Daggerdale (Dagger Falls — Greengrass 1372 onward)
-Date processed: 2026-04-03
-Utility: B (session notes with DM annotations and player questions; some content overlaps with Campaign Summary files but format (annotated notes with questions/discussion) adds value)
-Archive counterparts: Red Herrings - Campaign Summary files (partial overlap)
-OCR notes: Mixed typed and annotated text. Some handwritten annotations not captured by OCR.
+title: "Dagger Falls notes"
+slug: dagger-falls-notes
+type: narrative
+campaign: daggerdale
+voice: ic
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Yarkul"
+  - "Grimwald"
+  - "Corrina"
+  - "Razor"
+  - "Thezul"
+  - "Zelbross"
+  - "Drake"
+  - "Warburden"
+  - "Aegis"
+  - "Braehl"
+  - "Cauldrawn"
+  - "Corina"
+  - "Gadbout"
+  - "Harrington"
+  - "Kalindroth"
+  - "Mourngrym Amcathra"
+  - "Sandalwood"
+  - "Shildevan"
+  - "Stoneman"
+locations:
+  - "Dagger Falls"
+  - "Shadowdale"
+  - "Dagger Hills"
+  - "Loudwater"
+  - "Secomber"
+  - "Hillsfar"
+  - "Waterdeep"
+  - "Castle Daggerdale"
+  - "Cormanthor"
+tags:
+  - "military"
 ---
 
 4
@@ -90,8 +132,7 @@ Maturin jousts with the Sherriff, comes off poorly, and Warburden rides
 
 
 i porled
-os ky
-ve wid
+os ky've wid
 \re & b
 Ww y Wer e 7
 

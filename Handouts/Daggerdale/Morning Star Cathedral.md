@@ -1,3 +1,27 @@
+---
+title: "Morning Star Cathedral"
+slug: morning-star-cathedral
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Ardelusk Whitegate"
+locations:
+  - "Morning Star Cathedral"
+  - "Dagger Falls"
+tags: []
+---
 # Source: The Sieges Perilous wiki (backup 2010-02-21)
 # Wiki page title: Morning Star Cathedral
 # Extracted: 2026-04-08 via extract_wiki_xml.py

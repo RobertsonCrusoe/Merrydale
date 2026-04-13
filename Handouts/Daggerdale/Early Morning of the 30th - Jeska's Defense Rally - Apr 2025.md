@@ -1,3 +1,28 @@
+---
+title: "Early Morning of the 30th - Jeska's Defense Rally - Apr 2025"
+slug: early-morning-of-the-30th-jeska-s-defense-rally-apr-2025
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Calix"
+locations:
+  - "Dagger Falls"
+  - "Thistle Ridge"
+tags:
+  - "military"
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

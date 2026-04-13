@@ -1,3 +1,28 @@
+---
+title: "Jasper's Dream - The Clarandal Nightmare and the Return of Mortimer"
+slug: jasper-s-dream-the-clarandal-nightmare-and-the-return-of-mortimer
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Mortimer"
+  - "Jasper Hawkford"
+  - "Nemia"
+locations:
+  - "Greenwood Farm"
+tags: []
+---
 Jasper's Dream - The Clarandal Nightmare and the Return of Mortimer
 by Gus Miranda (as Jasper Hawkford)
 Email thread: "Jasper's Dream", 29-30 Sep 2024

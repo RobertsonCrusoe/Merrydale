@@ -1,1 +1,8 @@
+---
+title: "Bartelos"
+slug: bartelos
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 A Zhentarim Spy placed within the Red Shields. Bartelos' true allegiance was discovered by the wizard Agamemnon in Neverwinter when he was discovered at the offices of Malthoon's High Road Shippers. He reported indirectly to the Zhentarim wizard Malkor.

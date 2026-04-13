@@ -1,3 +1,26 @@
+---
+title: "Paetr Helgorod"
+slug: paetr-helgorod
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Maeghuen Grimbold"
+locations: []
+tags:
+  - "military"
+---
 [PC Attribution: Paetr Helgorod (Scott McLaren)]
 AKA Ol'Mossy.
 

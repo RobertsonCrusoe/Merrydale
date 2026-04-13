@@ -1,3 +1,28 @@
+---
+title: "Citizens of Dwimmerholme Abducted"
+slug: citizens-of-dwimmerholme-abducted
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "6 Marpenoth 1481 DR"
+date_ic_sort: 1481281
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Darred"
+  - "Weaver"
+locations: []
+tags:
+  - "military"
+---
 A document provided to White Cloak Bravo Team on 6 Marpenoth, 1481 DR.
 
 ==Citizens of Dwimmerholme Missing after the Attack of Marpenoth 2, 1481 DR==

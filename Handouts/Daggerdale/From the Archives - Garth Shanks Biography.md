@@ -1,3 +1,34 @@
+---
+title: "From the Archives - Garth Shanks Biography"
+slug: from-the-archives-garth-shanks-biography
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Garth Shanks"
+  - "Sal Worthingham"
+  - "Esperel"
+  - "Jafar"
+  - "Romulus"
+  - "Will"
+  - "Mina Vauxbourough"
+  - "Quellar Dalael"
+  - "Tomas Quoyle"
+locations:
+  - "Waterdeep"
+tags: []
+---
 [PC Attribution: Garth Shanks (Todd Burry)]
 From the Archives: Garth Shanks Biography
 CLASSIFICATION: SECONDARY MATERIAL — AI-generated content (Claude) based on campaign wiki archives, not primary email correspondence

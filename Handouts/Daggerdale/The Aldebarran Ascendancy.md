@@ -1,3 +1,47 @@
+---
+title: "The Aldebarran Ascendancy"
+slug: the-aldebarran-ascendancy
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Steele"
+  - "Gideon"
+  - "Marcus"
+  - "Agamemnon"
+  - "Jeryth Phaulkon"
+  - "Esperel"
+  - "Teskul"
+  - "Ersgul Mlshool"
+  - "Garth Shanks"
+  - "Marin Adara"
+  - "Sal Worthingham"
+  - "Yarkul"
+  - "Ebola"
+  - "Gauntlet"
+  - "Gotlieb Erlgund"
+  - "Rychel Voordan"
+  - "Ailyan"
+  - "Canton Belzuril"
+  - "Dantyr"
+  - "Egan"
+locations:
+  - "Waterdeep"
+  - "Inn of the Dripping Dagger"
+tags:
+  - "military"
+---
 ==Prologue - A Bad Beginning==
 
 Winter continued to linger, but the spirit of commerce quickly overcame even the resilient snows and ice, and the City of Splendours was once again bustling with activity by Greengrass of 1372 DR. Of course, with this economic animation, the plots and schemes of the Darker element of the City began to once again take shape. To meet this challenge, while others valiantly and gloriously pursued the enemy across The Realms, one group of heroes stayed behind to face what seemed but a lingering threat...

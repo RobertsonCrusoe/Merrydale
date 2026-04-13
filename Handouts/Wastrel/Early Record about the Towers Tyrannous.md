@@ -1,3 +1,10 @@
+---
+title: "Early Record about the Towers Tyrannous"
+slug: early-record-about-the-towers-tyrannous
+type: stub
+campaign: wastrel
+subtype: npc
+---
 Information collected by Loremaster Malfus Broca in 1197 DR, The Year of the Sundered Shields
 
 thumb

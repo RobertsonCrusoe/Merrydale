@@ -1,3 +1,25 @@
+---
+title: "A Summary of Jasper's ChatGPT Adventure - Mirrorwatch and Vel-Mirith"
+slug: a-summary-of-jasper-s-chatgpt-adventure-mirrorwatch-and-vel-mirith
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Shadowdale"
+tags: []
+---
 A Summary of Jasper's ChatGPT Adventure - Mirrorwatch and Vel-Mirith
 by Gus Miranda (via ChatGPT as DM)
 Email thread: "A summary of Jasper's ChatGPT adventure", 24 May 2025

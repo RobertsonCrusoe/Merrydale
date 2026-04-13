@@ -1,3 +1,10 @@
+---
+title: "Lantanese trade bars"
+slug: lantanese-trade-bars
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 The Lantanese Trade Bar is a flat, envelope-shaped bar of worked steel marked with the great wheel of Gond. Such bars are worth 20 gp each and are used primarily along the Sword Coast and in other regions where the Lantanna normally trade. Rooken intelligence has linked these trade bars to the various Zhentarim mercantile companies associated with the Ocular Alliance.
 
 * 300 Lantanese trade bars were stolen by Gilth'zan for Malkor's operation in the North during the summer of 1371.

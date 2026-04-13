@@ -1,3 +1,24 @@
+---
+title: "Alternate Timeline for Daggerdale - Ed Greenwood Video and DM Notes"
+slug: alternate-timeline-for-daggerdale-ed-greenwood-video-and-dm-notes
+type: lore
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 Alternate Timeline for Daggerdale - Ed Greenwood Video and DM Notes
 by Stephen Robertson, with Les Blackwell
 Email thread: "Alternate timeline for Daggerdale", 16 Aug - 24 Aug 2024

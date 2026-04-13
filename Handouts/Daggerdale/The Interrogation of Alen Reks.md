@@ -1,3 +1,30 @@
+---
+title: "The Interrogation of Alen Reks"
+slug: the-interrogation-of-alen-reks
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alen Reks"
+  - "Drake"
+  - "Drake Sterling"
+  - "Ailyan"
+  - "Iolus Warburton"
+locations:
+  - "Liberty Hill"
+tags: []
+---
 A breathless courier had delivered the message to Alen Reks between laboured huffs of breath.
  
 “Captain...Warburton wishes to...speak with...you...Sir.” Most likely Alen Reks had been called a number of things a number of times, with “Sir” being one of the least common titles but Captain Warburton was generally one to fall on the side of formality.

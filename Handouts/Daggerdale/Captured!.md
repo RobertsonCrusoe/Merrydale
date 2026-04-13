@@ -1,3 +1,10 @@
+---
+title: "Captured!"
+slug: captured
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 The air in the prison cell was thick with the smell of damp stone and old fear. Rufus leaned against the iron bars, his face bruised but his eyes still bright with defiance.
 
 "Atemnon won't keep us here long," he whispered, mostly to himself.

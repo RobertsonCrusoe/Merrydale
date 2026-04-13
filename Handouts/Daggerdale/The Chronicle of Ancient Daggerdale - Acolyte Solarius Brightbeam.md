@@ -1,3 +1,34 @@
+---
+title: "The Chronicle of Ancient Daggerdale - Acolyte Solarius Brightbeam"
+slug: the-chronicle-of-ancient-daggerdale-acolyte-solarius-brightbeam
+type: lore
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Colderan Morn"
+  - "Randal Morn"
+  - "Griffon"
+locations:
+  - "Tethyamar"
+  - "Dagger Falls"
+  - "Waterdeep"
+  - "Castle Daggerdale"
+  - "Dagger Hills"
+  - "Cormanthor"
+  - "Shadowdale"
+tags: []
+---
 The Chronicle of Ancient Daggerdale: Illuminating Our Glorious Past
 By Acolyte Solarius Brightbeam of the Yellow Abbeye
 Esteemed readers and fellow servants of the Glorious Sun God Aumanator,

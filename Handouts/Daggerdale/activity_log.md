@@ -1,3 +1,30 @@
+---
+title: "activity_log"
+slug: activity-log
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Beliard Emmarask"
+  - "Tyrian Grey"
+locations:
+  - "Quick Axes"
+  - "The Dragon's Gate Inn"
+  - "Castle Radiance"
+  - "Dagger Falls"
+tags: []
+---
 Source: GDN_Activity
 
 [2011-01-25 17:03:44] User None

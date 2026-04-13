@@ -1,3 +1,39 @@
+---
+title: "Start of the Adventure"
+slug: start-of-the-adventure
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "19 Ches 1483 DR"
+date_ic_sort: 1483080
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alexandus"
+  - "Horus"
+  - "Ambassador Whitmore"
+  - "Jasper Hawkford"
+  - "Lucan Alavandor"
+  - "Alen Reks"
+  - "Iolus Warburton"
+  - "Kionin"
+  - "Rowan Grumbold"
+  - "Zelia Oakbough"
+locations:
+  - "Dagger Falls"
+  - "Shadowdale"
+  - "Charity"
+  - "East Gate"
+  - "Tesh Valley"
+tags: []
+---
 19 Ches, 1483 DR -Start of the Adventure: 
 Opening Narrative  07h00  Governors Hall, Chauntean Conservatory 
 Governors Hall is still largely incomplete.  A year ago, it was 3 smaller structures that have been connected together and reinforced.  While the exterior is mostly done (there is still some scaffolding here and there, and stacks of building materials that are being completely ignored on this Vernal Feast day), the inside is less than ½ complete. Though there is no work happening today, there are tools and supplies in every room and corridor, and you can imagine that it must be quite chaotic here when the tradesmen are here upgrading the hall. 

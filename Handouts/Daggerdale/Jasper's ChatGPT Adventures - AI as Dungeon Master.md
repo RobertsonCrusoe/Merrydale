@@ -1,3 +1,25 @@
+---
+title: "Jasper's ChatGPT Adventures - AI as Dungeon Master"
+slug: jasper-s-chatgpt-adventures-ai-as-dungeon-master
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Shadowdale"
+tags: []
+---
 Jasper's ChatGPT Adventures - AI as Dungeon Master
 by Gus Miranda, Stephen Robertson, Les Blackwell
 Email thread: "Jasper's ChatGPT adventures", 25-29 May 2025

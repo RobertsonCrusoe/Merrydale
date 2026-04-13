@@ -1,3 +1,25 @@
+---
+title: "Keep on the Shadowfell_ Preamble to Session 2"
+slug: keep-on-the-shadowfell-preamble-to-session-2
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Brash"
+locations: []
+tags: []
+---
 ==Another Gmail Interlude==
 
 ===From Gussy===

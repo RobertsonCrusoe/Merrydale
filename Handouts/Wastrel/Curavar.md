@@ -1,3 +1,25 @@
+---
+title: "Curavar"
+slug: curavar
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Loudwater"
+tags: []
+---
 thumb|400px|right
 
 The flamboyant mage of Loudwater.  He is presently \"investigating\" Kethoth, to whom he sent the following note;

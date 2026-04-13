@@ -1,3 +1,28 @@
+---
+title: "A Game of Sixty-Two Sails"
+slug: a-game-of-sixty-two-sails
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Will"
+locations:
+  - "Freeport"
+  - "Waterdeep"
+  - "Scurvytown"
+tags: []
+---
 In this fateful tale, Zechary wins a treasure map in a game of sixty-two sails (a card game that pirates play). The treasure map takes the party to the mysterious “Isle of the Lich” where they must descend into an underwater tomb. In order to get to the best of the treasure the adventurers must rob the body of a greater mummy and possibly set this terror upon the world.
 ----
 

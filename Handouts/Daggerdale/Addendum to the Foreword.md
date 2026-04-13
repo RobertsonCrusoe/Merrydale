@@ -1,3 +1,27 @@
+---
+title: "Addendum to the Foreword"
+slug: addendum-to-the-foreword
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Shadowdale"
+  - "Liberty Hill"
+  - "Tesh Valley"
+tags: []
+---
 DDC - Addendum to the Forward 
 Wherein your humble author shares a conversation at the Old Skull Inn, in Shadowdale with three venerable gentlemen. 
 GFD Notes: 

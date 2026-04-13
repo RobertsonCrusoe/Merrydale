@@ -1,3 +1,37 @@
+---
+title: "From the Archives - Tomas Quoyle - Character Portrait"
+slug: from-the-archives-tomas-quoyle-character-portrait
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Tomas Quoyle"
+  - "Garth Shanks"
+  - "Sal Worthingham"
+  - "Krag"
+  - "Yarkul"
+  - "Elbing Hightimber"
+  - "Esperel"
+  - "Jafar"
+  - "Rahannsoz Burihildar"
+  - "Rubikawn"
+  - "Vuldan"
+  - "Zsarah Mudge"
+locations:
+  - "Waterdeep"
+tags: []
+---
 [PC Attribution: Tomas Quoyle (Stephen Robertson)]
 ===============================================================================
 SOURCE INFORMATION

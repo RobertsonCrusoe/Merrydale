@@ -1,3 +1,25 @@
+---
+title: "Discussion with Miri Tremalkin"
+slug: discussion-with-miri-tremalkin
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Kethoth Sepret"
+locations: []
+tags: []
+---
 \"Young, lady\" Kethoth says through a smile as he approaches this woman in the furnace room. \"Kethoth Sepret, at your service\" and he bows deeply.
 
 \"Come, do let us hear how you fit into this colourful story. You have an intriguing surname, and if you tell me something about yourself, I shall tell you something of yourself as well.\"

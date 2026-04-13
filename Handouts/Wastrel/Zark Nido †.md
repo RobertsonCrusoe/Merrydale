@@ -1,3 +1,11 @@
+---
+title: "Zark Nido"
+slug: zark-nido
+type: stub
+campaign: wastrel
+subtype: npc
+deceased: true
+---
 There has always been rumblings and speculation about Zark consisting of, “That Zark Nido's up to no good I'll wager.” Nothing had ever been confirmed but for the ten years that Zark worked the docks in Loudwater, he was known as little more than a hawksnarl and not much else. Since the attack and abduction of Lady Moonfire, Zark has grown more aggressive and has gathered about himself a number of dock workers and miscreants that seem to take pride in the fact that Loudwater appears to be at the mercy of the Iron Jackals.
 
 Although Zark spends just as much time on the docks as he used to, much of it is spent posturing and behaving in a manner that is counter-productive to what Rivermaster Ufgoode is attempting to do on a given day. When not at the docks Zark spends his time spending more coin than he's even been known to have on hand at the Fisher Friend's Pub with his dock worker cronies.

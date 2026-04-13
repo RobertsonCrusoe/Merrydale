@@ -1,3 +1,10 @@
+---
+title: "Bramble"
+slug: bramble
+type: stub
+campaign: wastrel
+subtype: npc
+---
 [PC Attribution: Bramble (Steve Hicks)]
 right
 

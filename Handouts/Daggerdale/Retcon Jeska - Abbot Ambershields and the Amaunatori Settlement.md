@@ -1,3 +1,30 @@
+---
+title: "Retcon Jeska - Abbot Ambershields and the Amaunatori Settlement"
+slug: retcon-jeska-abbot-ambershields-and-the-amaunatori-settlement
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jeska Monarch"
+  - "Abbot Ambershields"
+locations:
+  - "Liberty Hill"
+  - "Greenwood Farm"
+  - "Thistle Ridge"
+tags:
+  - "military"
+---
 Retcon Jeska - Abbot Ambershields and the Amaunatori Settlement
 by Scott Mclaren (as Jeska Monarch)
 Email thread: "Retcon Jeska", 12-15 Oct 2024

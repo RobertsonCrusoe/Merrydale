@@ -1,3 +1,33 @@
+---
+title: "DDC 1481 - 2 Excerpts from the Yellow Abbeye Booke of Measures and Surveyes"
+slug: ddc-1481-2-excerpts-from-the-yellow-abbeye-booke-of-measures-and-surveyes
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Darius Winters"
+  - "Kesh"
+  - "Kesh Oakdale"
+  - "Andrea Stuard"
+  - "Renfrew"
+  - "Roger Dunland"
+  - "Weaver"
+locations:
+  - "Yellow Abbey"
+tags:
+  - "military"
+---
 DDC – 1481 - 2: Excerpts from the Yellow Abbeye Booke of Measures and Surveyes 
 1480 Edition - Dwimmerholme 
 Notes from GFD: 

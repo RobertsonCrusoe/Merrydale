@@ -1,3 +1,28 @@
+---
+title: "Team Chrysalis - Charter of Enrollment (Google Doc)"
+slug: team-chrysalis-charter-of-enrollment-google-doc
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jeska Monarch"
+locations:
+  - "Thistle Ridge"
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 # **Charter of Enrollment**
 
 Team “Chrysalis”

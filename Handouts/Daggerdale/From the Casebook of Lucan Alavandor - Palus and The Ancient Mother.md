@@ -1,3 +1,30 @@
+---
+title: "From the Casebook of Lucan Alavandor - Palus and The Ancient Mother"
+slug: from-the-casebook-of-lucan-alavandor-palus-and-the-ancient-mother
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Contessa Palus"
+  - "Calix"
+  - "Lucan Alavandor"
+  - "Abrecia"
+  - "Vessuvian"
+locations:
+  - "Thistle Ridge"
+tags: []
+---
 From the Casebook of Lucan Alavandor: Palus & The Ancient Mother - A Singular Malice
 Date: 22 April 2025
 From: Stephen Robertson

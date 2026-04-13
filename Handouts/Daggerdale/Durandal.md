@@ -1,3 +1,24 @@
+---
+title: "Durandal"
+slug: durandal
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 \"I witnessed his arrival, his emergence from the Wastes -- a solitary figure shrouded by coursing snow and bitter chill...
 
 He gripped a blade of darkest iron, riven with green fire... striding without purpose, unburdened by furs or supply, as though he were simply unaware of the biting cold strong enough to drive the breath of life from a man's gasping throat... to think such absence of thought was enough to ward oneself against the wind...

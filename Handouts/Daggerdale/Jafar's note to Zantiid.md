@@ -1,3 +1,39 @@
+---
+title: "Jafar's note to Zantiid"
+slug: jafar-s-note-to-zantiid
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jafar"
+  - "Boregar"
+  - "Esperel"
+  - "Fazil"
+  - "Yarkul"
+  - "Zantiid"
+  - "Ailyan"
+  - "Corrina"
+  - "Hanibal Felthian"
+  - "Maturin Horgath"
+  - "Beljuril"
+  - "Oberon"
+locations:
+  - "Waterdeep"
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 # Source: The Sieges Perilous wiki (backup 2010-02-21)
 # Wiki page title: Jafar's note to Zantiid
 # Extracted: 2026-04-08 via extract_wiki_xml.py

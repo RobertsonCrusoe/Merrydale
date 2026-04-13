@@ -1,3 +1,24 @@
+---
+title: "The Great Dale - Battle Upon the Sea of Fallen Stars - Opening Narrative - Feb 2004"
+slug: the-great-dale-battle-upon-the-sea-of-fallen-stars-opening-narrative-feb-2004
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

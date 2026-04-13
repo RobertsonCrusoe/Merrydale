@@ -1,3 +1,50 @@
+---
+title: "Into the Dales"
+slug: into-the-dales
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Cassimar"
+  - "Yarkul"
+  - "Turan"
+  - "Drake"
+  - "Gauntlet"
+  - "Lexinauth"
+  - "Yin-Xu"
+  - "Aegis"
+  - "Dunbold"
+  - "Durnax Vorn"
+  - "Eisley"
+  - "William Cormaeril"
+  - "Amon"
+  - "Daniel Overcourt"
+  - "Dragonwing"
+  - "Durin Saddlemoor"
+  - "Garlunk"
+  - "Gethard Soulbright"
+  - "Grandfather"
+locations:
+  - "Shadowdale"
+  - "Dagger Falls"
+  - "Dagger Hills"
+  - "Anathar's Dell"
+  - "Cormanthor"
+  - "Tethyamar"
+tags: []
+---
 # Source: The Sieges Perilous wiki (backup 2010-02-21)
 # Wiki page title: Into the Dales
 # Extracted: 2026-04-08 via extract_wiki_xml.py

@@ -1,3 +1,31 @@
+---
+title: "Report from Alystair Dretch"
+slug: report-from-alystair-dretch
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Alystair Dretch"
+source: handout
+date_ic: "14 Kythorn 1480 DR"
+date_ic_sort: 1480166
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Invictus"
+  - "Aegis"
+  - "Iolus Warburton"
+locations:
+  - "Liberty Hill"
+  - "Dagger Falls"
+  - "Foot Hills Farm"
+tags:
+  - "military"
+---
 Situation Report:
 
 To: Captain Iolus Warburton of the White Cloaks

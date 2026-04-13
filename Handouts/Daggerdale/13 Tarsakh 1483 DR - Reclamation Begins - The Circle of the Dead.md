@@ -1,3 +1,10 @@
+---
+title: "Reclamation Begins - The Circle of the Dead"
+slug: reclamation-begins-the-circle-of-the-dead
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 [Source: extracted from compilation file "12 Tarsakh 1483 DR -Thistle Ridge Expeditionary Record Phoebe Birchgrove Sg.txt", retired 2026-04-09 as part of compilation cleanup. This standalone uses cleaner punctuation than the source.]
 
 13 Tarsakh – Reclamation Begins

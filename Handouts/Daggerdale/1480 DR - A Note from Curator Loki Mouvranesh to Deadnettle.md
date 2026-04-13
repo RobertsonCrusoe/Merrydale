@@ -1,3 +1,27 @@
+---
+title: "1480 DR - A Note from Curator Loki Mouvranesh to Deadnettle"
+slug: 1480-dr-a-note-from-curator-loki-mouvranesh-to-deadnettle
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1480 DR"
+date_ic_sort: 1480001
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Lobelia Alavandor"
+  - "Loki Mouvranesh"
+locations:
+  - "Tethyamar"
+tags: []
+---
 DDC – 1480 – 3: A Note from Curator Loki Mouvranesh to Deadnettle 
 Incontrovertible proof of the connection between the Dark Garden and Netheril 
 GFD Notes: 

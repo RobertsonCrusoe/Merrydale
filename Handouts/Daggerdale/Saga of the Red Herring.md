@@ -1,3 +1,24 @@
+---
+title: "Saga of the Red Herring"
+slug: saga-of-the-red-herring
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 '''"We will totally forget these things if we don't have some sort of pictures for prosperity. And what's the point of saving the world if you can't remember doing it?"'''<br>
 :- {{catlink|Todd}}, November 20, 2000
 

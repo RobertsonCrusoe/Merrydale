@@ -1,3 +1,38 @@
+---
+title: "Neverwinter Nights"
+slug: neverwinter-nights
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Beljuril"
+  - "Oberon"
+  - "Fazil"
+  - "Ryerson"
+  - "Elboreth"
+  - "Gaskar"
+  - "Rothagan"
+  - "Ezmail"
+  - "Onyx"
+  - "Gideon"
+  - "Jafar"
+  - "Zaltim"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 == 25 Mirtul - Arrival in Neverwinter ==
 
 On 25 Mirtul, the companions finally arrive in Neverwinter, which, despite their familiarity with the city (Beljuril and Rufus met in this city a year earlier), they find difficult to navigate through. The streets are all deliberately winding, and the place does not seem to make sense. They have to hire guides (young boys, who are paid one cp) to take them through the city. One guide explains that years of warring with Luskan and goblinoid hordes in the North has necessitated the confounding of the city planning. Maps, in fact, are forbidden by decree of Lord Nasher.

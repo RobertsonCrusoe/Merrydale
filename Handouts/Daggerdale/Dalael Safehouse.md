@@ -1,3 +1,10 @@
+---
+title: "Dalael Safehouse"
+slug: dalael-safehouse
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 This four-story building in Waterdeep's North Ward was an asset of Company Dalael, but it appears to have been cast aside with the establishment of a stronger drow foothold in villas of the Anteos, Eltorchul and Dezlentyr noble houses. It was first compromised during a raid by the Warders of Waterdeep in the summer of 1368. Several years later, in the spring of 1371, the building was again raided by members of a group that would come to be known as the Company of the Red Herring, a group who - like the Dalael - became caught up in a turf war between rival Zhentarim organizations. At the time, however, the building was no longer being used as a major safehouse, and seemed to have been in the process of being cleared out - though Y'morth Dalael's laboratory remained intact.
 
 The building was indicated as a site of Dalael activity after their return to Waterdeep at the beginning of the trading season of 1372. It is unknown whether or not this property is currently used by the Dalael (in 1373).

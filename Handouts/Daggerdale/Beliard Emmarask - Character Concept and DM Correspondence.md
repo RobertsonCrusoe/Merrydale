@@ -1,3 +1,45 @@
+---
+title: "Beliard Emmarask - Character Concept and DM Correspondence"
+slug: beliard-emmarask-character-concept-and-dm-correspondence
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Ailyan"
+  - "Alen Reks"
+  - "Invictus"
+  - "Iolus Warburton"
+  - "Janus"
+  - "John Tunbridge"
+  - "Nathan Gale"
+  - "Roger Dunland"
+  - "Xaphan"
+  - "Saharel"
+  - "Beliard Emmarask"
+  - "Stuart Angleton"
+locations:
+  - "Castle Radiance"
+  - "Sembia"
+  - "Tethyamar"
+  - "Cormanthor"
+  - "Base Camp Silver"
+  - "Charity"
+  - "Dagger Falls"
+  - "Liberty Hill"
+tags:
+  - "military"
+---
 I'd like to play a politico \- someone from the Cormyrean Embassy. My idea is for a very realpolitik, opportunist-type \- a spy-assassin. He is playing the Great Game, and his ultimate goals are not those that he openly declares, which are to foster a greater alliance between Cormyr and Daggerdale against the Shadovar threat. In truth, he is a double agent \- his true allegiance is to a Free Sembia. He has found a place within the Cormyrean Embassy that has allowed him to feed intelligence to a network of citizens whose short-term goals are throwing off the yoke of Netheril, but who are ultimately after what they call the Dream of the Silver Raven, or Sembia Ascendant \- a Sembian hegemony over Cormyr, the Dalelands, Cormanthor and Netheril.
 
 His name Beliard Kathklan Emmarask, special aide to the Cormyrean ambassador to Castle Radiance. He is a knowledgeable expert on the Shadovar and their kind and was born during the Year of the Silent Shadows, when several Cormyrean cities bordering Netheril and Sembia were blanketed by an unnatural miasma. Beliard's father, a minor Cormyrean bureaucrat, took ill during the phenomenon, but his Sembian mother \- and indeed most women who were pregnant at the time \- flourished, giving birth to an almost preternaturally healthy boy. Many of the children born during this time are known for their vigorous health and strong resistance to the Shadoweave, as though they developed an inborn resistance to whatever pollution affected their parents. He grew up despising the Shadovar, whom he thought to have broken his father, and despising his father's weakness even more. In such conditions, he felt more affinity to his mother's family, the Kathklan, who hail from Daerlun. As a child he was known as "The Sembian" among the Cormyrean townschildren, but this epithet he bore in stride, affecting the arrogant pride of his mother's people. In young adulthood, accompanying his widowed mother to her family lands in the now-independent city-state of Daerlun, he made contact with Sembian patriots who were discontent with their homeland's situation. Since this time, he has been methodically working his father's family's connections in Cormyr to position himself in such a way that the cause of a Free Sembia can be realized in his lifetime. He is always on the lookout for information that will be of use to his associates in the Society of the Silver Raven, as the Free Sembia movement is styled. Among the Silver Ravens, his code name is Nycticorax, and his true identity is known only to the inner circle of the organization, among whom the society began in the early 1450s.

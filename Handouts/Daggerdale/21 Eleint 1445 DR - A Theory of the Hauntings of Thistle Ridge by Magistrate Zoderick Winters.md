@@ -1,3 +1,35 @@
+---
+title: "A Theory of the Hauntings of Thistle Ridge by Magistrate Zoderick Winters"
+slug: a-theory-of-the-hauntings-of-thistle-ridge-by-magistrate-zoderick-winters
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "21 Eleint 1445 DR"
+date_ic_sort: 1445265
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Invictus"
+  - "Zoderick Winters"
+  - "Bella Birtch"
+  - "Daphne Dale"
+  - "Dexter Broad"
+  - "Hannah Hillborn"
+locations:
+  - "Thistle Ridge"
+  - "East Gate"
+  - "Hillsfar"
+  - "Cormanthor"
+  - "Thistle Ridge Farm"
+tags: []
+---
 "A Theory of the Hauntings of Thistle Ridge, by Magistrate Zoderick Winters, 1445 DR"
 
 [Source: Daggerdale - All Chapter 7 Content - june 11 revised.docx, regenerated 2026-04-09 to remove OCR artifacts (e.g. stray "My Old Friend" sidebar caption) from earlier version. Content verified equivalent to prior canonical 137-line standalone.]

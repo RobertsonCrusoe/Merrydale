@@ -1,3 +1,10 @@
+---
+title: "Ardelusk Whitegate"
+slug: ardelusk-whitegate
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 # Ardelusk Whitegate †
 # Source: The Sieges Perilous wiki (backup dated 2010-02-21)
 

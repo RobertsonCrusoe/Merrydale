@@ -1,3 +1,31 @@
+---
+title: "The White Cloak Crisis"
+slug: the-white-cloak-crisis
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Drake"
+  - "Drake Sterling"
+  - "Kruhwahll"
+  - "Lumina Whitegate"
+locations:
+  - "Tesh Valley"
+  - "Tethyamar"
+tags:
+  - "military"
+---
 ==Meeting of the White Cloaks==
 
 A few days after the Deadnettle task force returns to the Castle, Lumina is forced to call a meeting with all the White Cloaks that are in the Castle.

@@ -1,3 +1,26 @@
+---
+title: "Dalak's Dream"
+slug: dalak-s-dream
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: todd
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Dalak Quickaxe"
+locations:
+  - "Anathar's Dell"
+tags: []
+---
 [PC Attribution: Dalak Quickaxe (Todd Burry)]
 In late 1372, months after the Battle of Anathar's Dell, Dalak the Dwarf began to act decidedly strangely... 
 ----

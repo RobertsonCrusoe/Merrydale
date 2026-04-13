@@ -1,3 +1,26 @@
+---
+title: "Mattrick Lychaeus"
+slug: mattrick-lychaeus
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Baird"
+  - "Kethoth Sepret"
+locations: []
+tags: []
+---
 Priest of Kelemvor, Sergeant of the 2nd Regiment of the Watch Wall and ward of Baird of Kelemvor.
 
 == Manner of Presumed Death ==

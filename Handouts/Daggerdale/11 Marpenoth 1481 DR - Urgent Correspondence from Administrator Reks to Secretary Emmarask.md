@@ -1,3 +1,28 @@
+---
+title: "Urgent Correspondence from Administrator Reks to Secretary Emmarask"
+slug: urgent-correspondence-from-administrator-reks-to-secretary-emmarask
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "11 Marpenoth 1481 DR"
+date_ic_sort: 1481286
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alen Reks"
+  - "Nathan Gale"
+  - "Beliard Emmarask"
+locations:
+  - "Charity"
+tags: []
+---
 A Letter sent from Alen Reks to Beliard Emmarask on the 11th of Marpenoth, 1481.
 
 11 Marpenoth, 1481 DR.

@@ -1,3 +1,51 @@
+---
+title: "Letters_and_Dispatches_from_Dagger_Falls_Late_1372_DR"
+slug: letters-and-dispatches-from-dagger-falls-late-1372-dr
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Yarkul"
+  - "Drake"
+  - "Ebenezer"
+  - "Grandfather"
+  - "Venosar"
+  - "Turan"
+  - "Janus"
+  - "Mercutio"
+  - "Morgul"
+  - "Rewel Thunderstorm"
+  - "William Cormaeril"
+  - "Ailyan"
+  - "Amaretta"
+  - "Amon"
+  - "Dragkul"
+  - "Gaebril Tremalkin"
+  - "Gond Pistola"
+  - "Grimspite"
+  - "Halam Umbrusk"
+locations:
+  - "Dagger Falls"
+  - "Shadowdale"
+  - "Waterdeep"
+  - "Anathar's Dell"
+  - "Castle Daggerdale"
+  - "Sembia"
+  - "Yulash"
+tags: []
+---
 I, Yarkul, Lord of Daggerdale and ruler of Dagger Falls, 
 
 Do fully and whole heartedly offer a treaty of non-aggression with the people of Daggerdale. 

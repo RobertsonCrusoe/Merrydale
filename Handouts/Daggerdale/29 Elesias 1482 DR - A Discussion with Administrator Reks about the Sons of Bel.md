@@ -1,3 +1,29 @@
+---
+title: "29 Elesias 1482 DR - A Discussion with Administrator Reks about the Sons of Bel"
+slug: 29-elesias-1482-dr-a-discussion-with-administrator-reks-about-the-sons-of-bel
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1482 DR"
+date_ic_sort: 1482001
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alen Reks"
+  - "Gideon"
+  - "Melegaunt"
+locations:
+  - "Charity"
+  - "Liberty Hill"
+tags: []
+---
 DDC – 1481 – 19: A Discussion with Administrator Reks about the Sons of Bel 
 From our discussion on 29 Elesias, 1482 DR 
 Once again, I record our discussion as it unfolded, warts and all. Apologies in advance 

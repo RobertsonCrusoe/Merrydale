@@ -1,3 +1,35 @@
+---
+title: "Letter from Andrea Stuard to Alen Reks"
+slug: letter-from-andrea-stuard-to-alen-reks
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Andrea Stuard"
+source: handout
+date_ic: "3 Marpenoth 1481 DR"
+date_ic_sort: 1481278
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Andrea Stuard"
+  - "Alen Reks"
+  - "Boregar"
+  - "Darred"
+  - "Lobelia Alavandor"
+  - "Loki Mouvranesh"
+  - "Melegaunt"
+  - "Renfrew"
+  - "Weaver"
+locations:
+  - "Yellow Abbey"
+tags:
+  - "military"
+---
 DDC – 1481 - 1: A Letter from Andrea Stuard to Alen Reks 
 3 Marpenoth 1481 
 Notes from GFD: 

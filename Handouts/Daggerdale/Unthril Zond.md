@@ -1,3 +1,10 @@
+---
+title: "Unthril Zond"
+slug: unthril-zond
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 Dr. Unthril Zond is Master Physic of the Guild of Apothecaries and Physicians
 
 == Selected Writings ==

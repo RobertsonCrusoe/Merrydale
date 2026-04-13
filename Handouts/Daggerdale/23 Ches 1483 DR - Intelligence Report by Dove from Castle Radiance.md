@@ -1,3 +1,27 @@
+---
+title: "Intelligence Report by Dove from Castle Radiance"
+slug: intelligence-report-by-dove-from-castle-radiance
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "23 Ches 1483 DR"
+date_ic_sort: 1483084
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Cassimar"
+locations:
+  - "Thistle Ridge"
+  - "Castle Radiance"
+tags: []
+---
 Intelligence Report — Ches 23, 1483 DR, by Dove from Castle Radiance
 For General Thunderstorm, Bishop Whitegate and Mayor Cassimar
 

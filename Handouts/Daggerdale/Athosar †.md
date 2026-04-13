@@ -1,1 +1,9 @@
+---
+title: "Athosar"
+slug: athosar
+type: stub
+campaign: daggerdale
+subtype: npc
+deceased: true
+---
 High Dawnlord Athosar was the high priest at the Waterdhavian temple of Lathander, the Spires of the Morning. He died in 1373 fighting the plague of vampires the enveloped the Waterdeep district of Little Chessenta.

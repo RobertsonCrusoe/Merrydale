@@ -1,3 +1,55 @@
+---
+title: "Character Background Information"
+slug: character-background-information
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Calix"
+  - "Masra"
+  - "Quercina"
+  - "Invictus"
+  - "Fluvia"
+  - "Contessa Palus"
+  - "Cassimar"
+  - "Jasper Hawkford"
+  - "Charrah"
+  - "Ailyan"
+  - "Coventina Cassimar"
+  - "Vessuvian"
+  - "Whistle"
+  - "Embra"
+  - "Malveau Greenleaf"
+  - "Nadia Thistle"
+  - "Reginald Boxfray"
+  - "Lucan Alavandor"
+  - "Andarl Alavandor"
+  - "Blaze Whitegate"
+locations:
+  - "Thistle Ridge"
+  - "Cormanthor"
+  - "Tesh Valley"
+  - "Dagger Falls"
+  - "Charity"
+  - "Thistle Ridge Farm"
+  - "Greenwood Farm"
+  - "Sembia"
+  - "Shadowdale"
+  - "Yellow Abbey"
+tags:
+  - "military"
+---
 Character Background Information: 
 Jeska Monarch 
 The Myth Drannor Embassy 

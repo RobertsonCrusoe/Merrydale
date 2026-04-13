@@ -1,3 +1,28 @@
+---
+title: "Correspondence from Lucan Alavandor to Brother Vessuvian"
+slug: correspondence-from-lucan-alavandor-to-brother-vessuvian
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "21 Tarsakh 1483 DR"
+date_ic_sort: 1483112
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Vessuvian"
+locations:
+  - "Dagger Falls"
+  - "Hillsfar"
+tags:
+  - "military"
+---
 [Source: 13 Tarsakh 1483 DR Discussion with Jenwendle of Hillsfar.txt, lines 103+]
 
 Dear Brother Vessuvian,  I trust this letter finds you in good health and high spirits (at least as high as one can manage while surrounded by the weight of ancient tomes and the ceaseless demands of scholarly inquiry). I write to you with a matter of some intrigue—one that I believe will benefit greatly from your particular talents, which, while perhaps not as obvious as my own, are nonetheless well-suited to the task at hand.  Recently, while exploring the woods west of Dagger Falls with Company Chrysalis, we stumbled upon a peculiar shrine. Its construction is unremarkable—limestone with a slate roof, roughly a century old—but its isolation struck me as unusual. The shrine houses the remnants of three statues that appear to have portrayed a young woman holding a lamb and a sheaf of wheat, a pregnant matron holding a ewe, and a hale older woman holding a sheep. The pastoral imagery is striking, though its significance eludes me.  What I find most intriguing is that the shrine does not appear in any reconnaissance reports or local records we have encountered. Surely a place like this would have been noted by rangers, woodsmen, or even the occasional traveler seeking shelter. Its absence from the historical record suggests it was either deliberately concealed or simply forgotten—neither of which sits well with me.  I am commissioning you to investigate this shrine and uncover its origins. Here's what I propose:  Scour the Abbeye's Records: Look for any mention of a shrine matching this description. Its age places it around a century old, so it may appear in records from that time.  Interview the Locals: Speak to rangers like Malvau Greenleaf and any older woodsmen or foresters who might recall tales of such a place. A shrine like this would have made an excellent shelter or waystation, and someone must remember it. 

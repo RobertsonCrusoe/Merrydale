@@ -1,3 +1,32 @@
+---
+title: "In the Taproom of Quick Axes"
+slug: in-the-taproom-of-quick-axes
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: forum
+date_ic: ""
+date_ic_sort: ""
+date_ooc: "2011-01-26"
+series: ""
+order: ""
+characters:
+  - "Denelius Ormath"
+  - "Beliard Emmarask"
+  - "Balak Quickaxe"
+  - "Will"
+locations:
+  - "Quick Axes"
+  - "Tethyamar"
+  - "Cormanthor"
+  - "Dagger Falls"
+tags: []
+---
 Source: GDN_Discussion + GDN_Comment
 DiscussionID: 7
 CategoryID: 6

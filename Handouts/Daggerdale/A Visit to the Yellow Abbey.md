@@ -1,3 +1,29 @@
+---
+title: "A Visit to the Yellow Abbey"
+slug: a-visit-to-the-yellow-abbey
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alen Reks"
+locations:
+  - "Liberty Hill"
+  - "Yellow Abbey"
+  - "Waterdeep"
+tags:
+  - "military"
+---
 The next day (Mirtul 25) you guys make your way the short distance to the Yellow Abbey.
 
 Tuugan says he has other business to attend to, and that he will meet you back at the Close in 2 hours.

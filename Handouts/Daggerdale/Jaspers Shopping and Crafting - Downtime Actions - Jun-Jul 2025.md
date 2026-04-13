@@ -1,3 +1,37 @@
+---
+title: "Jaspers Shopping and Crafting - Downtime Actions - Jun-Jul 2025"
+slug: jaspers-shopping-and-crafting-downtime-actions-jun-jul-2025
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Onyx"
+  - "Alexandus"
+  - "Nemia"
+  - "Masra"
+  - "Charrah"
+  - "Mortimer"
+  - "Vessuvian"
+  - "Calix"
+locations:
+  - "Thistle Ridge"
+  - "Dagger Falls"
+  - "Greenwood Farm"
+  - "Charity"
+  - "Liberty Hill"
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

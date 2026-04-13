@@ -1,3 +1,28 @@
+---
+title: "Lucan Alavandor - Investigation Notes - Lobelia Parentage - Jun 2025"
+slug: lucan-alavandor-investigation-notes-lobelia-parentage-jun-2025
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Charrah"
+  - "Contessa Palus"
+locations:
+  - "Thistle Ridge"
+  - "Dagger Falls"
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

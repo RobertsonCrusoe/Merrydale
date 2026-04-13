@@ -1,3 +1,32 @@
+---
+title: "Arriving in Dagger Falls"
+slug: arriving-in-dagger-falls
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Balak Quickaxe"
+locations:
+  - "Dagger Falls"
+  - "Quick Axes"
+  - "Shadowdale"
+  - "Morning Star Cathedral"
+  - "Tesh Valley"
+  - "Tethyamar"
+tags:
+  - "military"
+---
 It is another two days of travel from Crossed Blades to the town of Dagger Falls.  With the size of the host you are traveling with, there are no problems, though you do continue to see evidence of former battles along the way, and at a large campsite at the half-way mark, Sun Blade scouts say that a large group of orcs had been waiting in the woods around the clearing, but cleared off when they saw your numbers.
 
 As you approach the town itself, you can smell it a long way off; the smell of livestock and several tanneries carries down-wind to you long before you can see the place.  The walls and tall buildings of the town are visible from a hilltop several miles away, and even from this distance you can make out that the town is prosperous; there are several large buildings, and some of them are made of stone so white and polished that they glow in the sunlight.

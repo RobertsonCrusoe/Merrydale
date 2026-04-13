@@ -1,3 +1,32 @@
+---
+title: "Thistle Ridge Official Notices"
+slug: thistle-ridge-official-notices
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "30 Alturiak 1483 DR"
+date_ic_sort: 1483061
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Cassimar"
+  - "Forge Farmountain"
+  - "Ambassador Whitmore"
+locations:
+  - "Thistle Ridge"
+  - "Thistle Ridge Farm"
+  - "Charity"
+  - "Yellow Abbey"
+tags:
+  - "military"
+---
 A Call for Bravery, Endurance and Honour! 
 Alturiak 30, 1483 DR. 
 

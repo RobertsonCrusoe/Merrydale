@@ -1,3 +1,28 @@
+---
+title: "Talking with the Dead - The Ghostly Interview with Nemia (Abrecia Alavandor)"
+slug: talking-with-the-dead-the-ghostly-interview-with-nemia-abrecia-alavandor
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Nemia"
+  - "Abrecia"
+  - "Abrecia Alavandor"
+locations:
+  - "Thistle Ridge"
+tags: []
+---
 Talking with the Dead - The Ghostly Interview with Nemia (Abrecia Alavandor)
 by Les Blackwell (DM), Gus Miranda (Jasper), Stephen Robertson (Lucan)
 Email thread: "Talking with the dead", 26 Sep 2024

@@ -1,3 +1,28 @@
+---
+title: "Kethoth's Journal_ Saharelgard (Part 6 - Lady Saharel)"
+slug: kethoth-s-journal-saharelgard-part-6-lady-saharel
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Kethoth"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "kethoths-journal"
+order: 60
+characters:
+  - "Baird"
+  - "Ailyan"
+  - "Kossur"
+  - "Saharel"
+locations: []
+tags: []
+---
 [PC Attribution: Chadrazzan Kossur (Les Blackwell)]
 And just as the Oni made his exeunt, did the Lady Saharel make her entrance.  She appeared just as we suspected; an apparition within the summoning circle, raven haired, floating about and saturn in expression.  She addressed us, but to be perfectly honest, I wasn’t paying attention to her words.  While her ghostly lips moved, I was having a discussion with myself in my head.
 

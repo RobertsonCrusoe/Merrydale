@@ -1,3 +1,28 @@
+---
+title: "Tyriol Grimbold"
+slug: tyriol-grimbold
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Devlin"
+  - "Brannikar"
+locations:
+  - "Loudwater"
+tags:
+  - "military"
+---
 [PC Attribution: Tyriol Grimbold (Christian)]
 Tyriol grew up in Loudwater and was raised by his mother, Maeghuen ((may-gwenn)). With his mother being human, then it was clear that his father was elven although he never met his father growing up. His mother being completely uncommunicative about his absentee father was something he grew accustomed to eventually but at one point, he managed to get a single name out of his reluctant mother.
 

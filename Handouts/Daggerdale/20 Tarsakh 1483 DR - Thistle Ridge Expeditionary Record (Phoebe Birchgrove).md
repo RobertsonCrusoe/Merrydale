@@ -1,3 +1,30 @@
+---
+title: "Thistle Ridge Expeditionary Record (Phoebe Birchgrove)"
+slug: thistle-ridge-expeditionary-record-phoebe-birchgrove
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "20 Tarsakh 1483 DR"
+date_ic_sort: 1483111
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Charrah"
+  - "Fletcher Farmountain"
+  - "Forge Farmountain"
+  - "Phoebe Birchgrove"
+  - "Sanza Swift"
+locations:
+  - "Thistle Ridge"
+tags: []
+---
 20 Tarsakh, 1483 DR - Thistle Ridge Expeditionary Record – Phoebe Birchgrove, Sgt. III, 7th Co. 4th Plt, Bright Spears, Aid de Camp for Lt. I Forge Farmountain 
 I write tonight with mixed news.  I will start with that which troubles my Lt. 
 Though we hold the Tower, we are constantly tested by the Yellow Tooth, and the nerves of some of the men are frayed from the labour of cleansing the basements. 

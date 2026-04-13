@@ -1,3 +1,24 @@
+---
+title: "Fathers Day Handout - Charrah Aftermath Excerpt - Jun 2025"
+slug: fathers-day-handout-charrah-aftermath-excerpt-jun-2025
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

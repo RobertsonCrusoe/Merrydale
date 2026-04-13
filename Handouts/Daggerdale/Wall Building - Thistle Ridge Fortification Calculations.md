@@ -1,3 +1,25 @@
+---
+title: "Wall Building - Thistle Ridge Fortification Calculations"
+slug: wall-building-thistle-ridge-fortification-calculations
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Thistle Ridge"
+tags: []
+---
 Wall Building — Thistle Ridge Fortification Calculations
 Stephen Robertson (as Lucan), Todd Burry (as Ser Rowan), and Les Blackwell (DM)
 Email thread: "Wall building", 20-23 Jan 2024

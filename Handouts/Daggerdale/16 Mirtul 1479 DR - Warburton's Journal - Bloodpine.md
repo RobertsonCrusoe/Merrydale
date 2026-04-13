@@ -1,3 +1,30 @@
+---
+title: "Warburton's Journal - Bloodpine"
+slug: warburton-s-journal-bloodpine
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Warburton"
+source: handout
+date_ic: "16 Mirtul 1479 DR"
+date_ic_sort: 1479138
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Dorian Dale"
+  - "Alystair Dretch"
+  - "Lumina Whitegate"
+  - "Troia Trustar"
+  - "Tuugan Swift"
+locations:
+  - "Castle Radiance"
+tags: []
+---
 == 16th Mirtul, 1479 ==
 
 ===To Castle Radiance===

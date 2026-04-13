@@ -1,3 +1,10 @@
+---
+title: "Karzon Kul"
+slug: karzon-kul
+type: stub
+campaign: wastrel
+subtype: npc
+---
 Karzon is an unpleasant dwarf, usually found drunk at the Fisher Friend's Pub if not working at the docks under Rivermaster Ufgoode's inattentive eye. Karzon has a shaved head and a generally goes without a shirt or tunic. Much of his skin is covered with ferocious looking tattoos.
 
 On the 9th of Tarsakh, Karzon was approached by Biggs of The Ghosts and in an awkward and aggressive conversation betwixt the two, made the offer that Karzon should be involved with the new \"dock patrol\" that Biggs was trying to encourage and organize. Karzon's response to Biggs was \"Piss off with ya...\"

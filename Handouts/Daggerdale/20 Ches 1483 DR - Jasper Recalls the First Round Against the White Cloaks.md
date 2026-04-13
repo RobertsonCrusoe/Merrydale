@@ -1,3 +1,27 @@
+---
+title: "Jasper Recalls the First Round Against the White Cloaks"
+slug: jasper-recalls-the-first-round-against-the-white-cloaks
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Jasper"
+source: handout
+date_ic: "20 Ches 1483 DR"
+date_ic_sort: 1483081
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alexandus"
+locations:
+  - "Shadowdale"
+tags:
+  - "military"
+---
 Jasper Recalls the First Round Against the White Cloaks
 
 [Source: Daggerdale - All Chapter 7 Content - june 11 revised.docx, extracted 2026-04-09. Note: the docx opening line reads "Second Round" though the section heading and surrounding context place this in Round 1 vs the White Cloaks; preserved here as in source.]

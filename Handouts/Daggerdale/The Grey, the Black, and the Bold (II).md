@@ -1,3 +1,29 @@
+---
+title: "The Grey, the Black, and the Bold (II)"
+slug: the-grey-the-black-and-the-bold-ii
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Maturin Horgath"
+  - "Gaebril Tremalkin"
+  - "Gaucon'Suhl Nerhuar"
+  - "Hrogan Goringrimm"
+  - "Steele"
+locations: []
+tags: []
+---
 Compiled and written by Hrogan Goringrimm; priest of Ohgma and Fifth of The Monastery of Sundered Faiths in 1477 DR.
 
 ----

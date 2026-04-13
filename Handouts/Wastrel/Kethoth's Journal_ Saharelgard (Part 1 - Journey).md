@@ -1,3 +1,41 @@
+---
+title: "Kethoth's Journal_ Saharelgard (Part 1 - Journey)"
+slug: kethoth-s-journal-saharelgard-part-1-journey
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Kethoth"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "kethoths-journal"
+order: 10
+characters:
+  - "Ailyan"
+  - "Baird"
+  - "Janus"
+  - "Kossur"
+  - "Gavrin"
+  - "Kuryon"
+  - "Aryaluystrinne Miritar"
+  - "Dolebrund"
+  - "Allendy"
+  - "Chara"
+  - "Devlin"
+  - "Milek"
+  - "Saharel"
+  - "Turnigal"
+locations:
+  - "Loudwater"
+  - "Waterdeep"
+tags:
+  - "military"
+---
 [PC Attribution: Chadrazzan Kossur (Les Blackwell)]
 Significant Entries from the Journal of Chadrazzan Kossur...
 ----

@@ -1,3 +1,30 @@
+---
+title: "Dalael Hierarchy"
+slug: dalael-hierarchy
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Kennyth Thames"
+  - "Steele"
+  - "Aesclepius"
+  - "Jannaxil Serpentil"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 A letter from Kennyth Thames to Steele the Elf.
 
 Steele;

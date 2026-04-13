@@ -1,3 +1,34 @@
+---
+title: "From the Archives - Arkos Thunderstaff Biography"
+slug: from-the-archives-arkos-thunderstaff-biography
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Arkos Thunderstaff"
+  - "Valgard"
+  - "Maturin Horgath"
+  - "Nathaniel Thorp"
+  - "Steele"
+  - "Garth Shanks"
+  - "Janus"
+  - "Rychel Voordan"
+  - "Sal Worthingham"
+locations:
+  - "Waterdeep"
+tags: []
+---
 [PC Attribution: Arkos Thunderstaff (Les Blackwell)]
 From the Archives: Arkos Thunderstaff Biography
 CLASSIFICATION: SECONDARY MATERIAL — AI-generated content (Claude) based on campaign wiki archives, not primary email correspondence

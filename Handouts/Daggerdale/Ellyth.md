@@ -1,3 +1,28 @@
+---
+title: "Ellyth"
+slug: ellyth
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Esperel"
+  - "Fin Estelmer"
+  - "Janados Eltorchul"
+locations:
+  - "Waterdeep"
+tags: []
+---
 [PC Attribution: Ellyth (Casey Bauman-Wike)]
 An elven courtesan based in Waterdeep. She disappeared mysteriously in 1372, seemingly without a trace. Rooken agents later found a scrap of paper during a search of her cousin Esperel's safehouse that shed some, if little, light on the matter.
 

@@ -1,3 +1,42 @@
+---
+title: "1481 DR - Yellow Abbey Booke - Whitegate Thunderstorm Pedigrees"
+slug: 1481-dr-yellow-abbey-booke-whitegate-thunderstorm-pedigrees
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1481 DR"
+date_ic_sort: 1481001
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Weaver"
+  - "Becca Weaver"
+  - "Dauntless Thunderstorm"
+  - "Decker Blackmane"
+  - "Dorabell Archer"
+  - "Eva Dale"
+  - "Karrigan Thunderstorm"
+  - "Lanya Forster"
+  - "Laurel Thunderstorm"
+  - "Maira Forester"
+  - "Marlee Dale"
+  - "Radiance Whitegate"
+  - "Rayannya Proudholme"
+  - "Raynalla Proudholme"
+locations:
+  - "Castle Radiance"
+  - "Crossed Blades Farm"
+  - "Yellow Abbey"
+tags:
+  - "military"
+---
 DDC - 1480 - 12: Whitegate & Thunderstorm Pedigrees 
 From the Yellow Abbeye Booke of Surveys and Measures, 1481 Edition 
 

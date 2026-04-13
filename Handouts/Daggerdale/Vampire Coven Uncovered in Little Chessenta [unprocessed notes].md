@@ -1,3 +1,34 @@
+---
+title: "Vampire Coven Uncovered in Little Chessenta"
+slug: vampire-coven-uncovered-in-little-chessenta
+type: session
+campaign: daggerdale
+voice: ooc
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Veritas"
+  - "Athosar"
+  - "Grendel"
+  - "Grendel"
+  - "Horus"
+  - "Ghentilara"
+  - "Romulus"
+  - "Skelmar"
+  - "Tuugan Grocheck"
+locations:
+  - "Waterdeep"
+tags: []
+---
 [RAW - UNEDITED AND UNREVIEWED - extracted by automated process, not yet verified for accuracy or completeness]
 
 Vampire Coven Uncovered in Little Chessenta!

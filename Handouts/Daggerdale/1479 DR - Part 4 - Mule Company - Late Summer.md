@@ -1,3 +1,45 @@
+---
+title: "1479 DR - Part 4 - Mule Company - Late Summer"
+slug: 1479-dr-part-4-mule-company-late-summer
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1479 DR"
+date_ic_sort: 1479001
+date_ooc: ""
+series: ""
+order: 40
+characters:
+  - "Kassius"
+  - "Darred"
+  - "Grendel"
+  - "Grendel"
+  - "Grimwald"
+  - "Alexius Kvanov"
+  - "Argent Whitegate"
+  - "Banitt Harbaugh"
+  - "Janus"
+  - "Jonas Millstone"
+  - "Kesh"
+  - "Lobelia Alavandor"
+  - "Loki Mouvranesh"
+  - "Maturin Horgath"
+  - "Erevan Ilythiirian"
+  - "Dane Grimwald"
+locations:
+  - "Castle Daggerdale"
+  - "Dagger Falls"
+  - "Sembia"
+  - "Yellow Abbey"
+tags:
+  - "military"
+---
 450px|right
 
 ==Vaer’Lith Katahr==

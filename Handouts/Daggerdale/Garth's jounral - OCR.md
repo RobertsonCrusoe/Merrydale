@@ -1,3 +1,33 @@
+---
+title: "Garth's jounral"
+slug: garth-s-jounral
+type: narrative
+campaign: daggerdale
+voice: ic
+status: unprocessed
+tier: editor
+author: todd
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Beljuril"
+  - "Boregar"
+  - "Garth Shanks"
+  - "Sal Worthingham"
+  - "Lendon"
+  - "Thebald Rockfist"
+  - "Zantiid"
+locations:
+  - "Waterdeep"
+  - "Sembia"
+tags: []
+---
 [PC Attribution: Garth Shanks (Todd Burry)]
 ---
 Provenance: OCR transcription of "Garth's jounral.pdf" (12 pages, typed)

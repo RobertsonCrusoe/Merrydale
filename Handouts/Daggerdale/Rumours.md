@@ -1,3 +1,27 @@
+---
+title: "Rumours"
+slug: rumours
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Halaster Blackcloack"
+  - "Kappiyan Flurmastyr"
+locations:
+  - "Waterdeep"
+tags: []
+---
 == Waterdeep Rumours ==
 ===1371===
 *The 'Shadow Thieves 'are an emerging Thieves' Guild in Waterdeep

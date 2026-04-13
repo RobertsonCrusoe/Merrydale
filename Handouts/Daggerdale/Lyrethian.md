@@ -1,3 +1,10 @@
+---
+title: "Lyrethian"
+slug: lyrethian
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 Lyrethian could refer to:
 
 *Lyrethian Dezlentyr: Deceased elven wife of Arlos Dezlentyr

@@ -1,3 +1,29 @@
+---
+title: "Irlingstar"
+slug: irlingstar
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Jafar"
+  - "Beljuril"
+  - "Dolebrund"
+locations:
+  - "Waterdeep"
+tags: []
+---
 >From: "Les Blackwell" >Subject: WATERDEEP >Date: Thu, 08 May 2003 23:34:32 +0000 > >HOWDY; > >I AM JUST STARTING TO GET MY SHIT TOGETHER FOR OUR NEXT WATERDEEP >SESSION, BUT I AM A LITTLE FOGGY ON WHAT YOU GUYS HAD DECIDED TO DO >WITH; > >A) THE DALAEL >B) KENDAL THORNE (AKA ALTOOTH MSHOOL) THE BAD GUY WHO WAS RUNNING >THE ZHENTS > >I FORGET WHAT HAPPENED TO KENDAL AT THE END OF LAST SESSION. MY >MEMORY GETS A LITTLE FOGGY AFTER THAT CONFRONTATION IN THE TOP OF >THE IRLINGSTAR VILLA; THE PART WHERE QUEVIN AND BRIZA COME IN, AND >THERE WAS A MEXICAN STAND OFF WITH MATURIN AND GABREL. I HONESTLY >FORGET WHAT YOU GUYS DECIDED TO DO WITH THE POOR HELPLESS WIZARD. > >THAT'S ALL. > >BLACKWELL. >
 
 Howdy,

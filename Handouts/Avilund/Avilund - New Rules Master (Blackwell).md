@@ -29,8 +29,7 @@ Dialects.  Each language has several dialects, and every character will have a h
 2 penalty to Bluff, Diplomacy, Intimidate and Performance.
 2 Ranks:  The character is perfectly proficient with the language and can pass as a local. No penalties to any relevant skills.
 
-Synergy:  A character that has 5 or more ranks in Knowledge: Region for a given region will automatically count as having 1 rank in that region
-s dialect.
+Synergy:  A character that has 5 or more ranks in Knowledge: Region for a given region will automatically count as having 1 rank in that region's dialect.
 Dialect Check:  When two characters attempt to communicate who speak the same language, but different dialects, a Dialect Check is required.  This is an INT based check with a DC of 10, which each character must pass.  The DC is modified by the difficulty of the message that is being conveyed.  For example, if they are trying to simply introduce themselves and make their names known to each other, that might be a
 
 2 modifier to the DC.  If one is trying to tell the other the formula for a rare and magical potion, the DC modifier might be as high as +20.  This check can be attempted 3 times for each message/idea.  If it is failed after the third attempt, it is impossible for these two characters to understand each other for that particular missive.
@@ -42,8 +41,7 @@ by most people that speak it.  It is a descendant of Old Imperial with a mixture
 Dialects:  City of Avitus, City of Havilah, City of Lysander, Eastwitch, Kingdom of Mantlethorn, Kingdom of Hiergallad, Republic of Isenwald, Republic of Dunstanmoore, Bishopric of St. Ignatius, Bishopric of St. Mairin, Dominion of St. Lucas, Wellenlund, Gablelund, Patrilund
 
 Old Imperial.  This is the language that was spoken and written mostly before 750.  This language is still used by many academics and theological scholars.  This language has only a few dialects which are chronological dialects, rather than regional dialects.
-Dialects:  Early Old Imperial, Middle Old Imperial, Late Old Imperial, Crusader
-s Old Imperial.
+Dialects:  Early Old Imperial, Middle Old Imperial, Late Old Imperial, Crusader's Old Imperial.
 Feral.  This is the language spoken by the Ferals and the Kells.  The Kellish dialect of this language is the oldest language spoken by men.  There are countless dialects of this language, but it is all rooted in the ancient Kell.
 
 Dialects:  There are hundreds of dialects of this tongue.  The most common is Kellish, which is spoken by the Kells.
@@ -104,8 +102,7 @@ by much of Imperial society.
 Profession: Medical Doctor (trained only)
 This skill is used to fix seriously wounded and diseased characters.  See the optional rules later in this section for wounds, disease and healing.  This skill can also be used to earn money as any other professional skill.  The Heal skill is still used as usual.  This skill is used to treat wounds and ailments that the Heal skill cannot take care of.  The Heal skill should be thought of as first aid, or home-remedies that would be found throughout much of the world.  The Profession: Medical Doctor skill reflects formal training in the medical arts.  This skill has all the benefits of the Heal skill, except First Aid treatment.  This skill can also be used to heal some damage.  For every hour the Doctor spends with the patient, a check is made.  The patient is healed of check/5 HP
 
-s, to a maximum of half his damage.  The other half must heal naturally.  Every check made depletes the Doctor
-s supplies.
+s, to a maximum of half his damage.  The other half must heal naturally.  Every check made depletes the Doctor's supplies.
 Synergy:  If you have 5 or more ranks in this Profession: Medical Doctor, you get a +2 synergy bonus to Heal checks.
 Research.
 This skill is used when characters want to dig up information from inanimate sources such as libraries, graveyards and such.  A single roll represents a day of research with a given medium in a given location (books, in a library, for example).  The DM will have a secret DC that is required for the character to find what he is looking for.  The Research skill check is modified by the resources the character has.  The DM will modify this roll in secret.  Typically, a small library will give a straight roll.  A large university library with an assistant helping might confer a +10 bonus to the roll.  Note that it might be impossible for the character to dig up the information in the given location, if the information is just not there (the DM only, knows this).
@@ -164,8 +161,7 @@ Professional Focus Skills: At first level, this character chooses three Professi
 At levels 5, 10 and 15, the professional chooses another skill to make a Professional Focus Skill.  The +2 Professional Competency Bonus is added right away, but any
 
 ranks that were chosen in this skill previously are not upgraded to full ranks.  The skill does become a class-skill for every class for this character from this time on, however.
-Skill Mastery:  At levels 3, 6, and 9, the Professional may select one if it
-s Professional Focus Skills to master.  The Professional may always take 10 in this skill, regardless of situation.
+Skill Mastery:  At levels 3, 6, and 9, the Professional may select one if it's Professional Focus Skills to master.  The Professional may always take 10 in this skill, regardless of situation.
 
 Bonus Feats: At levels 1, 2, 4, 7, 8, 11, 14, 16, 17, 19, and 20, the Professional may take a bonus feat.  The bonus feat may be chosen from the following list; Acrobatic, Agile, Alertness, Animal Affinity, Athletic, Deceitful, Deft Hands, Diligent, Great Fortitude, Investigator, Iron Will, Leadership, Lightning Reflexes, Magical Aptitude, Negotiator, Nimble Fingers, Persuasive, Run, Skill Focus, Stealthy, Toughness, and Track.
 Level
@@ -194,14 +190,11 @@ Bonus Feat
 Optional Rules: Wounds, Infection, Diseases and Healing.
 The world is a dangerous place, and even moreso for the adventurous.  The rules below reflect some of the inherent dangers of getting injured.  These rules are optional, and will be used at the discretion of the DM.
 Wound Types
-There are two types of wounds; Regular and Critical.  Regular wounds are those inflicted over the course of combat.  Critical wounds are inflicted when critical hits are scored, or a character
-s HP
-s drop below 0.  If these optional rules are followed, each player will be required to keep track of the number of each type of wound he receives.
+There are two types of wounds; Regular and Critical.  Regular wounds are those inflicted over the course of combat.  Critical wounds are inflicted when critical hits are scored, or a character's HP's drop below 0.  If these optional rules are followed, each player will be required to keep track of the number of each type of wound he receives.
 
 Regular Wounds:  A character that takes a number of regular wounds has a chance of generating an infection.  This chance is known only by the DM, and is based upon the types of weapons inflicting the wounds, and the environment in which the wounds are sustained.  After an encounter, a single Fort Save is made for the regular wounds the character has sustained.  For every 3 regular wounds, the DC goes up by +1.  A typical scenario (a character injured by a longsword of no particular state of cleanliness, in a setting of no particular state of cleanliness or filthiness) would have to make a Fort save DC 10.  Only the DM knows what the DC is, though, and he may make the roll in secret.
 
-Critical Wounds:  When a character takes a critical hit, the DM will determine what additional effect, beyond the regular damage, that the wound has.  This will typically be a point of ability damage, or a seriously bleeding wound (loosing 1 hp/round until treated).  The wounds also have a chance of causing infection, as with regular wounds, but each wound is rolled for, and the DC
-s are typically 5 higher.
+Critical Wounds:  When a character takes a critical hit, the DM will determine what additional effect, beyond the regular damage, that the wound has.  This will typically be a point of ability damage, or a seriously bleeding wound (loosing 1 hp/round until treated).  The wounds also have a chance of causing infection, as with regular wounds, but each wound is rolled for, and the DC's are typically 5 higher.
 Recovery from Regular Wounds:  A character recovers from regular wounds as per the rules in the PHB.  This can be accelerated by use of the Heal Skill, or the Profession: Medical Doctor Skill.
 
 Recovery from Critical Wounds:  A character does not recover from critical wounds as usual.  Before the character can naturally heal any damage from a critical wound, a Fort Save must be made.  The DC of the Fort save will typically be 10+

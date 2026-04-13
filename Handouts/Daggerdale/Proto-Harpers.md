@@ -1,3 +1,10 @@
+---
+title: "Proto-Harpers"
+slug: proto-harpers
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 Information collected by Loremaster Kennyth Thames while studying in The Monastery of Sundered Faiths in 1381 DR, The Year of the Starving
 
 thumb

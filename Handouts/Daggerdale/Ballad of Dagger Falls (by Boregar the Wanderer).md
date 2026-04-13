@@ -1,3 +1,28 @@
+---
+title: "Ballad of Dagger Falls (by Boregar the Wanderer)"
+slug: ballad-of-dagger-falls-by-boregar-the-wanderer
+type: poetry
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Janus"
+  - "Maturin Horgath"
+locations:
+  - "Dagger Falls"
+tags: []
+---
 [PC Attribution: Boregar the Wanderer (Scott McLaren)]
 One of many Harper ballads about the Liberation of Dagger Falls and the Heroes who brought the Zhentarim to their knees in 1372.
 ----

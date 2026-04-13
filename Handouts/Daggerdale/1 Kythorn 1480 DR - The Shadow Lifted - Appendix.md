@@ -1,3 +1,27 @@
+---
+title: "The Shadow Lifted - Appendix"
+slug: the-shadow-lifted-appendix
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1 Kythorn 1480 DR"
+date_ic_sort: 1480153
+date_ooc: ""
+series: "the-shadow-lifted"
+order: ""
+characters:
+  - "Alystair Dretch"
+  - "Perspicuus Whitegate"
+locations: []
+tags:
+  - "military"
+---
 The following documents are found in the Appendix of “The Shadow Lifted” (A Report on the Events and Happenings in Daggerdale after the Saint’s Battle, 1 Kythorn, 1480 DR, Compiled and Written by S. Estelmer, Sr. Sp. Order of the Tome.)
 
 *The Wedding of Lanya (Forester) and Perspicuus Whitegate      

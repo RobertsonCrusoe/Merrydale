@@ -1,3 +1,46 @@
+---
+title: "1372_DR_-_Adventures_of_the_Company_of_the_Red_Herring_Waterdeep"
+slug: 1372-dr-adventures-of-the-company-of-the-red-herring-waterdeep
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Yarkul"
+  - "Jafar"
+  - "Zaltim"
+  - "Esperel"
+  - "Beljuril"
+  - "Xulla"
+  - "Laurel Dawn"
+  - "Teskul"
+  - "Vader"
+  - "Egan"
+  - "Kionin"
+  - "Kionin"
+  - "Drake"
+  - "Elbing Hightimber"
+  - "Gauntlet"
+  - "Krag"
+  - "Thuman"
+  - "Aganon"
+  - "Dally"
+  - "Dulbrawan Anteos"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 Around this time, the adventurers form the Company of the Red Herring, and use Garth's house as HQ. 
 
 The next operation that the CRH runs is in the sewers of the City.  Thagdul gave the party information about an entrance into Undermountain that a group of Ersgul slavers would be using to run their contraband/victims into the markets below.  The CRH stopped the slavers and rescued 4 little girls. 

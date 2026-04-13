@@ -1,3 +1,27 @@
+---
+title: "On the Road, Part 4; Doll"
+slug: on-the-road-part-4-doll
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: 40
+characters:
+  - "Ailyan"
+  - "Edward Albrecht"
+locations:
+  - "Waterdeep"
+tags: []
+---
 A quaint place, Daggerford. Otra had, with little real interest, noticed the high walls scrambling out of the dirt, the garish paint fresh on the walls, the half-hearted attempt at cobbled streets that gradually, grudgingly, sank back into hard-packed dirt the further one travelled down the town's thoroughfare. A place wedged firmly along the Trade Way, shadowed by Waterdeep to the north and Baldur's Gate to the south, so profitable a position and yet so embarassingly... Otra searched for words to describe. A shabby hovel struggling in the throes of a burgeoning renaissance, trapped by necessity in the rippling wake left by the Spellplague's aftermath. A century of metropolitan growth that had finally reached beyond the Sword Coast's grand cities and out into the surrounding countryside, fields long left fallow (metaphorically and literally), the soil only recently being harrowed by opportunistic Waterdhavian and Baldurian landowners. Daggerford was like a growing youth, no longer a child, but not yet fit for adulthood. Growing pains, drawn out and awkward, settling into a shape long dreamt of yet still so far from reach.
 
 Otra smiled as she walked the crowded market, eyeing stalls with no more than a passing glance as peasants feverishly hawked their wares, eager to feed their families. She was alone at the moment - where Edward was, well, probably still seated firmly upon his ass in that whore's tavern. Her smile broadened uncontrollably at the thought. How brightly the young Cormyrian's eyes had shone, seeing the sign dangling before the red-shingled establishment - Lady Luck Tavern, scrawled above a coin leaning abreast a tankard of ale, splashed across the wood in faded white paint.

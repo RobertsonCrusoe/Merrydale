@@ -1,3 +1,29 @@
+---
+title: "Round 2 of the Mountain of Mayhem - Jasper's Account of Three Flags Up"
+slug: round-2-of-the-mountain-of-mayhem-jasper-s-account-of-three-flags-up
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: "Jasper"
+source: handout
+date_ic: "20 Ches 1483 DR"
+date_ic_sort: 1483081
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alexandus"
+  - "Jasper Hawkford"
+locations:
+  - "Shadowdale"
+  - "Thistle Ridge"
+tags:
+  - "military"
+---
 Round 2 of the Mountain of Mayhem - Jasper's Account of Three Flags Up
 by Gus Miranda (as Jasper Hawkford)
 Email thread: "Round 2 of the Mountain of Mayhem", 25 Feb 2024

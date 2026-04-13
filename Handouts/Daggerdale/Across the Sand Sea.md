@@ -1,3 +1,35 @@
+---
+title: "Across the Sand Sea"
+slug: across-the-sand-sea
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Shildevan"
+  - "Grandfather"
+  - "Kabina"
+  - "Didaji"
+  - "Corrina"
+  - "Farim"
+  - "Yin-Xu"
+  - "Warburden"
+  - "Grimwald"
+locations:
+  - "Waterdeep"
+tags: []
+---
 == 10 Kythorn - The Golden Death ==
 On the 10th of Kythorn, the companions crossed into the desert of Anauroch, where their progress slowed drastically. Their mounts' hooves sank into the dunes, their cart often foundered, and they were forced to travel only at dawn and dusk, resting during the scorching midday heat. On the first nights, a lion was often seen atop distant dunes, hunting, the companions hoped, for distant game. Boregar, experienced in desert survival, helped them weather a small sandstorm on the 12th, but even the Wanderer's experience gave them no respite from the awe-inspiring terror of the Aziirla'Dahab - \"Golden Death\" in the language of the desert tribes of the  Bedine - that blew in on the 13th and lasted until the next day. Wearily taking up their journey once the storm had passed, they were disheartened to learn that they had traveled less than 20 miles in those four days - having misread the movements of the sun in the mornings and evenings, they had bun inscribed a tiny, circular path in the Western desert. It seemed as though the desert were not going to let them pass.
 

@@ -1,3 +1,32 @@
+---
+title: "Speculations on the man known as Jafar"
+slug: speculations-on-the-man-known-as-jafar
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jafar"
+  - "Thuman"
+  - "Dally"
+  - "Esperel"
+  - "Feldon Azadand"
+  - "Y'morth Dalael"
+  - "Yarkul"
+locations: []
+tags:
+  - "military"
+---
 Was Jafar a Zhentarim agent from the very beginning?
 
 *After the first raid on the Dalael Safehouse in Northward, Jafar offered to take possession of the collection of scrolls and journals that we had taken. He admitted to taking them to his friend Feldon Azadand (of Company Drurginz) to be identified, and stashes them at the HQ of WOMP for safekeeping.

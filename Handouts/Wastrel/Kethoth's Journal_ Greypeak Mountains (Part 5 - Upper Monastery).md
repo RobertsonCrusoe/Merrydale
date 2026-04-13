@@ -1,3 +1,27 @@
+---
+title: "Kethoth's Journal_ Greypeak Mountains (Part 5 - Upper Monastery)"
+slug: kethoth-s-journal-greypeak-mountains-part-5-upper-monastery
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Kethoth"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "kethoths-journal"
+order: 50
+characters:
+  - "Kossur"
+  - "Arkos Thunderstaff"
+  - "Gaebril Tremalkin"
+locations: []
+tags: []
+---
 [PC Attribution: Chadrazzan Kossur (Les Blackwell)]
 ==Entry in the Upper Monastery==
 

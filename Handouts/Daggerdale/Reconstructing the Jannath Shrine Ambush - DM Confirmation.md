@@ -1,3 +1,30 @@
+---
+title: "Reconstructing the Jannath Shrine Ambush - DM Confirmation"
+slug: reconstructing-the-jannath-shrine-ambush-dm-confirmation
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Invictus"
+  - "Alexandus"
+  - "Cassimar"
+  - "Alystair Dretch"
+  - "Blaze Whitegate"
+locations:
+  - "Tethyamar"
+tags: []
+---
 Reconstructing the Jannath Shrine Ambush — DM Confirmation
 Stephen Robertson (as Lucan) and Les Blackwell (DM)
 Email thread: (untitled), 1-3 Jun 2025

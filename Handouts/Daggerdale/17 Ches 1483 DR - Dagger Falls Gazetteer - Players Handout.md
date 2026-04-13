@@ -1,3 +1,42 @@
+---
+title: "Dagger Falls Gazetteer - Players Handout"
+slug: dagger-falls-gazetteer-players-handout
+type: lore
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "17 Ches 1483 DR"
+date_ic_sort: 1483078
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Godwin Ferguson"
+  - "Ambassador Whitmore"
+  - "Cassimar"
+  - "Dalak Quickaxe"
+  - "Elowen Miratar"
+  - "Gideon"
+  - "Tuugan Swift"
+  - "William Cormaeril"
+locations:
+  - "Charity"
+  - "Dagger Falls"
+  - "Liberty Hill"
+  - "Quick Axes"
+  - "Tesh Valley"
+  - "Yellow Abbey"
+  - "Sembia"
+  - "Waterdeep"
+  - "Tethyamar"
+  - "Thistle Ridge"
+tags: []
+---
 [Source: extracted from 17 Ches 1483 DR Reclamation Competition Briefing Packet. The Vernal Feast section between the Myth Drannor Embassy and Appendix A has its own standalone at "19 Ches - The Vernal Feast.txt". The Tradesmen Census Appendix C has its own standalone at "Excerpt from the Yellow Abbeye Book of Surveys and Measures - Tradesmen of Daggerdale.txt".]
 
 Dagger Falls Gazetteer—Players' Handout 

@@ -1,3 +1,39 @@
+---
+title: "Drow of Waterdeep"
+slug: drow-of-waterdeep
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Dally"
+  - "Y'morth Dalael"
+  - "Lyrethian"
+  - "Quellar Dalael"
+  - "Ailyan"
+  - "Briza Uloavae"
+  - "Fairworth Cragsmere"
+  - "Fea Eltorchul"
+  - "Gettard"
+  - "Issilith Dalael"
+  - "Nym Dalael"
+  - "Xulla"
+  - "Agamemnon"
+  - "Beljuril"
+locations:
+  - "Waterdeep"
+tags: []
+---
 These notes were composed by the Harper wizard, Agamemnon, and left with a letter addressed to Beljuril of Azuth shortly before the wizard's disappearance. This intelligence has been cross-referenced with other files in possession of the Rooken Network.
 
 ==What I Have Learned about the Drow of the City==

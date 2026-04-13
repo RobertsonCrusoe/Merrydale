@@ -1,3 +1,33 @@
+---
+title: "From the Journal of Nathan Gale"
+slug: from-the-journal-of-nathan-gale
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "5 Marpenoth 1481 DR"
+date_ic_sort: 1481280
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Nathan Gale"
+  - "Ailyan"
+  - "Alen Reks"
+  - "Andrea Stuard"
+  - "Shae"
+locations:
+  - "Charity"
+  - "Dwimmerholme Farm"
+  - "Liberty Hill"
+tags:
+  - "military"
+---
 Marpenoth 5, 1481 - From the Journal of Nathan Gale 
 Notes from GFD: 
 I have been fortunate enough to have shared with me the journal of Nathan Gale, which was sent with a package of other White Cloaks possessions from Charity, after the unfortunate conclusion of events there. There is much to be said about Mr. Gale, 

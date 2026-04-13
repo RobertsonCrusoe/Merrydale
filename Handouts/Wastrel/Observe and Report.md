@@ -1,3 +1,25 @@
+---
+title: "Observe and Report"
+slug: observe-and-report
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Azalia"
+locations: []
+tags: []
+---
 right
 It is the middle of Hammer, 1479 DR, and the small village of Unthmalek, seen from the sky, from the perspective of a bird, if you like, is but a small clearing in the vast Glimmerwood that stretches on for countless miles, choking the valleys created by parallel mountain ranges in this sparsely-populated area on the fringe of Luruar.
  

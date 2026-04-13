@@ -1,3 +1,26 @@
+---
+title: "Malkor Githeas"
+slug: malkor-githeas
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Malkor Githeas"
+locations: []
+tags: []
+deceased: true
+---
 [[image:malkor.png|thumb|Sigil of the Zhentarim Diviner, Malkor Githeas]]
 
 A [[Zhentarim]] diviner based in Neverwinter, and follower of Shar.

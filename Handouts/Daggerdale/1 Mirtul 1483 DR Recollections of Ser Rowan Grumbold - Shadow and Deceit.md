@@ -1,3 +1,31 @@
+---
+title: "Recollections of Ser Rowan Grumbold - Shadow and Deceit"
+slug: recollections-of-ser-rowan-grumbold-shadow-and-deceit
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Rowan Grumbold"
+source: handout
+date_ic: "1 Mirtul 1483 DR"
+date_ic_sort: 1483123
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Charrah"
+  - "Phoebe Birchgrove"
+  - "Forge Farmountain"
+  - "Rowan Grumbold"
+locations:
+  - "Dagger Falls"
+  - "Thistle Ridge"
+  - "Jeska's Speech - Confronting Charrah at the Battle of Thistle Ridge"
+tags: []
+---
 Mirtul 1, 1483 DR -- Recollections of Ser Rowan Grumbold -- Shadow and Deceit -- Our Battle in Charrah's Chambre
 
 Transcribed by Phoebe Birchgrove, Sgt. III, 7th Co. 4th Plt, Bright Spears, Aid de Camp for Lt. I Forge Farmountain

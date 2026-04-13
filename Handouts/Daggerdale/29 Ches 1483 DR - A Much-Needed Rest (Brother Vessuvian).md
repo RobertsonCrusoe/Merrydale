@@ -1,3 +1,32 @@
+---
+title: "A Much-Needed Rest (Brother Vessuvian)"
+slug: a-much-needed-rest-brother-vessuvian
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "29 Ches 1483 DR"
+date_ic_sort: 1483090
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Vessuvian"
+  - "Lobelia Alavandor"
+  - "Loki Mouvranesh"
+  - "Melegaunt"
+  - "Nemia"
+locations:
+  - "Cormanthor"
+  - "Thistle Ridge"
+tags:
+  - "military"
+---
 29 Ches 1483 — Journal of Brother Vessuvian, Candlekeep Emissary attaché to The Yellow Abbeye of Daggerfalls
 
 A Much-Needed Rest

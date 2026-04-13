@@ -1,3 +1,24 @@
+---
+title: "Assorted Thoughts on Spells and Such - Gus Miranda - Jul 2025"
+slug: assorted-thoughts-on-spells-and-such-gus-miranda-jul-2025
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

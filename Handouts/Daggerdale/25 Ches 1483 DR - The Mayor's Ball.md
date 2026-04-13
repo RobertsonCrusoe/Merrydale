@@ -1,3 +1,34 @@
+---
+title: "The Mayor's Ball"
+slug: the-mayor-s-ball
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "25 Ches 1483 DR"
+date_ic_sort: 1483086
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Cassimar"
+  - "Coventina Cassimar"
+  - "Alen Reks"
+  - "Alexandus"
+  - "Forge Farmountain"
+  - "Godwin Ferguson"
+  - "Horus"
+  - "Ivy Thickwickle"
+  - "Zelia Oakbough"
+locations:
+  - "Hillsfar"
+tags: []
+---
 25 Ches -- The Mayor's Ball
 
 The Cast

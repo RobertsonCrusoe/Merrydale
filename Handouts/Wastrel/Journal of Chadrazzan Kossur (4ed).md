@@ -1,3 +1,31 @@
+---
+title: "Journal of Chadrazzan Kossur (4ed)"
+slug: journal-of-chadrazzan-kossur-4ed
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Kossur"
+  - "Kethoth Sepret"
+  - "Janus"
+  - "Zelbross"
+  - "Illustryel Moonfire"
+locations:
+  - "Loudwater"
+  - "Waterdeep"
+tags: []
+---
 [PC Attribution: Chadrazzan Kossur (Les Blackwell)]
 Significant Entries From the Journal of Chadrazzan Kossur
 Awakening From Madness

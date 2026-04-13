@@ -1,3 +1,28 @@
+---
+title: "From the Journal of Tergus Clarandal - The Lost Alavaxi"
+slug: from-the-journal-of-tergus-clarandal-the-lost-alavaxi
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "7 Ches 1431 DR"
+date_ic_sort: 1431068
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Tergus Clarandal"
+locations:
+  - "Castle Radiance"
+  - "Thistle Ridge"
+tags:
+  - "military"
+---
 From the Journal of Tergus Clarandal, recovered at Clarandal Farm 1483 by Company Chrysalis
 
 Ches 7, 1431

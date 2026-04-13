@@ -1,12 +1,24 @@
 ---
-Provenance: OCR transcription of "edge of the wylde.pdf" (3 pages, typed)
-Source: DND Scanned Notes / OneDrive DND Scans
-Campaign: Eastwitch ('The Edge of The Wylde' — cultural survey of Eastwytche by Dr. Jakob Woolson)
-Date processed: 2026-04-03
-Utility: A (unique — no counterpart found in archive. Cultural survey of the village of Eastwytche, distinct from other Woolson writings in the Eastwitch folder)
-
-Archive counterparts: None found (related but distinct: Woolson_'s Writings_ Eastwitch Grange.txt, etc.)
-OCR notes: Clean printed text.
+title: "edge of the wylde"
+slug: edge-of-the-wylde
+type: narrative
+campaign: daggerdale
+voice: ic
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Ebenezer"
+locations: []
+tags: []
 ---
 
 “The Edge of The Wylde”

@@ -1,3 +1,31 @@
+---
+title: "Straight out of Shadowdale ..."
+slug: straight-out-of-shadowdale
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Tethyamar"
+  - "Castle Radiance"
+  - "Cormanthor"
+  - "Dagger Falls"
+  - "Castle Daggerdale"
+  - "Crossed Blades Farm"
+  - "Tesh Valley"
+tags: []
+---
 ==The Old Skull Inn==
 
 “Just plain un-dales-like, I says” is what you must have heard a dozen times in the tap room at the Old Skull Inn after you announced that you were on your way to Daggerdale.  Sitting at a table with three local septuagenarians, you are given a colourful accounting of the history and character of Daggerdale.

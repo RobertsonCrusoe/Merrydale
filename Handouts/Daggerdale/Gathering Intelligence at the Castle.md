@@ -1,3 +1,29 @@
+---
+title: "Gathering Intelligence at the Castle"
+slug: gathering-intelligence-at-the-castle
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alaric Swift"
+  - "Lucius"
+  - "Rainyerd"
+locations:
+  - "Tesh Valley"
+tags:
+  - "military"
+---
 Banitt talked to Zenith Lord Whitegate, and discovered the following;
 
 :The creatures sighted on the road by Tesh Valley Farm are troubling; we have never known the Netherese to use demons before.  We thought they learned from their mistakes in the past.  If it is true that there are demons up there, that are must represent something of strategic importance.

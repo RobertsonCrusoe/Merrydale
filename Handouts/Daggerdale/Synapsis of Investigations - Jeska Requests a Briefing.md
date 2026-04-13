@@ -1,3 +1,24 @@
+---
+title: "Synapsis of Investigations - Jeska Requests a Briefing"
+slug: synapsis-of-investigations-jeska-requests-a-briefing
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 Synapsis of Investigations
 by Scott Mclaren (as Jeska)
 23 Aug 2024

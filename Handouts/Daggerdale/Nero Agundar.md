@@ -1,3 +1,28 @@
+---
+title: "Nero Agundar"
+slug: nero-agundar
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Rychel Voordan"
+  - "Steele"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 [PC Attribution: Nero Agundar (Gus Miranda)]
 thumb|Crest of House Agundar of the Waterdhavian Nobility
 

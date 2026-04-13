@@ -1,3 +1,28 @@
+---
+title: "Barthas"
+slug: barthas
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Kethoth Sepret"
+  - "Baird"
+  - "Radha Leveaux"
+locations:
+  - "Cormanthor"
+tags: []
+---
 The vampire dwelling in the dungeon levels of the ruins of Saharelgard,  a worshiper of Orcus, and a tinkerer in undead constructs.
 
 \"That thing is a coward.  I will not leave Spellgard until this damned creature and all of it's minions are cleansed.\" ~ Baird of Kelemvor

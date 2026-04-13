@@ -1,3 +1,10 @@
+---
+title: "Brash"
+slug: brash
+type: stub
+campaign: wastrel
+subtype: npc
+---
 [PC Attribution: Brash (Les Blackwell)]
 right
 

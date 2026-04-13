@@ -1,3 +1,35 @@
+---
+title: "The Road to the Monastery"
+slug: the-road-to-the-monastery
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Maeghuen Grimbold"
+  - "Kennyth Thames"
+  - "Darmol Rugan"
+  - "Hrogan Goringrimm"
+  - "Kulda Murghom"
+  - "Mendel Krioy"
+  - "Radha Leveaux"
+  - "Regnal Dantros"
+  - "Saharel"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 * The “leader” of The Mercykillers in Waterdeep has been dubbed \"The Sphinx\". Being described as “a bit of this and a bit of that...” Might be a mage, might be a warrior, might be something else altogether.
 *There was speculation that Tyriol’s father is the leader of the Mercykillers. That speculation was confirmed by Maeghuen Grimbold; Tyriol’s mother.
 *Radha Leveaux has been having sporadic dreams involving shadows, hunger, and a desperate craving/seeking of “something” (I believe only Radha knows this so RP accordingly)

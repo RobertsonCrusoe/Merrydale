@@ -1,3 +1,35 @@
+---
+title: "A Visit to the Historic Wing"
+slug: a-visit-to-the-historic-wing
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "8 Mirtul 1483 DR"
+date_ic_sort: 1483130
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Invictus"
+  - "Vessuvian"
+  - "Drake"
+  - "Drake Sterling"
+  - "Tuugan Swift"
+  - "Lotus"
+locations:
+  - "Charity"
+  - "Dagger Falls"
+  - "Liberty Hill"
+  - "Thistle Ridge"
+tags:
+  - "military"
+---
 8 Mirtul 1483 DR - A Visit to the Historic Wing
 Date: 16 July 2025
 From: Les Blackwell

@@ -1,3 +1,24 @@
+---
+title: "Eratselandril Dlardrageth"
+slug: eratselandril-dlardrageth
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 [PC Attribution: Eratselandril Dlardrageth (Stephen Robertson)]
 Eratselandril Dlardrageth, better known as Ratsel Drageth poses as a moon elf ranger of no importance, but rich character. He is a scion of the daemonfey of House Dlardrageth, but keeps this, and his tiefling heritage, close to his chest. His facial scarring dates from the time he broke off ties with his lineage, but even he doesn't remember the attack that caused them.
 

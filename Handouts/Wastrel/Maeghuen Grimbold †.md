@@ -1,3 +1,34 @@
+---
+title: "Maeghuen Grimbold"
+slug: maeghuen-grimbold
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Maeghuen Grimbold"
+  - "Dolebrund"
+  - "Edgar Grimbold"
+  - "Adamo Rei"
+  - "Griffon"
+  - "Ilyaska Konig"
+locations:
+  - "Loudwater"
+  - "Secomber"
+tags:
+  - "military"
+deceased: true
+---
 Maeghuen Grimbold is a human residing in Loudwater in her thirty-ninth year. She is a retired adventurer, the \"true\" Captain of the Loudwater wardens and the mother of Tyriol Grimbold. She rarely spends time at the small but well-furnished home and is often in the company of Loudwater scouts as they patrol the surrounding area.          
 
 She is a proud woman and ferociously protective of her son who seems to be a bit of a free-spirit; something that she was also rumored to be yet Tyriol nor anyone recently has ever seen evidence of such.

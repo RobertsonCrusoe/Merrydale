@@ -1,3 +1,39 @@
+---
+title: "Lobelia_theory"
+slug: lobelia-theory
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Contessa Palus"
+  - "Andarl Alavandor"
+  - "Aisling Maeliticus"
+  - "Tergus Clarandal"
+  - "Quercina"
+  - "Abrecia"
+  - "Claudius Clarandal"
+  - "Daphne Dale"
+  - "Dorian Alavandor"
+  - "Invictus"
+locations:
+  - "Thistle Ridge"
+  - "Sembia"
+  - "Castle Radiance"
+  - "Dagger Falls"
+  - "Hillsfar"
+tags: []
+---
 Of course. Based on our analysis, here is the most detailed and consistent narrative of the events leading to the arrival of the Sembian families in Thistle Ridge in 1408.
 
 The Foundation of Deceit (pre-1403 DR)

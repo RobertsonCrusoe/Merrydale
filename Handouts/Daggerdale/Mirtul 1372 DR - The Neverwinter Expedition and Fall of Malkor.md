@@ -1,3 +1,40 @@
+---
+title: "The Neverwinter Expedition and Fall of Malkor"
+slug: the-neverwinter-expedition-and-fall-of-malkor
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "Mirtul 1372 DR"
+date_ic_sort: 1372123
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Beljuril"
+  - "Oberon"
+  - "Ryerson"
+  - "Yarkul"
+  - "Grimwald"
+  - "Jafar"
+  - "Arkos Thunderstaff"
+  - "Boregar"
+  - "Derrick Swift"
+  - "Ezmail"
+  - "Gaskar"
+  - "Gildon"
+  - "Onyx"
+  - "Tuugan Voun"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 Summer, 1372, Decisions at Phaulkonmere 
 
 A group of adventurers and heroes comes together at Phaulkonmere to discuss the Zhent and Drow threat to the City and to points beyond.  Many present were there because they had been involved in this mess for so long.  Others were there through a sense of duty to their fellow man. Some were there because they were seeking such things as adventure, fame and fortune.  Some were there for even more selfish reasons.  And some were there for the simple reason of pursuing vengeance. 

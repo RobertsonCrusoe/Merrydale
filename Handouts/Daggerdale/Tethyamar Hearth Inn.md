@@ -1,3 +1,25 @@
+---
+title: "Tethyamar Hearth Inn"
+slug: tethyamar-hearth-inn
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Turig Forester"
+locations: []
+tags: []
+---
 This is the largest building in the Outer Bailey.  It is built against the outer wall, and is a solid stone structure, 3 stories tall, with a 100' long by 50' thick footprint.  While the rest of the buildings in the Outer Bailey have doors opening at ground level, this structure is set a ½ story higher than its neighbours, and a broad double-stair leads from the ground to the stone balcony in front of the great double doors that grant entry.  
 
 The windows of the ground floor are all small and set high, so that there is no easy entrance into this building below 12’ from the ground level.

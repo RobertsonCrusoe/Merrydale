@@ -1,3 +1,24 @@
+---
+title: "'Fair Enough'"
+slug: fair-enough
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 Beneath Luskan's midnight sky, a man was being beaten. Three men loomed overhead, thrashing him with legs and fists, and it was all he could do to keep his head covered and legs tucked under his belly. He coughed and gagged and screamed, overwhelmed by pain, unable to keep his anguish bottled up. The three men, thick-set and shabbily dressed, much like their victim in that regard, continued the beating, beads of sweat growing on their foreheads, rolling down past their bared teeth, flung from their faces by hissed breaths of exhaustion. As far as they were aware, the only witnesses were themselves and the rats.
 
 In that regard, they were incorrect.

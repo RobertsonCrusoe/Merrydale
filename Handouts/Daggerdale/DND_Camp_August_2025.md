@@ -1,3 +1,28 @@
+---
+title: "DND_Camp_August_2025"
+slug: dnd-camp-august-2025
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Tethyamar"
+  - "Gribbons Farm"
+  - "Dagger Falls"
+  - "Greenwood Farm"
+tags: []
+---
 Jasper and Fiona and their trip to the Limestone Court
 
 Head to Greenwood Farm, arrive 1 pm

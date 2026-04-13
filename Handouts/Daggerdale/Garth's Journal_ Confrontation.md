@@ -1,3 +1,35 @@
+---
+title: "Garth's Journal_ Confrontation"
+slug: garth-s-journal-confrontation
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: todd
+curator: ""
+pov: "Garth"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Beljuril"
+  - "Boregar"
+  - "Garth Shanks"
+  - "Sal Worthingham"
+  - "Ailyan"
+  - "Issilith Dalael"
+  - "Lendon"
+  - "Quellar Dalael"
+  - "Thebald Rockfist"
+locations:
+  - "Waterdeep"
+  - "Sembia"
+tags: []
+---
 [PC Attribution: Garth Shanks (Todd Burry)]
 ...from the private journals of Garth Shanks
 

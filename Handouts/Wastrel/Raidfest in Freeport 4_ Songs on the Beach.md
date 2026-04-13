@@ -1,3 +1,25 @@
+---
+title: "Raidfest in Freeport 4_ Songs on the Beach"
+slug: raidfest-in-freeport-4-songs-on-the-beach
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Waterdeep"
+tags: []
+---
 == The Gaffer's Tune ==
 
 On the outskirts of the southwestern reaches of his archipelago the ship dropped anchor near a small sandy island that looked to the south, protected on the other sides by hills covered in sparse tropical grass.

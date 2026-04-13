@@ -1,3 +1,55 @@
+---
+title: "Red Herrings - Campaign Summary [unreviewed] - Les Blackwell - Apr 2002"
+slug: red-herrings-campaign-summary-unreviewed-les-blackwell-apr-2002
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: "2026-04-06"
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Yarkul"
+  - "Jafar"
+  - "Beljuril"
+  - "Esperel"
+  - "Zaltim"
+  - "Agamemnon"
+  - "Drake"
+  - "Grandfather"
+  - "Teskul"
+  - "Xulla"
+  - "Corrina"
+  - "Razor"
+  - "Ebenezer"
+  - "Grimwald"
+  - "Ryerson"
+  - "Oberon"
+  - "Egan"
+  - "Venosar"
+  - "Warburden"
+locations:
+  - "Dagger Falls"
+  - "Waterdeep"
+  - "Shadowdale"
+  - "Loudwater"
+  - "Dagger Hills"
+  - "Sembia"
+  - "Secomber"
+  - "Castle Daggerdale"
+  - "Cormanthor"
+  - "Yulash"
+tags:
+  - "military"
+---
 SOURCE INFORMATION
 Source File: Red Herrings - Campaign Summary [unreviewed].pdf (from To Process folder)
 Original Title: Microsoft Word - summary edit.doc

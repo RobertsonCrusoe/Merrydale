@@ -1,3 +1,25 @@
+---
+title: "Pride"
+slug: pride
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Cormanthor"
+tags: []
+---
 , elder fey]]
 \"Word of your actions have made their way to my ears. I am pleased, my son.\"
 

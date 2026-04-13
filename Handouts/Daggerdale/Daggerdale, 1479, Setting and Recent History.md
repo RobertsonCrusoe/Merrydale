@@ -1,3 +1,38 @@
+---
+title: "Daggerdale, 1479, Setting and Recent History"
+slug: daggerdale-1479-setting-and-recent-history
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Rewel Thunderstorm"
+  - "Ailyan"
+  - "Ardelusk Whitegate"
+  - "Argent Whitegate"
+  - "William Cormaeril"
+  - "Luminous Whitegate"
+locations:
+  - "Castle Radiance"
+  - "Dagger Falls"
+  - "Cormanthor"
+  - "Tethyamar"
+  - "Morning Star Cathedral"
+  - "Sembia"
+  - "Dagger Hills"
+  - "Shadowdale"
+tags: []
+---
 == 1372-1400: Peace in the Dale ==
 thumb|Symbol of Lathander, the Morninglord
 Dagger Falls and the Dale as a whole experienced the most peaceful years it ever knew following 1372. The cults of the evil gods had been eliminated, and Daggerdale was ruled by a tripartite council composed of the High Priest of Lathander, Rewel Thunderstorm, the High Priest of Mystra, Yarron Forrestar, better known as Sparrow, and Lord William Cormaeril. Cormaeril was always a weak ruler, however, and the two churches held great power in the Dale, and for the better.

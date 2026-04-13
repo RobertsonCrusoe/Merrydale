@@ -1,3 +1,32 @@
+---
+title: "Journal of Iolus Warburton - From the Archives of Hicks"
+slug: journal-of-iolus-warburton-from-the-archives-of-hicks
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Iolus Warburton"
+  - "Lumina Whitegate"
+  - "Vanion Creed"
+  - "Alen Reks"
+  - "Alystair Dretch"
+locations:
+  - "Liberty Hill"
+  - "Castle Daggerdale"
+tags:
+  - "military"
+---
 Journal of Iolus Warburton - From the Archives of Hicks
 by Hicks (as Iolus Warburton), shared by Stephen Robertson
 Email thread: "Getting Caught Up", 18-19 Feb 2026

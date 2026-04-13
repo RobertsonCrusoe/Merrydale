@@ -1,3 +1,29 @@
+---
+title: "Gilth'zan's Letter to Malkor"
+slug: gilth-zan-s-letter-to-malkor
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Gilth'zan"
+  - "Ansal Bloodshoulder"
+  - "Malkor Githeas"
+  - "Yarkul"
+  - "Zaltim"
+locations: []
+tags: []
+---
 This note to Malkor Githeas from Gilth'zan was intercepted by the Harper leader of the village of Thundertree, Ansal Bloodshoulder.
 
 Malkor;

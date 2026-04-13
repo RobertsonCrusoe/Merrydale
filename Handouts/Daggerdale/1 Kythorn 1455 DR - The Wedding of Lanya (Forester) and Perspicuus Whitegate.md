@@ -1,3 +1,28 @@
+---
+title: "The Wedding of Lanya (Forester) and Perspicuus Whitegate"
+slug: the-wedding-of-lanya-forester-and-perspicuus-whitegate
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1 Kythorn 1455 DR"
+date_ic_sort: 1455153
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Decker Blackmane"
+locations:
+  - "Liberty Hill"
+  - "Sembia"
+tags:
+  - "military"
+---
 Kythorn 1, 1455 DR
 
 Compiled from notes written by Decker Blackmane many years after the incident.

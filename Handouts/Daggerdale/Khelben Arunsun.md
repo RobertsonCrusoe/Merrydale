@@ -1,3 +1,10 @@
+---
+title: "Khelben Arunsun"
+slug: khelben-arunsun
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 broods over the events that plague his city.]]
 Khelben 'Blackstaff' Arunsun is a powerful wizard in the City of Waterdeep. 
 

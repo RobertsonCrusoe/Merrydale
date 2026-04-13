@@ -1,3 +1,33 @@
+---
+title: "Round One to Chrysalis - Tournament Narrative and Song"
+slug: round-one-to-chrysalis-tournament-narrative-and-song
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alexandus"
+  - "Tara Hilltop"
+  - "Zelia Oakbough"
+  - "Lucan Alavandor"
+locations:
+  - "Dagger Falls"
+  - "Saerloon"
+  - "Sembia"
+  - "Shadowdale"
+  - "Thistle Ridge"
+tags: []
+---
 The scene is the opening event of a tournament to secure the rights to retake and resettle a farming compound called Thistle Ridge. The farm fell almost forty years ago under mysterious circumstances. It was stormed by a united front of goblins, hobgoblins, and orcs. The town of Dagger Falls is hosting the tournament.
 
 The competing teams on the first day are:

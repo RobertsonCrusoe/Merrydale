@@ -1,3 +1,33 @@
+---
+title: "Report from Alystair Dretch to Captain Whitegate"
+slug: report-from-alystair-dretch-to-captain-whitegate
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Alystair Dretch"
+source: handout
+date_ic: "6 Marpenoth 1479 DR"
+date_ic_sort: 1479281
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Lotus"
+  - "Alystair Dretch"
+  - "Invictus"
+  - "Roger Dunland"
+  - "Tuugan Swift"
+  - "Yarlick Mean"
+locations:
+  - "Dagger Falls"
+  - "Liberty Hill"
+  - "Quick Axes"
+tags: []
+---
 DDC – 1479 – 1: Report from Alystair Dretch to Cpt. Whitegate 
 Wherein he describes the discovery of the Dark Garden, and the coven-leader named Lotus 
 GFD Notes: 

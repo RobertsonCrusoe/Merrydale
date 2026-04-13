@@ -1,3 +1,26 @@
+---
+title: "Wastrel - Kethoth's Journal - Flamerule 1373 complete"
+slug: wastrel-kethoth-s-journal-flamerule-1373-complete
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Kethoth"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "kethoths-journal"
+order: ""
+characters:
+  - "Kossur"
+locations: []
+tags:
+  - "military"
+---
 [PC Attribution: Chadrazzan Kossur (Les Blackwell)]
 .  We nearly came to a bad end, if not for the intervention of one misguided youth named Nolan Scariswick.  Young Scariswick found himself in a game much larger than he wished to play, when he cast his lot with the pirates that boarded and commandeered the Wastrel (a feat they would not have accomplished, if not for the inside help from our former diminutive cook).  However, he was enterprising enough to realize that the only way out of the game was to stack the deck against the very pirates that he had come on board with.
 
@@ -5,20 +28,16 @@ After a brief and bloody melee, we found ourselves pitching battered and sliced 
 if the sea will give him (cooky) a second chance, then so be it!
 But, no second chance is forthcoming, and
 The Sea
-, nor any gods shall have a chance to intervene.  For I have summoned forth a half dozen Abyssal Sharks to see to cooky
-s last meal.
+, nor any gods shall have a chance to intervene.  For I have summoned forth a half dozen Abyssal Sharks to see to cooky's last meal.
 Later in the day
 We have spoken with young Scariswick, and he insists that he is of noble blood from a small island amongst the Moonshaes.  I perceive that he is either lying about the noble status of the Scariswicks, or that he is exaggerating their importance in this world.  I will soon learn for certain, though.  We have promised to deliver him back to his little corner of the world, which is only 2 days from here, as I calculate.
 
 Of the Moonshaes, I know little.  But, their geographical positioning is appealing to me.  I don
 
 t think I can go further west without vanishing altogether, or landing upon Terra Obscura.  They will not be looking for me in the Moonshaes.
-I shall do my best to keep the boy
-s company for the next couple of days (loathsome though this pink-skinned whelp may be) and learn what I might of his Archipelago Home.
+I shall do my best to keep the boy's company for the next couple of days (loathsome though this pink-skinned whelp may be) and learn what I might of his Archipelago Home.
 Two days later
-We were expecting to find a large river, broad and deep enough to bear the Wastrel all the way to the Barony Of Scariswick, but have found but a trickling stream in it
-s stead.  Further, the verdant fields of which Nolan
-s mouth would not cease to describe for the last couple of days have turned out to be brown hills that the scorpions from home might find inhospitable.  I do not think Nolan was lying about his home.  I think it is much changed since he left.  Indeed, no such climate of drought should naturally exist in such a temperate and small island.
+We were expecting to find a large river, broad and deep enough to bear the Wastrel all the way to the Barony Of Scariswick, but have found but a trickling stream in it's stead.  Further, the verdant fields of which Nolan's mouth would not cease to describe for the last couple of days have turned out to be brown hills that the scorpions from home might find inhospitable.  I do not think Nolan was lying about his home.  I think it is much changed since he left.  Indeed, no such climate of drought should naturally exist in such a temperate and small island.
 
 As it stands, the Captain is asking for volunteers to go ashore to see the boy safely home, and I have stepped forward.  I wish to examine this island closer, and see what kind of lovely people might be found there.  Perhaps a nice, young human female might find me charming enough
 
@@ -32,8 +51,7 @@ all day, and found not a single creature stirring.  But it was not long into the
 My watch was interrupted by a pair of two-headed giants, some fifteen feet in height.  I heard their approach, and sent off a Devil Dog to investigate.  It quickly ran out of my sight, but it soon found the giants, and battle was joined.  I woke my two shipmates and our fleshy burden, in time for them to prepare for the approach of the giants.
 
 I must confess that I was at first worried for my welfare.  These creatures were large, and dispatched even my Devilish Dire Wolves with ease.  What is worse is that their keen noses (all four of them!) were able to detect me, invisible though I was.  Even if these huge beasts ate my whole party, I still might not be safe!
-But, at length we managed to fell the huge monsters.  Brenean
-s skills with his blade are noteworthy, and May is certainly a dangerous witch.  She can call down the elements themselves, all day, seemingly.  There are few women who harness this much power in my lands, but I am far from home, and wonders never cease.
+But, at length we managed to fell the huge monsters.  Brenean's skills with his blade are noteworthy, and May is certainly a dangerous witch.  She can call down the elements themselves, all day, seemingly.  There are few women who harness this much power in my lands, but I am far from home, and wonders never cease.
 Day Two
 I have had some good food this day.  But let me start at the beginning.
 We spent the day on the dusty road, following the choked river.  At length we came to the village of the Barony of Scariswick.  It is easy to imagine this quaint village as a perfectly wholesome and rustic community blessed with bounty and fortune.  The hills seem perfect for farming and livestock, and thick forests border it all.  But the fields are brown, and the farmers move with no particular alacrity.  They remind me more of the field-slaves from home, rather than the lusty and energetic Heartlands farmers that I have seen many of in my recent travels (and whom these people are clearly closely related to).  They move like those with empty bellies and sinking spirits.  How I delighted to see some misery again!  I was beginning to think that the further west one went the sunnier and happier things became.
@@ -46,13 +64,11 @@ We soon found ourselves in a drawing room in the old castle.  Though small, it i
 
 s charms.  The stone is old, and that is certain.  It is of an architectural style much hinted at, but not fully employed, in the Heartlands that I have traveled through.  It is my suspicion that the simple stone architecture of this place is the ancestor of much greater works on mainland places like Westgate and Baldur
 
-s Gate.  This castle is old, too.  The wear on the steps betrays several hundred, if not some thousands, of years of treading feet.  I like this place, though not it
-s fleshy inhabitants.
+s Gate.  This castle is old, too.  The wear on the steps betrays several hundred, if not some thousands, of years of treading feet.  I like this place, though not it's fleshy inhabitants.
 Baron Scariswick is indeed the father of the youth who has brought us here.  The Baron is not a man given to displays of emotion.  This I respect.  But he is somewhat thick around the middle, and though he was quite dirty behind the ears and complained of working in his orchard, I suspect he is of a lazy nature.  He is certainly simple, no mistake.
 
 The Baroness is a fine enough looking woman, though.  Her red hair and lusty complexion I will always associate with these people.  She looked one-quarter fire elemental, even if only in my mind.  She was quiet, though, and suspicious.  I could enjoy her for a score of nights, but no more.  She would give great sport, though, I can clearly see.
-The Baron
-s family also includes
+The Baron's family also includes
 of all things I love
 a daughter.  A lovely young thing that recoiled deliciously from me.  Her name is Lydia, and she appears to be of an age close to Nolan
 
@@ -65,8 +81,7 @@ s something I could really sink my teeth into.  Blue-eyed Anna.  She has many fe
 As proper a feast as can be drawn in such lands in such times was made to celebrate the return of the Baron
 
 s son.  The food was solid and good.  Fine mutton was the heart of the meal, with some precious greens for colour and such.  The wine was below average, though sweeter for not rocking to and fro with the roll of a ship.
-Another guest at the Baron
-s feast was one Glenyth Tempusson, an old and atrophying priest of Tempus.  Glenyth guesses something about me, or I am just paranoid.  The man will never warm to me, though this troubles me not.
+Another guest at the Baron's feast was one Glenyth Tempusson, an old and atrophying priest of Tempus.  Glenyth guesses something about me, or I am just paranoid.  The man will never warm to me, though this troubles me not.
 
 We had good opportunity to discuss the drought in this land.  Droughts, the Baron says, come and go as a matter of decades.  This drought seemed to him a little longer than usual, though.
 
@@ -76,9 +91,7 @@ Certainly, the land seems plagued presently, and this put me in a mind to examin
 
 Anyway, we discussed other things as well.  The roads are not safe to travel, and patrols from the Duchy of Heidelban (the next order of government in this land) are weeks overdue.  As well, messengers sent by the Baron to the Duke have not been heard from either.  It has been suggested that creatures from the hills are attacking travelers on the roads, as their own food supplies run short.  This is a good natural explanation of some symptoms of what is surely an unnatural disorder.
 
-We plan to set out in the morning to see the Duke of Heidelban, to gather what information we can.  May and Brenean feel a sense of duty to the young Scariswick for his role in pulling us out of the Pirate
-s kettle.  I feel no such duty, however.  I feel that the young villain
-s role in our capture has been glossed over, and that our praise of his betrayal of his colleagues is misplaced.  I go for my own purposes, and hope that a chance to repay the little pirate in my own fashion will present itself.
+We plan to set out in the morning to see the Duke of Heidelban, to gather what information we can.  May and Brenean feel a sense of duty to the young Scariswick for his role in pulling us out of the Pirate's kettle.  I feel no such duty, however.  I feel that the young villain's role in our capture has been glossed over, and that our praise of his betrayal of his colleagues is misplaced.  I go for my own purposes, and hope that a chance to repay the little pirate in my own fashion will present itself.
 Day Three
 Our journey today was decidedly boring: more brown hills and lifeless forest, and barely a track in the dirt to break the tedium.  Tonight we heard wolves howling in the distance.
 
@@ -101,8 +114,7 @@ It worked!  Tonight we light a huge fire, and sure enough, we were attacked.  Wh
 
 We were set upon by a most hideous, and heretofore unknown (by me, at least) creature in the middle of the night (drawing by Kethoth on opposite page).  This betentacled, furry and chittenous creature attacked with its great claws, and by sticking men whole in it
 
-s tentacled mouth.  The tentacles, or his mouth, or something else, caused a paralysis in it
-s victims that lasted for a matter of many seconds, but not longer.
+s tentacled mouth.  The tentacles, or his mouth, or something else, caused a paralysis in it's victims that lasted for a matter of many seconds, but not longer.
 While this creature proved more than a match for our men, paralyzing 3 of them in less than 20 seconds, it was not even a challenge for the Devil the Witch and the Windwalker.  It did seem possessed of some intelligence, for it perceived me to be it
 
 s greatest threat, and pursued me vehemently.  Through some luck, I managed to keep myself from that squid-like maw, and continued to summon an assortment of creatures to lay it low.  Once again, May and Brenean proved to be able adventurers and combatants, using powerful attacks with prudent timing to assist me in my victory.
@@ -111,9 +123,7 @@ It was not long after the aberration was defeated, and camp again calmed, when a
 soldiers
 that we are baby-sitting.  What the orc had in mind is not clear, but it quickly fled the scene when an organized opposition was formed and confrontation made.
 
-The orc seemed to use a Charm Person spell, or some ability of very similar qualities, to bewitch our party.  Using my hour glass, I was able to determine that the effects of the orc
-s charm lasted only 5 hours, which gives me some measure of it
-s magical ability (very little, indeed).
+The orc seemed to use a Charm Person spell, or some ability of very similar qualities, to bewitch our party.  Using my hour glass, I was able to determine that the effects of the orc's charm lasted only 5 hours, which gives me some measure of it's magical ability (very little, indeed).
 Day Seven
 The men are eyeing me even more suspiciously today.  None would eat their breakfast while I was near, and none would meet my gaze.  I assume that they are somewhat taken aback by my employment of a few demons and a couple giant undead skeletons, last night.  The smaller the mind, the greater the fear it experiences
 
@@ -122,8 +132,7 @@ Today we tracked the aberration back to its cave, and there we did find the char
 I have kept a couple of the skulls, as they make fine accoutrements for any lab or library.  May is also floating around the macabre remains of the most intact torso/neck/head of the recently slain.  This is infinitely entertaining for me; the guards retch from the smell, and recoil from the horror of their mutilated colleague.  May carries out her business with the bearing of the dignified professional adventurer that I have come to expect of her, and Brenean attempts to console the grieving, whining whelps that we are towing around the country side.  I merely chuckle and smile, and the guards are put off even more.  Beautiful.
 
 Our reason for the portage of such a grisly cargo is that Brenean will attempt to ask the materia mortis a few questions tomorrow, after he has consulted his god for the appropriate prayer. Apparently this magic will access the memories left in the rotting brain, and will trigger the voice mechanism to fire and give us answers.  I find this somewhat base, but intriguing.  It seems like trying to write a book using a blunt rock for a stylus and misshapen chunk of bark for paper.  But, his heart is in the right place.
-We also tracked the orc today, but this creature tested the limits of Brenean
-s tracking ability, and escapes us.
+We also tracked the orc today, but this creature tested the limits of Brenean's tracking ability, and escapes us.
 As I write this, I have just finished arguing with the cowardly guards that we are guarding.  They wish to have no large fire tonight.  One argued that we have killed the creature that was plaguing the road, and that there was no need for a fire.
 If the creature is dead, then no harm can come of a fire
 replied I to this coward.
@@ -152,8 +161,7 @@ The rest of the day was uneventful, as was our night.
 Day Nine
 We marched hard into Scariswick today.  Well, the
 soldiers
-marched hard.  We were carried aloft by Mayvri
-s Discs.  This is truly a dignified and proper conveyance for those such as myself.
+marched hard.  We were carried aloft by Mayvri's Discs.  This is truly a dignified and proper conveyance for those such as myself.
 
 We made Scariswick by dark, and went immediately to the castle.  We updated the Baron, who in turn gave us some updates.  He indicates that 2 villagers went missing at the maws of wolves just yesterday.  I suppose I made some sort of inappropriate gesture at this news.  Did I chuckle?  Did I simply smile or speak aloud my praise for wolves?  I remember not.  But the Baron was displeased with me, and it was only begrudgingly that he let me stay the night in the castle.
 But the entire night I did not go, before making my leave of this place.
@@ -170,8 +178,7 @@ was as a drop of honey to me.  I smiled, and attempted to make a logical retort 
 And there I stood in that kitchen, with my devilish little imp cackling and cornering his precious little daughter which it had ensorcelled, making threats to his barony and challenging his wit.  He played the only trump card he had;
 My castle, my rules!  No Devils allowed!
 Those, of course, were not his exact words.  But, to sum things up, I was kicked out of his house.  To my credit, I did not kill any of them, or even threaten to do so, I think.
-I retired to the local tavern, Steppin
-s Rest, which we had bought drinks at before heading out to Heidelban.  Steppin is a man who has no love for me, and though rooms there cost most people one gold, mine was five.  I was somewhat annoyed at this disparity, and might have acted out, if not for the intervention of Brenean, who had shown up with my things.
+I retired to the local tavern, Steppin's Rest, which we had bought drinks at before heading out to Heidelban.  Steppin is a man who has no love for me, and though rooms there cost most people one gold, mine was five.  I was somewhat annoyed at this disparity, and might have acted out, if not for the intervention of Brenean, who had shown up with my things.
 
 Brenean paid for the room and some drinks.  We sat down and made some very humorous reenactments of the scene in the kitchen of the castle.  As it turns out, both of us absolutely reveled in that encounter and after some good laughs, and a few drinks we made our first honest toast together.
 Brenean raised his glass.
@@ -187,8 +194,7 @@ Much later in the night, May met the Baron in his orchards.  Neither could sleep
 
 s life from a score of giant rats.  May levitated the Baron to safety, and then proceeded to call down the elements upon the hoard, destroying them to the last.
 
-In her discussion with Scariswick after this encounter, the man confessed that he found his daughter
-s recent behavior unnatural and troubling.
+In her discussion with Scariswick after this encounter, the man confessed that he found his daughter's recent behavior unnatural and troubling.
 Day Ten
 Today has been a long day indeed.  Much has been learned, and many heroic deeds performed.
 But let me start at the beginning
@@ -197,8 +203,7 @@ At breakfast at the inn, May told us of her night, and of the rats.  Immediately
 Well, if everyone would have listened to the seasoned, educated, professional tomb robber from
 Mulhorand
 7 days ago, we would have saved ourselves a trip to that glittering cosmopolitan gem that is Heidelban.  Those rat tracks led us right to the ancient graveyard outside of the village.
-We weren
-t long poking around the graveyard when a pair of gargoyles attacked Brenean.  They were quickly dispatched by the three of us, and lead us right to the appropriate mausoleum.  I summoned forth the largest zombie I could muster to smash through the front doors.  This method is a little crude, I admit, but I was not quite prepared for a tomb raiding, as it were.
+We weren't long poking around the graveyard when a pair of gargoyles attacked Brenean.  They were quickly dispatched by the three of us, and lead us right to the appropriate mausoleum.  I summoned forth the largest zombie I could muster to smash through the front doors.  This method is a little crude, I admit, but I was not quite prepared for a tomb raiding, as it were.
 
 Brenean was first inside the mausoleum, and he was quickly set upon by what I suspect to be three vampire spawn.  Although we quickly and easily laid them low, with all our spell reservoirs being full and ready, we were actually foolish enough to not finish the job properly by dragging them out into the sun to destroy them for good.  I felt like quite the amateur tomb raider and necrologist, I must say.
 
@@ -211,11 +216,9 @@ Returning to the village, we went immediately to the castle.  I waited outside n
 Sure as sunshine, it turned out that Lydia was in fact serving the vampire Baron Maskil, and had been doing so since about the time that the drought began.  She had encountered him by chance, when the same wanderlust found in the blood of her sibling that brought us all here, led her to the old grave.
 
 Brenean and I both have varying suspicions about the arrival of the vampire.  Brenean believes that Maskil was somehow freed when the drought began.  Indeed, the graveyard is on a small island, in the middle of a tributary to the main river we have been traveling along for days.  This tributary, of course, is presently very low, and this may have something to do with Maskil being up and about.  Fortunately, the water is still high enough that he cannot cross.
-My theory is this; that the burgeoning womanhood of the Baron
-s daughter, complete with her crimson flow from her organ of progeny, attracted the entombed Baron Maskil.
+My theory is this; that the burgeoning womanhood of the Baron's daughter, complete with her crimson flow from her organ of progeny, attracted the entombed Baron Maskil.
 
-Whatever the case may be, she is certainly under his power, though the two clerics present are able to subvert this influence, for a time.  The little minx was interrogated using a zone of truth, with May backing this plan up with a prudent detect thoughts.  We were able to learn that the girl had been luring people to the island grave yard for the baron; she had lead the messengers there, and was also aware of an orc that was buried outside the watery ring containing the island.  Surely, this is the orc that attempted to ensorcel us.  She knew roughly where this orc had been buried, and we resolved to find this fourth servant of Maskil
-s as soon as possible.
+Whatever the case may be, she is certainly under his power, though the two clerics present are able to subvert this influence, for a time.  The little minx was interrogated using a zone of truth, with May backing this plan up with a prudent detect thoughts.  We were able to learn that the girl had been luring people to the island grave yard for the baron; she had lead the messengers there, and was also aware of an orc that was buried outside the watery ring containing the island.  Surely, this is the orc that attempted to ensorcel us.  She knew roughly where this orc had been buried, and we resolved to find this fourth servant of Maskil's as soon as possible.
 Later in the day, we did indeed find the grave of the orc, though it was empty.
 Tonight, I have been patrolling the orchards and around the village and castle, but no trouble came, as I suspected.  The vampire and its spawn are not able to cross running water, and both are on the other side of the main river.
 
@@ -231,11 +234,9 @@ We set out at first light to raid the tomb of Baron Claudius Maskil.  From the v
 s might.  Further, I need no dim witted islander along with us, hindering my style of problem solving.
 
 May and Brenean insisted that this old liability come along with us, and I relented.  I have taken this stance of pliability with these two all along, so why change now?  I knew no good would come of his accompanying us, and it didn
-At any rate, the four of us made our way to Maskil
-s tomb.  I found some very light abjurative magic upon the doors to his resting-place, and took these to be alarms of a sort.  In fact, they must have been.  For Maskil was waiting for us, quite prepared
+At any rate, the four of us made our way to Maskil's tomb.  I found some very light abjurative magic upon the doors to his resting-place, and took these to be alarms of a sort.  In fact, they must have been.  For Maskil was waiting for us, quite prepared
 
-We found ourselves outside of a door we were incapable of opening, knowing that Maskil was somewhere on the other side.  We knew that Maskil was turning to a gaseous form to travel through his doors, and, as it turns out, Brenean is also able to do this same trick, as some form of boon from his god.  He (foolishly) agreed to mist in through the door and unlock it for us.  I thought this might not be wise, and was a little concerned that we would be raiding the tomb of not only Maskil, but that of the Windwalker
-s as well.
+We found ourselves outside of a door we were incapable of opening, knowing that Maskil was somewhere on the other side.  We knew that Maskil was turning to a gaseous form to travel through his doors, and, as it turns out, Brenean is also able to do this same trick, as some form of boon from his god.  He (foolishly) agreed to mist in through the door and unlock it for us.  I thought this might not be wise, and was a little concerned that we would be raiding the tomb of not only Maskil, but that of the Windwalker's as well.
 Things could have gone very poorly for us.  In our haste and ignorance, we were unprepared for what happened next.  Brenean returned to his solid state, in order to light up the room into which he had just misted, and also to open the door.  What he found was the very rest-chambre of the Baron himself, and the Baron waiting there for him.  I suspect that the Baron initially attempted to control Brenean
 
 s will, but this failed, and bought the Windwalker the precious time he needed to open the door, and give myself and the Witch access to our quarry.

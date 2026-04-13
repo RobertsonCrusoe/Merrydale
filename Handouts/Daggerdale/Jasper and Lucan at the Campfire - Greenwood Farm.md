@@ -1,3 +1,27 @@
+---
+title: "Jasper and Lucan at the Campfire - Greenwood Farm"
+slug: jasper-and-lucan-at-the-campfire-greenwood-farm
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Greenwood Farm"
+  - "Jasper and Lucan at the Campfire - Greenwood Farm"
+  - "Thistle Ridge"
+tags: []
+---
 Jasper and Lucan at the Campfire - Greenwood Farm
 Date: 22 April 2025
 From: Gus Miranda (responding to Stephen Robertson's Palus dossier)

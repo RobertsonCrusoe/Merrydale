@@ -1,3 +1,24 @@
+---
+title: "Epiphany"
+slug: epiphany
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 \"I've had an ephiphany, neighbour,\" Eremus said jovially as he seated himself next to the trembling human's head. The elf leaned his imposing, freshly-stained axe against one knee and wiped his hands against his hide leggings. \"You don't mind me calling you neighbour, do you? How about brother? After all, when you think about it we're all one big family, every single one of us.\" He smiled at the thought. His companion didn't reply.
 
 The elf glanced downwards. The foreman's face was very red, with tears or sweat or both leaving a disgusting sheen over his ruddy skin. Eremus wiped his own brow, noting the moisture, coughing slightly afterwards. The air was thick with smoke and heat. The avenger looked around himself at the mess they had made - the lumberyard was gripped in conflagration, irrevocably so. Several of the woodcutters had attempted to form a chain of some sort, passing buckets of water from the well to put out the flames, but it was very much a lost cause. Many of the round-ears had already fled, abandoning their livelihoods without so much as a second thought.

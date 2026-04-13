@@ -1,3 +1,24 @@
+---
+title: "A Twist in the Tale"
+slug: a-twist-in-the-tale
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 It had only been a day since Carpathia had left the side of the Gryphon.
 
 Some thought in her mind tugged at her, and she found concentration difficult. She had decided to skirt the Snowflake Mountains rather than attempting to cross them with her horse and cart. She wrote of the incessant thrumming in her head as guilt for not having buried the wondrous creature before she left. But something told her the Gryphon was not meant to be interred in stone and earth. It was only after setting up camp, and finishing a sparse meal that the real reason struck her. The feather.

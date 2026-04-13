@@ -1,3 +1,29 @@
+---
+title: "Kethoth's Journal_ Saharelgard (Part 7 - The Mercykillers)"
+slug: kethoth-s-journal-saharelgard-part-7-the-mercykillers
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Kethoth"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "kethoths-journal"
+order: 70
+characters:
+  - "Baird"
+  - "Chara"
+  - "Ailyan"
+  - "Kossur"
+  - "Saharel"
+locations: []
+tags: []
+---
 [PC Attribution: Chadrazzan Kossur (Les Blackwell)]
 Mirtul 22
 

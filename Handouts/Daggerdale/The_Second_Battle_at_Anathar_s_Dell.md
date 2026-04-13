@@ -1,3 +1,32 @@
+---
+title: "The_Second_Battle_at_Anathar_s_Dell"
+slug: the-second-battle-at-anathar-s-dell
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Drake"
+  - "Boregar"
+  - "Gauntlet"
+  - "Storm Silverhand"
+locations:
+  - "Anathar's Dell"
+  - "Shadowdale"
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 The Second Battle at Anathar's Dell 
 
 The night of the 6th, a great conference was held in the Twisted Tower.  Lord Amcathra hosted a meeting with the DE, the knights of the order, and the two leaders of the bifurcated church of Lathander.  There were many discussions as to what was the best course of action.  As well, Sir Soulbright sued for some troops from Amcathra, but he could spare none.  The only Shadow Dalesmen that would accompany the warparty would be a select few priest of Lathander from the Thunderstorm faction of the church of Lathander. 

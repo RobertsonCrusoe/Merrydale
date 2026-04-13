@@ -1,3 +1,37 @@
+---
+title: "On Beholders"
+slug: on-beholders
+type: session
+campaign: daggerdale
+voice: ooc
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Xulla"
+  - "Beljuril"
+  - "Jafar"
+  - "Esperel"
+  - "Vuldan"
+  - "Zantiid"
+  - "Amon"
+  - "Dally"
+  - "Quellar Dalael"
+  - "Y'morth Dalael"
+  - "Yarkul"
+locations:
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 [RAW - UNEDITED AND UNREVIEWED - extracted by automated process, not yet verified for accuracy or completeness]
 
 On Beholders

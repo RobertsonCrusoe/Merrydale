@@ -1,3 +1,36 @@
+---
+title: "A Storm from the East"
+slug: a-storm-from-the-east
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Grandfather"
+  - "Janus"
+  - "Amon"
+  - "Gond Pistola"
+  - "Rewel Thunderstorm"
+  - "Shildevan"
+  - "Warburden"
+  - "Xulla"
+  - "Zantiid"
+locations:
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 ===HARVESTIDE===
 By the time things were cooled off in Dagger Falls, Harvestide was upon the Dales. Winter was coming, and it the DE were way past overdue to leave. All signs indicated that the Tablets were weeks ahead of the DE, but they planned on catching them anyway.
 

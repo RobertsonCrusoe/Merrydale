@@ -1,3 +1,27 @@
+---
+title: "Mattrick's Journal — All is lost_ 26th Mirtul, 1479"
+slug: mattrick-s-journal-all-is-lost-26th-mirtul-1479
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Mattrick"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Baird"
+  - "Janus"
+  - "Kethoth Sepret"
+locations: []
+tags: []
+---
 26th of Mirtul, 1479 DR
 
 It is only a handful of hours past sunrise and the last day and a half has been fraught with peril.  We have done battle with an army of hobgoblins and some manner of orc warband that is far past the typical orcs one might encounter.

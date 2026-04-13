@@ -1,3 +1,35 @@
+---
+title: "The Shadow Lifted, Part 4"
+slug: the-shadow-lifted-part-4
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "the-shadow-lifted"
+order: 40
+characters:
+  - "Braxus"
+  - "Gaebril Tremalkin"
+  - "Troia Trustar"
+locations:
+  - "Tethyamar"
+  - "Liberty Hill"
+  - "Yellow Abbey"
+  - "Dagger Falls"
+  - "Waterdeep"
+  - "East Gate"
+  - "Tesh Valley"
+tags:
+  - "military"
+---
 ==The Kingdom of Tethyamar==
 I would probably not be writing this as I am, if not for Tethyamar. As I have mentioned, and has been recorded in greater works, the Tethyamar League won the day at the Siege of Lastsun, and effectively ended the war, for now, with Netheril. Netheril took such terrible losses that they could not continue any sort of aggression. Unfortunately, they have never sent a delegation to discuss a truce, so we can only assume that there is more hostility on the horizon, when they have the means to carry it out.
 

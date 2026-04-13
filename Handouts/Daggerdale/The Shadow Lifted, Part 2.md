@@ -1,3 +1,41 @@
+---
+title: "The Shadow Lifted, Part 2"
+slug: the-shadow-lifted-part-2
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "the-shadow-lifted"
+order: 20
+characters:
+  - "Drake"
+  - "Braxus"
+  - "Lotus"
+  - "Gaebril Tremalkin"
+  - "Kruhwahll"
+  - "Lumina Whitegate"
+  - "Neddle"
+  - "Alystair Dretch"
+  - "Drake Sterling"
+  - "Invictus"
+  - "Pauldron"
+  - "Zuldrick"
+  - "Belladonna Liberty"
+locations:
+  - "Liberty Hill"
+  - "Tethyamar"
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 ==Immediate Aftermath of the Saints' Battle==
 right|450px|thumb|A Knight of the Order of the Lambent Shield fights among the undead at the Saints' Battle
 

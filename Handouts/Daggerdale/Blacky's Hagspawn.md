@@ -1,3 +1,25 @@
+---
+title: "Blacky's Hagspawn"
+slug: blacky-s-hagspawn
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Saerloon"
+tags: []
+---
 On the Heterochromia of Hagspawn
 Once known as ‘Changelings’ or ‘Quicklings’ by the Ancient Netherese (and earlier peoples, what ho?!), we have called them Hagspawn in these parts of Faerun for as long as I can remember, and that’s long enough even by elvish measures now. I should start with the boys, because this is where the biggest misconceptions arose so lo ago.
 

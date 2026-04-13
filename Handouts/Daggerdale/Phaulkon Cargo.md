@@ -1,3 +1,35 @@
+---
+title: "Phaulkon Cargo"
+slug: phaulkon-cargo
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Gauntlet"
+  - "Yarkul"
+  - "Xulla"
+  - "Alek Lenter"
+  - "Dulbrawan Anteos"
+  - "Esperel"
+  - "Gotlieb Erlgund"
+  - "Korass Anteos"
+  - "Semuldan Anteos"
+  - "Teskul"
+  - "Agamemnon"
+locations: []
+tags: []
+---
 During Harvestide of 1371, the despondent old merchant made a foolish play, and invested all he had into a cargo that would leave as late as possible from The City. The cargo was snatched away from him right in the court of the White Bull, half of the Knights of the Sword coast perishing in their effort to defend the caravan they were hired to protect. The whole thing vanished after a bloody and fiery battle. Lord Phaulkon hung himself the next day. The Cargo was then heard of by the Heroes; they found out that Co. Ersgul had gotten its claws on it, and were transporting it via sewers, out to the ship Silver Pride. Gauntlet was supposed to be leading the caravan through the sewers through a little-used passage, and had the Heroes lay in ambush. There was a two-fold ambush, however, as the very floor of the sewer came crashing down with the cargo to a sub-level, where many black-suited, silver-sashed drow were waiting to cart it off. Overseeing this was a green-eyed beholder who turned Rychel to stone without the slightest effort. In the end, the entire cargo (valued at well over 100 000 gp) went into the UnderDark with the Drow. Gauntlet somehow managed to escape.
 
 ----

@@ -1,3 +1,35 @@
+---
+title: "From the Casebook of Lucan Alavandor - The Slave Orbs and the Disappearance of Verinius"
+slug: from-the-casebook-of-lucan-alavandor-the-slave-orbs-and-the-disappearance-of-verinius
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "9 Mirtul 1483 DR"
+date_ic_sort: 1483131
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Invictus"
+  - "Lucan Alavandor"
+  - "Drake"
+  - "Drake Sterling"
+  - "Phineas Hoetmer"
+  - "Vessuvian"
+locations:
+  - "Liberty Hill"
+  - "Dagger Hills"
+  - "Charity"
+  - "Dagger Falls"
+  - "Thistle Ridge"
+tags: []
+---
 From the Casebooks of Lucan Alavandor: The Slave Orbs and the Disappearance of Verinius
 Date: 18 February 2026 (in-world date: 9 Mirtul, 1483 DR)
 From: Stephen Robertson

@@ -1,3 +1,26 @@
+---
+title: "Rufus' Will"
+slug: rufus-will
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 [PC Attribution: Rufus Larrigan (Stephen Robertson)]
 ''The last will and testament of [[Rufus of Selune]], held in the files of the Waterdeep House of the Moon''.
 ----

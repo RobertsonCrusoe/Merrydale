@@ -1,3 +1,10 @@
+---
+title: "Barnabus Traxon"
+slug: barnabus-traxon
+type: stub
+campaign: wastrel
+subtype: npc
+---
 “Old Barnaby” to nearly everyone in Loudwater; is a  fisherman and getting close to his eightieth year.  Despite his age, he  still wakes up at dawn each day and pushes out in his boat to set traps  and lines for fish in the Gray Flow.  It was Barnabus that found Brother  Griffon although some are unsure if he was “found”.  When Barnabus was  in his thirties, he left Loudwater for two weeks and when he returned,  he did so with a small and wide-eyed Griffon in tow.
 
 Barnabas raised the itinerant fisherman known as Harrigan Farshore, from the time the boy was about 10.

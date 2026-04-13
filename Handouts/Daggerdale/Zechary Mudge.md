@@ -1,3 +1,28 @@
+---
+title: "Zechary Mudge"
+slug: zechary-mudge
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Gauntlet"
+  - "Tomas Quoyle"
+  - "Zsarah Mudge"
+locations:
+  - "Waterdeep"
+tags: []
+---
 [PC Attribution: Zechary Mudge (Stephen Robertson)]
 thumb|400px|Zechary Mudge (in centre, with beard) in his natural habitat.
 15\"It is when pirates count their booty that they become mere thieves.\"

@@ -1,3 +1,26 @@
+---
+title: "History of Shyruil Talandros"
+slug: history-of-shyruil-talandros
+type: lore
+campaign: wastrel
+voice: ic
+status: raw
+tier: public
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Mendel Krioy"
+locations:
+  - "Waterdeep"
+tags: []
+---
 thumb
 Information collected by Mendel Krioy, 8th of The Monastery of Sundered Faith in 1448 DR, The Year of the Crimson Spur.  Assisted by Zalia Thrymm, Priestess of Selûne.
 

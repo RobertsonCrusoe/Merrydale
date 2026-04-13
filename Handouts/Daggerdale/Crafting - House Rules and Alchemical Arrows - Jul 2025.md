@@ -1,3 +1,24 @@
+---
+title: "Crafting - House Rules and Alchemical Arrows - Jul 2025"
+slug: crafting-house-rules-and-alchemical-arrows-jul-2025
+type: meta
+campaign: daggerdale
+voice: ooc
+status: raw
+tier: editor
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: "2026-04-06"
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 SOURCE INFORMATION
 Thread: "Crafting" (197cb4c5b9b09b74)
 Date Range: 2-14 Jul 2025

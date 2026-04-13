@@ -1,3 +1,29 @@
+---
+title: "Beholder Staves"
+slug: beholder-staves
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jafar"
+  - "Beljuril"
+  - "Kennyth Thames"
+  - "Yarkul"
+  - "Xulla"
+locations: []
+tags: []
+---
 Three of these staves are known to exist.
 
 During the Heroes' Council on Greengrass of 1373, Kennyth Thames revealed that his ongoing research into the history of the Beholder Staves had at last borne fruit. The staves first appeared, to his knowledge, in the ancient state of Chessenta in the seventh century pre-DR. The staves appear again, after a long silence, in the Moonsea region in the Year of Good Tidings (751 DR), when the Westgate wizard Zhentar is said to have used them to secure his position as the ruler of the settlement that would become Zhentil Keep. They surfaced again to be used further for the survival of the Keep in its siege during the Cyrinishad debacle.

@@ -1,12 +1,3 @@
----
-Provenance: OCR transcription of "dnd notes 02.pdf" page 1 only (page 2 is handwritten diagram)
-Source: DND Scanned Notes / OneDrive DND Scans
-Campaign: Daggerdale (Waterdeep arc — Garth's analysis of EOI/Quevin/Xvimite connection + OOC email)
-Date processed: 2026-04-03
-Utility: B (in-character Garth analysis present in "Suspicions.txt" lines ~49-54, but OOC personal email at bottom is unique; scan bundles IC and OOC content)
-Archive counterparts: Suspicions.txt (partial — Garth's EOI analysis)
-OCR notes: Mixed content document. Page 2 (handwritten "Ocular suspects" diagram) not transcribed — moved to Handwritten Notes.
----
 
 --- Page 1 of 2 (page 2 is handwritten) ---
 Yes, sorry about the name DOR. Did you realize that you didn't write Tomas' last name anywhere in that massive

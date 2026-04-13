@@ -1,3 +1,30 @@
+---
+title: "Appendix_A_-_NPCs_Thistle_Ridge_Campaign"
+slug: appendix-a-npcs-thistle-ridge-campaign
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Godwin Ferguson"
+  - "Cassimar"
+  - "Gideon"
+  - "Ambassador Whitmore"
+locations:
+  - "Charity"
+  - "Thistle Ridge"
+tags: []
+---
 Appendix A: NPCs  
 Ambassador Whitmore 
 Adjudicating committee member 

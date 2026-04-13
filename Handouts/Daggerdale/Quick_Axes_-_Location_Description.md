@@ -1,3 +1,31 @@
+---
+title: "Quick_Axes_-_Location_Description"
+slug: quick-axes-location-description
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Dalak Quickaxe"
+  - "Elowen Miratar"
+  - "William Cormaeril"
+locations:
+  - "Dagger Falls"
+  - "Quick Axes"
+  - "Saerloon"
+  - "Thistle Ridge"
+tags: []
+---
 Quick Axes 
 Owner: Dalak Quick Axe 
 Employees: 1 bar tender (Daygle Stonebridge, Dwarf), 1 innkeeper (Jewel Stonebridge, female Dwarf, wife to Daygle), 4 waitresses, 1 cook, 2 kitchen staff, 2 chambre maids, 1 master brewer (Dalak), 1 apprentice brewer. 

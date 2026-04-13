@@ -1,3 +1,31 @@
+---
+title: "Waterdeep Dossier"
+slug: waterdeep-dossier
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Egan"
+  - "Jeryth Phaulkon"
+  - "Filiare"
+  - "Kennyth Thames"
+  - "Agamemnon"
+locations:
+  - "Inn of the Dripping Dagger"
+tags:
+  - "military"
+---
 This dossier was compiled with the input of knowledgeable folk such as Jeryth Phaulkon, Egan, Kennyth Thames, and over a dozen others. Much is speculation, but much is fact.
 
 \"We must be ever vigilant against the Zhent; they are a snake that will grow a new head faster than the troll grows its foul claws; they are a hive of stirges that will nest in any vacant tree; they are leeches in the shallowest and clearest of waters, who remain, somehow, unseen.\"

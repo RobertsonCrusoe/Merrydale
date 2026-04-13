@@ -1,3 +1,10 @@
+---
+title: "Alystair Dretch"
+slug: alystair-dretch
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 15\"It has fallen upon me, now and again in my sojourns through the world, to ease various evil men of their lives...\"
 :—Robert E. Howard, The Castle of the Devil
 

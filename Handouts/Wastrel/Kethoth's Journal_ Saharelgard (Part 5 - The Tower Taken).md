@@ -1,3 +1,32 @@
+---
+title: "Kethoth's Journal_ Saharelgard (Part 5 - The Tower Taken)"
+slug: kethoth-s-journal-saharelgard-part-5-the-tower-taken
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Kethoth"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "kethoths-journal"
+order: 50
+characters:
+  - "Thoran"
+  - "Baird"
+  - "Saharel"
+  - "Ailyan"
+  - "Kossur"
+  - "Turnigal"
+  - "Kethoth Sepret"
+  - "Radha Leveaux"
+locations: []
+tags: []
+---
 [PC Attribution: Chadrazzan Kossur (Les Blackwell)]
 20 Mirtul
 

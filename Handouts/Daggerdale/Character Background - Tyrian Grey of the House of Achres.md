@@ -1,3 +1,29 @@
+---
+title: "Character Background - Tyrian Grey of the House of Achres"
+slug: character-background-tyrian-grey-of-the-house-of-achres
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Reynard"
+  - "Lucion"
+  - "Tyrian Grey"
+locations:
+  - "Castle Radiance"
+  - "Sembia"
+tags: []
+---
 Character Background — Tyrian Grey of the House of Achres
 Source: TyrianGreyBIO.docx, from DND/ root folder (dated Jan 2024)
 Full backstory for Tyrian Grey, a player character in the Daggerdale campaign. Covers his origins in the House of Achres, training in Elturel and Cormyr, the Battle of Bartol's Folly, his recovery under Lucion the Ilmatari monk, rejection by the King of Cormyr, and his eventual path to Daggerdale through Reynard the Boar of the Order of the Noble Heart.

@@ -1,3 +1,10 @@
+---
+title: "Ithrax Mal Turik"
+slug: ithrax-mal-turik
+type: stub
+campaign: wastrel
+subtype: npc
+---
 A warlord of dragonborn descent, hailing from Returned Abeir.
 
 Killed by The Seven during a skirmish in the ruins of Spellgard on the 21st of Mirtul.

@@ -1,3 +1,31 @@
+---
+title: "Penance"
+slug: penance
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Ineluki Elderbough"
+  - "Nythria Medeila"
+  - "Cirdan Vardamir"
+  - "Rainyerd"
+  - "Ryeliarlen Miritar"
+locations:
+  - "Cormanthor"
+  - "Castle Radiance"
+tags: []
+---
 “Who decided it was a good idea to set the fire?” Nythria Medeila, one of the eight Marshalls of the kingdom of Cormanthor asked the question. The eladrin was the same height as Ineluki but carried herself in the manner of most eladrin, giving the impression of being as tall as a treant.
 
 Ineluki Elderbough curled his upper lip in disdain as he responded, “It was I. It was my plan.”

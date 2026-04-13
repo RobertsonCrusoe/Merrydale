@@ -1,3 +1,32 @@
+---
+title: "Loudwater Notes - Elesias 1 Session Notes (Feb 2012)"
+slug: loudwater-notes-elesias-1-session-notes-feb-2012
+type: session
+campaign: wastrel
+voice: ooc
+status: raw
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Dolebrund"
+  - "Huntmaster"
+  - "Harrington"
+  - "Garwan Glimmerstone"
+  - "Harrigan Farshore"
+  - "Heath Malmotte"
+  - "Khel Quarrie"
+locations:
+  - "Loudwater"
+tags: []
+---
 **Loudwater Notes - Pathfinder Campaign - Session 1 (February 19, 2012)**
 
 **Players/Characters**

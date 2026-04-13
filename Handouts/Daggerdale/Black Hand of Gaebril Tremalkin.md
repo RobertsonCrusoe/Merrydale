@@ -1,2 +1,9 @@
+---
+title: "Black Hand of Gaebril Tremalkin"
+slug: black-hand-of-gaebril-tremalkin
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 [PC Attribution: Gaebril Tremalkin (Steve Hicks)]
 400px|right|thumb|A drawing by Magistrate Hoetmer of the possible presentation of the Black HandThis is the right hand of Gaebril Tremalkin, taken from his corpse by an unknown party.  It is rumoured to be in Daggerdale, and to be the focus in the powerful Ritual of Founding, used to establish powerful new covens of Shar.

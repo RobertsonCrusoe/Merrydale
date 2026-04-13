@@ -1,3 +1,29 @@
+---
+title: "Message from General Thunderstorm to Captain Monarch"
+slug: message-from-general-thunderstorm-to-captain-monarch
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "Greengrass 1483 DR"
+date_ic_sort: 1483122
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jeska Monarch"
+  - "Dauntless Thunderstorm"
+  - "Garrick Greenfields"
+locations:
+  - "Greenwood Farm"
+tags:
+  - "military"
+---
 Greengrass, 1483 DR — Message from General Dauntless Thunderstorm to Captain Jeska Monarch
 
 [Source: Daggerdale - All Chapter 7 Content - june 11 revised.docx, extracted 2026-04-09. By Carrier Dove. Reply to Jeska's 29 Tarsakh request for aid.]

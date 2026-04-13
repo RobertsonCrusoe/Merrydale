@@ -1,3 +1,27 @@
+---
+title: "Thistle Ridge - Chrysalis Negotiations and Swelter Deals - Aug 2024"
+slug: thistle-ridge-chrysalis-negotiations-and-swelter-deals-aug-2024
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Venom"
+locations:
+  - "Thistle Ridge"
+  - "Dagger Falls"
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

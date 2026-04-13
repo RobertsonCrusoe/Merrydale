@@ -1,3 +1,10 @@
+---
+title: "Maxentius"
+slug: maxentius
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 thumb|The exotic Eladrin of the Embassy
 
 Maxentius is a strange choice for Steward of the Embassy.  She is the most visible figure in the embassy, being the first official that any visitor is likely to meet.  However, she is not what one might expect; she does not dress in the elaborate gowns common to the rest of the embassy staff, and her nuances are many.  For starters, she speaks with a thick accent that even other Eladrin find difficult to follow, and when asked where she is from, she invariably replies \"You have not likely heard of my home.\"  The most notable thing about her, though, is that she is completely blind.  She walks around and carries out her usual tasks as though she were perfectly sighted, but when talking to others, her milky eyes stare past the shoulders of those she is with.

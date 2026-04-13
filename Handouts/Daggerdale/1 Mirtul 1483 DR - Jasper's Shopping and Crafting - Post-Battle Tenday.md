@@ -1,3 +1,37 @@
+---
+title: "Jasper's Shopping and Crafting - Post-Battle Tenday"
+slug: jasper-s-shopping-and-crafting-post-battle-tenday
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1 Mirtul 1483 DR"
+date_ic_sort: 1483123
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Onyx"
+  - "Masra"
+  - "Alexandus"
+  - "Charrah"
+  - "Mortimer"
+  - "Nemia"
+  - "Vessuvian"
+  - "Calix"
+locations:
+  - "Dagger Falls"
+  - "Thistle Ridge"
+  - "Greenwood Farm"
+  - "Charity"
+  - "Liberty Hill"
+tags: []
+---
 Jasper's Shopping and Crafting - Post-Battle Tenday, Mirtul 1483 DR
 by Gus Miranda (as Jasper), Stephen Robertson (as Lucan), Les Blackwell (DM)
 Email thread: "Jasper's shopping and crafting", 15 Jun - 1 Jul 2025

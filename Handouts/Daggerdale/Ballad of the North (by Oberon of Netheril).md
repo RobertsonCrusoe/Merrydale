@@ -1,3 +1,29 @@
+---
+title: "Ballad of the North (by Oberon of Netheril)"
+slug: ballad-of-the-north-by-oberon-of-netheril
+type: poetry
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Oberon"
+  - "Fazil"
+  - "Grimwald"
+  - "Laurel Dawn"
+  - "Beljuril"
+locations: []
+tags: []
+---
 A composition by the noted balladeer Oberon of Netheril on the travails and fortunes of the heroes who thwarted the designs of the Zhentarim wizard Malkor in the spring of 1372.
 ----
 

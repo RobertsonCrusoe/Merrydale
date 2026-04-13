@@ -1,11 +1,29 @@
 ---
-Provenance: OCR transcription of "dnd notes 13.pdf" (1 page, typed)
-Source: DND Scanned Notes / OneDrive DND Scans
-Campaign: Daggerdale (Waterdeep/Neverwinter arc)
-Date processed: 2026-04-03
-Utility: C (redundant — content appears verbatim in "Red Herrings - Campaign Summary from PDF [unprocessed notes].txt" lines ~996-1030 and "Red Herrings - Campaign Summary [unprocessed notes].txt" lines ~510-540)
-
-Archive counterparts: Red Herrings - Campaign Summary from PDF [unprocessed notes].txt, Red Herrings - Campaign Summary [unprocessed notes].txt
+title: "dnd notes 13"
+slug: dnd-notes-13
+type: narrative
+campaign: daggerdale
+voice: ic
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Ryerson"
+  - "Ezmail"
+  - "Gaskar"
+  - "Onyx"
+  - "Gildon"
+  - "Beljuril"
+locations: []
+tags: []
 ---
 
 The NC also learns of a spy named Onyx, who seems to be some sort of intermediary between Luskan and the Zhents. They intercept this note;

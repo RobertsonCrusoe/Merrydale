@@ -1,3 +1,28 @@
+---
+title: "Yellow Abbey Athenaeum Borrower's Card (stolen by Lucan)"
+slug: yellow-abbey-athenaeum-borrower-s-card-stolen-by-lucan
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "21 Alturiak 1483 DR"
+date_ic_sort: 1483052
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Zoderick Winters"
+locations:
+  - "Sembia"
+  - "Thistle Ridge"
+  - "Yellow Abbey"
+tags: []
+---
 Yellow Abbey Athenaeum Borrower's Card (stolen by Lucan)
 
 Checked Out:

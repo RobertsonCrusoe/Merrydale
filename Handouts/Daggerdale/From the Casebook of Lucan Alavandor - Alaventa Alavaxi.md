@@ -1,3 +1,41 @@
+---
+title: "From the Casebook of Lucan Alavandor - Alaventa Alavaxi"
+slug: from-the-casebook-of-lucan-alavandor-alaventa-alavaxi
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Nemia"
+  - "Lucan Alavandor"
+  - "Calix"
+  - "Tergus Clarandal"
+  - "Abrecia"
+  - "Contessa Palus"
+  - "Invictus"
+  - "Lilac Alavandor"
+  - "Poppy Sweetberry"
+locations:
+  - "Thistle Ridge"
+  - "Castle Radiance"
+  - "Charity"
+  - "Cormanthor"
+  - "Dagger Falls"
+  - "Shadowdale"
+  - "Tesh Valley"
+  - "Thistle Ridge Farm"
+tags: []
+---
 From the Casebook of Lucan Alavandor: Alaventa Alavaxi
 Date: 23 April 2025
 From: Stephen Robertson (with Gus Miranda)

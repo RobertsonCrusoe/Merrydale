@@ -1,3 +1,46 @@
+---
+title: "Return to Anauroch"
+slug: return-to-anauroch
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Grandfather"
+  - "Kalindroth"
+  - "Ful'zan"
+  - "Janus"
+  - "Jol Dax"
+  - "Yin-Xu"
+  - "Amon"
+  - "Garrik Shining"
+  - "Gond Pistola"
+  - "Gulmish"
+  - "Harrington"
+  - "Jafar"
+  - "Maturin Horgath"
+  - "Morgul"
+  - "Ratbiter"
+  - "Shildevan"
+  - "Szuth"
+  - "Warburden"
+  - "William Cormaeril"
+locations:
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 ==2 Marpenoth - West in Pursuit ==
 thumb|400px|The Eastern Storm rides into Anauroch in pursuit of the Tablets
 As the citizens of Dagger Falls celebrated their first true Harvestide festivities in over two decades, the Eastern Storm remained in town only until after breakfast of the 2nd of Marpenoth, when their supplies and preparations were at last complete. Accompanied by an honour guard which included Lord William Cormaeril, his hearth guard, and literally hundreds of citizens - among whom could be counted their old comrades Sparrow and Dalak, as well as Balak, Hob and Timfast, who had taken over the management of the Red Rock Tavern in the newly liberated town. Bidding their friends farewell, the companions took to the open road, traveling as light and as fast as they could. They intended to catch the Beholder Tablets, which had a dearly-purchased lead of twelve days on the companions.

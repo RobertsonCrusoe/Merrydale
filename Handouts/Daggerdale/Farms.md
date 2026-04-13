@@ -1,3 +1,29 @@
+---
+title: "Farms"
+slug: farms
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Cormanthor"
+  - "Crossed Blades Farm"
+  - "Dagger Falls"
+  - "Foot Hills Farm"
+tags:
+  - "military"
+---
 # Farms
 # Source: The Sieges Perilous wiki (backup dated 2010-02-21)
 

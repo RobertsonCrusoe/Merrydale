@@ -1,3 +1,10 @@
+---
+title: "Seth Forester's Intelligence"
+slug: seth-forester-s-intelligence
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 From Seth Forester
 
 \"I know the area along Paladin’s road pretty good, and that pass between Black Death Mountain and The Old Man’s Tooth is nasty.  It’s called ‘Paladin’s Road’ because the Order spent most of ’66 and ’67 clearing  out of that canyon, and they say that there’s a dead Knight for every 100 yards of road that got built there.

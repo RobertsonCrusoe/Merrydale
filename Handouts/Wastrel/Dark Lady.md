@@ -1,3 +1,29 @@
+---
+title: "Dark Lady"
+slug: dark-lady
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Calla Maran"
+  - "Ciratto"
+  - "Kyos"
+  - "Palomides"
+locations:
+  - "Loudwater"
+tags: []
+---
 Revealed to two separate members of The Ghosts on two  separate occasions.  The Dark Lady was mentioned to Ciratto by Calla  Maran.  She revealed that henchmen of \"The Dark Lady\" would come to her  place of business and try to extort coin from her as payment for  \"protection\" from bandits of Llorkh.
 
 She was also mentioned to  Biggs by Kyos, the owner of the Fisher Friend's Pub and henchmen of hers  approached him, much the same as they had approached Calla Maran.

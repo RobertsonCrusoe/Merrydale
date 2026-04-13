@@ -1,3 +1,28 @@
+---
+title: "Dalak's Homemade Beer"
+slug: dalak-s-homemade-beer
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: todd
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Dalak Quickaxe"
+  - "Boregar"
+  - "Grandfather"
+  - "Maturin Horgath"
+locations: []
+tags: []
+---
 [PC Attribution: Dalak Quickaxe (Todd Burry)]
 A drinking song composed by Maturin Horgath during the long night of his fall from grace.
 ----

@@ -1,3 +1,28 @@
+---
+title: "Chadrazzan Kossur"
+slug: chadrazzan-kossur
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Kossur"
+  - "Janus"
+  - "Kethoth Sepret"
+  - "Saharel"
+locations: []
+tags: []
+---
 [PC Attribution: Chadrazzan Kossur (Les Blackwell)]
 14\"Yonder in the unknown vastness\"—his long finger stabbed at the black silent jungle which brooded beyond the firelight—\"yonder lies mystery and adventure and nameless terror. Once I dared the jungle—once she nearly claimed my bones. Something entered into my blood, something stole into my soul like a whisper of unnamed sin. The jungle! Dark and brooding—over leagues of the blue salt sea she has drawn me and with the dawn I go to seek the heart of her. Mayhap I shall find curious adventure—mayhap my doom awaits me. But better death than the ceaseless and everlasting urge, the fire that has burned my veins with bitter longing.\"
 :—Robert E. Howard, The Hills of the Dead

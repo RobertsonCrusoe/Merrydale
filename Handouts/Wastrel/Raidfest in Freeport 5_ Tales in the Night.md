@@ -1,3 +1,26 @@
+---
+title: "Raidfest in Freeport 5_ Tales in the Night"
+slug: raidfest-in-freeport-5-tales-in-the-night
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Freeport"
+  - "Waterdeep"
+tags: []
+---
 ==Lydon's Story: The Isle of the Lich ==
 
 The Isle of the Lich be a mysterious island indeed. Few know how to get to her cause she wards herself against being put on any map. Ye have to be taught to find it. Those that know its location are getting fewer and fewer cause most expeditions that go to its shores never return.

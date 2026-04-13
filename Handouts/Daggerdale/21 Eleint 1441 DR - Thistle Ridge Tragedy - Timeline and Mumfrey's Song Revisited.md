@@ -1,3 +1,40 @@
+---
+title: "Thistle Ridge Tragedy - Timeline and Mumfrey's Song Revisited"
+slug: thistle-ridge-tragedy-timeline-and-mumfrey-s-song-revisited
+type: lore
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "21 Eleint 1441 DR"
+date_ic_sort: 1441265
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Invictus"
+  - "Mumfrey"
+  - "Quercina"
+  - "Malveau Greenleaf"
+  - "Contessa Palus"
+  - "Daphne Dale"
+  - "Aisling Maeliticus"
+  - "Charrah"
+  - "Lilac Alavandor"
+  - "Lily Clarandal"
+  - "Poppy Sweetberry"
+  - "Saralla Sakurth"
+locations:
+  - "Thistle Ridge"
+  - "Dagger Falls"
+  - "Tethyamar"
+tags:
+  - "military"
+---
 Thistle Ridge Tragedy — Timeline and Mumfrey's Song Revisited
 Stephen Robertson (as Lucan) and Gus Miranda (as Jasper)
 Email thread: "Thistle Ridge Tragedy", 19-20 Jun 2025

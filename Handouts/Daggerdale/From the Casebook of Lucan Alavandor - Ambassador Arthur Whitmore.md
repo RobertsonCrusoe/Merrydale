@@ -1,3 +1,29 @@
+---
+title: "From the Casebook of Lucan Alavandor - Ambassador Arthur Whitmore"
+slug: from-the-casebook-of-lucan-alavandor-ambassador-arthur-whitmore
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Godwin Ferguson"
+  - "Lucan Alavandor"
+locations:
+  - "Charity"
+  - "Thistle Ridge"
+tags:
+  - "military"
+---
 From the Casebook of Lucan Alavandor: Ambassador Arthur Whitmore
 Date: 23 April 2025
 From: Stephen Robertson

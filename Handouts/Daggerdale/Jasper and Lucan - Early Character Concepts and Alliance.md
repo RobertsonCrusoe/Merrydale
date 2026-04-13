@@ -1,3 +1,25 @@
+---
+title: "Jasper and Lucan - Early Character Concepts and Alliance"
+slug: jasper-and-lucan-early-character-concepts-and-alliance
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Will"
+locations: []
+tags: []
+---
 Jasper & Lucan — Early Character Concepts and Alliance
 Gus Miranda (as Jasper) and Stephen Robertson (as Lucan)
 Email thread: "Jasper & Lucan", 19-20 Dec 2023

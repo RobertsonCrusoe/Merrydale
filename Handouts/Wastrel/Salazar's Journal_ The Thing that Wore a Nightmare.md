@@ -1,3 +1,28 @@
+---
+title: "Salazar's Journal_ The Thing that Wore a Nightmare"
+slug: salazar-s-journal-the-thing-that-wore-a-nightmare
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Salazar"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Lendin"
+  - "Rabbite"
+locations:
+  - "Freeport"
+tags:
+  - "military"
+---
 [PC Attribution: Salazar (Les Blackwell)]
 == Return to Freeport ==
 

@@ -1,3 +1,32 @@
+---
+title: "A Letter from Coventina Cassimar to Jasper Hawkford"
+slug: a-letter-from-coventina-cassimar-to-jasper-hawkford
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Coventina Cassimar"
+source: handout
+date_ic: "23 Tarsakh 1483 DR"
+date_ic_sort: 1483114
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Invictus"
+  - "Cassimar"
+  - "Coventina Cassimar"
+  - "Jasper Hawkford"
+locations:
+  - "Charity"
+  - "Thistle Ridge"
+  - "Cassimar Tower"
+  - "Sembia"
+tags: []
+---
 23 Tarsakh, 1483 DR – A Letter from Coventina Cassimar to Jasper Hawkford 
 Dearest Jasper; 
 I worry about you every day.  Though we got to spend very little time together you might think, you are the only young man I've had a real talk with in a couple of years.  It is lonely in Cassimar Tower, and Aunt Lilly's obligations weigh me down, though she doesn't realize it.  I don't begrudge her this weight, as we all have a role to play. 

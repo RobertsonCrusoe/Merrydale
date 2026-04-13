@@ -1,3 +1,43 @@
+---
+title: "1440 DR - Yellow Abbeye Booke of Surveys and Measures - Thistle Ridge Farm"
+slug: 1440-dr-yellow-abbeye-booke-of-surveys-and-measures-thistle-ridge-farm
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1440 DR"
+date_ic_sort: 1440001
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Whistle"
+  - "Andarl Alavandor"
+  - "Blaze Whitegate"
+  - "Daphne Dale"
+  - "Janus"
+  - "Nadia Thistle"
+  - "Claudius Clarandal"
+  - "Harrington"
+  - "Tergus Clarandal"
+locations:
+  - "Thistle Ridge"
+  - "Charity"
+  - "Sembia"
+  - "Thistle Ridge Farm"
+  - "Yellow Abbey"
+  - "Castle Radiance"
+  - "Charity Hills Farm"
+  - "Cormanthor"
+  - "Dagger Falls"
+  - "Gribbons Farm"
+tags: []
+---
 [Source: extracted from 17 Ches 1483 DR - Thistle Ridge Reclamation Competition Briefing Packet]
 
 Excerpt from the Yellow Abbey Booke of Surveys and Measures, 1440 DR Edition—Thistle Ridge Farm

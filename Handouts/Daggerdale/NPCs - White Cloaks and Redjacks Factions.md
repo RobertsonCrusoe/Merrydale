@@ -1,3 +1,36 @@
+---
+title: "NPCs - White Cloaks and Redjacks Factions"
+slug: npcs-white-cloaks-and-redjacks-factions
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Crasster Redwater"
+  - "Horus"
+  - "Alen Reks"
+  - "Alexandus"
+  - "Iolus Warburton"
+  - "Nemia"
+  - "Reginald Boxfray"
+  - "Zelia Oakbough"
+locations:
+  - "Tethyamar"
+  - "Castle Radiance"
+  - "Hillsfar"
+tags:
+  - "military"
+---
 **The White Cloaks**
 
 **HQ:** Loedegan Close (\#28 on the DF Map), other properties

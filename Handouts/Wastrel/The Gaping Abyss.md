@@ -1,3 +1,25 @@
+---
+title: "The Gaping Abyss"
+slug: the-gaping-abyss
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags:
+  - "military"
+---
 Though Barthas is destroyed, Kethoth wears a solemn face, and for the first time since you've known him, he seems troubled.
 
 \"If I could breathe life back into that monster myself, I'd gladly suffer him to walk this earth if it meant I could have Arya or Mattrick back. We have not won the day, here, friends. I apologize for the loss of our companions...\"

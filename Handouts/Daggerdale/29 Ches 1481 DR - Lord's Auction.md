@@ -1,3 +1,29 @@
+---
+title: "Lord's Auction"
+slug: lord-s-auction
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "29 Ches 1481 DR"
+date_ic_sort: 1481090
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Desden"
+  - "Darred"
+  - "Dolebrund"
+  - "Neddle"
+locations: []
+tags:
+  - "military"
+---
 The Candlekeep Emissaries’ Auctions are the biggest commercial events of the year.  There are typically two, and the first is usually part way through the summer.  This year, Lord Whitegate has ordered that the auction take place before the Green Grass Festival, and as such, it is taking place today, the 29th of Ches, 1481, and has been dubbed the Lord’s Auction.
 
 It isn’t too fine a day for an auction; the sky is dark and there is something between wet flakes of snow and freezing rain drizzling to make things dreary outside.  The auction itself is held in Madigan’s Hall, high up in the Inner Bailey of the Castle.  This hall is one of the three buildings that form the triangle of the impressive Inner Bailey, the others being Loedgan’s Hall and the Fortress Cathedral which soars above the very peak of the mountain upon which the Castle rests.

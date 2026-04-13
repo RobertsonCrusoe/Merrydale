@@ -1,3 +1,39 @@
+---
+title: "Highharvestide"
+slug: highharvestide
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jafar"
+  - "Esperel"
+  - "Rubikawn"
+  - "Xulla"
+  - "Teskul"
+  - "Gauntlet"
+  - "Yarkul"
+  - "Drake"
+  - "Elbing Hightimber"
+  - "Gotlieb Erlgund"
+  - "Richter"
+  - "Semuldan Anteos"
+  - "Thuman"
+  - "Beljuril"
+locations:
+  - "Waterdeep"
+tags: []
+---
 == Highharvestide - Heist of the Phaulkon Cargo ==
 
 The day between Eleint (the Fading) and Marpenoth (Leaffall) is known as Highharvestide, a holiday of feasting to commemorate the autumn harvest as well as marking a time of journeys. Emissaries, pilgrims, adventurers, and all who are eager to get a head start on their autumn travels leave on their journeys the following day – before the worst of the mud clogs the tracks and the rain freezes into snow. In the streets of Waterdeep on this day, great and debaucherous feasts are held, and the lushness of the festivities of the City of Splendours are renowned throughout the realms. Here, the Harvestide Festival lasts a full tenday, as the trading year ends, and merchants prepare for their winter expeditions to their homelands.

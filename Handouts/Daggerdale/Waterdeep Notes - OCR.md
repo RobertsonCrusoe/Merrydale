@@ -1,11 +1,33 @@
 ---
-Provenance: OCR transcription of "Waterdeep Notes.pdf" (3 pages, typed)
-Source: DND Scanned Notes / OneDrive DND Scans
-Campaign: Daggerdale (Waterdeep arc — Garth's analysis with DM commentary)
-Date processed: 2026-04-03
-Utility: B (unique format: Garth's in-character analysis (lowercase) with DM/NPC responses (UPPERCASE) interspersed. Player content overlaps with 'Suspicions.txt' but DM commentary is not in archive)
-Archive counterparts: Suspicions.txt (partial — player content only)
-OCR notes: CRITICAL: Original scan was upside-down; rotated 180° for OCR. Some lines still have OCR artifacts from the inverted text orientation.
+title: "Waterdeep Notes"
+slug: waterdeep-notes
+type: narrative
+campaign: daggerdale
+voice: ic
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Yarkul"
+  - "Gauntlet"
+  - "Alek Lenter"
+  - "Dulbrawan Anteos"
+  - "Gotlieb Erlgund"
+  - "Semuldan Anteos"
+  - "Teskul"
+  - "Xulla"
+  - "Agamemnon"
+locations:
+  - "Waterdeep"
+tags: []
 ---
 
 ann says: MS TO! your reasons oF me Encyclopedia DEING taken On tne taple. Wuevin may not nave it because ne nas ingeea jouna anowmer pDuyer alreaay.

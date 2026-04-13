@@ -1,3 +1,39 @@
+---
+title: "The High Road North"
+slug: the-high-road-north
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Grimwald"
+  - "Beljuril"
+  - "Oberon"
+  - "Derrick Swift"
+  - "Fazil"
+  - "Tuugan Voun"
+  - "Agamemnon"
+  - "Belduran"
+  - "Boregar"
+  - "Jafar"
+  - "Pelinder Filmarya"
+  - "Yarkul"
+  - "Zaltim"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 == Prologue - The Staff Goes North ==
 
 To set things straight in Neverwinter, and to repay their oath to the Road Mage, Rufus and Beljuril chose this path. Along with them came a band of adventurers that had recently traveled from the Dalelands. This group (though the whole group was sundered to send men with certain talents on certain missions) was comprised of Maevri, a Witch of Rashemen, Oberon, an ancient rogue who had been rescued from a 3000 year stasis in an ancient dungeon, and Oliver, an enigmatic man who fancied himself a Master of Human Nature. It was decided that secrecy was needed on both expeditions. To defend against the divining eyes of Malkor, Jafar sent Yarkul’s staff along with this party. The staff is supposed to provide protection from divination, but the Neverwinter Companions finds that they are always one step behind Malkor anyway...

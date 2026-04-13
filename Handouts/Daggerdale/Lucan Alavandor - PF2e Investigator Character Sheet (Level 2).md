@@ -1,3 +1,26 @@
+---
+title: "Lucan Alavandor - PF2e Investigator Character Sheet (Level 2)"
+slug: lucan-alavandor-pf2e-investigator-character-sheet-level-2
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: "2026-04-06"
+series: ""
+order: ""
+characters:
+  - "Will"
+  - "Lucan Alavandor"
+locations: []
+tags: []
+---
 SOURCE INFORMATION
 Source Files: Lucan.docx (ability reference) and Lucan (2).docx (full character sheet) from To Process folder
 Content Type: Pathfinder 2nd Edition character sheet and rules reference

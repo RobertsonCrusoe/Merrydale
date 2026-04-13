@@ -1,3 +1,10 @@
+---
+title: "Shae of Amaunator"
+slug: shae-of-amaunator
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 right|450px
 
 Avenger of Amaunator, and member of the new team of White Cloaks, Bravo Team. Shea was involved in the opening shots of the struggle against the Sons of Bel, working in concert with Alystair Dretch out of Liberty Hill Farm in the late Summer of 1481 DR.

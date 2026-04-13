@@ -1,3 +1,24 @@
+---
+title: "The Royal Exchange"
+slug: the-royal-exchange
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 This business has nothing to do with any royalty of any variety.  Rather, it is a large pawn shop that deals with just about anything of value to the Castle community.  It is not uncommon for adventurers, soldiers and mercenaries to have to sell something quick, and this is the place to do it.  It is also a great place to look around for second hand gear at a reasonable price, and the odd magic item finds it’s way onto the shelves here.
 
 The proprietor is a one-armed, one-legged man in his 50’s named Ludlow who gives long and colourful (and inconsistent) stories about how he lost his limbs.  He is happy to spend time with potential customers, and he will even offer a drink or two from a bottle he keeps hidden behind his desk.

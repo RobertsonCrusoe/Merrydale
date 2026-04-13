@@ -1,3 +1,29 @@
+---
+title: "Red Herrings - Chapter 4 - 1 - Return to Neverwinter - The winter of 1371"
+slug: red-herrings-chapter-4-1-return-to-neverwinter-the-winter-of-1371
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Agamemnon"
+  - "Jeryth Phaulkon"
+  - "Beljuril"
+locations:
+  - "Waterdeep"
+  - "Loudwater"
+tags: []
+---
 The winter of 1371-1372 (Year of Wild Magic) is miserable, and still is by the date of Greengrass, 1372.  A blizzard blew out of the Spine of the World in the middle of Uktar that did not let up for a whole month, and the rest of winter was bitter and cold.  Snow has been falling almost constantly since then, but has let up just recently.  It remains cold, however, and the snow has not melted considerably.
 
 By the end of Ches, events started to happen, and the adventuring season seems to have begun.  The first event was the return of Rufus and Raven from their search for Hob (without Hob).  The second was the return of the daughter of Lord Phaulkon, Jeryth.
@@ -13,9 +39,7 @@ The Last of the Phaulkons
 On the same day that Agamemnon returned to the City, Jeryth Phaulkon (presumed dead for a duration of three years) returned, with the mark of Meilikki
 
 s Chosen.  Jeryth explained that she had survived the ambush that claimed the life of her mother, by the will of Meilikki.  She then spent three years hunting gnolls all the way from the Westwood to the High Forest.  She was devastated to learn of the deaths of her sister and father, and seemed to blame herself for much of the situation.
-Lady Phaulkon bears the company no ill will for moving into her father
-s house, but rather takes it as a sign from Meilikki.  She claims that you lot were thrust into her path to help avenge her father
-s death.
+Lady Phaulkon bears the company no ill will for moving into her father's house, but rather takes it as a sign from Meilikki.  She claims that you lot were thrust into her path to help avenge her father's death.
 Jeryth Phaulkon is an attractive woman about w5 years old.  She is rough and rugged looking, but still strangely attractive.  She has long, mostly unkempt blonde hair with an ivory streak along the crown (the mark of Meilikki
 
 s chosen).  She has green eyes that flash with vitality and energy and her medium height body is healthy and strong, her frame muscular and fit.  She wears rugged furs and frontier clothing.  She keeps a bow strapped over one shoulder and a pair of scimitars at her sides.  Despite her appearance, she speaks like a cultured Waterdhavian noblewoman.

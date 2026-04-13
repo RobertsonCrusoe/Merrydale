@@ -1,3 +1,24 @@
+---
+title: "Aftermath of Last Session - Corpse Examination and Zombie Debrief"
+slug: aftermath-of-last-session-corpse-examination-and-zombie-debrief
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 Aftermath of Last Session - Corpse Examination and Zombie Debrief
 by Gus Miranda, Stephen Robertson, Les Blackwell, Todd Burry
 Email thread: "Aftermath of last session", 2-4 Oct 2024

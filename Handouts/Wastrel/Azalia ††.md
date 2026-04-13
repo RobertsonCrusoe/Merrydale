@@ -1,3 +1,26 @@
+---
+title: "Azalia"
+slug: azalia
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Azalia"
+locations: []
+tags: []
+deceased: true
+---
 [PC Attribution: Azalia (Les Blackwell)]
 right
 

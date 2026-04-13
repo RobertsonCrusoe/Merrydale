@@ -1,3 +1,24 @@
+---
+title: "Jeska and Sir Rowan - Rune Gifting Scene - Jan 2025"
+slug: jeska-and-sir-rowan-rune-gifting-scene-jan-2025
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: todd
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

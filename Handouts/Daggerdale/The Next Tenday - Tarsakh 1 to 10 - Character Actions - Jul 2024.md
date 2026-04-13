@@ -1,3 +1,33 @@
+---
+title: "The Next Tenday - Tarsakh 1 to 10 - Character Actions - Jul 2024"
+slug: the-next-tenday-tarsakh-1-to-10-character-actions-jul-2024
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Invictus"
+  - "Mortimer"
+  - "Nemia"
+  - "Randal Morn"
+locations:
+  - "Hillsfar"
+  - "Sembia"
+  - "Shadowdale"
+  - "Thistle Ridge"
+tags:
+  - "military"
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

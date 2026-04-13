@@ -1,3 +1,26 @@
+---
+title: "Brenan Dale"
+slug: brenan-dale
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: todd
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Cormanthor"
+  - "Shadowdale"
+tags: []
+---
 [PC Attribution: Brenan Dale (Todd Burry)]
 frame|right
 15\"The sea-road is good for wanderers and landless men. There is quenching of thirst on the grey paths of the winds, and the flying clouds to still the sting of lost dreams.\"

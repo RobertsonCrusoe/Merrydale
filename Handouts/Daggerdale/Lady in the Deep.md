@@ -1,3 +1,27 @@
+---
+title: "Lady in the Deep"
+slug: lady-in-the-deep
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Ailyan"
+  - "Valusian Deep Anvil"
+locations:
+  - "Tethyamar"
+tags: []
+---
 An excerpt from A Recent History of Tethyamar, by Valusian Deep Anvil
 
 ===\"Lady in the Deep (Deep in the Lady)\" - A Dwarvish Shanty===

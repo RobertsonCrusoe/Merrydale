@@ -1,3 +1,25 @@
+---
+title: "Amended_Hagspawn"
+slug: amended-hagspawn
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Saerloon"
+tags: []
+---
 Once known as “Changelings” or “Quicklings” by the ancient Netherese (and earlier peoples—what ho?!), we have called them Hagspawn in these parts of Faerûn for as long as I can remember—and that’s long enough, even by elvish measures, now.
 
 I should start with the boys, for this is where the greatest misconceptions arose so long ago. But no—let me rather begin with the habits of progeny among these remarkable creatures.

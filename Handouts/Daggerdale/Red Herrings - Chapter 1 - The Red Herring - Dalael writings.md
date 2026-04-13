@@ -1,3 +1,29 @@
+---
+title: "Red Herrings - Chapter 1 - The Red Herring - Dalael writings"
+slug: red-herrings-chapter-1-the-red-herring-dalael-writings
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Zantiid"
+  - "Xulla"
+  - "Corrina"
+  - "Manshoon"
+locations: []
+tags:
+  - "military"
+---
 Father Dalael, Quevin and Isilith;
 Business on the surface is recovering.  We are currently allied with a Zhent trading company called Company Ersgul (Coat of Arms inset); the Company is one of Fzoul
 
@@ -7,12 +33,9 @@ The treachery of the Zhents is as abundant as we have heard.  Xulla gives us bit
 
 Company Ersgul, as we have recently learned, is pitted against another, called Company Drurginz.  I take this to be an arm of Manshoon, but I am uncertain.  I have also inset their shield.  I am suspicious that they may have connections to one known as Zantiid.  Only by the grace of Vhaeraun was I able to learn Zantiid
 
-s mark, and live to tell of it (but that is quite another story).  Please send back any word of Zantiid
-s politics, if you
-ve any knowledge of them.
+s mark, and live to tell of it (but that is quite another story).  Please send back any word of Zantiid's politics, if you've any knowledge of them.
 The family is good.  Corrina is pregnant, and Arlos has become trusting of us again.  Having just returned from a long vacation in Cormyr.  I have amassed a great amount of information about this society, and I ma sending it to you.  Some tomes are aged (for human work) and will require our sages to interpret.  The language of the human race is such a malleable.
-I must go now; this message will (I hope) be finding it
-s way to you in the hands of a new (I am as equally surprised as you) Vhaeraunite.  He is worthy of our trust.  Upon receipt of this message, please consider sending more of our people.  The climate is once again favourable, I assure you.  Soon, our numbers will be needed again.
+I must go now; this message will (I hope) be finding it's way to you in the hands of a new (I am as equally surprised as you) Vhaeraunite.  He is worthy of our trust.  Upon receipt of this message, please consider sending more of our people.  The climate is once again favourable, I assure you.  Soon, our numbers will be needed again.
 Vhaeraun shall remember.
 JFIF
 )$+*($''-2@7-0=0''8L9=CEHIH+6OUNFT@GHE
@@ -43,8 +66,7 @@ pq^W
 9=A'*
 cg^7
 [}B6
-<sDB
-m|WdP
+<sDB'm|WdP
 4QEy
 8'w8
 7$p:
@@ -515,8 +537,7 @@ u+(.Sk
 L::;J
 ]+N/
 QEzw
--o$G
-t?B:
+-o$G't?B:
 ]9^i
 ?0Gn
 eAPx
@@ -804,8 +825,7 @@ fNOj:
 ?l@/N
 4QVH
 q53'M
-#7"s
-t<,j
+#7"s't<,j
 hd\%W
 fdRd
 x]u#
@@ -818,8 +838,7 @@ sRfO0
 E.l]
 N_E*
 7gKev
-]Z[z
-d#nVAL{
+]Z[z'd#nVAL{
 -SY~
 IFt@W
 XpZ#4
@@ -1035,8 +1054,7 @@ Wx"
 cE)J
 eljy
 nvr?
-n!Gp
-d.uw
+n!Gp'd.uw
 ;5l
 ]W0U
 Lzt<5
@@ -1044,8 +1062,7 @@ p7^&
 ~p{
 [y81
 B{k
-Y^} Y
-t%^3
+Y^} Y't%^3
 DP ,
 %elc
 up[66Aj
@@ -1101,8 +1118,7 @@ H]Xy
 T1A$
 vC!n
 }Z"?
-S"):TAK
-m	\%p7_OB
+S"):TAK'm	\%p7_OB
 |<g,9
 dNp6`
 SjI
@@ -1208,8 +1224,7 @@ Q:cW
 _&HhZ
 QD"&
 jeVN
-A],f
-s|Sb
+A],f's|Sb
 pXN	^
 f~%]
 0Ee
@@ -1250,8 +1265,7 @@ Q(a2D
 8`Kp
 X !t1.
 r]Z;
-Uyfl
-t~Pno
+Uyfl't~Pno
 aa{/D
 Kk']
 (0R#[
@@ -1317,8 +1331,7 @@ tT'-
 dt<,
 :iud=
 A+nO,
-E%ANJY
-t)$&mW
+E%ANJY't)$&mW
 y>c^YF
 /qO%Y
 {F/7

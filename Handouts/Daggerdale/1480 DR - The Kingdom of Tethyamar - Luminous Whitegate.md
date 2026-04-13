@@ -1,3 +1,31 @@
+---
+title: "1480 DR - The Kingdom of Tethyamar - Luminous Whitegate"
+slug: 1480-dr-the-kingdom-of-tethyamar-luminous-whitegate
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1480 DR"
+date_ic_sort: 1480001
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Melegaunt"
+  - "Luminous Whitegate"
+locations:
+  - "Tethyamar"
+  - "Tesh Valley"
+  - "Waterdeep"
+  - "East Gate"
+tags:
+  - "military"
+---
 DDC – 1480 – 13: The Kingdom of Tethyamar 
 A note written by Luminous Whitegate at the request of your humble chronicler. 
 GFD Notes: 

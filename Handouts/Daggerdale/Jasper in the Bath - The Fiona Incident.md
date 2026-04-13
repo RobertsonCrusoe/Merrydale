@@ -1,3 +1,25 @@
+---
+title: "Jasper in the Bath - The Fiona Incident"
+slug: jasper-in-the-bath-the-fiona-incident
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Mortimer"
+locations: []
+tags: []
+---
 Happy Hump Day! Bonus Edition - Young Love
 by Todd Burry (setup) and Gus Miranda (Jasper's response)
 27-29 Mar 2024

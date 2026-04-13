@@ -1,3 +1,10 @@
+---
+title: "Garrus Cal`Botran"
+slug: garrus-cal-botran
+type: stub
+campaign: wastrel
+subtype: npc
+---
 Garrus Cal’Botran is the bandit leader of Llorkh.   Rumored to be a large, quick man with a keen eye for combat, he has been  in charge of Llorkh for a little over thirty years and despite getting  on in years, he still rules the aggressive and greedy bandits with a  iron fist.
 
 Despite all the legends about him, no one can really  say that they have seen the man known as Garrus Cal’Botran.  Since he  came into control of Llorkh there have been less raids in the Gray Vale  but the raids have become far more effective when it comes to obtaining  valuables and more importantly, slaves.

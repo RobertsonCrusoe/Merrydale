@@ -1,3 +1,10 @@
+---
+title: "Luminous Whitegate"
+slug: luminous-whitegate
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 Luminous (b. 1399 DR) is the patriarch of the Whitegate Family, and the Lord of Castle Radiance. He also the founder and Grand Master of the Order of the Lambent Shield, and probably the most seasoned war veteran in the dale.
 
 Luminous is the grandson of Ardelusk, and like his father and grand father, followed in the difficult and violent footsteps of the service of Amaunator in the Desert's Mouth Mountains. Though he is the wealthiest man in the dale by virtue of primacy in his established family, he has known no comforts in his life, and even in his winter years up in the Castle, continues to live a disciplined and austere life of devotion to his knights and the castle.

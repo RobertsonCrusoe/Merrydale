@@ -1,3 +1,51 @@
+---
+title: "The Liberation of Dagger Falls"
+slug: the-liberation-of-dagger-falls
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Yarkul"
+  - "Boregar"
+  - "Morgul"
+  - "Venosar"
+  - "William Cormaeril"
+  - "Drake"
+  - "Eiran"
+  - "Rewel Thunderstorm"
+  - "Amaretta"
+  - "Cassimar"
+  - "Gaebril Tremalkin"
+  - "Garrik Shining"
+  - "Grandfather"
+  - "Turan"
+  - "Cornish"
+  - "Grimspite"
+  - "Randal Morn"
+  - "Ratbiter"
+  - "Beljuril"
+locations:
+  - "Dagger Falls"
+  - "Shadowdale"
+  - "Castle Daggerdale"
+  - "Waterdeep"
+  - "Anathar's Dell"
+  - "Tethyamar"
+  - "Yulash"
+  - "Loudwater"
+tags: []
+---
 # Source: The Sieges Perilous wiki (backup 2010-02-21)
 # Wiki page title: The Liberation of Dagger Falls
 # Extracted: 2026-04-08 via extract_wiki_xml.py

@@ -643,26 +643,21 @@ Whetstone
 Goods
 Cost
 Weight
-Alchemist
-s lab
+Alchemist's lab
 5000s
 40 lb.
-Artisan
-s tools
+Artisan's tools
 5 lb.
-Artisan
-s tools, masterwork
+Artisan's tools, masterwork
 550s
 5 lb.
-Climber
-s kit
+Climber's kit
 800s
 5 lb.1
 Disguise kit
 500s
 8 lb.1
-Healer
-s kit
+Healer's kit
 500s
 1 lb.
 Holly and mistletoe
@@ -699,43 +694,33 @@ Water clock
 Goods
 Cost
 Weight
-Artisan
-s outfit
+Artisan's outfit
 4 lb.1
-Cleric
-s vestments
+Cleric's vestments
 6 lb.1
 Cold weather outfit
 7 lb.1
-Courtier
-s outfit
+Courtier's outfit
 300s
 6 lb.1
-Entertainer
-s outfit
+Entertainer's outfit
 4 lb.1
-Explorer
-s outfit
+Explorer's outfit
 100s
 8 lb.1
-Monk
-s outfit
+Monk's outfit
 2 lb.1
-Noble
-s outfit
+Noble's outfit
 750s
 10 lb.1
-Peasant
-s outfit
+Peasant's outfit
 2 lb.1
 Royal outfit
 20000s
 15 lb.1
-Scholar
-s outfit
+Scholar's outfit
 6 lb.1
-Traveler
-s outfit
+Traveler's outfit
 5 lb.1
 Goods or Services
 Cost

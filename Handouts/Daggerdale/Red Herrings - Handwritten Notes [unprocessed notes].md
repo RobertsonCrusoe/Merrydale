@@ -1,3 +1,50 @@
+---
+title: "Red Herrings - Handwritten Notes"
+slug: red-herrings-handwritten-notes
+type: session
+campaign: daggerdale
+voice: ooc
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Xulla"
+  - "Yarkul"
+  - "Teskul"
+  - "Gideon"
+  - "Zantiid"
+  - "Jafar"
+  - "Ersgul Mlshool"
+  - "Agamemnon"
+  - "Gettard"
+  - "Gotlieb Erlgund"
+  - "Beljuril"
+  - "Belduran"
+  - "Garth Shanks"
+  - "Grimwald"
+  - "Nym Dalael"
+  - "Sal Worthingham"
+  - "Sylkie"
+  - "Vader"
+  - "Venosar"
+  - "Steele"
+locations:
+  - "Waterdeep"
+  - "Dagger Falls"
+  - "Dagger Hills"
+  - "Hillsfar"
+  - "Yulash"
+tags:
+  - "military"
+---
 List of Businesses:
 -Unicorn’s Horn
 -Dark Lantern

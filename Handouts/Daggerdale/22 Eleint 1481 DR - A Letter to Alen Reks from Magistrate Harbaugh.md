@@ -1,3 +1,28 @@
+---
+title: "A Letter to Alen Reks from Magistrate Harbaugh"
+slug: a-letter-to-alen-reks-from-magistrate-harbaugh
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "22 Eleint 1481 DR"
+date_ic_sort: 1481266
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Aegis"
+  - "Alen Reks"
+locations:
+  - "Charity"
+  - "Liberty Hill"
+tags: []
+---
 A letter delivered by the hand of Shea, avenger of Amaunator, on the 26th of Eleint, 1481, to Alen Reks, at Loedegan Close
 ----
 Eleint 22, 1481 DR.

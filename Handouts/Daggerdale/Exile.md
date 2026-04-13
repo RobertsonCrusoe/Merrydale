@@ -1,3 +1,31 @@
+---
+title: "Exile"
+slug: exile
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Hannigus"
+  - "Eremus Elderbough"
+  - "Gethart"
+locations:
+  - "Dagger Falls"
+  - "Cormanthor"
+  - "Castle Radiance"
+  - "Quick Axes"
+tags: []
+---
 ==The Ambassador's Envoy==
 thumb|400px|Hannigus of the Freylith, Captain of the Unbending
 “What are you waiting for?”

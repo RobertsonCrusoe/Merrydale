@@ -1,3 +1,29 @@
+---
+title: "Selected Entries from the Journal of Aisling Maeliticus"
+slug: selected-entries-from-the-journal-of-aisling-maeliticus
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Abrecia"
+  - "Aisling Maeliticus"
+  - "Charrah"
+  - "Invictus"
+locations:
+  - "Thistle Ridge"
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

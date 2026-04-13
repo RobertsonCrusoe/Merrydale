@@ -1,3 +1,25 @@
+---
+title: "Abduction Site Narrative"
+slug: abduction-site-narrative
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags:
+  - "military"
+---
 Narrative read by the DM about the site of the Dwimmerholme families abductions
 
 600px|right

@@ -1,3 +1,28 @@
+---
+title: "Kethoth's Journal_ Greypeak Mountains (Part 1 - Kohr'Morrun)"
+slug: kethoth-s-journal-greypeak-mountains-part-1-kohr-morrun
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Kethoth"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "kethoths-journal"
+order: 10
+characters:
+  - "Kossur"
+  - "Bogrun"
+  - "Hrogan Goringrimm"
+locations:
+  - "Loudwater"
+tags: []
+---
 [PC Attribution: Chadrazzan Kossur (Les Blackwell)]
 ==Mirtul 25==
 

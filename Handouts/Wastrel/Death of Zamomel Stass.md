@@ -1,3 +1,10 @@
+---
+title: "Death of Zamomel Stass"
+slug: death-of-zamomel-stass
+type: stub
+campaign: wastrel
+subtype: npc
+---
 Information collected by Loremaster Malfus Broca in 1197 DR, The Year of the Sundered Shields
 
 thumb

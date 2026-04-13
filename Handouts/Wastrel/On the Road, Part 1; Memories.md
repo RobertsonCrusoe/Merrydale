@@ -1,3 +1,26 @@
+---
+title: "On the Road, Part 1; Memories"
+slug: on-the-road-part-1-memories
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: 10
+characters:
+  - "Ailyan"
+  - "Edward Albrecht"
+locations: []
+tags: []
+---
 How long had he been on the road now?
 
 Edward tried to number the days on the fingers of his outstretched hand, but the jarring bumps from cart he rode skewed his count at odd intervals, leaving him exasperated and second-guessing himself. A tenday from Suzail out to the border towns, several more since then to the downstream ferry into Elturgard, at least a month then by his count, a portion more spent at the mining camp to work off the debt from that unexpected detour... bah, he was never one for mathematics. He rested his face in his hands, arms propped up on his legs, and let his mind settle for a moment as he shrugged off the heavy wash of numbers that bombarded his mind. They fell like seeds to the base of his skull, sprouting winding and twisting trees of confusion that clawed upwards through his brain, leaving nothing but frustrated headaches in their wake. He was not a clever man, not by any stretch, and numbers and metrics grander than the span of a foot or the number of days to a month were, as far as Edward was concerned, less than important.

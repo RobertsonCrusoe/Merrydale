@@ -1,3 +1,30 @@
+---
+title: "Order of the Tome"
+slug: order-of-the-tome
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Darred"
+  - "Nathan Gale"
+  - "Phineas Hoetmer"
+  - "Sara Estelmer"
+locations:
+  - "Waterdeep"
+  - "Yellow Abbey"
+tags: []
+---
 right|500px
 
 This is a semi-secretive organization based out of Candlekeep, in the service of both Ohgma and Denier.  It is suspected that the agenda of this organization coincides with the celestial agendas of the deities associated with it, though this isn't perfectly clear.

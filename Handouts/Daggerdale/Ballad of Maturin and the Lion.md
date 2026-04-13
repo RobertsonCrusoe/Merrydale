@@ -1,3 +1,35 @@
+---
+title: "Ballad of Maturin and the Lion"
+slug: ballad-of-maturin-and-the-lion
+type: poetry
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Shildevan"
+  - "Grandfather"
+  - "Grimwald"
+  - "Janus"
+  - "Maturin Horgath"
+  - "Yarkul"
+locations:
+  - "Dagger Falls"
+  - "Waterdeep"
+  - "Loudwater"
+  - "Secomber"
+tags: []
+---
 [PC Attribution: Maturin Horgath (Stephen Robertson)]
 A Harper composition sung in the Dalelands c. 1373 DR
 

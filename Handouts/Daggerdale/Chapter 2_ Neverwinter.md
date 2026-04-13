@@ -1,3 +1,37 @@
+---
+title: "Chapter 2_ Neverwinter"
+slug: chapter-2-neverwinter
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Zaltim"
+  - "Jafar"
+  - "Kionin"
+  - "Kionin"
+  - "Shuldan"
+  - "Gilth'zan"
+  - "Laurel Dawn"
+  - "Beljuril"
+  - "Alt Kor"
+  - "Ansal Bloodshoulder"
+  - "Belduran"
+  - "Wilk Shtub"
+locations:
+  - "Waterdeep"
+tags: []
+---
 [[image:neverwinter.png|right|450px]]
 Being the tale of the Road Mage, [[Zaltim]], and his efforts in the North to remove the Zhent influence in the area. The heroes that became caught up in Zaltim’s struggle would go on to continue his work in Waterdeep, though he did not. Here is the story of the Road Mage and his allies.
 

@@ -1,3 +1,33 @@
+---
+title: "Incomplete Salvation"
+slug: incomplete-salvation
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "9 Marpenoth 1481 DR"
+date_ic_sort: 1481284
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Renfrew"
+  - "Doghan"
+  - "Vetis"
+  - "Xaphan"
+  - "Boregar"
+  - "Leedo Forester"
+  - "Nathan Gale"
+  - "Weaver"
+locations: []
+tags:
+  - "military"
+---
 DDC – 1481 - 6: Incomplete Salvation – A summary of the closing events of the Dwimmerholme Abductions 
 9 Marpenoth, 1481 - Journal of Nathan Gale 
 From GFD: 

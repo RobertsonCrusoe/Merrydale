@@ -1,3 +1,29 @@
+---
+title: "Suspicions"
+slug: suspicions
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Beljuril"
+  - "Garth Shanks"
+  - "Quellar Dalael"
+  - "Sal Worthingham"
+locations:
+  - "Waterdeep"
+tags: []
+---
 Following the fateful encounter with Quellar Dalael which precipitated the drastic realignment of the Waterdeep underworld that occurred in the summer of 1373, Garth Shanks lays out his suspicions as to the motivations and machinations of the nefarious Dalael.
 ----
 

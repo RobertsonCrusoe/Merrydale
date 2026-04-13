@@ -1,3 +1,28 @@
+---
+title: "Dreams in the Shadowfell"
+slug: dreams-in-the-shadowfell
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alystair Dretch"
+  - "Iolus Warburton"
+  - "Troia Trustar"
+locations: []
+tags:
+  - "military"
+---
 The Shadowfell is a nightmare-replica of the real world that is draped in constant gloom and shadow.  No light can penetrate very far, and the brightest lights brought by adventurers cast but an anaemic and muted light, which flickers and casts unnatural shadows.
 
 When Deep Night comes to the Shadowfell, which it does at no particular interval and for no measurable length of time, those from other planes and other worlds are on their own.  As the Deep Night comes, the darkness cannot be fought back with any light; even the divine light of Amaunator, cast by his most dedicated and favoured devotees, is not enough to penetrate this devouring blackness; the shadows cover all, and seep into everything and everyone.

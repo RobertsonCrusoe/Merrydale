@@ -1,3 +1,24 @@
+---
+title: "Chrysalis Chronicles Editing Request - Beliard's Songs at the Arena"
+slug: chrysalis-chronicles-editing-request-beliard-s-songs-at-the-arena
+type: lore
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 Chrysalis Chronicles Editing Request — Beliard's Songs at the Arena
 Todd Burry (as Ser Rowan/Mari) and Stephen Robertson (as Lucan/Beliard)
 Email thread: "Chrysalis chronicles editing request", 23 Feb 2024

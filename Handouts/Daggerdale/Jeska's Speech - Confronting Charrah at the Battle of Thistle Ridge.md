@@ -1,3 +1,27 @@
+---
+title: "Jeska's Speech - Confronting Charrah at the Battle of Thistle Ridge"
+slug: jeska-s-speech-confronting-charrah-at-the-battle-of-thistle-ridge
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Charrah"
+  - "Jeska Monarch"
+locations:
+  - "Thistle Ridge"
+tags: []
+---
 Jeska's Speech — Confronting Charrah at the Battle of Thistle Ridge
 Stephen Robertson (ghostwriter) and Scott Mclaren (as Jeska Monarch)
 Email thread: "Jeska's speech", 8-10 May 2025

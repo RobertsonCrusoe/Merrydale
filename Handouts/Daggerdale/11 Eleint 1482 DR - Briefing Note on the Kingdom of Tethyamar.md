@@ -1,3 +1,31 @@
+---
+title: "Briefing Note on the Kingdom of Tethyamar"
+slug: briefing-note-on-the-kingdom-of-tethyamar
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "11 Eleint 1482 DR"
+date_ic_sort: 1482255
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Darred"
+locations:
+  - "Tethyamar"
+  - "East Gate"
+  - "Tesh Valley"
+  - "Castle Radiance"
+  - "Loedegan's Hall"
+tags:
+  - "military"
+---
 DDC – 1481 – 1: Briefing Note on the Kingdom of Tethyamar 
 From a book of records at Candlekeep Emmissaries in Castle Radiance 
 GFD Notes: 

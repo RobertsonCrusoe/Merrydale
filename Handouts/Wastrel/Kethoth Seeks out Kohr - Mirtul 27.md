@@ -1,3 +1,25 @@
+---
+title: "Kethoth Seeks out Kohr - Mirtul 27"
+slug: kethoth-seeks-out-kohr-mirtul-27
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "kethoths-journal"
+order: ""
+characters:
+  - "Kethoth Sepret"
+locations: []
+tags: []
+---
 Kethoth leaves the main hall to seek out Kohr.
 
 ...

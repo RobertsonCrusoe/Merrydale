@@ -1,3 +1,31 @@
+---
+title: "Dorian of Sembia"
+slug: dorian-of-sembia
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Gilthanas"
+  - "Perspicuus Whitegate"
+locations:
+  - "Castle Daggerdale"
+  - "Sembia"
+  - "Waterdeep"
+  - "Shadowdale"
+tags:
+  - "military"
+---
 [PC Attribution: Dorian of Sembia (Gus Miranda)]
 Gussy says:  My all-time favourite character<ref> He might have been. There is speculation that Dorian's losing of the title 'Greatest Swordsman in the Realms' might actually colour Mr. Miranda's fond memories of this character.</ref>.  I've got lots and lots to add to this later.
 

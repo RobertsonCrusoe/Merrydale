@@ -1,3 +1,10 @@
+---
+title: "Derelicts"
+slug: derelicts
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 left|450px
 
 The victims of the Sons of Bel and the vile ritual known as Bel's Bargain, these people have their souls taken from their bodies.  Derelicts then become the mindless slaves of the villain that made them.  These 'husks' walk around muttering things quietly to themselves, often in the Infernal Tongue.

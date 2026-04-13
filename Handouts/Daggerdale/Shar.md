@@ -1,3 +1,26 @@
+---
+title: "Shar"
+slug: shar
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Ailyan"
+  - "Gaebril Tremalkin"
+locations: []
+tags: []
+---
 The people of Daggerdale have a long history with the Lady of Darkness.  The very name and coat of arms of the dale comes from a conflict over 200 years ago with a coven of vampires who worshiped Shar.  The bitter conflict left scores of families destroyed, and though in the end, the vampires were defeated, the worship of Shar flourished for a couple of generations, as people dealt with the sorrow and loss that the blighted dale experienced.
 
 During the 1370's, the dale experienced another horrible conflict, this time with the Zhents.  This Previous Adventures in Daggerdale is told in detail elsewhere.  However, one of the outcomes of the conflict was a brief resurgence in the worship of Shar, again, as a means for dealing with the horror that had been inflicted upon the people.  It did not help that one of the Liberators of Daggerfalls was a knight of Shar, Gaebril Tremalkin.  It was taken by many as a sign from the gods that it was time to forget, and to give Shar her due in this time of sadness.

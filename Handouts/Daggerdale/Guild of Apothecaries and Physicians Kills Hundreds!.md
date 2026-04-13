@@ -1,3 +1,28 @@
+---
+title: "Guild of Apothecaries and Physicians Kills Hundreds!"
+slug: guild-of-apothecaries-and-physicians-kills-hundreds
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Janus"
+  - "Richter"
+  - "Ewen Lethgedger"
+locations:
+  - "Waterdeep"
+tags: []
+---
 Excerpted article from the Waterdeep Trumpet, 16 Flamerule, 1372
 ----
 

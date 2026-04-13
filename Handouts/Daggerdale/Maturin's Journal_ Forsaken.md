@@ -1,3 +1,30 @@
+---
+title: "Maturin's Journal_ Forsaken"
+slug: maturin-s-journal-forsaken
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: "Maturin"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Will"
+  - "Maturin Horgath"
+  - "Warburden"
+  - "Boregar"
+  - "Corina"
+locations:
+  - "Waterdeep"
+tags: []
+---
 [PC Attribution: Maturin Horgath (Stephen Robertson)]
 An entry from the journal of Maturin Horgath, dated 17 Kythorn, 1372
 ----

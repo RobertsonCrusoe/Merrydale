@@ -1,3 +1,25 @@
+---
+title: "A Fun Writing Assignment - Dinner with Reks Collaboration"
+slug: a-fun-writing-assignment-dinner-with-reks-collaboration
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alen Reks"
+locations: []
+tags: []
+---
 A Fun Writing Assignment — Dinner with Reks Collaboration
 Les Blackwell (DM) and Stephen Robertson (as Lucan)
 Email thread: "A fun writing assignment...", 16-17 Feb 2026

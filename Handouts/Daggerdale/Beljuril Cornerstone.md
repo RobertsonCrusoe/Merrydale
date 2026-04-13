@@ -1,3 +1,30 @@
+---
+title: "Beljuril Cornerstone"
+slug: beljuril-cornerstone
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Beljuril"
+  - "Jafar"
+  - "Agamemnon"
+locations:
+  - "Waterdeep"
+  - "Practioner's Tower"
+tags:
+  - "military"
+---
 \"Azuth preserve thee.\"
 
 Beljuril Cornerstone is the son two Waterdhavian adventurers who disappeared into Undermountain during his childhood. His mother was a talented half-elven mage involved with the  and the City Watch, while his father was a ranking Grumbarryn cornerstone monk, from whom his patronym was derived.

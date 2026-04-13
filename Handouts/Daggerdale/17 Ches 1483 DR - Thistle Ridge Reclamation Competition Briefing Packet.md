@@ -1,3 +1,55 @@
+---
+title: "Thistle Ridge Reclamation Competition Briefing Packet"
+slug: thistle-ridge-reclamation-competition-briefing-packet
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "17 Ches 1483 DR"
+date_ic_sort: 1483078
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Whistle"
+  - "Ambassador Whitmore"
+  - "Nadia Thistle"
+  - "Andarl Alavandor"
+  - "Ardelusk Whitegate"
+  - "Blaze Whitegate"
+  - "Cassimar"
+  - "Daphne Dale"
+  - "Godwin Ferguson"
+  - "Janus"
+  - "Malveau Greenleaf"
+  - "Tuugan Swift"
+  - "Alexi Greenleaf"
+  - "Charrah"
+  - "Claudius Clarandal"
+  - "Dalak Quickaxe"
+  - "Darred"
+  - "Elowen Miratar"
+  - "Forge Farmountain"
+  - "Gideon"
+locations:
+  - "Thistle Ridge"
+  - "Charity"
+  - "Dagger Falls"
+  - "Liberty Hill"
+  - "Thistle Ridge Farm"
+  - "Yellow Abbey"
+  - "Sembia"
+  - "Cormanthor"
+  - "Quick Axes"
+  - "Tesh Valley"
+tags:
+  - "military"
+---
 Ches 17, 1483 DR 
 You have been selected to participate in the Thistle Ridge Reclamation Competition. You and other holders of Charters Militant will have a tenday to prove that you are the organization best suited to be chartered to Reclaim Thistle Ridge Farm, potentially becoming the lords and owners of that once-shining jewel in the eastern edge of Daggerdale. 
 

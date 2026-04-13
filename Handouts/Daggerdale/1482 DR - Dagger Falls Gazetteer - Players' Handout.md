@@ -1,3 +1,47 @@
+---
+title: "1482 DR - Dagger Falls Gazetteer - Players' Handout"
+slug: 1482-dr-dagger-falls-gazetteer-players-handout
+type: lore
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1482 DR"
+date_ic_sort: 1482001
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Cassimar"
+  - "Gaebril Tremalkin"
+  - "Merriadock Burgundy"
+  - "Boregar"
+  - "Dalak Quickaxe"
+  - "Dorian Dale"
+  - "Drake"
+  - "Elowen Miratar"
+  - "Invictus"
+  - "Phineas Hoetmer"
+  - "Tuugan Swift"
+  - "William Cormaeril"
+  - "Ambassador Whitmore"
+locations:
+  - "Dagger Falls"
+  - "Liberty Hill"
+  - "Charity"
+  - "Quick Axes"
+  - "Sembia"
+  - "Tethyamar"
+  - "Waterdeep"
+  - "Yellow Abbey"
+  - "Cassimar Tower"
+  - "Dagger Falls Cathedral"
+tags: []
+---
 Daggerfalls Gazetteer – Players' Handout 
 This portion of the Chronicle has information for the players specifically, including some references to game materials (such as prices in PHB's and that sort of thing). 
 Dagger Falls Cathedral 

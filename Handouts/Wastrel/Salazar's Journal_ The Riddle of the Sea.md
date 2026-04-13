@@ -1,3 +1,24 @@
+---
+title: "Salazar's Journal_ The Riddle of the Sea"
+slug: salazar-s-journal-the-riddle-of-the-sea
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Salazar"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 [PC Attribution: Salazar (Les Blackwell)]
 From the journal of Salazar...
 ----

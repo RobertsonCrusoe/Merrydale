@@ -1,3 +1,28 @@
+---
+title: "Castle at Arms - Military Disposition of Castle Radiance (Appendix F)"
+slug: castle-at-arms-military-disposition-of-castle-radiance-appendix-f
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Invictus"
+locations:
+  - "Castle Radiance"
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 THE CASTLE AT ARMS
 APPENDIX F
 A survey of the military disposition of Castle Radiance, compiled by the secretary to the Cormyrean Embassy

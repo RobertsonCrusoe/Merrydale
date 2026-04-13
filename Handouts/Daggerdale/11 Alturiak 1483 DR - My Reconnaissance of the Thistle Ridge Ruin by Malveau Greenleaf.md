@@ -1,3 +1,42 @@
+---
+title: "My Reconnaissance of the Thistle Ridge Ruin by Malveau Greenleaf"
+slug: my-reconnaissance-of-the-thistle-ridge-ruin-by-malveau-greenleaf
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "11 Alturiak 1483 DR"
+date_ic_sort: 1483042
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Malveau Greenleaf"
+  - "Alexi Greenleaf"
+  - "Ardelusk Whitegate"
+  - "Charrah"
+  - "Lumina Whitegate"
+  - "Nadia Thistle"
+  - "Tuugan Swift"
+  - "Ambassador Whitmore"
+locations:
+  - "Thistle Ridge"
+  - "Cormanthor"
+  - "Anathar's Dell"
+  - "Liberty Hill"
+  - "Charity"
+  - "Dagger Hills"
+  - "Sembia"
+  - "Thistle Ridge Farm"
+  - "Yellow Abbey"
+tags:
+  - "military"
+---
 [Source: Daggerdale Flora and Fauna.txt, lines 279+]
 
 11 Alturiak, 1483 - My Reconnaissance of the Thistle Ridge Ruin 

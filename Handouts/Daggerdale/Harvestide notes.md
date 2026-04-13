@@ -1,3 +1,46 @@
+---
+title: "Harvestide notes"
+slug: harvestide-notes
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Yarkul"
+  - "Jafar"
+  - "Esperel"
+  - "Beljuril"
+  - "Teskul"
+  - "Rubikawn"
+  - "Alt Kor"
+  - "Elbing Hightimber"
+  - "Wilk Shtub"
+  - "Alek Lenter"
+  - "Aragorn Thickbrow"
+  - "Belduran"
+  - "Bleskos Wavesilver"
+  - "Drake"
+  - "Ekoul"
+  - "Garth Shanks"
+  - "Gulidan"
+  - "Jalthor Murlyn"
+  - "Jannaxil Serpentil"
+  - "Joldara Hunabar"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 == 25 Eleint ==
 
 * At breakfast, a knock is heard at the door of the Headquarters of the Company of the Red Herring.  It is not Thagdul, as popularly surmised, but the half-orc Gul’dan dressed in his finest.

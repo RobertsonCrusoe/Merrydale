@@ -1,3 +1,31 @@
+---
+title: "Zamomel Stass"
+slug: zamomel-stass
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Baird"
+  - "Dolebrund"
+  - "Marsh Laval"
+  - "Seriadne"
+locations:
+  - "Waterdeep"
+  - "Loudwater"
+tags:
+  - "military"
+---
 An amicable, elderly gentleman, fond of whistling and travelling by himself. Zamomel appeared to be honest when claiming that he was from Aglarond, seeking Mattrick Lychaeus and Baird of Kelemvor. Upon hearing about their untimely demise, Zamomel revealed that the individual by the name of Seriadne that sent Baird and Mattrick to seek out the Horns, was revealed to be a malaugrym; an evil, mystical creature from the far realms.
 
 Zamomel very much wishes the adventurers to continue in their search for the Horns of Eltab. He wishes to use the Horns to free Aglarond from the looming threat of Thay. Should the party wish to give him the Horns, he will pay them appropriately and they will be rewarded in a fashion that only a country such as Aglarond would reward a nation’s heroes. He can be contacted at the Dripping Dagger in Waterdeep should they wish to assist him in the freeing of his, Baird’s and Mattrick’s country.

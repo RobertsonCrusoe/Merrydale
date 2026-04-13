@@ -1,3 +1,11 @@
+---
+title: "Dulbrawan Anteos"
+slug: dulbrawan-anteos
+type: stub
+campaign: daggerdale
+subtype: npc
+deceased: true
+---
 Dulbrawan Anteos was the former Patriarch of House Anteos
 
 By Greengrass of 1372, the old noble was rumoured to be in hiding in hiding, as his Family is suffering a great turmoil. He was known to often take Highsunfeast with Thagdul. Through his influence, House Anteos engaged in limited business with Company Aldebarran.

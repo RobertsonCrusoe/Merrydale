@@ -1,3 +1,55 @@
+---
+title: "The Chrysalis Chronicles (Todd Burry)"
+slug: the-chrysalis-chronicles-todd-burry
+type: lore
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Templeton"
+  - "Rowan Grumbold"
+  - "Ambassador Whitmore"
+  - "Mari Thickwickle"
+  - "Godwin Ferguson"
+  - "Alexandus"
+  - "Rockland"
+  - "Lucan Alavandor"
+  - "Cassimar"
+  - "Coutts"
+  - "Mortimer"
+  - "Jasper Hawkford"
+  - "Alen Reks"
+  - "Balak Quickaxe"
+  - "Iolus Warburton"
+  - "Kionin"
+  - "Sanduskyn Vale"
+  - "Tara Hilltop"
+  - "Vessuvian"
+  - "Will"
+locations:
+  - "Thistle Ridge"
+  - "Quick Axes"
+  - "Charity"
+  - "Dagger Falls"
+  - "Thistle Ridge Farm"
+  - "Saerloon"
+  - "Tesh Valley"
+  - "Shadowdale"
+  - "Sembia"
+  - "Hillsfar"
+tags:
+  - "military"
+---
 # 
 
 # **The Chrysalis Chronicles**

@@ -1,3 +1,27 @@
+---
+title: "Shae the Monk"
+slug: shae-the-monk
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Shae"
+  - "Grandfather"
+locations:
+  - "Castle Radiance"
+tags: []
+---
 right|300px|thumb|Shae, Monk of the Four Winds.
 == History ==
 

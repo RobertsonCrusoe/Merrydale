@@ -1,3 +1,36 @@
+---
+title: "From the Casebook of Lucan Alavandor - The Conspiracy Unmasked"
+slug: from-the-casebook-of-lucan-alavandor-the-conspiracy-unmasked
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Abrecia"
+  - "Quercina"
+  - "Lucan Alavandor"
+  - "Charrah"
+  - "Contessa Palus"
+  - "Poppy Sweetberry"
+  - "Invictus"
+  - "Lilac Alavandor"
+  - "Tergus Clarandal"
+locations:
+  - "Thistle Ridge"
+  - "Saerloon"
+  - "Sembia"
+tags: []
+---
 From the Casebook of Lucan Alavandor: The Conspiracy Unmasked
 Date: 22 April 2025
 From: Stephen Robertson

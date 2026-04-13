@@ -1,3 +1,36 @@
+---
+title: "Dagger_Falls_Gazetteer_-_Players_Handout"
+slug: dagger-falls-gazetteer-players-handout
+type: lore
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Tuugan Swift"
+  - "Ambassador Whitmore"
+locations:
+  - "Liberty Hill"
+  - "Dagger Falls"
+  - "Charity"
+  - "Quick Axes"
+  - "Sembia"
+  - "Waterdeep"
+  - "Tethyamar"
+  - "Yellow Abbey"
+  - "Hillsfar"
+  - "Yulash"
+tags: []
+---
 Dagger Falls Gazetteer—Players' Handout 
 This portion of the Chronicle has information for the players specifically, including some references to game materials (such as prices in PHB's and that sort of thing). 
 The Old Market 

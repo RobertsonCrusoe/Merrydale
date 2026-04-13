@@ -1,3 +1,54 @@
+---
+title: "The Shadow Lifted"
+slug: the-shadow-lifted
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1 Kythorn 1480 DR"
+date_ic_sort: 1480153
+date_ooc: ""
+series: "the-shadow-lifted"
+order: ""
+characters:
+  - "Alystair Dretch"
+  - "Braxus"
+  - "Iolus Warburton"
+  - "Lobelia Alavandor"
+  - "Loki Mouvranesh"
+  - "Tuugan Swift"
+  - "Troia Trustar"
+  - "Alen Reks"
+  - "Ardelusk Whitegate"
+  - "Banitt Harbaugh"
+  - "Blaze Whitegate"
+  - "Decker Blackmane"
+  - "Gaebril Tremalkin"
+  - "Ganolen Thendolain"
+  - "Hardigan"
+  - "Kruhwahll"
+  - "Lumen Whitegate"
+  - "Lumina Whitegate"
+  - "Melegaunt"
+  - "Pauldron"
+locations:
+  - "Liberty Hill"
+  - "Dagger Falls"
+  - "Yellow Abbey"
+  - "Castle Daggerdale"
+  - "Dagger Hills"
+  - "Waterdeep"
+  - "Crossed Blades Farm"
+  - "Castle Radiance"
+  - "Dwimmerholme Farm"
+  - "Sembia"
+tags: []
+---
 ==Notes from GFD==
 
 And finally, we come to Sarah’s Report. This report is not hard to find. Steele had a copy, but I’ve seen at least two others. There are corroborating documents to be found in Waterdeep and Candlekeep that support Sarah’s report below. After I read this report, I immediately booked travel by various means to Daggerdale, in the hopes of meeting the women she was so close to, and the people with whom she shared such an incredible adventure.

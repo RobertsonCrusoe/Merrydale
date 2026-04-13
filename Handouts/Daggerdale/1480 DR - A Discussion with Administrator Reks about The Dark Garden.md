@@ -1,3 +1,38 @@
+---
+title: "1480 DR - A Discussion with Administrator Reks about The Dark Garden"
+slug: 1480-dr-a-discussion-with-administrator-reks-about-the-dark-garden
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1480 DR"
+date_ic_sort: 1480001
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Drake"
+  - "Drake Sterling"
+  - "Sorashana"
+  - "Lotus"
+  - "Alen Reks"
+  - "Gaebril Tremalkin"
+  - "Iolus Warburton"
+  - "Lobelia Alavandor"
+  - "Loki Mouvranesh"
+locations:
+  - "Tesh Valley"
+  - "Tethyamar"
+  - "Waterdeep"
+  - "Cormanthor"
+  - "Liberty Hill"
+tags: []
+---
 DDC – 1480 – 2: A Discussion with Administrator Reks about The Dark Garden 
 Wherein your humble chronicler records verbatim, and for your benefit dear reader, the memories of Administrator Reks with regards to the woman known as Deadnettle, part of the Coven of the Dark Garden. 
 GFD Notes: 

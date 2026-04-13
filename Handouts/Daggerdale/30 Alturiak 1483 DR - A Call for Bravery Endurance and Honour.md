@@ -1,3 +1,32 @@
+---
+title: "A Call for Bravery Endurance and Honour"
+slug: a-call-for-bravery-endurance-and-honour
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "30 Alturiak 1483 DR"
+date_ic_sort: 1483061
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Cassimar"
+  - "Forge Farmountain"
+  - "Ambassador Whitmore"
+locations:
+  - "Thistle Ridge"
+  - "Yellow Abbey"
+  - "Thistle Ridge Farm"
+  - "Charity"
+tags:
+  - "military"
+---
 [Source: Daggerdale Through the Ages A History Through Maps.txt, lines 120+]
 
 30 Alturiak, 1483 DR.A Call for Bravery, Endurance and Honour! 

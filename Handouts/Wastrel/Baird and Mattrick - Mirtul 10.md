@@ -1,3 +1,28 @@
+---
+title: "Baird and Mattrick - Mirtul 10"
+slug: baird-and-mattrick-mirtul-10
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Baird"
+  - "Ailyan"
+  - "Janus"
+  - "Saharel"
+locations: []
+tags: []
+---
 Taking place in the library of the Monastery of the Precipice. Shortly after arriving at the monastery and when people had separated and \"did their own thing\" of sorts in the evening.
 
 In the seclusion of the library, Mattrick speaks in the calm, strong voice that he's known for. Either he's confident in the fact that he and Baird are alone or he is simply unconcerned with who may or may not be listening. Giving Baird a direct look as he speaks...

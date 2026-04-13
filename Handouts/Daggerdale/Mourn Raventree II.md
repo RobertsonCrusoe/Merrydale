@@ -1,3 +1,26 @@
+---
+title: "Mourn Raventree II"
+slug: mourn-raventree-ii
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Grimwald"
+  - "Agamemnon"
+locations: []
+tags: []
+---
 [PC Attribution: Mourn Raventree II (Gus Miranda)]
 \" Raventree II, commissioned by House Raventree in 1370 for Raven's coming of age as heir.]]
 

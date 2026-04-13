@@ -1,6 +1,31 @@
+---
+title: "Red Herrings - Chapter 3 - Streets of Blood - Beljurils vision"
+slug: red-herrings-chapter-3-streets-of-blood-beljurils-vision
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jafar"
+  - "Esperel"
+  - "Zaltim"
+  - "Beljuril"
+locations: []
+tags:
+  - "military"
+---
 Beljurils Dream
-Your night
-s sleep brings a fever-dream, clearly a message from Azuth.
+Your night's sleep brings a fever-dream, clearly a message from Azuth.
 You find yourself sitting in a kneeling position on the floor of the monastery, as a child of four years of age.  Standing behind you is a wise-looking old man who has more of a
 presence
 than actual countenance.
@@ -24,15 +49,13 @@ After fiddling with the army of latches, bolts, catches and locking mechanisms o
 But then you notice the faces of Thagdul, Jafar, Rychel, Esperel, Garth and Tomas leering at you.
 Come on, Boy,
 says Jafar.
-Open the next box.  Let
-s have us a see.
+Open the next box.  Let's have us a see.
 You struggle with the next box, but cannot figure out how to open, and you are becoming frustrated.  Finally, Raven throws a knife at the box, knocking it from your hands.
 
 You are scared, and get up to run, but find yourself helplessly contained by this circle of strangers.
 Just a little more, Boy,
 says Thagdul.
-This seems to calm you, and you kneel down to play with the box again, and then, there is only you and the box.  Fiddling with it at length, you notice a notch where the ranger
-s knife was striking.  As you peer into this hole, the dream transitions.
+This seems to calm you, and you kneel down to play with the box again, and then, there is only you and the box.  Fiddling with it at length, you notice a notch where the ranger's knife was striking.  As you peer into this hole, the dream transitions.
 You have a view of the bow of a great ship, passing you in the night.  The light from the North Star is bright behind this, and makes the waves brilliant silver.
 
 Down and down you plunge.  It is dark, and you hear voices.  A very inhuman, scratchy, guttural bass voice says,
@@ -46,22 +69,19 @@ atop the sceptre is a beholder, a small, living beholder.  As you stare at it, y
 
 You descend deeper, and finally your feet touch bottom, and you are a lone in a dark, wet chamber.  The smell of the place is awful.  You can hear screams from one opening, and the sounds of battle.  Rushing down a strange corridor with a tiny balcony that runs halfway up the wall, you head towards the sounds.  The ground is wet, and covered in horrible slimes.  You finally reach a wall, which you stumble through somehow.
 There, you behold a terrible sight that is too much to take in all at once.
-In a large room, men surround a group of young, naked boys who are fighting each other, with such weapons as broken bottles, old rusty saws, hammers, and sharp bones. Several little bloody corpses litter the floor, and there are men
-s boots grinding them to paste.
+In a large room, men surround a group of young, naked boys who are fighting each other, with such weapons as broken bottles, old rusty saws, hammers, and sharp bones. Several little bloody corpses litter the floor, and there are men's boots grinding them to paste.
 You are paralysed with fear, and notice you are still four years old, but also that you are naked.  The circle of men opens up, and as quick as you try to escape, you find yourself inside the circle.  A lone, bloody boy of perhaps six years stands opposite you, clutching a rusty saw blade.  He comes screaming towards you.  You manage to land a blow directly on his chin, knocking him clean out.  But the boy
 
 s momentum carries his head into your face, knocking out two of your teeth.  The metallic taste of blood fills your mouth.
 
 At this point, all the men start clapping.  A man in huge armour comes and offers you a drink from a large goblet.  You just stand there, taking it all in. Men in the circle include a drow wearing a mask, and a man made of slime in robes of copper violet, amber, russet, and lavender.  Then, there is the scary man.
 
-A man of pure blackness with all the likeness of a demon stands behind the man in the black armour and the cup.  He has his black hand on the armoured man
-s huge shoulder, and his horrible smile makes you startle awake.
+A man of pure blackness with all the likeness of a demon stands behind the man in the black armour and the cup.  He has his black hand on the armoured man's huge shoulder, and his horrible smile makes you startle awake.
 You are drenched in sweat, and thirstier than you have ever been before.  You notice you are actually covered in blood, and panic.  You think you hear something in the corner of the room and notice the shadowy figure of a six-foot diameter sphere approaching you from the corner.  It
 
 s green glowing eye burns brightly, and freezes you to the bone.  You slowly, numbly swivel in bed, about to step off.  Stepping out of bed, there is a horrible crack, and pain shoots up your leg.  The room goes white as the pain overwhelms you.
 
-When your sight returns, you are a boy again, sobbing in the comforting arms of the wise man.  You look down and se that the outer layer of the box has collapsed on your foot like a clever mousetrap. The man, who can
-t get the box off, says to you in a solemn voice.
+When your sight returns, you are a boy again, sobbing in the comforting arms of the wise man.  You look down and se that the outer layer of the box has collapsed on your foot like a clever mousetrap. The man, who can't get the box off, says to you in a solemn voice.
 Prepare thyself, for all of your dreams have been construed, and they all end in traps.
 
 With this, you wake up, in no pain at all.  It is still dark out, and you realize almost no time has passed.  You are completely rested, and completely healed.

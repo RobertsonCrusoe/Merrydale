@@ -1,3 +1,46 @@
+---
+title: "EOI Notes - Encyclopediae Ocularis Indomitus"
+slug: eoi-notes-encyclopediae-ocularis-indomitus
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Teskul"
+  - "Vader"
+  - "Agamemnon"
+  - "Gideon"
+  - "Grimwald"
+  - "Boregar"
+  - "Chimask Umbrusk"
+  - "Dally"
+  - "Dulbrawan Anteos"
+  - "Ebola"
+  - "Esperel"
+  - "Garth Shanks"
+  - "Gettard"
+  - "Halam Umbrusk"
+  - "Issilith Dalael"
+  - "Jafar"
+  - "Jeryth Phaulkon"
+  - "Marcus"
+  - "Marin Adara"
+  - "Meghan Anteos"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 Encyclopediae Ocularis Indomitus
 New buyer
 Feasible

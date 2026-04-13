@@ -1,3 +1,26 @@
+---
+title: "Kethoth's Journal_ The Curse of Baron Maskil"
+slug: kethoth-s-journal-the-curse-of-baron-maskil
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Kethoth"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "kethoths-journal"
+order: ""
+characters:
+  - "Kossur"
+locations: []
+tags:
+  - "military"
+---
 [PC Attribution: Chadrazzan Kossur (Les Blackwell)]
 Significant Entries from the Journal of Chadrazzan Kossur...
 ----

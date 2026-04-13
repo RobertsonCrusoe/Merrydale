@@ -1,3 +1,31 @@
+---
+title: "Remaining Notes"
+slug: remaining-notes
+type: session
+campaign: daggerdale
+voice: ooc
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: "10 Mirtul 1371 DR"
+date_ic_sort: 1371132
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jafar"
+  - "Egan"
+  - "Yarkul"
+  - "Vuldan"
+  - "Gilthanas"
+  - "Thuman"
+locations:
+  - "Waterdeep"
+tags: []
+---
 == 10 Mirtul 1371 - Repaying Debts ==
 
 Indeed, Gilthanas disappeared about then, and a new figure took his place alongside the adventurers. This was [[Soltan|Jafar]]. Jafar seemed to know Thagdul from some business dealings in Calimshan, where he claimed to be from.

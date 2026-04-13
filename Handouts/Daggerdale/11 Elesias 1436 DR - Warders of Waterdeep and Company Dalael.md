@@ -1,3 +1,34 @@
+---
+title: "11 Elesias 1436 DR - Warders of Waterdeep and Company Dalael"
+slug: 11-elesias-1436-dr-warders-of-waterdeep-and-company-dalael
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1436 DR"
+date_ic_sort: 1436001
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Breton Durinbold"
+  - "Dally"
+  - "Edgar Grimbold"
+  - "Gable"
+  - "Jalthor Murlyn"
+  - "Richter"
+  - "Y'morth Dalael"
+  - "Steele"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 Elesias 11, 1436 
 
 The Warders of Waterdeep encounter the Company Dalael this summer.  Both parties were searching for something called the Island of Three Curses, somewhere south-west of Neverwinter in the Sea of Swords.  Company Dalael was looking for something called Kulgen Sussun on this island, while the Warders were looking for a place called Blethmark.  It turned out that Blethmark was one of many layers of building upon the ancient Kulgen Sussun (Drow for fortress of light), which was built by Drow millennia ago. 

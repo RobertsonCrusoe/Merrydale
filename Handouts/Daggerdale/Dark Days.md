@@ -1,3 +1,33 @@
+---
+title: "Dark Days"
+slug: dark-days
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Esperel"
+  - "Garth Shanks"
+  - "Gilthanas"
+  - "Jafar"
+  - "Sal Worthingham"
+  - "Tomas Quoyle"
+  - "Beljuril"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 A manuscript penned by an unknown hand discovered tucked into a list of invoices pertaining to the purchase of Phaulkonmere. 
 ------
 

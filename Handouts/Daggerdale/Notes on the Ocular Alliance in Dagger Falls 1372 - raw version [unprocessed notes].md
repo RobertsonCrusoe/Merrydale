@@ -1,3 +1,40 @@
+---
+title: "Notes on the Ocular Alliance in Dagger Falls 1372 - raw version"
+slug: notes-on-the-ocular-alliance-in-dagger-falls-1372-raw-version
+type: session
+campaign: daggerdale
+voice: ooc
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Yarkul"
+  - "Venosar"
+  - "Gauntlet"
+  - "Jeryth Phaulkon"
+  - "Amaretta"
+  - "Dragkul"
+  - "Manshoon"
+  - "Maturin Horgath"
+  - "Morgul"
+  - "William Cormaeril"
+locations:
+  - "Dagger Falls"
+  - "Waterdeep"
+  - "Anathar's Dell"
+  - "Shadowdale"
+  - "Yulash"
+tags:
+  - "military"
+---
 [RAW - UNEDITED AND UNREVIEWED - extracted by automated process, not yet verified for accuracy or completeness]
 
 Notes on the Ocular Alliance in Dagger Falls 1372

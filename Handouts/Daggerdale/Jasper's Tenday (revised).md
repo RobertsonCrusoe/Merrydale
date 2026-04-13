@@ -1,3 +1,29 @@
+---
+title: "Jasper's Tenday (revised)"
+slug: jasper-s-tenday-revised
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Mortimer"
+  - "Nemia"
+locations:
+  - "Thistle Ridge"
+  - "Shadowdale"
+  - "Dagger Falls"
+tags: []
+---
 Jasper's Tenday (revised)
 by Gus Miranda (as Jasper)
 18 Aug 2024

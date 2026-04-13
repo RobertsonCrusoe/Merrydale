@@ -1,3 +1,28 @@
+---
+title: "Spring 1427"
+slug: spring-1427
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Tergus Clarandal"
+locations:
+  - "Thistle Ridge"
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 From the Journal of Tergus Clarandal, recovered at Clarandal Farm 1483 by Company Chrysalis
 
 [Source: Partial Journal of Tergus Clarandal.docx, uploaded 2026-04-09]

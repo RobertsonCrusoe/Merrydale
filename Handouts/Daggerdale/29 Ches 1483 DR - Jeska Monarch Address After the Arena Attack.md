@@ -1,3 +1,27 @@
+---
+title: "Jeska Monarch Address After the Arena Attack"
+slug: jeska-monarch-address-after-the-arena-attack
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "29 Ches 1483 DR"
+date_ic_sort: 1483090
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jeska Monarch"
+  - "Vessuvian"
+locations:
+  - "Thistle Ridge"
+tags: []
+---
 29 Ches 1483 DR — Jeska Monarch addresses Chrysalis on the night of the arena attack
 Source: From the Vessuvian chronicle composite. Transcribed in two parts: (1) the public address Jeska delivered to the crowd in the arena aftermath, recorded by Brother Vessuvian; (2) the private words to her own team later that evening, after the meeting with the Standing Stone League.
 

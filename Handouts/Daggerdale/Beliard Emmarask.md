@@ -1,3 +1,27 @@
+---
+title: "Beliard Emmarask"
+slug: beliard-emmarask
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alaphondar Emmarask"
+  - "Roland Emmarask"
+locations:
+  - "Castle Radiance"
+tags: []
+---
 Beliard Kathklan Emmarask is a servant of His Majesty's government, attached to the diplomatic mission at Castle Radiance in Daggerdale.
 
 ==Notes on House Emmarask==

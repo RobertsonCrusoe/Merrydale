@@ -1,3 +1,43 @@
+---
+title: "From the Casebook of Lucan Alavandor - A Theory about the House of Alavandor in Thistle Ridge"
+slug: from-the-casebook-of-lucan-alavandor-a-theory-about-the-house-of-alavandor-in-thistle-ridge
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Claudius Clarandal"
+  - "Abrecia"
+  - "Lucan Alavandor"
+  - "Aisling Maeliticus"
+  - "Blaze Whitegate"
+  - "Coelathara Alavaxi"
+  - "Lilac Alavandor"
+  - "Lily Clarandal"
+  - "Minerva Maerimmon"
+  - "Poppy Sweetberry"
+  - "Sandara Sakurth"
+  - "Saralla Sakurth"
+  - "Senthia Alavandor"
+  - "Tergus Clarandal"
+  - "Xerces Alavaxi"
+locations:
+  - "Thistle Ridge"
+  - "Sembia"
+  - "Saerloon"
+  - "Yellow Abbey"
+tags: []
+---
 A Theory about the House of Alavandor in Thistle Ridge
 By Lucan Alavandor
 

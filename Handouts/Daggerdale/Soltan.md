@@ -1,3 +1,29 @@
+---
+title: "Soltan"
+slug: soltan
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jafar"
+  - "Zantiid"
+locations:
+  - "Waterdeep"
+  - "Sembia"
+tags:
+  - "military"
+---
 [PC Attribution: Soltan (Gus Miranda)]
 15\"A wizard has a dozen lives. Wound one, and he writhes away like a crippled snake to soak up fresh venom from some source of sorcery.\"
 :—Robert E. Howard, People of the Black Circle

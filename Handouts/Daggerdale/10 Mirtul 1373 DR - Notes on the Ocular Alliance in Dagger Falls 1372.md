@@ -1,3 +1,46 @@
+---
+title: "Notes on the Ocular Alliance in Dagger Falls 1372"
+slug: notes-on-the-ocular-alliance-in-dagger-falls-1372
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "10 Mirtul 1373 DR"
+date_ic_sort: 1373132
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Yarkul"
+  - "Venosar"
+  - "Morgul"
+  - "Gauntlet"
+  - "Jeryth Phaulkon"
+  - "Manshoon"
+  - "Amaretta"
+  - "Boregar"
+  - "Cassimar"
+  - "Dragkul"
+  - "Garrik Shining"
+  - "Maturin Horgath"
+  - "William Cormaeril"
+  - "Beljuril"
+  - "Steele"
+locations:
+  - "Dagger Falls"
+  - "Waterdeep"
+  - "Anathar's Dell"
+  - "Dagger Hills"
+  - "Shadowdale"
+  - "Cormanthor"
+  - "Loudwater"
+tags: []
+---
 DDC – 1373 - 2: Notes on the Ocular Alliance in Dagger Falls 1372
 
 Report by Mnestheus Melshimber with files from Jeryth Phaulkon, submitted 10 Mirtul, 1373 to Twilight Hall in Berdusk.

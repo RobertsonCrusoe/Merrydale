@@ -1,3 +1,40 @@
+---
+title: "Setting of the Southern Star"
+slug: setting-of-the-southern-star
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jafar"
+  - "Esperel"
+  - "Egan"
+  - "Vuldan"
+  - "Dally"
+  - "Northund"
+  - "Y'morth Dalael"
+  - "Yarkul"
+  - "Aganon"
+  - "Balkine Adard"
+  - "Eldos"
+  - "Janados Eltorchul"
+  - "Manshoon"
+  - "Myelin Lathkule"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 == 13 Mirtul - Looking into Lycanthropes ==
 thumb|280px|Egan offers some cryptic advice.
 

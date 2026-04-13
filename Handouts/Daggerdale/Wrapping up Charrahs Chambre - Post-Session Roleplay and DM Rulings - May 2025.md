@@ -1,3 +1,25 @@
+---
+title: "Wrapping up Charrahs Chambre - Post-Session Roleplay and DM Rulings - May 2025"
+slug: wrapping-up-charrahs-chambre-post-session-roleplay-and-dm-rulings-may-2025
+type: meta
+campaign: daggerdale
+voice: ooc
+status: raw
+tier: editor
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Charrah"
+locations: []
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

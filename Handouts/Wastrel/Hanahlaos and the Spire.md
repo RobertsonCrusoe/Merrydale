@@ -1,3 +1,10 @@
+---
+title: "Hanahlaos and the Spire"
+slug: hanahlaos-and-the-spire
+type: stub
+campaign: wastrel
+subtype: npc
+---
 thumb
 Information collected by Loremaster Kennyth Thames while studying in The Monastery of Sundered Faith in 1381 DR, The Year of the Starving
 

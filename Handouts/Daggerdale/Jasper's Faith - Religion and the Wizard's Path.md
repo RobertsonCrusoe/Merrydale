@@ -1,3 +1,27 @@
+---
+title: "Jasper's Faith - Religion and the Wizard's Path"
+slug: jasper-s-faith-religion-and-the-wizard-s-path
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Dagger Falls"
+  - "Tesh Valley"
+  - "Thistle Ridge"
+tags: []
+---
 Jasper's Faith - Religion and the Wizard's Path
 by Gus Miranda (as Jasper) and Todd Burry (as Mari)
 Email thread: "Jasper's faith", 11-12 May 2025

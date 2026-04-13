@@ -1,3 +1,35 @@
+---
+title: "Greengrass - Raw Notes"
+slug: greengrass-raw-notes
+type: session
+campaign: daggerdale
+voice: ooc
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Esperel"
+  - "Jafar"
+  - "Gilthanas"
+  - "Orilar Thanas"
+  - "Halaster Blackcloack"
+  - "Kappiyan Flurmastyr"
+  - "Teskul"
+  - "Yarkul"
+  - "Arsten Thunderstaff II"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 Greengrass
 
 Rumour 1:

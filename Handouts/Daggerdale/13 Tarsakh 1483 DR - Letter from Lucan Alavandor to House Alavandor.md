@@ -1,3 +1,32 @@
+---
+title: "Letter from Lucan Alavandor to House Alavandor"
+slug: letter-from-lucan-alavandor-to-house-alavandor
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Lucan Alavandor"
+source: handout
+date_ic: "13 Tarsakh 1483 DR"
+date_ic_sort: 1483104
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Hillsfar"
+  - "Saerloon"
+  - "Dagger Falls"
+  - "Yulash"
+  - "Blackfeather Bridge"
+  - "Cormanthor"
+  - "Essembra"
+  - "Teshwave"
+tags: []
+---
 [Source: 13 Tarsakh 1483 DR Discussion with Jenwendle of Hillsfar.txt, lines 93+]
 
 Dearest Father and Aunt Haelra, 

@@ -1,3 +1,37 @@
+---
+title: "1398 DR - Life of the White Saint"
+slug: 1398-dr-life-of-the-white-saint
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1398 DR"
+date_ic_sort: 1398001
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Ardelusk Whitegate"
+  - "Blacktooth"
+  - "Garlunk"
+  - "Boregar"
+  - "Cederick Blackmane"
+  - "Sandalwood"
+  - "Yarkul"
+locations:
+  - "Liberty Hill"
+  - "Cormanthor"
+  - "Anathar's Dell"
+  - "Quick Axes"
+  - "Tesh Valley"
+  - "Tethyamar"
+tags: []
+---
 DDC - 1398 - 1: Life of the White Saint 
 A Record of the Life of Ardelusk Whitegate (1340?-1399) and the rebuilding of Dagger Dale During the Tumultuous Years of Arcane Plague - Original Biographical Notes by 
 Senezear Dale. 

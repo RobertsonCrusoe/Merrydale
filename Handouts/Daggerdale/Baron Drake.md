@@ -1,3 +1,27 @@
+---
+title: "Baron Drake"
+slug: baron-drake
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Drake"
+locations:
+  - "Waterdeep"
+  - "Dagger Falls"
+tags: []
+---
 # Baron Drake †
 # Source: The Sieges Perilous wiki (backup dated 2010-02-21)
 

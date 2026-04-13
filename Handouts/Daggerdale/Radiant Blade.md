@@ -1,3 +1,25 @@
+---
+title: "Radiant Blade"
+slug: radiant-blade
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Castle Radiance"
+tags: []
+---
 rightRadiant Blades are forged up at Castle Radiance, in the Spire Forge, and are commissioned by the army.  They typically have 2-4 forged every year, and award them to the most officers that have distinguished themselves that year.  
 
 The blade is a longsword that has a holy symbol of Amaunator on the hilt, and a resplendent blade that shimmers brightly. 

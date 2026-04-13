@@ -1,3 +1,38 @@
+---
+title: "From the Archives - Tomas Quoyle Biography"
+slug: from-the-archives-tomas-quoyle-biography
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Tomas Quoyle"
+  - "Garth Shanks"
+  - "Sal Worthingham"
+  - "Krag"
+  - "Yarkul"
+  - "Elbing Hightimber"
+  - "Esperel"
+  - "Jafar"
+  - "Rahannsoz Burihildar"
+  - "Rubikawn"
+  - "Vuldan"
+  - "Zsarah Mudge"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 [PC Attribution: Tomas Quoyle (Stephen Robertson)]
 From the Archives: Tomas Quoyle Biography
 CLASSIFICATION: SECONDARY MATERIAL — AI-generated content (Claude) based on campaign wiki archives, not primary email correspondence

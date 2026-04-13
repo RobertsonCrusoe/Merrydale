@@ -1,3 +1,31 @@
+---
+title: "Character_Background_-_Jeska_Monarch_Myth_Drannor_Embassy"
+slug: character-background-jeska-monarch-myth-drannor-embassy
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jeska Monarch"
+  - "Elowen Miratar"
+  - "Merriadock Burgundy"
+  - "William Cormaeril"
+locations:
+  - "Dagger Falls"
+  - "Thistle Ridge"
+tags:
+  - "military"
+---
 Character Background Information: 
 Jeska Monarch 
 The Myth Drannor Embassy 

@@ -1,3 +1,30 @@
+---
+title: "Sembian Treasure Hunter - Lucan's Origin and the Alavandor Backstory"
+slug: sembian-treasure-hunter-lucan-s-origin-and-the-alavandor-backstory
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Lucan Alavandor"
+  - "Blaze Whitegate"
+locations:
+  - "Saerloon"
+  - "Thistle Ridge"
+  - "Charity"
+  - "Sembia"
+tags: []
+---
 Sembian Treasure Hunter — Lucan's Origin and the Alavandor Backstory
 Stephen Robertson (as Lucan Alavandor) and Les Blackwell (DM)
 Email thread: "Sembian Treasure Hunter", 20 Nov 2023 – 11 Jan 2024

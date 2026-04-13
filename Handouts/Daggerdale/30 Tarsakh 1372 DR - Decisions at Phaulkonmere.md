@@ -1,3 +1,46 @@
+---
+title: "Decisions at Phaulkonmere"
+slug: decisions-at-phaulkonmere
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "30 Tarsakh 1372 DR"
+date_ic_sort: 1372121
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Agamemnon"
+  - "Beljuril"
+  - "Boregar"
+  - "Yarkul"
+  - "Jafar"
+  - "Corrina"
+  - "Esperel"
+  - "Garth Shanks"
+  - "Jeryth Phaulkon"
+  - "Maturin Horgath"
+  - "Randal Morn"
+  - "Rychel Voordan"
+  - "Sal Worthingham"
+  - "Oberon"
+  - "Brandil Zendalure"
+  - "Fazil"
+  - "Hanibal Felthian"
+  - "Khelben Arunsun"
+  - "Maevri Dran Qulian"
+  - "Manshoon"
+locations:
+  - "Dagger Falls"
+  - "Waterdeep"
+tags: []
+---
 DDC - 1372 - 1: Decisions at Phaulkonmere
 
 30 Tarsakh, 1372 DR, Agamemnon's Journal: Summary of a meeting at Phaulkonmere Villa in Waterdeep, wherein it is decided how to address the problem of the Zhents, the drow and the beholders.

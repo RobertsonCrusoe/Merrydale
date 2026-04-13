@@ -1,3 +1,28 @@
+---
+title: "Arlyn Redhand"
+slug: arlyn-redhand
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Devlin"
+  - "Kethoth Sepret"
+locations:
+  - "Loudwater"
+tags:
+  - "military"
+---
 thumb|400px|Arlyn Redhand enjoys a second chance at roaming the Realms.
 Half-elf and best friend of Tyriol Grimbold.  Where Tyriol had his speed and wits, Arlyn had plenty of brawn and the two of them managed to get into no small amount of trouble when they were younger...or the past week for that matter.
 

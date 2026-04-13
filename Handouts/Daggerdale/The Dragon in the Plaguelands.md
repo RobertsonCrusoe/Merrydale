@@ -1,3 +1,26 @@
+---
+title: "The Dragon in the Plaguelands"
+slug: the-dragon-in-the-plaguelands
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Kesh"
+  - "Anioch"
+locations: []
+tags: []
+---
 == Dalesmen in Distress ==
 
 \"Sometimes you have to decide, Brother Altair\" were the last words that Kesh, his mentor and adopted father, had ever said to him. It was also the first time he ever called him 'brother' rather than son.

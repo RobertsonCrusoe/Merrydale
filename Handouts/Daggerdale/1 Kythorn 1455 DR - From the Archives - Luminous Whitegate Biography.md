@@ -1,3 +1,41 @@
+---
+title: "From the Archives - Luminous Whitegate Biography"
+slug: from-the-archives-luminous-whitegate-biography
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1 Kythorn 1455 DR"
+date_ic_sort: 1455153
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Luminous Whitegate"
+  - "Ardelusk Whitegate"
+  - "Argent Whitegate"
+  - "Decker Blackmane"
+  - "Grimwald"
+  - "Karrigan Thunderstorm"
+  - "Loedegan Whitegate"
+  - "Raynalla Proudholme"
+  - "Weaver"
+  - "Belladonna Liberty"
+  - "Erevan Ilythiirian"
+  - "Dane Grimwald"
+locations:
+  - "Castle Radiance"
+  - "Liberty Hill"
+  - "Castle Daggerdale"
+  - "Dagger Falls"
+  - "Fortress Cathedral of the Mount"
+tags: []
+---
 From the Archives: Luminous Whitegate Biography
 CLASSIFICATION: SECONDARY MATERIAL — AI-generated content (Claude) based on campaign wiki archives, not primary email correspondence
 

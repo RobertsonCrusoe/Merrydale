@@ -1,3 +1,26 @@
+---
+title: "On the Road, Part 2; Chance Encounter"
+slug: on-the-road-part-2-chance-encounter
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: 20
+characters:
+  - "Otrallia kel Tannith"
+locations:
+  - "Waterdeep"
+tags: []
+---
 \"Do you have any inkling of who I am, you oafish, inbred lack-wits?\"
 
 The man who had her by the wrists was already pressing against her back, dangerously close, hot, stinking breath mercilessly rolling over her scrunched up face. He chuckled savagely in her ear as she twisted and strained in his grasp, rage darkening her features like a thundercloud. She felt something prodding the side of her hip, and prayed to the gods that it was the handle of something sharp.

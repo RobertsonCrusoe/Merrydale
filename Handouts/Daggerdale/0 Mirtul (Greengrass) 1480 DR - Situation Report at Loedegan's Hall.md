@@ -1,3 +1,37 @@
+---
+title: "Situation Report at Loedegan's Hall"
+slug: situation-report-at-loedegan-s-hall
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "Greengrass 1480 DR"
+date_ic_sort: 1480122
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Rhuun"
+  - "Drake"
+  - "Drake Sterling"
+  - "Gamble Netherstorm"
+  - "Hastle Blackwater"
+  - "John Tunbridge"
+  - "Sorashana"
+  - "Stuart Angleton"
+locations:
+  - "Charity"
+  - "Dagger Falls"
+  - "Loedegan's Hall"
+  - "Tesh Valley"
+tags:
+  - "military"
+---
 The war room in Loedegan’s Hall is half again as busy this morning as it was yesterday.  The usual host of military and clergy are there.  There are twice as many knights here this morning as there were yesterday, as many companies of them arrived late in the day yesterday.  Bargle is there as well, with his Lieutenant of , Gamble Netherstorm, and you notice that Lumina is doing her best to avoid eye contact with them.  Fortunately, the dark tiers of benches in the room make that easy.  The Captain of the , Hastle Blackwater is also there, and he is doing his best to try to make the pair of you uncomfortable, fixing a glare on you from time to time.
 
 ==The King's Embassy==

@@ -1,3 +1,24 @@
+---
+title: "Wastrel - Great Dale Players Forward"
+slug: wastrel-great-dale-players-forward
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 The Great Dale
 Battle upon the Sea of Fallen Stars
 It is the stormy season in the early spring, and no time to be upon the Sea of Fallen Stars for many mariners.  But, for the Wastrel and her crew, no storm has proved her master, and she claws her way through wave after wave upon this relentless, tumultuous sea.  And she is not alone.
@@ -23,8 +44,7 @@ So you must all take at least 20 before you fall.  Sell your lives dear, my hear
 
 he commands, as he pulls his cutlass and smiles grimly at the men coming over and down the side of the monstrous galleon to which the Wastrel is tethered.  It is here that the pirates learn about the crew of the Wastrel.  And by the dead pirates that quickly begin to bleed her deck red, the crew of the Wastrel come to learn of their attackers.  They are numerous, as the Captain warned.  But there are no pirates aboard her that are green, and every dead pirate is a chore for our heroes.  Each foe behaves as a man suckled by Umberlee.  The violent rolling of the boat upon the swell of the angry sea seems to hinder not one of them, and they are all quick in the rigging, and use the structure of both vessels to their advantage.
 
-The battle is hot, and many of our heroes are wounded and spent, when a pair of half-ogres descends upon the deck, racing down a pair of cables at break neck speed.  They land at the witch
-s feet, and rise up above her.
+The battle is hot, and many of our heroes are wounded and spent, when a pair of half-ogres descends upon the deck, racing down a pair of cables at break neck speed.  They land at the witch's feet, and rise up above her.
 ll not have that one, ye villains!
 cries Zeke, as he swings from a line, arcing down and out from the rear castle, and towards the behemoths.  His feet slam into one of the monsters, sending it over the side of the Wastrel.  The other scoops up Mae with one large arm, and grabs the cable.  Above, men haul like devils, and the half ogre goes racing up the side of the enormous galleon, speeding away from the deck of the much smaller Wastrel.
 
@@ -38,17 +58,14 @@ At this point, many of the pirates on board the Wastrel took to the cables and w
 
 The Captain and Master both appeared, jumping in an instant upon the very rail of the ship, dancing dangerously upon the slippery oaken beams as the ship was tossed about by the storm, and men swung at them with cutlass and rapier.  They were both screaming at someone, insisting that the unseen party hurry towards them.  More arcane words where heard on the wind, and more thunder.
 
-Just then, a small, young woman leapt up onto the rail, and grabbed tightly around Salazar
-s waist.
+Just then, a small, young woman leapt up onto the rail, and grabbed tightly around Salazar's waist.
 Gaul!
 he shouted, and pulled the girl effortlessly off of himself with one arm, and flung her to the Wastrel, a score of feet below, and into the waiting arms of the foreign giant.
 
-At this moment, there was a pause.  The men attacking the legs of the two precariously perched heroes relented for a moment, and withdrew from sight of those left below, on the deck of the Wastrel.  High above, a man was seen to descend from a line in the rigging, and land gracefully upon the same slippery rail that our heroes were dancing for their lives upon.  In the gloom and rain, details of the man could scarcely be seen, but his profile at least revealed the man.  For his legs were bowed as a dogs, and sprouting from his head were a pair of large, curved horns that spiraled once around each ear, before terminating in menacing points inches from the man
-s mouth.  This man, or fiend of whatever stamp, drew a cutlass, and he roared
+At this moment, there was a pause.  The men attacking the legs of the two precariously perched heroes relented for a moment, and withdrew from sight of those left below, on the deck of the Wastrel.  High above, a man was seen to descend from a line in the rigging, and land gracefully upon the same slippery rail that our heroes were dancing for their lives upon.  In the gloom and rain, details of the man could scarcely be seen, but his profile at least revealed the man.  For his legs were bowed as a dogs, and sprouting from his head were a pair of large, curved horns that spiraled once around each ear, before terminating in menacing points inches from the man's mouth.  This man, or fiend of whatever stamp, drew a cutlass, and he roared
 I am Captain Drakensblood!
 And I am Captain Zechary Mudge
-replied the Wastrel
-s captain, and the two engaged in a duel of both swordplay and balance, upon the side rail of that massive ship.  While these two fought, Salazar once again found himself assailed.  Two men at his feet swung expertly at him, but he was able to jump effortlessly above their blades.  He came down with his longsword in two hands, and took off the arm of one man, just as another great clap of thunder rolled, and a strange blue light could be seen dancing about at his feet, and the other man vanished.
+replied the Wastrel's captain, and the two engaged in a duel of both swordplay and balance, upon the side rail of that massive ship.  While these two fought, Salazar once again found himself assailed.  Two men at his feet swung expertly at him, but he was able to jump effortlessly above their blades.  He came down with his longsword in two hands, and took off the arm of one man, just as another great clap of thunder rolled, and a strange blue light could be seen dancing about at his feet, and the other man vanished.
 
 Then, another girl jumped up to embrace the master, fumbling awkwardly for him.  Again, he threw the girl to the waiting barbarian below, before he hopped down from the ledge, and out of sight of those left upon the deck of the Wastrel.  All the while, Drakensblood and Zeke traded swipes.  They fought as two born upon the sea; they attacked with the roll of the ship, using it
 
@@ -88,8 +105,7 @@ a very long time.  It was a part of a minor spell that could have been activated
 education
 in Thay.  I must go and study these interesting little girls at once!
 Kethoth rose, but the Master put a hand on his shoulder, and seated him back down with little grace.
-Lemme finish, ya loose-jawed dandies.  For starters, the Witch ain
-t gonna let none of the likes of us near them little sweet hearts, so forget about that,
+Lemme finish, ya loose-jawed dandies.  For starters, the Witch ain't gonna let none of the likes of us near them little sweet hearts, so forget about that,
 Salazar said, as he eyed the Devil and the Shadow Caster incredulously.
 Now, you both say you heard them casting, and that is all well and fine, but I saw them, and here is the tale of my eyes!
 
@@ -103,12 +119,8 @@ s crook, and she swung it all that came near, and it struck with a great booming
 
 The girls was being chased out the Castle.  The one in the rear was fumbling along like she couldn
 
-t see nothing, and a man was about to grab her, when she shouted out a spell, and turned and grabbed the man by the throat.  The speed and precision that she grabbed the man with was a great divergence from her previous lack of agility and ability, and it put me in a mind of vampires, and how they move sometimes.  But I think she might just have been guided by magic.  Anyway, she let out a blast of magical energy that left the man
-s throat charred black as Kethoth
-s arse!
-I could see that more men were chasing them.  By this time, May was free, and I shouted for the girls to come to me.  The one with the staff lead the way.  She held the staff in one hand and attacked those in her path.  She led the next girl by the hand, and the third followed the second in that fashion, and they came to me.  I noticed that only the lead girl had her eyes open, but the girls moved as if they could see, whilst they held the lead girl
-s hand.  The second girl came to me first.  She let go the other girl
-s hand and jumped awkwardly to me, and you all saw that I sent her to Gaul, here.  The lead girl continued fighting the pirates, and the third girl began waving her hands in a magical gesture I did not recognize.  But I did notice this; they all had identical magical auras about them.  Mild abjurations, conjurations and divinations.
+t see nothing, and a man was about to grab her, when she shouted out a spell, and turned and grabbed the man by the throat.  The speed and precision that she grabbed the man with was a great divergence from her previous lack of agility and ability, and it put me in a mind of vampires, and how they move sometimes.  But I think she might just have been guided by magic.  Anyway, she let out a blast of magical energy that left the man's throat charred black as Kethoth's arse!
+I could see that more men were chasing them.  By this time, May was free, and I shouted for the girls to come to me.  The one with the staff lead the way.  She held the staff in one hand and attacked those in her path.  She led the next girl by the hand, and the third followed the second in that fashion, and they came to me.  I noticed that only the lead girl had her eyes open, but the girls moved as if they could see, whilst they held the lead girl's hand.  The second girl came to me first.  She let go the other girl's hand and jumped awkwardly to me, and you all saw that I sent her to Gaul, here.  The lead girl continued fighting the pirates, and the third girl began waving her hands in a magical gesture I did not recognize.  But I did notice this; they all had identical magical auras about them.  Mild abjurations, conjurations and divinations.
 This is the witness of Salazar.
 Silly men!
 Said May, as she came into the cabin.
@@ -130,8 +142,7 @@ Three days and three nights the Seer stayed in the village.  He rested in the Kr
 The Seer left on the fourth morning, and was not seen by the girls again.  Aurora told her adopted mother and father of the Seer
 
 s wish that they leave.  Well, they are a devoutly superstitious people, and said that the words of the Seer had never done no wrong to the people of the clan in many long years of his consultations.  Further, their adopted father was a priest of sorts who also sensed danger coming.
-There were but two paths to choose from,  in order to fulfill the Seer
-s advice.  The girls were well traveled shepherdesses, and knew all the roads and fields around their home.  They could but go the wood, or to the sea.  The wood nearby is the Rawlinswood.  It is a place that my people know, and know to be full of many evils.  I have, in fact been there, though that was now long ago.  Though they deliberated for some time, eventually they decided to set out upon the Seas.  Some of the people of Braegh
+There were but two paths to choose from,  in order to fulfill the Seer's advice.  The girls were well traveled shepherdesses, and knew all the roads and fields around their home.  They could but go the wood, or to the sea.  The wood nearby is the Rawlinswood.  It is a place that my people know, and know to be full of many evils.  I have, in fact been there, though that was now long ago.  Though they deliberated for some time, eventually they decided to set out upon the Seas.  Some of the people of Braegh
 
 Lith are fishermen of a sort, and they were given a small boat with a single deck and mast, and they sailed into the Sea Of Fallen Stars.
 
@@ -148,8 +159,7 @@ No, Gaul.  I did not say that they told me all this.  Only Aurora can talk.
 Most of the men made surprised gestures and looked at each other in confusion.
 If only one woman in three had a voice
 Brennan was beginning to say, when May held up a hand to silence him.
-Only Aurora can talk.  And she does not speak the common tongue worth a sailor
-s pay.  Only Moira can see, and only Damara can hear.  They can all hear each other inside their heads, and they can use the senses of each other to some degree, but only whilst in physical contact.  Aurora tells me she wishes to go home, and I told them that we would take them, and I will brook no argument.  Are there any who do not see things my way in this matter?
+Only Aurora can talk.  And she does not speak the common tongue worth a sailor's pay.  Only Moira can see, and only Damara can hear.  They can all hear each other inside their heads, and they can use the senses of each other to some degree, but only whilst in physical contact.  Aurora tells me she wishes to go home, and I told them that we would take them, and I will brook no argument.  Are there any who do not see things my way in this matter?
 
 Aside from the noise of a few throats clearing, there was silence.  Kethoth looked as though he had something to say, but took a look at the witch, and left it at that.  At length, Salazar spoke.
 I shall discuss this with the Captain.  I am sure
@@ -167,8 +177,7 @@ The journey to the coastal area of the Great Dale is only a matter of a few days
 In the middle watch one night, Brennan had the wheel, and was enjoying the violent winds that are characteristic of the Easting Reach this time of year.  The sighted triplet, Moira, came stealing above decks, and came to Brennan upon the poop deck.
 Ho, little sister!
 he hailed, bringing his leather bound fist to salute in his usual manner.  Silence.
-Ah.  You can
-t hear me, can you?
+Ah.  You can't hear me, can you?
 The girl looked fondly upon the Dalesman.  There might have been something familiar in him, by the way she looked at him, and it made the Windwalker perceptibly uncomfortable.
 Perhaps I remind you of some Kin?
 He said, half to the girl, half to the wind.  At least the wind could listen, he would explain.
@@ -177,9 +186,7 @@ You are a pretty thing.  That long black hair and good colour remind me of the w
 Ubiquitous Chondathan
 , my little peach, and
 But he stopped.  The girl grabbed his hand, and he swallowed hard.  She turned his hand over, palm down.  The Windwalker steered the Wastrel with one hand, while trying to look both upon the sea and down at the girl and their hands, and it was a most perplexing task, for something so simple.
-But the girl was looking only at one thing; the man on the back of Brennan
-s greaves.  The traveler.  Shaundakyl.  She traced the conspicuous holy symbol
-s lines with her hand, and smiled.  Then she let go, faced ahead, and put her face to the wind.  She drew in a deep breath, and a single tear rolled across her cheek, blown off by the wind.
+But the girl was looking only at one thing; the man on the back of Brennan's greaves.  The traveler.  Shaundakyl.  She traced the conspicuous holy symbol's lines with her hand, and smiled.  Then she let go, faced ahead, and put her face to the wind.  She drew in a deep breath, and a single tear rolled across her cheek, blown off by the wind.
 The wind oft brings me to tears, too, little sister
 Brennan said, half to his new friend, and half to the wind.
 *****
@@ -190,8 +197,7 @@ Good morning, Master.  Good Morning Windwalker.
 Soon, the whole crew is above decks, watching the girls, who stand at the bow of the ship, watching the horizon.  Kethoth is standing on the poop deck with most of the other crew.  He is struggling with a map that the wind will not let rest a second.
 We should be seeing land soon,
 he explains.
-Look into the wind; that way lies the Great Dale.  It is the source of this wind, and the seat of Shaundakyl
-s throne, if the stories about your pantheon are true!
+Look into the wind; that way lies the Great Dale.  It is the source of this wind, and the seat of Shaundakyl's throne, if the stories about your pantheon are true!
 Land Ho!
 cries Salazar at that moment.  He is in the rigging, and has keen eyes.  And so it is that much later, the rest of the crew spies land to the east.  A very unforgiving rocky bluff borders the shoreline for many hour
 
@@ -200,8 +206,7 @@ s journey.  The Wastrel comes as close as it can, but the waters are treacherous
 At length, a large river is spied rolling from the rocky land into the sea, and the girls get noticeably excited.  Moira turns to face the crew as her sisters face the river to the east.  The crew is silent as they observe Moira taking them all in.  After a moment, Aurora speaks, shouting over the wind.  She shouts in a tongue none seem to understand.
 ath Ran Ivven shar!
 Everyone is silent.  Kethoth takes in an audible breath, but says nothing.  Moira looks around at the confused faces.  The Captain shrugs.  May says something in Rashemi, and the girl responds to her in kind.
-It isn
-t far, she says
+It isn't far, she says
 says the Witch.
 *****
 Indeed, less than an hour after spying the river, the girls get excited, to the point of jumping around, and hugging each other.  Moira is pointing at a certain spot on the rocky bluff, and looking back to the poop deck at the captain and the crew.
@@ -219,21 +224,15 @@ says the Captain.  He holds his neck and winces as he speaks, but he seems to ha
 Well, it is time to get these little plums off my ship!  I need two volunteers!
 I, obviously should go
 says May, but she is cut off by the Captain.
-I knew ye
-d say that.  Problem is, May, I can
-t spare ye, just now!  We
-re perilously close to Thay.  Salazar says he seen yellow-canvased rakers just yesterday.  I can
-t spare you, May.  I am sorry.  Tell them.
+I knew ye'd say that.  Problem is, May, I can't spare ye, just now!  We're perilously close to Thay.  Salazar says he seen yellow-canvased rakers just yesterday.  I can't spare you, May.  I am sorry.  Tell them.
 May has a look of sedition in her eyes, but the Captain meets her glare firm this time, and she backs down.  She goes down to the main deck, and talks quietly with the girls.  After a brief conversation, she gives them each a hug, and then departs below decks, after shooting the Captain a look of contempt.
-I am Captain of this mess of planks and canvas, you jack asses!  Don
-t forget that!
+I am Captain of this mess of planks and canvas, you jack asses!  Don't forget that!
 the Captain declares as soon as the Witch is out of earshot.
 I still need two volunteers to row these girls to shore.  This is as close as we get in these waters to that rocky shore, ye lubbers!
 
 The Wastrel stands rocking in the wavy waters.  The rocky shore line of the Great Dale is about two miles off, and Salazar is already striking the skiff.
 *****
-Kethoth
-s Information.
+Kethoth's Information.
 If Kethoth is approached about the girls, he will say this.
 I should have been allowed to examine the girls.  They are a rarefied thing in this age.  The name of their village is Braegh
 
@@ -329,8 +328,7 @@ D2=(
 Z:M6
 {&ynp
 C{WQ
-fLQvgP
-s&=I
+fLQvgP's&=I
 !V6,
 "hc=
 sx7"6#
@@ -850,8 +848,7 @@ Tupyibe
 >CR.V
 b3%(Wq
 {fM'!
-qnJLM
-s+<=c
+qnJLM's+<=c
 [m#X
 3s9Y
 9=[:
@@ -882,8 +879,7 @@ ${s^
 To\N
 :Vrf
 IK-OJ
-*GGr
-d{G(v~
+*GGr'd{G(v~
 6Meg
 tL8Z
 Ba@a
@@ -912,8 +908,7 @@ AmFX7:
 h72r
 ?COI
 <?(t)
-*nel
-t gB
+*nel't gB
 -zBa
 xYXF
 IYX'
@@ -1008,8 +1003,7 @@ IcI/
 6AsP(,?	#
 d"s|
 :@FU
-#rzf
-m=I,X1h
+#rzf'm=I,X1h
 V6gZ
 !h)(
 %A"<
@@ -1063,8 +1057,7 @@ S/gU
 HF"R
 qJad
 qe73$Y|!v`"R
-Ld76nlm
-d\gwBd
+Ld76nlm'd\gwBd
 Kh[T
 wm2&0
 iE$)J
@@ -1304,8 +1297,7 @@ $<up
 6,D`
 L&rm
 ly R.uy
-|kBh
-t:MB
+|kBh't:MB
 Z4i_
 Gl@o%
 Qh!q
@@ -1380,8 +1372,7 @@ WQHQ
 <db;8#
 .QR%L
 [%Y:
-lo>y
-t;88
+lo>y't;88
 m_\T+e|WTk
 Ubp9
 9xm/
@@ -1547,8 +1538,7 @@ O0fZ0LM
 gg[#
 pd*J
 r&*+
-Fdkm
-t YD
+Fdkm't YD
 }~L
 n/Niv0
 8b<t~
@@ -1591,8 +1581,7 @@ xPg
 :P~6
 Im8Y
 g;SB
-c |B
-t^:kv
+c |B't^:kv
 T~wg
 A0;88z
 e4D}f}'
@@ -1651,8 +1640,7 @@ D<GR
 tpC4E
 QXde
 p`qQ
-C>;hM
-s\uj:o
+C>;hM's\uj:o
 itjS-
 A=u&
 H[oM
@@ -1815,8 +1803,7 @@ M3s
 ogK'_y
 /<F0q
 kq|u
-o-]i
-m",M
+o-]i'm",M
 _Y\6
 %Q,@	wq
 .qT
@@ -2071,8 +2058,7 @@ irXRq!`
 H*F
 ![a4E
 JYAUh
-E,Po
-m",DBD
+E,Po'm",DBD
 O"#N
 ST|T
 <'N(
@@ -2214,8 +2200,7 @@ z*s%
 G[[[8bp
 +80i
 }5ta\
-oBkI
-t:du
+oBkI't:du
 &\-1
 &#^ usG
 FD&5M
@@ -2269,8 +2254,7 @@ u|t
 DtHuL
 e%1^
 M&J S
-x_(O
-d%Q:
+x_(O'd%Q:
 5c@J
 G?B>
 =H8'
@@ -2671,8 +2655,7 @@ Rqde
 |vbj
 hS6Yt
 ~QMB
-MT+(E~Y
-d;9}
+MT+(E~Y'd;9}
 <]^|
 zc}ia
 xRr8
@@ -2860,8 +2843,7 @@ S;r),!
 vUA0
 gTNz
 %T,Z
-@bX>,@/R
-m-MV\
+@bX>,@/R'm-MV\
 V& w
 w1{]
 Bxev

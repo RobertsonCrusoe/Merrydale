@@ -1,3 +1,29 @@
+---
+title: "Excerpts from The Catacombs of Sembian Expatriats in Thistle Ridge"
+slug: excerpts-from-the-catacombs-of-sembian-expatriats-in-thistle-ridge
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Vessuvian"
+locations:
+  - "Thistle Ridge"
+  - "Charity"
+  - "Dagger Falls"
+  - "Saerloon"
+tags: []
+---
 Excerpts from "The Catacombs of Sembian Expatriats in Thistle Ridge"
 
 A chapter in "A History of the Subterranean Resting Places of the Faithful Dead in the Eastern Heartlands", on loan to Brother Vessuvian from the Historic Wing of the Yellow Abbeye.

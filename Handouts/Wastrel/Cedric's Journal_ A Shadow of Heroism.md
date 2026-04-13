@@ -1,3 +1,25 @@
+---
+title: "Cedric's Journal_ A Shadow of Heroism"
+slug: cedric-s-journal-a-shadow-of-heroism
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Cedric"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Cedric Blackchalice-Lliandreal"
+locations: []
+tags: []
+---
 [PC Attribution: Cedric Blackchalice-Lliandreal (Casey Bauman-Wike)]
 The following is an excerpt from “A Shadow of Heroism: the Memoirs of Cedric Blackchalice-Lliandreal
 ----

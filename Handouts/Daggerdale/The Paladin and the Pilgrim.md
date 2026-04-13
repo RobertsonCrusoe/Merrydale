@@ -1,3 +1,31 @@
+---
+title: "The Paladin and the Pilgrim"
+slug: the-paladin-and-the-pilgrim
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Banitt Harbaugh"
+  - "Derfel"
+locations:
+  - "Dagger Falls"
+  - "Castle Radiance"
+  - "Tethyamar"
+  - "Tethyamar Hearth Inn"
+tags:
+  - "military"
+---
 ==Corran Seeks Solace==
 
 Corran sat in the tavern of the Tethyamar Hearth Inn. Here, he had first met Banitt, Bollinger, Erevan and Dane. Here, they had joined Bargle’s Free Defense League. He had been nursing a warm tankard of Eldridge Amber, one of the few indulgences he allowed himself these days. It was simply good to be free of the influence of the White Cloaks and the Sun Blades at times. As far as he had fallen from grace, it seems like he had been pulled back into the fold over the last year. The rest of the dale still had no idea they were at war. Even when he had been in Dagger Falls recently, his parents and others there had no idea what was happening in the west. He had been worried about their welfare, especially when the guards, incited by Sergeant Warburton’s revealing of Sharran worshippers in the very heart of Dagger Falls were kicking down doors and putting people to question. He had been torn between his duty to the White Cloaks and duty to his family, but Sergeant Warburton intervened by relinquishing his badge of authority to his parents and told to use it as a means of negotiation should the guards of Dagger Falls grow...exuberant with their inquisition.

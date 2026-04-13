@@ -1,3 +1,10 @@
+---
+title: "Chapter Seven Foreword and Summary"
+slug: chapter-seven-foreword-and-summary
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 DDC – Chapter Seven – Forword and Summary 
 Wherein the Current State of Daggerdale, Her Neighbours and Other Interested Parties are Inventoried 
 

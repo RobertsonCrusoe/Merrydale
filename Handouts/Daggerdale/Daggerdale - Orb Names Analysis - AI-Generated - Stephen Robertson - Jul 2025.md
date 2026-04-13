@@ -1,3 +1,27 @@
+---
+title: "Daggerdale - Orb Names Analysis - AI-Generated - Stephen Robertson - Jul 2025"
+slug: daggerdale-orb-names-analysis-ai-generated-stephen-robertson-jul-2025
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Vessuvian"
+  - "Invictus"
+  - "Veritas"
+locations: []
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

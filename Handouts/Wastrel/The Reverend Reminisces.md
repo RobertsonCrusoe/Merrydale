@@ -1,3 +1,10 @@
+---
+title: "The Reverend Reminisces"
+slug: the-reverend-reminisces
+type: stub
+campaign: wastrel
+subtype: npc
+---
 Reminiscence of the Very Reverend Mr. Oengus Elderstoat, tutor and confessor to the Marchioness of Elber:
 ----
 

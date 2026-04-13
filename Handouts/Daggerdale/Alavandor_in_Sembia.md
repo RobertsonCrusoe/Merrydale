@@ -1,3 +1,25 @@
+---
+title: "Alavandor_in_Sembia"
+slug: alavandor-in-sembia
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Haelra Alavandor"
+locations: []
+tags: []
+---
 “You’ll pay for this, Alavandor!” The wheezing townsman, lying prone under an upturned cartload of produce, shook his fist at the swiftly retreating figure of a lanky young man in a blue cap. The figure stopped, turned, made a lewd gesture, then took of running up a side street.
 
 ***

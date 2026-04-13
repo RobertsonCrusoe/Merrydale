@@ -1,3 +1,27 @@
+---
+title: "Note to Garth from Magistrate Durnum"
+slug: note-to-garth-from-magistrate-durnum
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: todd
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Durnum"
+  - "Garth Shanks"
+  - "Sal Worthingham"
+locations: []
+tags: []
+---
 [PC Attribution: Garth Shanks (Todd Burry)]
 Mr. Shanks;
 

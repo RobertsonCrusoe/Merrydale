@@ -1,3 +1,39 @@
+---
+title: "Aldebarran Ledger"
+slug: aldebarran-ledger
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jafar"
+  - "Teskul"
+  - "Vader"
+  - "Yarkul"
+  - "Dolebrund"
+  - "Gerath Zulpair"
+  - "Alek Lenter"
+  - "Dulland"
+  - "Kelduth Rhork"
+  - "Kelvar Helmfast"
+  - "Tasselhawn Melchor"
+  - "Agamemnon"
+  - "Beljuril"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
+---
 Significant entries from the Company Aldebarran ledger recovered from the Irlingstar Villa.
 
 == Nobles ==

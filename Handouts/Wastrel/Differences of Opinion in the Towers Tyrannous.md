@@ -1,3 +1,29 @@
+---
+title: "Differences of Opinion in the Towers Tyrannous"
+slug: differences-of-opinion-in-the-towers-tyrannous
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Baird"
+  - "Ailyan"
+  - "Kethoth Sepret"
+locations:
+  - "Waterdeep"
+  - "Loudwater"
+tags: []
+---
 ==Sepret on a Soapbox==
 
 Half the party is asleep, and the other half doesn't know whether to envy them or pity them. Sleep here is not like it should be, but then, everyone is exhausted. Of the eight party members, Kethoth, Paetr, Tyriol and Volund are awake, sitting in a tight circle close by their friends, talking in hushed whispers.

@@ -1,3 +1,40 @@
+---
+title: "Lucan's Reflection (Casebook)"
+slug: lucan-s-reflection-casebook
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "2 Mirtul 1483 DR"
+date_ic_sort: 1483124
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Charrah"
+  - "Abrecia"
+  - "Nemia"
+  - "Abrecia Alavandor"
+  - "Cassimar"
+  - "Coventina Cassimar"
+  - "Lilac Alavandor"
+  - "Lily Clarandal"
+  - "Lobelia Alavandor"
+  - "Loki Mouvranesh"
+  - "Phineas Hoetmer"
+  - "Poppy Sweetberry"
+  - "Zoderick Winters"
+locations:
+  - "Thistle Ridge"
+  - "Liberty Hill"
+  - "Dagger Falls"
+tags: []
+---
 Blacky, I'd like you to correct me on anything that Lucan would know here. I've compiled the following from my notes. IIRC, Lucan should have access to Sr. Sp. S. Estelmer's report on "The Shadow Lifted," the intelligence report we were allowed to hear after the Purple Worm attack, and potentially the as-yet-uncirculated report Sr. Estelmer and Phinneas Hoetmer composed on the Slave Orbs.
 
 ---

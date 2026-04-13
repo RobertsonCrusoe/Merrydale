@@ -1,3 +1,26 @@
+---
+title: "THE THING THAT WORE A NIGHTMARE PART I - Journal of Salazar - Nov 2003"
+slug: the-thing-that-wore-a-nightmare-part-i-journal-of-salazar-nov-2003
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Lendin"
+locations:
+  - "Freeport"
+tags: []
+---
 [PC Attribution: Salazar (Les Blackwell)]
 ================================================================================
 SOURCE INFORMATION

@@ -1,3 +1,32 @@
+---
+title: "The Elves Parts 2 and 3 - Exile to Dagger Falls"
+slug: the-elves-parts-2-and-3-exile-to-dagger-falls
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Hannigus"
+  - "Eremus Elderbough"
+  - "Gethart"
+locations:
+  - "Dagger Falls"
+  - "Cormanthor"
+  - "Castle Radiance"
+  - "Quick Axes"
+tags:
+  - "military"
+---
 The Elves, Parts 2 and 3 — From Exile to Dagger Falls
 Source: Emails from Les Blackwell to the group, 12-13 January 2011. Subject: "The Elves, Part 2 (of 3)"
 Les's narrative covering the journey of three exiled wild elves (Ineluki, Eremus Elderbough, Cirdan) from their sentencing in Cormanthor to their arrival in Dagger Falls. They are intercepted by Hannigus, Captain of The Unbending — an elven company attached to Ambassador Miritar's Embassy. He carries pre-signed diplomatic papers from the Bishop, confirming the trial under Marshall Medeila was predetermined. The exiles are directed to Dagger Falls via Gribbons' Farm, to stay at Quick Axes Inn, and then proceed to the Tower of the Embassy at Castle Radiance. At the southern gates of Dagger Falls, they encounter Sun Blades in yellow tabards, Knights of the Lambent Shield (including Sir Gethart), yellow-robed clerks, and a Sun Blade sergeant with 2 chevrons. The elves are processed through the registry and admitted to the town.

@@ -1,3 +1,26 @@
+---
+title: "Raidfest in Freeport 6_ The Auction"
+slug: raidfest-in-freeport-6-the-auction
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Freeport"
+  - "Waterdeep"
+tags: []
+---
 == Raidfest Begins ==
 
 As you sail into port you hear a crier wandering around the docks. He is being accompanied by somewhat of a marching band that consists of instruments that make mostly banging and honking or clanging noises.

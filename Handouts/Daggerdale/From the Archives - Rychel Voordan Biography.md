@@ -1,3 +1,38 @@
+---
+title: "From the Archives - Rychel Voordan Biography"
+slug: from-the-archives-rychel-voordan-biography
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Rychel Voordan"
+  - "Steele"
+  - "Harkas Kormallis"
+  - "Romulus"
+  - "Edgar Grimbold"
+  - "Xulla"
+  - "Gable"
+  - "Gaebril Tremalkin"
+  - "Garth Shanks"
+  - "Haskar Hunabar"
+  - "Jafar"
+  - "Sal Worthingham"
+  - "Yarkul"
+locations:
+  - "Waterdeep"
+tags: []
+---
 [PC Attribution: Rychel Voordan (Scott McLaren)]
 From the Archives: Rychel Voordan Biography
 CLASSIFICATION: SECONDARY MATERIAL — AI-generated content (Claude) based on campaign wiki archives, not primary email correspondence

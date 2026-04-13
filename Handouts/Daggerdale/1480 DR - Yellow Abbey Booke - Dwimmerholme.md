@@ -1,3 +1,28 @@
+---
+title: "1480 DR - Yellow Abbey Booke - Dwimmerholme"
+slug: 1480-dr-yellow-abbey-booke-dwimmerholme
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1480 DR"
+date_ic_sort: 1480001
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Darius Winters"
+  - "Kesh"
+  - "Kesh Oakdale"
+locations: []
+tags:
+  - "military"
+---
 right|450px
 
 ===(Taken from the Yellow Abbeye Booke of Measures and Surveyes, 1480 Edition)===

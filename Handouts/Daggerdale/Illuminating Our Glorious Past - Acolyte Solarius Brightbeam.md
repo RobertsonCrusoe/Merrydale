@@ -1,3 +1,36 @@
+---
+title: "Illuminating Our Glorious Past - Acolyte Solarius Brightbeam"
+slug: illuminating-our-glorious-past-acolyte-solarius-brightbeam
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Colderan Morn"
+  - "Randal Morn"
+  - "Griffon"
+  - "Ailyan"
+locations:
+  - "Tethyamar"
+  - "Dagger Falls"
+  - "Waterdeep"
+  - "Castle Daggerdale"
+  - "Dagger Hills"
+  - "Cormanthor"
+  - "Shadowdale"
+  - "Yellow Abbey"
+tags: []
+---
 # The Chronicle of Ancient Daggerdale: Illuminating Our Glorious Past
 
 **By Acolyte Solarius Brightbeam of the Yellow Abbey**

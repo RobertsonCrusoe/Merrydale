@@ -1,3 +1,35 @@
+---
+title: "Kethoth's Journal_ Greypeak Mountains (Part 4 - Falcon's Roost)"
+slug: kethoth-s-journal-greypeak-mountains-part-4-falcon-s-roost
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Kethoth"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "kethoths-journal"
+order: 40
+characters:
+  - "Ailyan"
+  - "Baird"
+  - "Janus"
+  - "Kossur"
+  - "Saharel"
+  - "Hrogan Goringrimm"
+  - "Quintus Lucretius Cato"
+  - "Seriadne"
+  - "Tuncred"
+locations:
+  - "Loudwater"
+  - "Waterdeep"
+tags: []
+---
 [PC Attribution: Chadrazzan Kossur (Les Blackwell)]
 =Into the Mountains=
 

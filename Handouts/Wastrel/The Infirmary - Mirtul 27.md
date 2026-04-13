@@ -1,3 +1,28 @@
+---
+title: "The Infirmary - Mirtul 27"
+slug: the-infirmary-mirtul-27
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Ailyan"
+  - "Kethoth Sepret"
+  - "Quintus Lucretius Cato"
+locations:
+  - "Loudwater"
+tags: []
+---
 ==\"Things Have Changed\"==
 The great hall that has been used as an infirmary is even more packed after the night's events. Wounded men and women lay moaning while the few hands that are available to help them hurry from bed to bed, trying to offer what aid they can. 
 

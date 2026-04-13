@@ -1,3 +1,27 @@
+---
+title: "Standing Stone League"
+slug: standing-stone-league
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Sembia"
+  - "Cormanthor"
+  - "Hillsfar"
+tags: []
+---
 Standing Stone League 
 This name is a reference to the Standing Stone erected 1483 years ago.  History; 
 Located deep within the forest of Cormanthor, the Standing Stone was originally, after its construction, not accessible by humans. However, when Raythauvyr of Sembia demanded a road be built through the region, under threat of war, it was routed to pass within viewing distance of the monument. This gesture was meant to exemplify the lack of need for violence required from the allies of elves to achieve what they so desired.[7] 

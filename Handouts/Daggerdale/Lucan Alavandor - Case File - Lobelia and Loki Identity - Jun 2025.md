@@ -1,3 +1,35 @@
+---
+title: "Lucan Alavandor - Case File - Lobelia and Loki Identity - Jun 2025"
+slug: lucan-alavandor-case-file-lobelia-and-loki-identity-jun-2025
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Charrah"
+  - "Andarl Alavandor"
+  - "Loki Mouvranesh"
+  - "Lobelia Alavandor"
+  - "Lucan Alavandor"
+  - "Aisling Maeliticus"
+  - "Contessa Palus"
+  - "Nemia"
+  - "Susserah Alavandor"
+locations:
+  - "Thistle Ridge"
+  - "Saerloon"
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

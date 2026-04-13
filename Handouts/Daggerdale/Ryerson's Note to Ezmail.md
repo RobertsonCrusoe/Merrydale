@@ -1,3 +1,26 @@
+---
+title: "Ryerson's Note to Ezmail"
+slug: ryerson-s-note-to-ezmail
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Ezmail"
+  - "Ryerson"
+locations: []
+tags: []
+---
 A note from Ryerson to Ezmail, dated 28 Mirtul 1371, discovered in the Neverwinter office of Emuldan's Carters.
 
 Ezmail;

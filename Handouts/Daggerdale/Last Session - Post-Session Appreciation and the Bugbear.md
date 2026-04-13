@@ -1,3 +1,24 @@
+---
+title: "Last Session - Post-Session Appreciation and the Bugbear"
+slug: last-session-post-session-appreciation-and-the-bugbear
+type: meta
+campaign: daggerdale
+voice: ooc
+status: raw
+tier: editor
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 Last Session - Post-Session Appreciation and the Bugbear
 by Scott Mclaren, Todd Burry, Gus Miranda, Les Blackwell
 Email thread: "Fwd: Last session", 24-26 Jan 2025

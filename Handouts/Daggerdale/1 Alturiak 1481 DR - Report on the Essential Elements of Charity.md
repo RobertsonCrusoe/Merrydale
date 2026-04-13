@@ -1,3 +1,34 @@
+---
+title: "Report on the Essential Elements of Charity"
+slug: report-on-the-essential-elements-of-charity
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1 Alturiak 1481 DR"
+date_ic_sort: 1481032
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Melegaunt"
+  - "Janus"
+locations:
+  - "Charity"
+  - "Dagger Falls"
+  - "Waterdeep"
+  - "Charity Hills Farm"
+  - "Liberty Hill"
+  - "Shadowdale"
+  - "Yellow Abbey"
+tags:
+  - "military"
+---
 DDC – 1481 – 7: Report on the Essential Elements of Charity 
 A report about the obscure town known to the Dalesmen as Charity Hills Farm, 1st Alturiak, 1481 DR 
 GFD Notes: 

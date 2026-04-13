@@ -1,3 +1,28 @@
+---
+title: "Correspondence from Basil Muloch of Charity to Brother Darred"
+slug: correspondence-from-basil-muloch-of-charity-to-brother-darred
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "11 Marpenoth 1481 DR"
+date_ic_sort: 1481286
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Darred"
+locations:
+  - "Charity"
+  - "Castle Radiance"
+tags:
+  - "military"
+---
 DDC – 1481 - 9: Correspondence from Basil Muloch of Charity, to Brother Darred of the Candlekeep Emissaries 
 11 Marpenoth, 1481 
 Notes from GFD: 

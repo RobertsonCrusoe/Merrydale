@@ -1,3 +1,24 @@
+---
+title: "Crafting Proposal - PF2E Alchemical Ammunition House Rules"
+slug: crafting-proposal-pf2e-alchemical-ammunition-house-rules
+type: meta
+campaign: daggerdale
+voice: ooc
+status: raw
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 1. # Creating Alchemical Ammunition
 
 ## Rules as Written

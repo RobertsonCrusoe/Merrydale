@@ -1,3 +1,11 @@
+---
+title: "Krianolyrhh Miritar"
+slug: krianolyrhh-miritar
+type: stub
+campaign: wastrel
+subtype: npc
+deceased: true
+---
 KREE-ANNO-LEER)
 
 A male, eladrin seeker that escorted Ambassador Hyperia on his mission. Krianolyrhh is generally quiet, and keeps away from the rest of the Loudwater citzenry. He has closely-cropped, seemingly silver-coloured hair. He wears no armour to speak of and moves seemingly without sound earning him the name, “The Ghost” from people within Loudwater. Krianolyrhh is often difficult to find within the walls of Loudwater and it has been said that he has been seen on foot, heading north-west in the direction of the Dire Wood.

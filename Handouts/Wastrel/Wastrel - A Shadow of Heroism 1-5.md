@@ -1,10 +1,31 @@
+---
+title: "Wastrel - A Shadow of Heroism 1-5"
+slug: wastrel-a-shadow-of-heroism-1-5
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Cedric Blackchalice-Lliandreal"
+  - "Beljuril"
+locations: []
+tags: []
+---
 The following is an excerpt from
 A Shadow of Heroism: the Memoirs of Cedric Blackchalice-Lliandreal
-Anyways, after much hoity-toity, how-do-you-do
-s Chadrazzan and I were able to ascertain that The Wastrel was safe, although still pursued by the island fortress. My message for Maevri is relayed to her, and the three of us agree to meet our companions in Baldur
+Anyways, after much hoity-toity, how-do-you-do's Chadrazzan and I were able to ascertain that The Wastrel was safe, although still pursued by the island fortress. My message for Maevri is relayed to her, and the three of us agree to meet our companions in Baldur
 
-s Gate. Chadrazzan and I agree that we should investigate Westgate first, as the harpers seemed to believe that there is information in that city that is of import to the both of us. Mae
-s allies suggested that we contact
+s Gate. Chadrazzan and I agree that we should investigate Westgate first, as the harpers seemed to believe that there is information in that city that is of import to the both of us. Mae's allies suggested that we contact
 the free thinker
 there as soon as possible, and we set out to do so at once.
 The very next morning Edgar, Chadrazzan, and I board The Bodiger. The captain is a nice enough fellow who is reminiscent of Zechary Mudge in his salty straightforwardness. Kethoth (as he prefers to be addressed in front of the crew) and I were lucky enough to have our own private cabin to share, although later discovered that it had traditionally belonged to the first mate. I don

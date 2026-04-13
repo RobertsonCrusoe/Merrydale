@@ -1,3 +1,27 @@
+---
+title: "Netherese Archaeological Map"
+slug: netherese-archaeological-map
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Lobelia Alavandor"
+  - "Loki Mouvranesh"
+locations: []
+tags:
+  - "military"
+---
 This map was captured from the Estawolde Fort excavation site by Grim during a pitched battle with the Netherese agents defending it.
 
 It was later translated and interpreted by Ambassador Miritar.

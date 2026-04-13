@@ -1,3 +1,38 @@
+---
+title: "Maturin Horgath - Character Background"
+slug: maturin-horgath-character-background
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Grandfather"
+  - "Anya Pellervoinen"
+  - "Arkos Thunderstaff"
+  - "Maturin Horgath"
+  - "Grimwald"
+  - "Marjatta Horgath"
+  - "Matteo Horgath"
+  - "Pohjola"
+  - "Samovar Horgath"
+  - "Shildevan"
+  - "Turan"
+  - "William Horgath"
+locations:
+  - "Dagger Falls"
+  - "Waterdeep"
+tags: []
+---
 [PC Attribution: Maturin Horgath (Stephen Robertson)]
 Help all who hurt, no matter who they are. The truly holy take on the suffering of others. If you suffer in his name, Ilmater is there to support you. Stick to your cause if it is right, whatever the pain or peril. There is no shame in a meaningful death. Stand up to all tyrants, and allow no justice to go unchallenged. Emphasize the spiritual nature of life over the existence of the material body.
 - Ilmaterite Credo
@@ -6,8 +41,7 @@ Be sober, be vigilant, because your adversary the devil, as a roaring lion, walk
 aturin Horgath and his twin sister Marjatta were born in 1338 DR to Anya Pellervoinen, the newly-bereaved widow of Lord Matteo of House Horgath, the ruling family in the Duchy of Arcata in Western Damara. Matteo had died eight months earlier, on a Midwinter hunting expedition with his brother
 
 s household. By all accounts, the death was an accident, though rumours of treachery abounded. Matteo had been well-loved by the people of Arcata, in contrast to his brother Duke William, who had a reputation for vice and self-indulgence.
-William Horgath, the eighth Duke of Arcata, saw Maturin
-s birth as a potential risk to his hold on the title of Duke. With no male heir, he was wary of the plots of the Pellervoinens
+William Horgath, the eighth Duke of Arcata, saw Maturin's birth as a potential risk to his hold on the title of Duke. With no male heir, he was wary of the plots of the Pellervoinens
 
 a powerful merchant family whose ambitious patriarch, Sampsa, was grandfather to the twins. To mitigate the threat, and hoping to quell any rumours that he had been behind his brother
 
@@ -17,12 +51,8 @@ s rule. To his mother and grandfather, Maturin was an investment, nothing less, 
 
 Things changed a year later in 1343, however, with the birth of a male heir to William. No longer as much of a potential threat, Maturin became a Horgath in name only. It was made clear to him that it was the infant Samovar, not he, who would be the centre of the household. Aside form the servant children, his only true friend throughout his childhood was the elderly seneschal Pohjola, who looked out for the young orphan and kept him informed on developments within the Keep. As the years passed, Maturin could only watch as Samovar developed into an even more selfish, spoiled and cruel creature than the Duke.
 
-On his fourteenth nameday, Maturin was sent to train in the army as a soldier. For the next five years, he spent little time in the Keep, constantly away training and on patrols. Every time he returned, he was more disgusted with the attitudes of his family towards their subjects and towards justice. Samovar had developed into a truly detestable young man, and the Duke
-s lechery in old age was legendary. Even when he was away, his family
-s corruption was apparent. The army was ill equipped and ill supplied, and the frustrated officers began to scapegoat him for his family
-s profligate fiscal policies.
-In 1358, the Duchy of Arcata moved against Gareth Dragonsbane
-s Bloodstone army at the behest of Zhengyi, the lich-king of Vaasa, who had essentially made William a puppet ruler in Western Damara. Dragonsbane offered the Arcatans a chance to surrender, but William foolishly rejected the offer and pressed a dawn attack. Less than an hour later, much of the Arcatan army had been taken prisoner, and William was forced to concede victory. Maturin, impressed by both Dragonsbane
+On his fourteenth nameday, Maturin was sent to train in the army as a soldier. For the next five years, he spent little time in the Keep, constantly away training and on patrols. Every time he returned, he was more disgusted with the attitudes of his family towards their subjects and towards justice. Samovar had developed into a truly detestable young man, and the Duke's lechery in old age was legendary. Even when he was away, his family's corruption was apparent. The army was ill equipped and ill supplied, and the frustrated officers began to scapegoat him for his family's profligate fiscal policies.
+In 1358, the Duchy of Arcata moved against Gareth Dragonsbane's Bloodstone army at the behest of Zhengyi, the lich-king of Vaasa, who had essentially made William a puppet ruler in Western Damara. Dragonsbane offered the Arcatans a chance to surrender, but William foolishly rejected the offer and pressed a dawn attack. Less than an hour later, much of the Arcatan army had been taken prisoner, and William was forced to concede victory. Maturin, impressed by both Dragonsbane
 
 s skill and mercy, renounced his nobility and his commission in the Arcatan army, and joined the Bloodstone army as an enlisted man, inspiring many of his troops to do the same. Eventually, the combined forces of Bloodstone were able to defeat the lich-king
 
@@ -34,11 +64,9 @@ s bandit army. Through his service, Maturin became one of the only members of hi
 
 much to the chagrin of Duke William, who Dragonsbane had left in charge of Arcata even after his defeat. Popular support was inevitably fading from the Horgath rule, and the collapse of the power of the allied merchant families, including the Pellervoinens, meant that the Duke could no longer count on their support of his rule. As dissatisfaction with the aging William and despicable Samovar grew, so did Brother Maturin (popularly called
 The Grey Horgath
-after his sober demeanour and dress) enjoy a surge in popularity. Inevitably, almost, false rumours began to spread that he might, should or would leave the church and usurp his uncle
-s title.
+after his sober demeanour and dress) enjoy a surge in popularity. Inevitably, almost, false rumours began to spread that he might, should or would leave the church and usurp his uncle's title.
 In 1370, Maturin was returning to the monastery after Highharvestide celebrations at the Keep, when he and his travelling companions were ambushed in the Galena Mountains. The monks were slain, and Maturin was stabbed, then crucified on a tree and left for dead. Through luck, or perhaps divine grace, his wounds scabbed over unnaturally fast, and his blood loss was minimal, allowing him to live. Even still, he was barely alive when monks discovered him two days later. Word of his ordeal spread like wildfire through the duchy, and the Duke established an Inquisition to find the perpetrators. Seven men were hanged, but few were convinced that the plot ended with them.
-The winter of Maturin
-s recovery passed slowly, and towards Midwinter, his life was threatened again, this time in his cell deep in the monastery. A pilgrim, ostensibly a leper seeking solace in the monastery, crept into Maturin
+The winter of Maturin's recovery passed slowly, and towards Midwinter, his life was threatened again, this time in his cell deep in the monastery. A pilgrim, ostensibly a leper seeking solace in the monastery, crept into Maturin
 
 s cell in the night and attempted to slit his throat. Maturin awoke just in time to see the glint of the knife in the moonlight, and managed to evade his fate. Unfortunately, the assassin escaped. This time, however, on the advice of the abbot, the clergy decided not to announce the attempt, fearing that such news would adversely affect the precarious political situation in Arcata, and potentially start a rebellion against Duke William. A week later, an almost entirely recovered Maturin was summoned before the abbot to what turned out to be a secret meeting with Gareth Dragonsbane himself.
 
@@ -62,8 +90,7 @@ Suddenly, the leper stands and takes a step back. He grows in proportion until h
 s. His piercing blue eyes, filled with sorrow and suffering, look at him straight on.
 The leper speaks with a quivering, but commanding voice:
 And beginning in the Year of the Unstrung Harp, when the Dark City lies crumbling, and the Ancient Ones rebel, the Lord of Darkness shall rise up in the Heartlands.
-And the Son
-s Shadow shall manifest itself in the Jewel by the Water
+And the Son's Shadow shall manifest itself in the Jewel by the Water
 And the Father shall rise from his grave. And the Father shall regain his throne. And he will bring blood and ruin to the Cradle.
 And the Father shall be victorious. He shall rule his realm once more.
 And the Son shall become jealous. And the Prince shall become angered.
@@ -88,31 +115,25 @@ With the last word, Maturin awoke in a cold sweat, shivering. He remembered ever
 1373
 Maturin and Marjatta Horgath born to Anya Pellervoinen, widow to Matteo Horgath, former heir to the Duchy of Arcata, Damara. The two spend their infancy at the Pellervoinen villa in Heliogabolus
 Maturin fostered in the household of his uncle, Duke William
-Duke William
-s son, Samovar Horgath, is born
+Duke William's son, Samovar Horgath, is born
 Marjatta marries into another duchy; Maturin is sent for military training
 War with Bloodstone, Arcata allies with Bloodstone
-Maturin joins Gareth Dragonsbane
-s army, insulting his uncle and family, and publicly renounces his status as a noble, declaring a philosophy of one law for all
+Maturin joins Gareth Dragonsbane's army, insulting his uncle and family, and publicly renounces his status as a noble, declaring a philosophy of one law for all
 Defeat of Zhengyi, the lich-king of Vaasa
 Maturin joins the order of St. Sollars in the Monastery of the Yellow Rose to train as a medician, have seen too much of war.
 
 For the next decade, Maturin trains in the monastery, acting as a battle-surgeon in the Bloodstone and Arcatan armies for the Order. His reputation as a just and caring individual grows among the soldiers, many receive his blessing. In latter years, as dissatisfaction grows with the aging William and despicable Samovar, likewise does Maturin
 
-s own status grow. False rumours spread that he might, should, or will usurp his uncle
-s title.
+s own status grow. False rumours spread that he might, should, or will usurp his uncle's title.
 Returning to the monastery after Harvestide celebrations at the Keep, Maturin and two monks are ambushed by the Galena Mountains and he is crucified on a tree and left to die. By luck or divine grace, his wounds scab over incredibly fast, and he avoids bleeding to death. He is saved almost two days later, barely alive. Word of Maturin
 
 s ordeal spreads like wildfire through Arcata. The Duke establishes an Inquisition, and seven men are hanged. Few are convinced that the plot ends with them, but no further questioning is possible.
-Winter passes slowly as Maturin recovers. Towards Midwinter, Maturin
-s life is threatened again in the monastery. The clergy decide not to announce the event. Maturin meets with Gareth Dragonsbane and leaves Damara. By Greengrass, he meets Arkos Thunderstaff in Elmwood. The two and their companions travel to Waterdeep, and arrive near Harvestide. Maturin founds St. Sollars
+Winter passes slowly as Maturin recovers. Towards Midwinter, Maturin's life is threatened again in the monastery. The clergy decide not to announce the event. Maturin meets with Gareth Dragonsbane and leaves Damara. By Greengrass, he meets Arkos Thunderstaff in Elmwood. The two and their companions travel to Waterdeep, and arrive near Harvestide. Maturin founds St. Sollars
 
 Rest, a hospice for the poor and wounded in Dockward, spends the winter caring for the poor
 
-Greengrass, Maturin is asked to accompany some of his former companions on a quest to free slaves in Dagger Falls. Bounty hunters pursue. Duel with Grimwald. Attacked by a Demon. Poisoned in Dekanter. Robbed by Zhents. Cursed with Lycanthropy. Forsaken by Ilmater. Shildevan
-s quest. Liberation of Dagger Falls.
-New Year
-s Day. The death of Grandfather. Marked by Ilmater.
+Greengrass, Maturin is asked to accompany some of his former companions on a quest to free slaves in Dagger Falls. Bounty hunters pursue. Duel with Grimwald. Attacked by a Demon. Poisoned in Dekanter. Robbed by Zhents. Cursed with Lycanthropy. Forsaken by Ilmater. Shildevan's quest. Liberation of Dagger Falls.
+New Year's Day. The death of Grandfather. Marked by Ilmater.
 EMBED PBrush
 & #$
 gd9(
@@ -217,8 +238,7 @@ q4~/
 J=n0$G
 QZ`W
 g]x
-9ydxR
-d(7*
+9ydxR'd(7*
 1__o
 H'GK
 +d2
@@ -354,8 +374,7 @@ hbEZ
 ptqH
 D2tT
 &mA\
-}*aA
-t]0s
+}*aA't]0s
 z4`]6
 G<kz
 l4E`g
@@ -379,8 +398,7 @@ ZQH Q
 }\$$
 )\J;
 EUPtV
-r;!A
-t<,
+r;!A't<,
 yE-q
 `T;7N
 P?b
@@ -455,15 +473,12 @@ VWzA
 N2&o
 +:Y~c
 hs9--
-v'A_+D
-t%)L
-m,<oUy
+v'A_+D't%)L'm,<oUy
 @b|TO
 AZ7q
 6cMX<
 SUIO
-)lJm
-s$4	%
+)lJm's$4	%
 |{m
 2AeP
 @Tzg
@@ -629,8 +644,7 @@ d:T49
 bb5z
 2A<!f!
 IgCe
-SF"L
-s;4-
+SF"L's;4-
 [-}(
 #~2Q
 c:kup
@@ -652,8 +666,7 @@ P}3G
 8-#'
 BV_j
 >st=XD
-\d,>x
-t[DE
+\d,>x't[DE
 Tb./k
 /<pF
 ~(6'
@@ -847,8 +860,7 @@ m' ;
 l<d7
 M6g0
 uE*o}2
-x4\K
-t\4K
+x4\K't\4K
 0g@=
 B`:Pr
 {4_x
@@ -985,8 +997,7 @@ C)R&+`|
 I !nL
 dbs	^
 h)4g`
-K0OV
-s@zD
+K0OV's@zD
 sRz-
 Rq$,u
 >n?j>
@@ -1081,8 +1092,7 @@ N'0]
 FL1o
 ?7+jS,
 l.+'
-t~Im
-d&"^
+t~Im'd&"^
 W*jY
 eG7c
 nOE$
@@ -1139,8 +1149,7 @@ z563
 lixf(
 aS.+,
 "{<#
-ZP4jHl
-d'B-
+ZP4jHl'd'B-
 xDe<
 !`^`
 <+!R)

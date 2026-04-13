@@ -1,3 +1,29 @@
+---
+title: "Sentencing"
+slug: sentencing
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Cirdan Vardamir"
+  - "Eremus Elderbough"
+  - "Ineluki Elderbough"
+  - "Ultho Elderbough"
+locations:
+  - "Cormanthor"
+tags: []
+---
 ==Judgement in the Elven Court==
 
 Marshall Medeila has the three renegades, Ineluki and Eremus Elderbough, and Cirdan Vardamir arrayed before her in the ‘courtroom’. This room has walls made up of alternating sections of delicately carved white stone and great oaks; the boughs of the oaks provide a mushroom-like canopy around the walls, but leave a 30’ opening in the middle, down which sunlight falls, illuminating the three on the white stone dais with the light of day. In the semi-shadowy perimeter of the room, scores of elves, both wood and Eladrin, stand silently, waiting for the Marshall to deliver her sentence.

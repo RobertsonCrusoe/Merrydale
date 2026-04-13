@@ -1,3 +1,27 @@
+---
+title: "Freeport_ Madness in Freeport"
+slug: freeport-madness-in-freeport
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Will"
+  - "Lendin"
+locations:
+  - "Freeport"
+tags: []
+---
 == Summary of Parts 2 & 3 ==
 
 When we last left our heroes they had just emerged from Black Dog’s caves and the Sunken Temple of Yig with the mysterious artifact known as the Jade Serpent. Upon boarding Captain Lydon’s ship, they find out that the good Captain has taken on a new passenger, Tarmon, high wizard of Freeport and ally to the adventurers.

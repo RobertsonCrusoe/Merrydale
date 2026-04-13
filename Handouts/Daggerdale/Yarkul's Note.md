@@ -1,3 +1,10 @@
+---
+title: "Yarkul's Note"
+slug: yarkul-s-note
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 The following note, from the wizard Yarkul, was found stuck to the door of the headquarters used by the Company of the Red Herring.
 
 Gentleman and Lady,

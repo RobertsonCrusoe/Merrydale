@@ -1,3 +1,29 @@
+---
+title: "Brother Griffon"
+slug: brother-griffon
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Griffon"
+  - "Magnus Zane"
+  - "Maeghuen Grimbold"
+locations:
+  - "Loudwater"
+tags: []
+deceased: true
+---
 Brother Griffon could be mistaken as a massive, barbarian  warrior rather than the devotee of Silvanus that he is.  Brother  Griffon was a foundling, cared for and raised by a fisherman from  Loudwater.  Brother Griffon can be found in the temple of Silvanus at  dawn and at dusk.  Throughout the remainder of the day, he is otherwise  difficult to locate.
 
 Recently, Brother Griffon has been spending the majority of his time tending to the Maeghuen Grimbold's nearly fatal wounds. 

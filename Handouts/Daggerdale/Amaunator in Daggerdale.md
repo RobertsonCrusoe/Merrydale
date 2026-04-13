@@ -1,3 +1,26 @@
+---
+title: "Amaunator in Daggerdale"
+slug: amaunator-in-daggerdale
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Ardelusk Whitegate"
+  - "Argent Whitegate"
+locations: []
+tags: []
+---
 Amaunator plays a central role in Daggerdale of 1479.  Most of the residents of the dale attribute their security and success to Amaunator's intervention in the dale.  Shortly after the death of Mystra, the beginning of the Spellplague, and the withdrawal of Lathander from the Realms, Daggerdale was is a state of panic.  The two main faiths that had kept the dale safe for a century were now powerless, and enemies seemed to be appearing and growing stronger by the day.
 
 However, Ardelusk Whitegate received some sort of a message from Amaunator, as he slowly grew in power while diemorphing from Lathander into his present (and ancient) form.  He was shown a vein of gold in the West Hill mine, and he led a pilgrimage from the dale out to mark the discovery.  This tale is best told in the Whitegate Epiphany, an epic poem that talks of Ardelusk's journey; from stone mason in the remote west, to Zhent slave, to freed man, to prophet and salvation of Daggerdale, more or less.

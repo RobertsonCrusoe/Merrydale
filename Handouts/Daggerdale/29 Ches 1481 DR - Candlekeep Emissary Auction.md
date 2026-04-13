@@ -1,3 +1,24 @@
+---
+title: "Candlekeep Emissary Auction"
+slug: candlekeep-emissary-auction
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "29 Ches 1481 DR"
+date_ic_sort: 1481090
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 The Emissaries from Candle Keep hold two auctions every year, selling off many of the magic items that they procure throughout the year from their Candlekeep Registry Bounty.
 
 The first of these is held during the day of Midsummer, which is a feast-day at the Castle, and one of the main attractions for the festivities of the day. The second is held at the end of the adventuring season, during The Feast of the Moon (the day between Uktar and Nightal.)  

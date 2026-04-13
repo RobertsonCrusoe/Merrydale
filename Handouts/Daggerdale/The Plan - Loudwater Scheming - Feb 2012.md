@@ -1,3 +1,26 @@
+---
+title: "The Plan - Loudwater Scheming - Feb 2012"
+slug: the-plan-loudwater-scheming-feb-2012
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Janus"
+locations:
+  - "Loudwater"
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

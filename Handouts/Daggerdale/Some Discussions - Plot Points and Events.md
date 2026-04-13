@@ -1,3 +1,37 @@
+---
+title: "Some Discussions - Plot Points and Events"
+slug: some-discussions-plot-points-and-events
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jafar"
+  - "Yarkul"
+  - "Teskul"
+  - "Boregar"
+  - "Rubikawn"
+  - "Beljuril"
+  - "Esperel"
+  - "Gilthanas"
+  - "Joldara Hunabar"
+  - "Vader"
+  - "Oberon"
+locations:
+  - "Waterdeep"
+  - "Shadowdale"
+tags: []
+---
 . Yarkul trying to get the Red Herrings on his side. When the Red Herrings refuse Yarkul says that "Harvest Tide will be War Tide."
 2. Raven is kidnapped (I can't remember how this happened).
 3. Rubicon threatens Tomas: "You have five days left to live."

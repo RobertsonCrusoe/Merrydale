@@ -1,6 +1,39 @@
+---
+title: "Red Herrings - Chapter 3 - Streets of Blood - Highharvestide, 1371"
+slug: red-herrings-chapter-3-streets-of-blood-highharvestide-1371
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Esperel"
+  - "Beljuril"
+  - "Jafar"
+  - "Yarkul"
+  - "Alek Lenter"
+  - "Belduran"
+  - "Bleskos Wavesilver"
+  - "Elbing Hightimber"
+  - "Jalthor Murlyn"
+  - "Semuldan Anteos"
+  - "Teskul"
+  - "Will"
+locations: []
+tags:
+  - "military"
+---
 The iyachtu Xvimites are at the Wavesilver Villa
-Raven
-s memory is blocked
+Raven's memory is blocked
 Beljuril uses a scroll to read memory
 Raven was in a pit wearing a loincloth
 there was broken glass covering the floor
@@ -35,13 +68,11 @@ Jafar remembers Captain Griswald Horn
 an Ersgul watch agent
 The girl
 dark hair, small, busted nose.
-Thagdul tells them that this is Dragon, a mage, and Yarkul
-s daughter.
+Thagdul tells them that this is Dragon, a mage, and Yarkul's daughter.
 1 Marpenoth, 1371
 Garth plants info, saying that Ersgul knocked over the Phaulkon caravan (that was immolated by the fireball)
 Rufus donates 2 bars of mithril to the House of the Moon
-Esperel visits Alek Lenter to sell the mithril, gets a price of 1000 gp/bar but he recommends that we don
-t sell it in town
+Esperel visits Alek Lenter to sell the mithril, gets a price of 1000 gp/bar but he recommends that we don't sell it in town
 Rychel asked Kenneth about religion, fact-finding about Iyachtu Xvim
 Beljuril visted the real estate office looking for a new HQ fo rthe company
 6 pm
@@ -75,12 +106,10 @@ Rufus tells the Church of Selune, casts Wyvern Watch on the house
 Tomas funeral in the City of the Dead
 Rufus casts enthral, then gives a eulogy
 After the funeral, Thagdul visits, delivers 400 HM for the 17 mithril bars
-Says the Hunabar staff came first to the city with Malthoon
-s High Road Shippers, who fought Company Dalael, and forced them underground.  The Shadow Thieves got a  hold of the staff, then Drurginz and Ersgul moved in.  Huskar II stole the staff
+Says the Hunabar staff came first to the city with Malthoon's High Road Shippers, who fought Company Dalael, and forced them underground.  The Shadow Thieves got a  hold of the staff, then Drurginz and Ersgul moved in.  Huskar II stole the staff
 3 Marpenoth
 we find out about the Silver Pride, which the Xvimites are using ship the Phaulkon swag out of the city
-a cog Captained by Semuldan Anteos heading to Baldur
-s Gate
+a cog Captained by Semuldan Anteos heading to Baldur's Gate
 leaving on Marpenoth 10
 Xvimites sending shipments
 Other events
@@ -89,14 +118,12 @@ Tomas got Jalthor Murlyn, to releas him, Rufus and Hob
 Hob left for Neverwitner to find Belduran
 Fight at Wavesilver Villa where Tomas died
 Rufus called lightning, repelled by the mythyl
-Jafar
-s fireball,
+Jafar's fireball,
 Rufus
 flood
 Tomas
 death
-Beljuril
-s dream
+Beljuril's dream
 The iyachtu Xvimites are at the Wavesilver Villa
 Stephen Robertson
 Stephen Robertson

@@ -1,3 +1,26 @@
+---
+title: "The Journey to Base Camp Silver"
+slug: the-journey-to-base-camp-silver
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "East Gate"
+  - "Base Camp Silver"
+tags: []
+---
 ==The East Gate==
 The journey to the East Gate would be another 2 full days, but Lt. Millstone expedites things by having a mounted platoon of his men escort you up the road, loaning you fresh mounts and encouraging the spurs. By late afternoon, you are at the turn-off from the main road, now called East Gate Road, where yet another development is under way; a stone arch is being built over the road, which is surrounded by a small tent-community of workers. Nearby, a stout stone inn is being built. There are dozens of dwarves and human hired workers here, as well as dwarves in grey and silver-trimmed tabards that Millstone explains are the Council of Silver's Silver Guard. Here, Millstone parts ways with you; the East Gate Road is still little more than a trail, and the horses won’t be much use there, especially after a half-day of being pushed so hard.        
 

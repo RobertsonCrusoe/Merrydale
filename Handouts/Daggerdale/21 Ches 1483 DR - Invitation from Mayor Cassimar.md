@@ -1,3 +1,27 @@
+---
+title: "Invitation from Mayor Cassimar"
+slug: invitation-from-mayor-cassimar
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "21 Ches 1483 DR"
+date_ic_sort: 1483082
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Cassimar"
+locations:
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 Ches 21, 1484 DR - Invitation from Mayor Cassimar
 DM Handout (Les Blackwell)
 Received by messenger at the Myth Drannor Embassy, late morning Ches 21, 1484 DR.

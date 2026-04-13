@@ -1,3 +1,27 @@
+---
+title: "Yarkul's Treaty"
+slug: yarkul-s-treaty
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Yarkul"
+locations:
+  - "Shadowdale"
+  - "Dagger Falls"
+tags: []
+---
 During his brief tenure as the Lord of Daggerdale, the Zhentarim mage Yarkul made the following overture towards the negotiation of a Treaty of Non-Aggression with the town of Shadowdale.
 
 I, Yarkul, Lord of Daggerdale and ruler of Dagger Falls,

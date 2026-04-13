@@ -1,3 +1,26 @@
+---
+title: "Raidfest in Freeport 1_ Tales of Adventure"
+slug: raidfest-in-freeport-1-tales-of-adventure
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Lendin"
+locations:
+  - "Freeport"
+tags: []
+---
 == A Year of Adventure ==
 It has been said that there are only two seasons in Freeport: summer and hurricane season. With hurricane season fast approaching you will have spent nearly a year in this city. A year you say? How could time have gone so fast? Yes my ever faithful friends—when a year’s worth of events have passed then surely a year must pass too. But if you are still unconvinced let us look back on this year and see what our dear heros have accomplished.
 

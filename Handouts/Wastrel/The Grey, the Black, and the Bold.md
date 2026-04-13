@@ -1,3 +1,36 @@
+---
+title: "The Grey, the Black, and the Bold"
+slug: the-grey-the-black-and-the-bold
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Gaebril Tremalkin"
+  - "Janus"
+  - "Maturin Horgath"
+  - "Arkos Thunderstaff"
+  - "Ailyan"
+  - "Azmund"
+  - "Hrogan Goringrimm"
+  - "Nanathlor Greysword"
+  - "Steele"
+locations:
+  - "Loudwater"
+  - "Waterdeep"
+tags: []
+---
 Compiled and written by Hrogan Goringrimm; priest of Ohgma and Fifth of The Monastery of Sundered Faith in 1477 DR.
 
 ==The Despair of the Boregar==

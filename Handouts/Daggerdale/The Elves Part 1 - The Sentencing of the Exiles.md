@@ -1,3 +1,29 @@
+---
+title: "The Elves Part 1 - The Sentencing of the Exiles"
+slug: the-elves-part-1-the-sentencing-of-the-exiles
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: 10
+characters:
+  - "Cirdan Vardamir"
+  - "Eremus Elderbough"
+  - "Ineluki Elderbough"
+  - "Ultho Elderbough"
+locations:
+  - "Cormanthor"
+tags: []
+---
 The Elves, Part 1 — The Sentencing of the Exiles
 
 Source: Email from Les Blackwell to the group, 12 January 2011. Subject: 'The Elves, Part 1'

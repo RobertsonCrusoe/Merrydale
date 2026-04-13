@@ -1,3 +1,26 @@
+---
+title: "Mattrick's Journal — No Mercy Asked, No Mercy Given. 25th Mirtul, 1479"
+slug: mattrick-s-journal-no-mercy-asked-no-mercy-given-25th-mirtul-1479
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Mattrick"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Baird"
+  - "Janus"
+locations: []
+tags: []
+---
 1479, 25th of Mirtul
 
 It has been nearly two days since Baird has been lost while in battle with the Mercykillers.  I have had very little time to understand what I am thinking and feeling and even commune with my Lord has done little to soothe the turmoil I am feeling inside.

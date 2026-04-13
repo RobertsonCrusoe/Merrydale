@@ -1,3 +1,35 @@
+---
+title: "Selected Entries from the Journal of Aisling Maeliticus - Discussion Thread"
+slug: selected-entries-from-the-journal-of-aisling-maeliticus-discussion-thread
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Charrah"
+  - "Quercina"
+  - "Abrecia"
+  - "Aisling Maeliticus"
+  - "Contessa Palus"
+  - "Invictus"
+locations:
+  - "Thistle Ridge"
+  - "Dagger Falls"
+  - "Sembia"
+  - "Tethyamar"
+tags:
+  - "military"
+---
 Selected Entries from the Journal of Aisling Maeliticus - Discussion Thread
 Date: 15 June 2025
 From: Stephen Robertson (with Gus Miranda)

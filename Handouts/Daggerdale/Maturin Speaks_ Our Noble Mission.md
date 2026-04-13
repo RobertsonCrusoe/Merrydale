@@ -1,3 +1,43 @@
+---
+title: "Maturin Speaks_ Our Noble Mission"
+slug: maturin-speaks-our-noble-mission
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Xulla"
+  - "Jafar"
+  - "Teskul"
+  - "Garth Shanks"
+  - "Sal Worthingham"
+  - "Beljuril"
+  - "Boregar"
+  - "Grimwald"
+  - "Maturin Horgath"
+  - "Zantiid"
+  - "Cauldrawn"
+  - "Duncan Eldoun"
+  - "Egan"
+  - "Hanibal Felthian"
+  - "Huntmaster"
+  - "Venosar"
+  - "Yarkul"
+  - "Steele"
+locations:
+  - "Waterdeep"
+tags: []
+---
 [PC Attribution: Maturin Horgath (Stephen Robertson)]
 ... from the orations of Maturin Horgath
 

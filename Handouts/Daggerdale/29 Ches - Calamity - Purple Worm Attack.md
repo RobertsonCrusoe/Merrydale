@@ -1,3 +1,31 @@
+---
+title: "29 Ches - Calamity - Purple Worm Attack"
+slug: 29-ches-calamity-purple-worm-attack
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Invictus"
+  - "Bella Birtch"
+  - "Dexter Broad"
+  - "Hannah Hillborn"
+  - "Ambassador Whitmore"
+locations:
+  - "East Gate"
+  - "Thistle Ridge"
+tags: []
+---
 [Source: Nightal 27 1439.txt, lines 23+]
 
 29 Ches – Calamity 

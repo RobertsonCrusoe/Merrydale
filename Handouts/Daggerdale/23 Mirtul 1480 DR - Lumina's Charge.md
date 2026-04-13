@@ -1,3 +1,33 @@
+---
+title: "Lumina's Charge"
+slug: lumina-s-charge
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "23 Mirtul 1480 DR"
+date_ic_sort: 1480145
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alen Reks"
+  - "Ganolen Thendolain"
+  - "Troia Trustar"
+locations:
+  - "Castle Radiance"
+  - "Cormanthor"
+  - "Dagger Falls"
+  - "Tesh Valley"
+  - "Yellow Abbey"
+tags:
+  - "military"
+---
 == 23 Mirtul, 1480 ==
 It is the 23rd of Mirtul, and up at Castle Radiance, there has never been so much activity. The escalation of conflict on the border with Netheril has brought an increasing number of soldiers, both Sun Blades and mercenaries alike, to the Castle. From here, they are sent to any of a number of hot-spots on the front. Many will not return.
 

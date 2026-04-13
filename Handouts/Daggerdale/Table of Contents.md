@@ -1,3 +1,27 @@
+---
+title: "Table of Contents"
+slug: table-of-contents
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Waterdeep"
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 ==1368 DR - Year of the Banner ==
 === Prelude: The Warders of Waterdeep ===
 *[[The Sword Coast, Summer of 1368 DR]]

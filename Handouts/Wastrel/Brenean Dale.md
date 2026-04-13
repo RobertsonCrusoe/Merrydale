@@ -1,3 +1,26 @@
+---
+title: "Brenean Dale"
+slug: brenean-dale
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Cormanthor"
+  - "Shadowdale"
+tags: []
+---
 == Background ==
 
 Brenan Dale grew up in the town of Ashabenford, Mistledale. Not much can be said about his youth or formative years except that he had a quiet father and a loud, overbearing mother. It should then come as no surprise that Brenan also became a quiet man and married a loud, overbearing woman—his second cousin more or less forced onto him by his mother.

@@ -1,3 +1,27 @@
+---
+title: "Wanted Poster - Raven and Boregar"
+slug: wanted-poster-raven-and-boregar
+type: session
+campaign: daggerdale
+voice: ooc
+status: unprocessed
+tier: editor
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+locations:
+  - "Secomber"
+tags:
+  - "military"
+---
 [PC Attribution: Boregar the Wanderer (Scott McLaren); Mourn Raventree (Gus Miranda)]
 
 [RAW - UNEDITED AND UNREVIEWED - extracted by automated process, not yet verified for accuracy or completeness]

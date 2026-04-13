@@ -1,3 +1,10 @@
+---
+title: "Codex of Prayer"
+slug: codex-of-prayer
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 right|450px
 
 This is a book that was referenced in Abandon Hope, All Ye Who Enter Here.  It contains an elaborate ritual to return the souls of those that have fallen prey to the ritual known as Bel's Bargain.

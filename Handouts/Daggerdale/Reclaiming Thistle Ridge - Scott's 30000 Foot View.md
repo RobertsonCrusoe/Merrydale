@@ -1,3 +1,26 @@
+---
+title: "Reclaiming Thistle Ridge - Scott's 30000 Foot View"
+slug: reclaiming-thistle-ridge-scott-s-30000-foot-view
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Thistle Ridge"
+  - "Saerloon"
+tags: []
+---
 Reclaiming Thistle Ridge - Scott's 30,000 Foot View
 by Scott Mclaren and Stephen Robertson
 Email thread: "Reclaming Thistle Ridge - Scun", 9 Aug 2024

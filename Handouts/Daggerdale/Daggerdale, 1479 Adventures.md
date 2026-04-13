@@ -1,3 +1,31 @@
+---
+title: "Daggerdale, 1479 Adventures"
+slug: daggerdale-1479-adventures
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Tethyamar"
+  - "Castle Radiance"
+  - "Dagger Falls"
+  - "Cormanthor"
+  - "Castle Daggerdale"
+  - "Crossed Blades Farm"
+  - "Tesh Valley"
+tags: []
+---
 # Daggerdale, 1479 Adventures
 # Source: The Sieges Perilous wiki (backup dated 2010-02-21)
 

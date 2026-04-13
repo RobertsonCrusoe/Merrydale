@@ -1,3 +1,26 @@
+---
+title: "The Spire and the Moonstars"
+slug: the-spire-and-the-moonstars
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Kennyth Thames"
+locations:
+  - "Waterdeep"
+tags: []
+---
 Information collected by Loremaster Kennyth Thames while studying in The Monastery of Sundered Faith in 1381 DR, The Year of the Starving
 
 thumb

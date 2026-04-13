@@ -1,3 +1,24 @@
+---
+title: "Charrah's_Grimoire"
+slug: charrah-s-grimoire
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 Based on Archives of Nethys verification, here are the confirmed remaster name changes:
 
   Remaster Item         Original Item          Lesser Lvl [DC]   Moderate Lvl [DC]   Lesser Price   Moderate Price   Crafting Cost*

@@ -1,3 +1,25 @@
+---
+title: "Letter from Phin Hoetmer to Dunland - The Belial Prayerbook"
+slug: letter-from-phin-hoetmer-to-dunland-the-belial-prayerbook
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Phin Hoetmer"
+source: handout
+date_ic: "27 Flamerule 1479 DR"
+date_ic_sort: 1479209
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags:
+  - "military"
+---
 27 Flamerule, 1479 DR 
 GFD Notes: 
 This is an extraordinary letter, as it was written more than a year before the trouble of the Sons of Bel appeared in the Dale. This letter was sent to Dunland (son of the mayor of Dwimmerholme), accompanied by the book "Belial Prayerbook". When the White Cloaks came to the settlement, they checked in on Dunland, whom Mr. Dretch had some dealings with in the past, and remained suspicious of. 

@@ -1,3 +1,26 @@
+---
+title: ""
+slug: 
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Tergus Clarandal"
+locations: []
+tags:
+  - "military"
+---
 From the Journal of Tergus Clarandal, recovered at Clarandal Farm 1483 by Company Chrysalis
 
 [Source: Partial Journal of Tergus Clarandal.docx, uploaded 2026-04-09. Earlier compilation form of this file (six entries: Greengrass 1423, Spring 1427, Ches 7 1431, Harvestide 1437, Nightal 27 1439, Winter Solstice 1439) was deprecated on 2026-04-09 and moved to /To Process/deprecated-compilations/. Each constituent entry is now its own standalone in this folder.]

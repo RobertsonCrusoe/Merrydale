@@ -1,1 +1,8 @@
+---
+title: "Kionin the Younger"
+slug: kionin-the-younger
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 The child of Shildry and nephew of Kionin, two wild mages of Neverwinter. The boy Kionin had been captured by Zhentarim slavers before he was freed by members of the Neverwinter Company and Jafar. Jafar had been hired by the boy's father, Drubaldin.

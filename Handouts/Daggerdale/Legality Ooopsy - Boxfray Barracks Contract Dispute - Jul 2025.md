@@ -1,3 +1,26 @@
+---
+title: "Legality Ooopsy - Boxfray Barracks Contract Dispute - Jul 2025"
+slug: legality-ooopsy-boxfray-barracks-contract-dispute-jul-2025
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: "2026-04-06"
+series: ""
+order: ""
+characters: []
+locations:
+  - "Thistle Ridge"
+tags:
+  - "military"
+---
 SOURCE INFORMATION
 Thread: "Legality Ooopsy" (197db50fc3b6b8fe)
 Date Range: 5-14 Jul 2025

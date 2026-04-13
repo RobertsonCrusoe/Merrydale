@@ -1,3 +1,27 @@
+---
+title: "Jasper and Coventina - Jasper's Speech After Coventina's Death"
+slug: jasper-and-coventina-jasper-s-speech-after-coventina-s-death
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Jasper Hawkford"
+  - "Cassimar"
+  - "Coventina Cassimar"
+locations: []
+tags: []
+---
 Jasper and Coventina - Jasper's Speech After Coventina's Death
 by Gus Miranda (as Jasper Hawkford)
 Email thread: "Jasper and Coventina", 13 May 2025

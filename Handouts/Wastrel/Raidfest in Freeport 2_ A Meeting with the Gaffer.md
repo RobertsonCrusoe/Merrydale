@@ -1,3 +1,26 @@
+---
+title: "Raidfest in Freeport 2_ A Meeting with the Gaffer"
+slug: raidfest-in-freeport-2-a-meeting-with-the-gaffer
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Lendon"
+locations: []
+tags:
+  - "military"
+---
 ==A Sort of Vacation ==
 
 A long pier stretched out into the shallow waters of the sea, ending just before the island’s shelf dropped off into deep dark waters. Lined with boathouses of all sorts of shapes and sizes, the pier was home to maybe a hundred private yachts. Today the pier was empty except for three men standing by one of the houses.

@@ -1,3 +1,29 @@
+---
+title: "Between Round 1 and 2 of the Mountain of Mayhem - Vignettes and Jasper's Round 1"
+slug: between-round-1-and-2-of-the-mountain-of-mayhem-vignettes-and-jasper-s-round-1
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Mortimer"
+locations:
+  - "Thistle Ridge"
+  - "Quick Axes"
+  - "Tesh Valley"
+tags:
+  - "military"
+---
 Between Round 1 and 2 of the Mountain of Mayhem - Vignettes and Jasper's Round 1
 by Todd Burry (Ser Rowan/Mari), Scott Mclaren (Jeska), Gus Miranda (Jasper), with Les Blackwell (DM)
 Email thread: "Between round 1 and 2 of the Mountain of Mayhem", 20-25 Feb 2024

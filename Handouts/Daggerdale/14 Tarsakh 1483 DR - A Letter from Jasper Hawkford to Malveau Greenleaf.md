@@ -1,3 +1,32 @@
+---
+title: "A Letter from Jasper Hawkford to Malveau Greenleaf"
+slug: a-letter-from-jasper-hawkford-to-malveau-greenleaf
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: "Jasper Hawkford"
+source: handout
+date_ic: "14 Tarsakh 1483 DR"
+date_ic_sort: 1483105
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Malveau Greenleaf"
+  - "Jasper Hawkford"
+  - "Vessuvian"
+locations:
+  - "Greenwood Farm"
+  - "Thistle Ridge"
+  - "Cormanthor"
+  - "Thistle Ridge Farm"
+tags:
+  - "military"
+---
 [Source: Letter to Malveau Greenleaf - Jasper Offers Employment.txt (curated thread reconstitution; email thread "Letter to Malveau Greenleaf", Gus Miranda, 19 Jan 2025; delivery acknowledged by Les Blackwell, 27 Jan 2025)]
 
 14 Tarsakh, 1483 DR – A Letter from Jasper Hawkford to Malveau Greenleaf

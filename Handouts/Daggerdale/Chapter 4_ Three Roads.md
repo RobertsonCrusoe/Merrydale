@@ -1,3 +1,26 @@
+---
+title: "Chapter 4_ Three Roads"
+slug: chapter-4-three-roads
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Waterdeep"
+  - "Dagger Falls"
+tags: []
+---
 == Prologue ==
 *[[Looking for Hob in All the Wrong Places]]
 *[[The Winter of 1371-1372]]

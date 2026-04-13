@@ -1,3 +1,29 @@
+---
+title: "Chapter_6"
+slug: chapter-6
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Randal Morn"
+  - "Griffon"
+locations:
+  - "Castle Daggerdale"
+  - "Dagger Falls"
+  - "Waterdeep"
+tags: []
+---
 Chapter 6: The Rising Sun of Randal Morn
 
 Esteemed readers, we come now to the final chapter of our tale, where the light of the Morn family, long obscured by shadow, begins to burn brightly once more. Like the sun emerging from behind dark clouds, the legacy of Daggerdale's rightful rulers would not be extinguished. Much like the cycle of day and night, the saga of House Morn is one of perpetual change, where moments of brilliance are inevitably followed by periods of shadow, only for the light to emerge once more.

@@ -1,1 +1,8 @@
+---
+title: "Lt. Grid Hammerfall"
+slug: lt-grid-hammerfall
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 This is the stoic leader of a mounted unit of Sun Blades (2nd Sun Dragoons) who arrived at Tesh Valley Farm two days before the White Cloaks. He was likewise aloof, but seemed to respect Corran, Iolus and Banitt. He was here to step up patrols in the area.

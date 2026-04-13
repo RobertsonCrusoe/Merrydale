@@ -1,3 +1,25 @@
+---
+title: "Accessing the Armoury of the Myth Drannor Embassy"
+slug: accessing-the-armoury-of-the-myth-drannor-embassy
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Maxentius"
+locations: []
+tags: []
+---
 Characters who are able to convince the Steward of the Embassy that they are in need of some gear might be able to acquire some goods from the armoury. This is a skill challenge.  
 
 Skills:  Diplomacy, Bluff (see table below)

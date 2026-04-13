@@ -1,3 +1,34 @@
+---
+title: "Dagger Falls"
+slug: dagger-falls
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Balak Quickaxe"
+locations:
+  - "Dagger Falls"
+  - "Quick Axes"
+  - "Shadowdale"
+  - "Castle Radiance"
+  - "Fresh Meat for Castle Radiance"
+  - "Morning Star Cathedral"
+  - "Tesh Valley"
+  - "Tethyamar"
+tags:
+  - "military"
+---
 # Dagger Falls
 # Source: The Sieges Perilous wiki (backup dated 2010-02-21)
 

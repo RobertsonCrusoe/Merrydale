@@ -1,3 +1,27 @@
+---
+title: "Excerpts from the Yellow Abbeye Booke of Surveys and Measures Gribbons Farm"
+slug: excerpts-from-the-yellow-abbeye-booke-of-surveys-and-measures-gribbons-farm
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Latimer Winters"
+locations:
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 Excerpts from the Yellow Abbeye Booke of Surveys and Measures  Gribbons Farm  1482 DR Edition 
 Population: 440 
 Non-Humans: 39 (12 dwarves from one family and some workers, 24 halflings from 2 families, 3 half orcs of reasonable disposition) 

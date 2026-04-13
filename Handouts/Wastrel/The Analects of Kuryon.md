@@ -1,3 +1,26 @@
+---
+title: "The Analects of Kuryon"
+slug: the-analects-of-kuryon
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Saharel"
+  - "Ailyan"
+locations: []
+tags: []
+---
 ==Analect 2: On meeting Lady Saharel==
 <pre>
 Amid the ancient, weathered stones,

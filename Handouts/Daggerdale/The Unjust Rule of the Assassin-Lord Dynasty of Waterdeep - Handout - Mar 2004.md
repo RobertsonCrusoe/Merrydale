@@ -1,3 +1,27 @@
+---
+title: "The Unjust Rule of the Assassin-Lord Dynasty of Waterdeep - Handout - Mar 2004"
+slug: the-unjust-rule-of-the-assassin-lord-dynasty-of-waterdeep-handout-mar-2004
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Khelben Arunsun"
+  - "Steele"
+locations:
+  - "Waterdeep"
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

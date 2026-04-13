@@ -1,3 +1,27 @@
+---
+title: "Correspondence from Brother Vessuvian to Lucan Alavandor"
+slug: correspondence-from-brother-vessuvian-to-lucan-alavandor
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "21 Tarsakh 1483 DR"
+date_ic_sort: 1483112
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Vessuvian"
+  - "Lucan Alavandor"
+locations:
+  - "Thistle Ridge"
+tags: []
+---
 21 Tarsakh, 1483 DR – Correspondence from Brother Vessuvian to Lucan Alavandor 
 Mr. Alavandor; 
 Thank you for your inquiry, and the detailed drawings of what is obviously Sembian architecture.  One is surprised that you wouldn't recognize it immediately, but you likely had other interests back home besides plinths and cornices.  For if you weren't distracted with much more important pursuits during those formative years, when the foundation of learning, intellect and character is laid atop the bedrock of a sound mind, you would no doubt have said "Vessuvian!  I know you for a busy man, though not so busy as I, but all the same, I won't trifle you with Geotizzi plinths and Verutruscan cornices, the likes of which can be seen in any modest-to-great temple in the modest-to-slightly-immodest cities of my homeland."  But here we are. 

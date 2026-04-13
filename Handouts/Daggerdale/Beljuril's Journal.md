@@ -1,3 +1,10 @@
+---
+title: "Beljuril's Journal"
+slug: beljuril-s-journal
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 The Third of Kythorn, 1372 I am writing this by the light of a small fire in our camp. We have been on the road for three days now, and already the weight of our task is beginning to settle on my shoulders.
 
 Mae is as silent as ever, her eyes always scanning the tree line. Oliver spends his evenings sharpening that enormous blade of his, the rhythmic shing-shing a constant backdrop to our thoughts. Rufus, bless him, tries to keep our spirits up with tales of the City, but even he seems subdued by the vastness of the wilderness between here and Neverwinter.

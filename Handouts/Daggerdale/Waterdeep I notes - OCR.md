@@ -1,13 +1,46 @@
 ---
-Provenance: OCR transcription of "Waterdeep I notes.pdf" (14 pages, typed)
-Source: DND Scanned Notes / OneDrive DND Scans
-Campaign: Daggerdale (Waterdeep arc — Harvestide session chronicle, 25 Eleint onward)
-Date processed: 2026-04-03
-Utility: B (session-by-session chronicle with DM annotations in brackets; overlaps with 'Red Herrings - Harvestide - Chronology of Harvestide.txt' and 'Harvestide notes.txt' but DM annotations/questions add value)
-
-Archive counterparts: Red Herrings - Harvestide - Chronology of Harvestide.txt, Harvestide notes.txt
-
-OCR notes: First page has OCR garbage from scan artifacts at top. Clean printed text with handwritten annotations from page 2 onward.
+title: "Waterdeep I notes"
+slug: waterdeep-i-notes
+type: narrative
+campaign: daggerdale
+voice: ic
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Esperel"
+  - "Jafar"
+  - "Yarkul"
+  - "Teskul"
+  - "Gul'dan"
+  - "Beljuril"
+  - "Krag"
+  - "Vuldan"
+  - "Rubikawn"
+  - "Dally"
+  - "Egan"
+  - "Gilthanas"
+  - "Stektine"
+  - "Aganon"
+  - "Aggis"
+  - "Alek Lenter"
+  - "Alt Kor"
+  - "Azadon"
+  - "Ebeguld"
+  - "Elbing Hightimber"
+locations:
+  - "Waterdeep"
+  - "Hillsfar"
+tags:
+  - "military"
 ---
 
 --

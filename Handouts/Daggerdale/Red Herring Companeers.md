@@ -1,3 +1,29 @@
+---
+title: "Red Herring Companeers"
+slug: red-herring-companeers
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Corrina"
+  - "Boregar"
+  - "Grandfather"
+  - "Grimwald"
+locations:
+  - "Secomber"
+tags: []
+---
 :Well the year was 1372 (How I wish I was in Elmwood now!)
 :A dark robed man with a beholder staff
 :Came upon us and laughed and laughed

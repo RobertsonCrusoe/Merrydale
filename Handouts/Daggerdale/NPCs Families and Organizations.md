@@ -1,3 +1,28 @@
+---
+title: "NPCs Families and Organizations"
+slug: npcs-families-and-organizations
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Gideon"
+  - "Godwin Ferguson"
+locations:
+  - "Charity"
+  - "Dagger Falls"
+tags: []
+---
 NPCs, Families and Organizations 
 
 Fiona Scarlett (Cleric 1 – Sharess) 

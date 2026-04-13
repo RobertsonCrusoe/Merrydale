@@ -1,11 +1,24 @@
 ---
-Provenance: OCR transcription of "dnd notes 23.pdf" (7 pages, typed)
-Source: DND Scanned Notes / OneDrive DND Scans
-Campaign: Loudwater-Kethoth (Wastrel arc) — DM mechanics/OOC
-Date processed: 2026-04-03
-Utility: A (unique — no counterpart in archive; DM introductory email explaining Wastrel campaign email-play mechanics, rules, XP policy)
-Archive counterparts: None found
-OCR notes: Minor artifacts corrected. Some line-break artifacts from scan margins preserved.
+title: "dnd notes 23"
+slug: dnd-notes-23
+type: narrative
+campaign: wastrel
+voice: ic
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Waterdeep"
+tags: []
 ---
 
 A bit of mechanics before we get going. If you’ re playing, 1’ }1 need your. ~

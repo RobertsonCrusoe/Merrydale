@@ -1,3 +1,45 @@
+---
+title: "Maturin_s_Journal_-_Anauroch_1372_DR"
+slug: maturin-s-journal-anauroch-1372-dr
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Will"
+  - "Corrina"
+  - "Shildevan"
+  - "Warburden"
+  - "Cassimar"
+  - "Dolebrund"
+  - "Eisley"
+  - "Farim"
+  - "Gethard Soulbright"
+  - "Gond Pistola"
+  - "Grandfather"
+  - "Kabina"
+  - "Lexinauth"
+  - "Maturin Horgath"
+  - "Rewel Thunderstorm"
+  - "Wildermot Silverlance"
+  - "William Cormaeril"
+  - "Yarkul"
+locations:
+  - "Dagger Hills"
+  - "Waterdeep"
+tags: []
+---
 [PC Attribution: Maturin Horgath (Stephen Robertson)]
 He writes with a shaky hand on a crumpled page of vellum torn from his depleted journal.  Precious inks stain his hands.  He hands me the note. 
 

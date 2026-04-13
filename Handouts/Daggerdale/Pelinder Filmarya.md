@@ -1,3 +1,10 @@
+---
+title: "Pelinder Filmarya"
+slug: pelinder-filmarya
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 Pelinder Filmarya is the Lord of Leilon, a town on the road from Waterdeep to Neverwinter.
 
 == Significant Documents ==

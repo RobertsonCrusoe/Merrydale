@@ -1,3 +1,41 @@
+---
+title: "Some Thoughts on Thistle Ridge - Gus's Strategic Analysis"
+slug: some-thoughts-on-thistle-ridge-gus-s-strategic-analysis
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: gus
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Malveau Greenleaf"
+  - "Alexandus"
+  - "Mumfrey"
+  - "Blaze Whitegate"
+  - "Forge Farmountain"
+  - "Invictus"
+  - "Janus"
+  - "Nemia"
+  - "Tara Hilltop"
+  - "Zoderick Winters"
+  - "Jasper Hawkford"
+  - "Charrah"
+  - "Luminous Whitegate"
+locations:
+  - "Thistle Ridge"
+  - "Castle Radiance"
+  - "Some Thoughts on Thistle Ridge - Gus's Strategic Analysis"
+tags:
+  - "military"
+---
 Some Thoughts on Thistle Ridge - Gus's Strategic Analysis
 by Gus Miranda (as Jasper Hawkford)
 Email thread: "Some thoughts on Thistle Ridge", 5 Jun 2024

@@ -1,3 +1,30 @@
+---
+title: "Red Herrings - Chapter 4 - 1 - Return to Neverwinter - Looking for Hob in All the Wrong Places"
+slug: red-herrings-chapter-4-1-return-to-neverwinter-looking-for-hob-in-all-the-wrong-places
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Agamemnon"
+  - "Bartelos"
+  - "Zaltim"
+locations:
+  - "Waterdeep"
+  - "Loudwater"
+tags:
+  - "military"
+---
 Looking for Hob in All the Wrong Places
 By late Marpenoth of 1371, Raven and Rufus decided that Hob was long overdue.  The autumn was tremendously cold already, and so the two of you decided to get moving before the snows closed the roads for winter.  The Raventree family supplied horses, and your journey to Neverwinter to locate Hob began.
 
@@ -12,8 +39,7 @@ He took passage from Waterdeep with us a couple of tendays ago, and I have not h
 
 s High Road Shippers, as he made some inquiries about them.  It does not bod ewll that you have not heard from him after all this time.
 
-I should like to help you find him, as I may be partially responsible for his fate.  It was I that pointed him in the direction of Malthoon
-s.  Come, let us set out now.
+I should like to help you find him, as I may be partially responsible for his fate.  It was I that pointed him in the direction of Malthoon's.  Come, let us set out now.
 Shortly, you find yourselves being led through the streets with Agamemnon.  Just as the sun is vanishing behind the roof-line of the city, the three of you turn up outside the office of the shipping house.
 
 As you approach, a man is stealing out the door, and looking altogether very suspicious.  This prompts action from Agammenon, who yells
@@ -35,8 +61,7 @@ What shall we do with this piece of trash?
 It is at this time that the Watch comes by, and interrupts.  After a quick exchange, they end up hauling off the Zhent, leaving you lot empty handed.
 
 I have enough to go on; there are some friends of mine that I fear may also have gone to Luskan on that slave carafvan, and I aim to free them.  What say you?
-You find yourselves making preparations that night in Agamemnon
-s room in the Shining Serpent for travel north, and the next day, the three of you set off to Luskan.
+You find yourselves making preparations that night in Agamemnon's room in the Shining Serpent for travel north, and the next day, the three of you set off to Luskan.
 
 It is bitter cold the morning you leave, and a slight snow flurry erupts part way through the day.  However, after a hard day of riding, the three of you pull into Port Llast.  The only inn in this village of 700 is The Alliance Arms, and it is in this quiet palce that an attempt is made on your lives.  While sleeping that night, someone set fire outside your room.  The smoke quickly filled the places, and you found yourselves bailing out of the second-floor window.  Below, a flock of assassins was waiting with poisoned crossbow bolts.  Through a little bit of luck, most of the bolts struck Rufus, and ha little effect.   The five assassins were quickly overcome by your abilities, and four were captured alive (Raven having killed one).  Once again, the mage cast a spell for interrogation, and learned that the assassins were regular army from Luskan, hired by an unknown man to kill the three of you.  Little else was discovered, and the local authorities hung the men the next morning.
 

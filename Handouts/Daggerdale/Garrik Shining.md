@@ -1,3 +1,10 @@
+---
+title: "Garrik Shining"
+slug: garrik-shining
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 [PC Attribution: Garrik Shining (Chris)]
 wizard, Garrik Shining]]
 thumb

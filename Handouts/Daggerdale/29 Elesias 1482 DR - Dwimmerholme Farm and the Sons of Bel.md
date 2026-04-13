@@ -1,3 +1,38 @@
+---
+title: "29 Elesias 1482 DR - Dwimmerholme Farm and the Sons of Bel"
+slug: 29-elesias-1482-dr-dwimmerholme-farm-and-the-sons-of-bel
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1482 DR"
+date_ic_sort: 1482001
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Seir"
+  - "Melegaunt"
+  - "Vetis"
+  - "Xaphan"
+  - "Alen Reks"
+  - "Alystair Dretch"
+  - "Sabnock"
+  - "Semiazus"
+locations:
+  - "Liberty Hill"
+  - "Dagger Falls"
+  - "Dwimmerholme Farm"
+  - "Yellow Abbey"
+  - "Charity"
+  - "Crossed Blades Farm"
+tags: []
+---
 DDC – 1481 - 4: Dwimmerholme Farm and the Sons of Bel 
 A Summary penned by Grafton Fitzdecker, Elesias, 1482 
 GFD Notes: A Summary of the Events at Dwimmerholme Farm as I understand them, based on numerous reports and interviews with Bravo Team (those that remain), residents of the Farm and experts at the Yellow Abbey. 

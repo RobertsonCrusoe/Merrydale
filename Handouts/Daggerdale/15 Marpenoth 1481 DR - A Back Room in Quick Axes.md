@@ -1,3 +1,33 @@
+---
+title: "A Back Room in Quick Axes"
+slug: a-back-room-in-quick-axes
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: forum
+date_ic: "15 Marpenoth 1481 DR"
+date_ic_sort: 1481290
+date_ooc: "2012-05-29"
+series: ""
+order: ""
+characters:
+  - "Darred"
+  - "Nathan Gale"
+  - "Arkadios Solaris"
+  - "Balak Quickaxe"
+  - "Roger Dunland"
+locations:
+  - "Charity"
+  - "Yellow Abbey"
+  - "Quick Axes"
+  - "Saerloon"
+tags: []
+---
 Source: GDN_Discussion + GDN_Comment
 DiscussionID: 35
 CategoryID: 5

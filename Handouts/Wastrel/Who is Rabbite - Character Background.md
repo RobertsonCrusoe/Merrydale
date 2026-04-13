@@ -1,3 +1,27 @@
+---
+title: "Who is Rabbite - Character Background"
+slug: who-is-rabbite-character-background
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Rabbite"
+locations:
+  - "Freeport"
+tags:
+  - "military"
+---
 [PC Attribution: Rabbite (Stephen Robertson)]
 Reminiscence of the Very Reverend Mr. Oengus Elderstoat, tutor and confessor to the Marchioness of Elber:
 Ah yes
@@ -20,13 +44,11 @@ almost mystical.  His final concerts were masterpieces, and the castle hall stil
 It was after his last performance that Catullian took his charge, the elf-girl known only as Rabbite, on a voyage to the south
 on what he would only comment on as
 a musical expedition.
-He would not even tell us his destination.  The point was moot, though, for Catullian fell victim to the fever that has reached us on the southern ships.  By the time the ship had reached the Pirate Isles and Freeport, Catullian was dead.  His letter of credit to the ship
-s captain carried little weight unsigned, and Rabbite was put ashore in Freeport
+He would not even tell us his destination.  The point was moot, though, for Catullian fell victim to the fever that has reached us on the southern ships.  By the time the ship had reached the Pirate Isles and Freeport, Catullian was dead.  His letter of credit to the ship's captain carried little weight unsigned, and Rabbite was put ashore in Freeport
 penniless, homeless and alone
 Note found among the possessions of the maestro Catullian after word of his death in Freeport
 Maestro,
-I trust this letter reaches you in good health, for there is much riding on the successful completion of your coming journey.  I have arranged passage for you and your charge on the ship Yellowjacket under Captain Skarsgaard..  He is a member of our group, and can be trusted.  I don
-t need to remind you that our stealth must not be compromised at this stage.
+I trust this letter reaches you in good health, for there is much riding on the successful completion of your coming journey.  I have arranged passage for you and your charge on the ship Yellowjacket under Captain Skarsgaard..  He is a member of our group, and can be trusted.  I don't need to remind you that our stealth must not be compromised at this stage.
 I have sent five more vials of the tonic that will render the elf amenable to any suggestion you make.  That should ensure that you have no problem bringing her to us.  The second quarter of your
 
 has also been included as per our agreement.  The balance will be paid to you when the elf is delivered.  You will find this one to be a particularly pure batch.  I urge you to be careful

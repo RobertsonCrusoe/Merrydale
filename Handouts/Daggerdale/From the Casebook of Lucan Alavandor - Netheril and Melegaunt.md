@@ -1,3 +1,30 @@
+---
+title: "From the Casebook of Lucan Alavandor - Netheril and Melegaunt"
+slug: from-the-casebook-of-lucan-alavandor-netheril-and-melegaunt
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Melegaunt"
+  - "Lucan Alavandor"
+locations:
+  - "Dagger Falls"
+  - "Saerloon"
+  - "Sembia"
+  - "Tethyamar"
+tags: []
+---
 From the Casebook of Lucan Alavandor: Netheril and Melegaunt
 Date: 23 April 2025
 From: Stephen Robertson (with Gus Miranda)

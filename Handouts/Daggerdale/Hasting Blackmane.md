@@ -1,3 +1,10 @@
+---
+title: "Hasting Blackmane"
+slug: hasting-blackmane
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 right|450px
 The daughter of Decker Blackmane (mayor of Tesh Valley Farm) and Aestus (Whitegate), Hasting is a dour woman in her 28th year.  Though she is lithe and pretty, she is unmarried and cheerless.  She has the fine dark features of her father’s line; long dark hair, brown eyes and a ruddy complexion.  Though she never smiles, nor does she habitually wear a scowl or even a frown; her expression is usually entirely neutral, which has kept her skin from the wrinkles of too much care, but has also kept suitors at bay.  Though her face seems expressionless, her unhappy and bitter personality is not concealed; she has a sharp tongue and conceals none of her thoughts.
 

@@ -1,3 +1,26 @@
+---
+title: "Malkor's Letter to Gilth'zan"
+slug: malkor-s-letter-to-gilth-zan
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Malkor"
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Gilth'zan"
+locations: []
+tags:
+  - "military"
+---
 ''A letter sent from the [[Zhentarim]] wizard [[Malkor]] to his lackey, [[Gilth'zan]]''
 ----
 

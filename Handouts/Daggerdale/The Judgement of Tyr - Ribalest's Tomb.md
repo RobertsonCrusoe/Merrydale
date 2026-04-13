@@ -1,3 +1,24 @@
+---
+title: "The Judgement of Tyr - Ribalest's Tomb"
+slug: the-judgement-of-tyr-ribalest-s-tomb
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 The Judgement of Tyr
 DM Handout - Ribalest's Tomb
 by Les Blackwell

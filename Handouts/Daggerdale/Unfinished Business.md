@@ -1,3 +1,33 @@
+---
+title: "Unfinished Business"
+slug: unfinished-business
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Yarkul"
+  - "Beljuril"
+  - "Jafar"
+  - "Randal Morn"
+  - "Shildevan"
+  - "Talinvor Durinbold"
+locations:
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 In the next instalment of the Realms Saga
 
 *Garth will probably mention to Maturin that the two Xvimites we sacked had the same tatoos as Maturin, from fighting some lich king in Damara or something. 

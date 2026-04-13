@@ -1,3 +1,25 @@
+---
+title: "GFD Timeline - The Ritual of Corruption and the Soul of Corruption"
+slug: gfd-timeline-the-ritual-of-corruption-and-the-soul-of-corruption
+type: lore
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "21 Mirtul 1480 DR"
+date_ic_sort: 1480143
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Zuldrick"
+locations: []
+tags: []
+---
 Mirtul 21, 1480: Ritual of Corruption begins. The summoning of the Soul of Corruption is complete, again with the aid of the Slave Orbs, but control of the thing is tenuous; a host of clerics chant at all times to maintain control of it. The Soul of Corruption is known to the Order, but I believe I am the first to have any involvement so close with the thing. It was likely employed to keep people both in and out of the farm. 
 
 The Ritual of Corruption needed not only the bolstering might of the Slave Orbs, but a constant supply of fresh blood, which was grotesquely provided by the prisoners that resisted the 

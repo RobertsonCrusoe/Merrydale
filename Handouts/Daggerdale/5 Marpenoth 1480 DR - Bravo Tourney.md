@@ -1,3 +1,38 @@
+---
+title: "Bravo Tourney"
+slug: bravo-tourney
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "5 Marpenoth 1480 DR"
+date_ic_sort: 1480280
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alen Reks"
+  - "Argent Whitegate"
+  - "Buck Thistledown"
+  - "Weaver"
+  - "Griffon"
+locations:
+  - "Dagger Falls"
+  - "Yellow Abbey"
+  - "Liberty Hill"
+  - "Tethyamar"
+  - "Charity"
+  - "Charity Hills Farm"
+  - "Cormanthor"
+  - "Sembia"
+tags:
+  - "military"
+---
 ===Marpenoth 5, 1480 DR.===
 
 You are all a little nervous, as you watch the carpenters frantically hammering boards together in the torch-lit drizzle on this cold Marpenoth night.  Today has been the longest of days for many, these carpenters included.  A pair of carpenters is poised precariously on some sort of makeshift wooden scaffold, and are grabbing boards handed to them by the men below.  The carpenters 15’ up on this scaffold look tired, and more than one slippery board clatters to the cobble-stones of the court yard below.

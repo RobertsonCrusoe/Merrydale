@@ -1,3 +1,25 @@
+---
+title: "The Decisions of Iolus Warburton"
+slug: the-decisions-of-iolus-warburton
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Cormanthor"
+tags: []
+---
 ==Choices in Dreams==
 
 You have had very troubled dreams since you came out of the Shadowfell.  You are hoping that by confronting the Dark Garden, the villains that dogged you in that twisted realm and possibly had a hand in your terrible dreams, that you might get rid of some of the dreams.  Many are just replays of your experience in the Shadowfell and variations thereof.  However, recently you had one that was different.

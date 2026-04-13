@@ -1,3 +1,36 @@
+---
+title: "Selections from the Journal of Nathan Gale (II)"
+slug: selections-from-the-journal-of-nathan-gale-ii
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "12 Marpenoth 1481 DR"
+date_ic_sort: 1481287
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Darred"
+  - "Invictus"
+  - "Nathan Gale"
+  - "Shae"
+  - "Alystair Dretch"
+  - "Hennigan Paros"
+locations:
+  - "Charity"
+  - "Yellow Abbey"
+  - "Quick Axes"
+  - "Charity Hills Farm"
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 DDC – 1481 – 8: Selections for the Journal of Nathan Gale 
 12 Marpenoth, 1481 - Journal of Nathan Gale 
 From GFD: 

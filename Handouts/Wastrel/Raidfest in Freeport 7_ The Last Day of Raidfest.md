@@ -1,3 +1,25 @@
+---
+title: "Raidfest in Freeport 7_ The Last Day of Raidfest"
+slug: raidfest-in-freeport-7-the-last-day-of-raidfest
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Freeport"
+tags: []
+---
 As the sun begins to set and the full moon begins to rise the final celebration of Raidfest begins.
 
 The ceremony takes place on an eastern beach of Freeport’s island where a coral reef comes almost up to the shore. The waters here are shallow, usually too shallow for most of the boats that are gathered here, but the cleric of Umberlee makes sure that no ship is beached.

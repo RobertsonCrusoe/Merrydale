@@ -1,1 +1,8 @@
+---
+title: "Gundleus"
+slug: gundleus
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 Gundleus is the administrative assistant to Blaze Whitegate in the town of Dagger Falls.  He has an office in Morning Star Cathedral, and also keeps an office in The Tower.  He is a man of about 35 winters who is a devoted follower of Amaunator, and a capable bureaucrat.  He can be approached pretty much every daylight hour of the day, and is the means by which people can access Blaze and the other Whitegates.  Gundleus is a pleasant man, and a low ranking cleric in the Church.

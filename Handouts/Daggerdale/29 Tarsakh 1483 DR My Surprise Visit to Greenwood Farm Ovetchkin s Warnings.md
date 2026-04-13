@@ -1,3 +1,29 @@
+---
+title: "My Surprise Visit to Greenwood Farm Ovetchkin s Warnings"
+slug: my-surprise-visit-to-greenwood-farm-ovetchkin-s-warnings
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "29 Tarsakh 1483 DR"
+date_ic_sort: 1483120
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Thistle Ridge"
+  - "Greenwood Farm"
+  - "Cormanthor"
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 29 Tarsakh, 1483 DR – My Surprise Visit to Greenwood Farm & Ovetchkin's Warnings 
 I was reluctant to make the trip to Greenwood farm.  It is very busy in my shop before the Greengrass celebrations, and for the most part, I prefer the sights, sounds and safety of the town, but it had been a long time since I was out of doors, and the small caravan resupplying the Sunblades was happy to have a wizard in company, given all the dreadful things that have happened in the Dale the last couple of months. 
 

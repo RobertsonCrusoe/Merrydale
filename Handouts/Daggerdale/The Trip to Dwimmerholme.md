@@ -1,3 +1,28 @@
+---
+title: "The Trip to Dwimmerholme"
+slug: the-trip-to-dwimmerholme
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Cormanthor"
+  - "Dagger Falls"
+  - "Tesh Valley"
+tags:
+  - "military"
+---
 This is a narrative from the DM about the trip from Dagger Falls to Dwimmerholme, on the 6th of Marpenoth, 1481 DR
 
 800px|right

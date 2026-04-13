@@ -1,3 +1,26 @@
+---
+title: "Table Talk - Character Roles and Motivations"
+slug: table-talk-character-roles-and-motivations
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Huntmaster"
+locations:
+  - "Loudwater"
+tags: []
+---
 # **Noncombat:**
 
 * Malmotte:

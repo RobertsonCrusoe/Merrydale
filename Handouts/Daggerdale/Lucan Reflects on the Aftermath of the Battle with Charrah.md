@@ -1,3 +1,31 @@
+---
+title: "Lucan Reflects on the Aftermath of the Battle with Charrah"
+slug: lucan-reflects-on-the-aftermath-of-the-battle-with-charrah
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Lucan"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Charrah"
+  - "Masra"
+  - "Cassimar"
+  - "Embra"
+locations:
+  - "Thistle Ridge"
+  - "Dagger Falls"
+  - "Saerloon"
+tags: []
+---
 In the aftermath of the encounter, Lucan watches quietly as Jasper moves to recover Coventina’s remains. He instinctively clenches his loins as his mind replays the horrific scene—the girl’s body falling onto the cruciform blades, quartering before tumbling into the cages below. There is some mercy, he reflects, in the fact that no one else had witnessed what he had seen—especially not Jasper. That Shadovar witch had murdered Coventina with calculated cruelty. Despite Jasper being several years his senior, Lucan feels a surge of protectiveness toward his friend, mingled with a cold, crystallizing rage at the Shadovar for inflicting such a devastating blow.
 
 As he ruminates, a recovered Jesra flits over to his shoulder and throws her tiny arms around his neck. "Oh Stone Tree! The false-face daughter fell to your sharp-singing arrow!" She twirls in excitement, her glow pulsing erratically. "So brave! Like lightning. Strong-armed mortal mine!" She strokes his cheek with miniature fingers. "Poor flower-lady Coventina, thorns hidden beneath petals she had. Nasty thorns, yes? But maybe she didn’t know they were thorns at all! Not like sister-elf, who wears her sharp edges where all can see and admire!"

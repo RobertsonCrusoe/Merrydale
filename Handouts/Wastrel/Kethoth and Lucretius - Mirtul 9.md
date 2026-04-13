@@ -1,3 +1,28 @@
+---
+title: "Kethoth and Lucretius - Mirtul 9"
+slug: kethoth-and-lucretius-mirtul-9
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "kethoths-journal"
+order: ""
+characters: []
+locations:
+  - "Waterdeep"
+  - "Cormanthor"
+  - "Loudwater"
+tags:
+  - "military"
+---
 Luc and Kethoth sitting around the campfire while some sleep and Ender and Tyriol are off scouting the camp of the black armoured company ahead of them. Roughly one day's journey out from Spellgard.
 
 \"Well, my capable general...What do you make of our merry band so far? It seems we have done well enough as a team in our few tests so far.\"

@@ -1,3 +1,30 @@
+---
+title: "Abandon Hope All Ye Who Enter Here"
+slug: abandon-hope-all-ye-who-enter-here
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "20 Marpenoth 1481 DR"
+date_ic_sort: 1481295
+date_ooc: ""
+series: "abandon-hope"
+order: ""
+characters:
+  - "Phineas Hoetmer"
+locations:
+  - "Charity"
+  - "Yellow Abbey"
+  - "Waterdeep"
+  - "Dwimmerholme Farm"
+tags:
+  - "military"
+---
 DDC – 1481 – 11: Abandon Hope, All Ye Who Enter Here 
 The following are some key entries found in the large tome, Abandon Hope, All Ye Who Enter Here, discovered between Marpenoth 20 and 22, 1481 DR. Penned by Robert 
 Tuugaarth, 1097 DR Translated into the Chondathan by Phineas Hoetmer, 1454 DR 

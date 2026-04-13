@@ -1,3 +1,24 @@
+---
+title: "On the Road North from Arabel"
+slug: on-the-road-north-from-arabel
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: forum
+date_ic: ""
+date_ic_sort: ""
+date_ooc: "2011-01-26"
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 Source: GDN_Discussion + GDN_Comment
 DiscussionID: 8
 CategoryID: 6

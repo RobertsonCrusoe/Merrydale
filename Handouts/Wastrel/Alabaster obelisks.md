@@ -1,3 +1,27 @@
+---
+title: "Alabaster obelisks"
+slug: alabaster-obelisks
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Kethoth Sepret"
+  - "Kuryon"
+locations: []
+tags:
+  - "military"
+---
 # Source: The Sieges Perilous wiki (backup 2010-02-21)
 # Wiki page title: Alabaster obelisks
 # Extracted: 2026-04-08 via extract_wiki_xml.py

@@ -1,3 +1,24 @@
+---
+title: "GFD Timeline - The Ritual of Transcendence at Liberty Hill"
+slug: gfd-timeline-the-ritual-of-transcendence-at-liberty-hill
+type: lore
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "19 Mirtul 1480 DR"
+date_ic_sort: 1480141
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 Mirtul 19, 1480: New moon. I believe this is the date that the Ritual of Transcendence was completed, with the aid of the Slave Orbs, turning much of the town into the shadow slaves that were later fought at the Battle. At this point, the entire farm was under complete control of the cult of Shar, and the Dark Garden. Goering, now a shadow-kind and priestess of Shar, was the ruler of the town in its new hellish form, though Belladonna was the head of the cult in the region. All but pre-pubescent children were converted into shadow slaves. The children were kept in a barn, and were slated to be sold to the Bloody Eye, a slaving and bandit outfit that the Dark Garden had employed/manipulated for nearly a decade. This never happened, thankfully. 
 
 The 'transcendence' did not go smoothly. There was a resistance mounted against this ritual, and the entire town was thrown into a violent massacre of brother against brother. The terrible stories of this black day continue to be told by its survivors, and each new story brings a river of tears. 

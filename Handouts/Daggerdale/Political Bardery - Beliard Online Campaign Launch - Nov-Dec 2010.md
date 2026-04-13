@@ -1,3 +1,30 @@
+---
+title: "Political Bardery - Beliard Online Campaign Launch - Nov-Dec 2010"
+slug: political-bardery-beliard-online-campaign-launch-nov-dec-2010
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: "2026-04-06"
+series: ""
+order: ""
+characters:
+  - "Will"
+locations:
+  - "Sembia"
+  - "Castle Radiance"
+  - "Saerloon"
+  - "Cormanthor"
+  - "Dagger Falls"
+tags: []
+---
 SOURCE INFORMATION
 Thread Subject: Political bardery
 Date Range: 2 November 2010 – 27 December 2010

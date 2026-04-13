@@ -1,3 +1,39 @@
+---
+title: "From the Casebook of Lucan Alavandor - Profile of Aisling Maeliticus"
+slug: from-the-casebook-of-lucan-alavandor-profile-of-aisling-maeliticus
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Aisling Maeliticus"
+  - "Contessa Palus"
+  - "Abrecia"
+  - "Vessuvian"
+  - "Lucan Alavandor"
+  - "Claudius Clarandal"
+  - "Dorian Alavandor"
+  - "Invictus"
+  - "Saralla Sakurth"
+  - "Tergus Clarandal"
+  - "Calix"
+locations:
+  - "Thistle Ridge"
+  - "Castle Radiance"
+  - "Thistle Ridge Farm"
+  - "Yellow Abbey"
+tags: []
+---
 From the Casebook of Lucan Alavandor: Profile of Aisling Maeliticus
 Date: 23 April 2025
 From: Stephen Robertson (with Gus Miranda)

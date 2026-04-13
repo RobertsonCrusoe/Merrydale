@@ -1,3 +1,10 @@
+---
+title: "Jafar's Note to Thagdal"
+slug: jafar-s-note-to-thagdal
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 Thagdal,
 
 I am working towards eliminating Teskul. Both Esperel and Rychel are doing the leg work to investigate his abilities and location. Also, I have convinced them both that it is imperative to find Xulla ASAP. However, I intend to establish a dialogue with Dragon in the hopes of ... betray you for Company Ersgul.

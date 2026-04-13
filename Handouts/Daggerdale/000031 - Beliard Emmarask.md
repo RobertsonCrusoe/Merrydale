@@ -1,3 +1,30 @@
+---
+title: "Beliard Emmarask"
+slug: beliard-emmarask
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: forum
+date_ic: ""
+date_ic_sort: ""
+date_ooc: "2012-05-25"
+series: ""
+order: ""
+characters:
+  - "Beliard Emmarask"
+  - "John Tunbridge"
+locations:
+  - "Base Camp Silver"
+  - "Castle Radiance"
+  - "Tethyamar"
+  - "Tethyamar Hearth Inn"
+tags: []
+---
 Source: GDN_Discussion + GDN_Comment
 DiscussionID: 31
 CategoryID: 19

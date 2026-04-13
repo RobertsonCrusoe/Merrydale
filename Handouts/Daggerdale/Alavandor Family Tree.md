@@ -1,3 +1,33 @@
+---
+title: "Alavandor Family Tree"
+slug: alavandor-family-tree
+type: lore
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Abrecia"
+  - "Blaze Whitegate"
+  - "Daphne Dale"
+  - "Tergus Clarandal"
+  - "Xerces Alavaxi"
+locations:
+  - "Thistle Ridge"
+  - "Sembia"
+  - "Thistle Ridge Farm"
+  - "Yellow Abbey"
+tags: []
+---
 Alavandor Family Tree 
 This family tree was composed by Magistrate Blaze Whitegate with the help of Clerk Daphne Dale, in late 1440 DR. Submitted to the Yellow Abbey Archives in 1441 DR after the tragedy at Thistle Ridge Farm. 
 

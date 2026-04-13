@@ -1,3 +1,37 @@
+---
+title: "From the Casebooks of Lucan Alavandor"
+slug: from-the-casebooks-of-lucan-alavandor
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "7 Mirtul 1483 DR"
+date_ic_sort: 1483129
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Invictus"
+  - "Vessuvian"
+  - "Drake"
+  - "Drake Sterling"
+  - "Lucan Alavandor"
+  - "Phineas Hoetmer"
+  - "Tuugan Swift"
+  - "Lotus"
+locations:
+  - "Liberty Hill"
+  - "Charity"
+  - "Thistle Ridge"
+  - "Dagger Falls"
+  - "Dagger Hills"
+tags: []
+---
 From the Casebooks of Lucan Alavandor: The Slave Orbs and the Disappearance of Verinius
 
 7 Mirtul, 1483 DR

@@ -1,3 +1,28 @@
+---
+title: "Issilith Dalael"
+slug: issilith-dalael
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Fea Eltorchul"
+  - "Issilith Dalael"
+  - "Agamemnon"
+locations: []
+tags:
+  - "military"
+---
 thumb|Mark of Issilith Dalael
 
 Youngest brother to Quevin. Married to Fea Eltorchul.

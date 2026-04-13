@@ -1,12 +1,44 @@
 ---
-Provenance: OCR transcription of "Waterdeep 1 musings.pdf" (5 pages, typed)
-Source: DND Scanned Notes / OneDrive DND Scans
-Campaign: Daggerdale (Waterdeep arc — in-character letters and musings)
-Date processed: 2026-04-03
-Utility: B (in-character correspondence including apology letter about events/sword. Some content found in Campaign Summary files but specific letter format may be unique)
-
-Archive counterparts: Red Herrings - Chapter 4 - 1 - Return to Neverwinter - Dear Troublesome Travellers.txt, Barred from Leilon.txt (partial)
-OCR notes: Clean printed text. Minor artifacts.
+title: "Waterdeep 1 musings"
+slug: waterdeep-1-musings
+type: narrative
+campaign: daggerdale
+voice: ic
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Rubikawn"
+  - "Yarkul"
+  - "Xulla"
+  - "Zantiid"
+  - "Teskul"
+  - "Kionin"
+  - "Alek Lenter"
+  - "Jafar"
+  - "Kappiyan Flurmastyr"
+  - "Balkine Adard"
+  - "Belduran"
+  - "Corina"
+  - "Edgar Grimbold"
+  - "Garth Shanks"
+  - "Joldara Hunabar"
+  - "Kalindos"
+  - "Pelinder Filmarya"
+  - "Quellar Dalael"
+  - "Sal Worthingham"
+locations:
+  - "Waterdeep"
+tags:
+  - "military"
 ---
 
 , My apologies for the complicated and trying events of yesterday. All of our tempers were not held properly it in check, and | suspect this was mostly due to.

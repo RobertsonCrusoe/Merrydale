@@ -1,3 +1,28 @@
+---
+title: "Hennigan Paros"
+slug: hennigan-paros
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Hennigan Paros"
+  - "Dolebrund"
+locations:
+  - "Loudwater"
+tags:
+  - "military"
+---
 [PC Attribution: Hennigan Paros (Jeff)]
 thumb|right|300px
 

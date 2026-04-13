@@ -1,3 +1,31 @@
+---
+title: "DND Emails - Player and DM Correspondence"
+slug: dnd-emails-player-and-dm-correspondence
+type: session
+campaign: daggerdale
+voice: ooc
+status: unprocessed
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Jafar"
+  - "Beljuril"
+  - "Dolebrund"
+  - "Ebola"
+  - "Whiplass"
+locations:
+  - "Waterdeep"
+tags: []
+---
 DND EMAILS
 FROM TODD;
 Here are some things I would like to refresh my memory.

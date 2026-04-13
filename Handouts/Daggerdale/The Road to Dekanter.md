@@ -1,3 +1,52 @@
+---
+title: "The Road to Dekanter"
+slug: the-road-to-dekanter
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Boregar"
+  - "Razor"
+  - "Corrina"
+  - "Grimwald"
+  - "Curlclaw"
+  - "Thezul"
+  - "Zelbross"
+  - "Azmund"
+  - "Gond Pistola"
+  - "Stoneman"
+  - "Agilos Voun"
+  - "Cauldrawn"
+  - "Ned Griffin"
+  - "Ordilar"
+  - "Warburden"
+  - "Archibald Suresmith"
+  - "Corina"
+  - "Duncan Eldoun"
+  - "Durnax Vorn"
+  - "Garrik Shining"
+locations:
+  - "Loudwater"
+  - "Dagger Falls"
+  - "Sembia"
+  - "Secomber"
+  - "Hillsfar"
+  - "Shadowdale"
+  - "Waterdeep"
+tags:
+  - "military"
+---
 == 6 Mirtul - Parting of the Ways and an Omen==
 
 The incredible tale of the Daggerdale expedition becomes its own tale begins on 6 Mirtul, 1372, when the heroes of this story take leave of their comrades in the Neverwinter Expedition, and set out from Roarke’s Tavern on the Long Road north and east towards Rassalantar. Maturin, Raven, Sparrow, Hanibal and Corina plan to follow the road as far as Loudwater and Llorkh, then on through Anauroch to Daggerdale. The members of the Daggerdale Expedition are mostly known to each other, having travelled together the year before on an even longer journey from the Moonsea settlement of Elmwood. They have agreed to accompany the Harper agents Raven and Boregar on their quest to address the Zhent threat in Dagger Falls.

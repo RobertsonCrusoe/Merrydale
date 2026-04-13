@@ -1,3 +1,10 @@
+---
+title: "East Gate"
+slug: east-gate
+type: stub
+campaign: daggerdale
+subtype: npc
+---
 right|450px
 
 Rediscovered in 1480 by the White Cloaks, this gate is found in the depths of Gorimdun Mine.  The original passage and entrance to the surface remains unfound.  It is clear that in the 14th century, the Zhentarim tunnelled through to huge hall containing this gate.

@@ -1,3 +1,28 @@
+---
+title: "Darius Winters"
+slug: darius-winters
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Renfrew"
+locations:
+  - "Cormanthor"
+  - "Dwimmerholme Farm"
+tags:
+  - "military"
+---
 Mayor of Dwimmerholme Farm after his election in the winter of 1480 DR.  He was formerly a Sun Blade with the rank of Captain in the 4th Company.  He is retired and pursuing an unlikely political career in the small village at Dwimmerholme.
 
 ==Excerpt from Abandon Hope, All Ye Who Enter Here==

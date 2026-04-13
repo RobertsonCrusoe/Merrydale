@@ -1,3 +1,24 @@
+---
+title: "Keep on the Shadowfell_ Preamble"
+slug: keep-on-the-shadowfell-preamble
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 ==A Start in Gmail==
 
 From Gussy;

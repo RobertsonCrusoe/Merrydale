@@ -1,3 +1,30 @@
+---
+title: "Curious Notes"
+slug: curious-notes
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Xulla"
+  - "Esperel"
+  - "Jafar"
+  - "Teskul"
+  - "Zantiid"
+locations: []
+tags:
+  - "military"
+---
 Lost in the charred wreckage of the Irlingstar Villa.
 
 == A Curious Note ==

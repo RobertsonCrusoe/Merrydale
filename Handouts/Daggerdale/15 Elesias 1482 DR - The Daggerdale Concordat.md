@@ -1,3 +1,33 @@
+---
+title: "15 Elesias 1482 DR - The Daggerdale Concordat"
+slug: 15-elesias-1482-dr-the-daggerdale-concordat
+type: lore
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1482 DR"
+date_ic_sort: 1482001
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Dolebrund"
+  - "Kesh"
+  - "Kesh Oakdale"
+locations:
+  - "Tethyamar"
+  - "Cormanthor"
+  - "Dagger Falls"
+  - "Castle Radiance"
+  - "Charity"
+  - "Dwimmerholme Farm"
+tags: []
+---
 DDC – 1482 – 10: Excerpts from The Daggerdale Concordat, 1482 DR. 
 The decree crafted and agreed upon at the Governors' Assembly of Elesias, 1482, wherein the current political entity of Daggerdale was established. 
 GFD Notes: 

@@ -1,3 +1,29 @@
+---
+title: "The Contest Concludes - Chrysalis is Named the Victor (Brother Vessuvian)"
+slug: the-contest-concludes-chrysalis-is-named-the-victor-brother-vessuvian
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "30 Ches 1483 DR"
+date_ic_sort: 1483091
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Vessuvian"
+  - "Ambassador Whitmore"
+locations:
+  - "Thistle Ridge"
+  - "Charity"
+tags:
+  - "military"
+---
 30 Ches 1483 — Journal of Brother Vessuvian, Candlekeep Emissary attaché to The Yellow Abbeye of Daggerfalls
 
 The Contest Concludes — Chrysalis is Named the Victor, and Given Charter

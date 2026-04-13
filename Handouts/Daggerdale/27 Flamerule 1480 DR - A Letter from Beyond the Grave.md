@@ -1,3 +1,26 @@
+---
+title: "A Letter from Beyond the Grave"
+slug: a-letter-from-beyond-the-grave
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Beyond"
+source: handout
+date_ic: "27 Flamerule 1480 DR"
+date_ic_sort: 1480209
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Phineas Hoetmer"
+  - "Roger Dunland"
+locations: []
+tags: []
+---
 This note was found tucked into a book that was delivered to Roger Dunland by Magistrate Phineas Hoetmer.  The book was delivered in a package on the 30th of Flamerule, 1480 DR.
 
 Master Dunland;

@@ -1,3 +1,36 @@
+---
+title: "1479 DR - Part 5 - Amalgamation - The White Cloaks in the Autumn"
+slug: 1479-dr-part-5-amalgamation-the-white-cloaks-in-the-autumn
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1479 DR"
+date_ic_sort: 1479001
+date_ooc: ""
+series: ""
+order: 50
+characters:
+  - "Rhuun"
+  - "Sorashana"
+  - "Alystair Dretch"
+  - "Argent Whitegate"
+  - "Banitt Harbaugh"
+  - "Drake"
+  - "Drake Sterling"
+  - "Iolus Warburton"
+  - "Tuugan Swift"
+  - "Troia Trustar"
+locations:
+  - "Castle Radiance"
+tags:
+  - "military"
+---
 450px|left
 
 By the end of Marpenoth, 1479, Lumina had her hands full.  Still trapped in her own memories and dreams part of the time, she was unable to meet some of the demands that were being made of her from those both above and below her.

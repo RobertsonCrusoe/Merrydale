@@ -1,3 +1,26 @@
+---
+title: "Volund Heimdall"
+slug: volund-heimdall
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Bogrun"
+  - "Ghedorh Furrowford"
+locations: []
+tags: []
+---
 Volund was son to Hod and Gita Heimdall of the High Forest. Hod was a woodcutter who lived in a homestead with his two brothers and their wives and children. It was a simple but happy life for the Heimdall clan and Volund; although put to work early as a child, still had a happy if austere childhood.
 
 Volund grew up in fear of a gathering of druids called The Cerulean Circle. The Cerulean Circle kept a close eye on the Heimdall Clan and routinely reinforced the need to respect the forest and ensure their lumbering was not harming the forest. Although aggressive and merciless at times, The Cerulean Circle was not entirely resistant to reason. The Heimdall’s managed to eke out an existence in the High Forest and with their homestead half a day north of the Dire Wood, when the men felt brave from time to time, they would venture into the dark, foreboding forest and cut wood there, free of the influence of the Cerulean Circle.

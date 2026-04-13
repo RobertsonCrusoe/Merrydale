@@ -1,3 +1,29 @@
+---
+title: "Iolus Warburton"
+slug: iolus-warburton
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Randal Morn"
+  - "Yarkul"
+  - "Iolus Warburton"
+locations:
+  - "Dagger Falls"
+  - "Cormanthor"
+tags: []
+---
 == History ==
 
 The Warburton name in Daggerdale is long and storied. It is told below.

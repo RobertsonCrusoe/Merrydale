@@ -1,3 +1,31 @@
+---
+title: "House Horgath, circa 1372"
+slug: house-horgath-circa-1372
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: wiki
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Anya Pellervoinen"
+  - "Marjatta Horgath"
+  - "Matteo Horgath"
+  - "Maturin Horgath"
+  - "Samovar Horgath"
+  - "Sampsa Pellervoinen"
+  - "William Horgath"
+locations: []
+tags: []
+---
 Category:Genealogies
 <div class=\"Section1\">
 

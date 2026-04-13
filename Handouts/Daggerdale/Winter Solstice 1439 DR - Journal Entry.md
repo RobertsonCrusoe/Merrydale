@@ -1,3 +1,32 @@
+---
+title: "Winter Solstice 1439 DR - Journal Entry"
+slug: winter-solstice-1439-dr-journal-entry
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "1439 DR"
+date_ic_sort: 1439001
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Invictus"
+  - "Tergus Clarandal"
+  - "Daphne Dale"
+  - "Lilac Alavandor"
+  - "Poppy Sweetberry"
+locations:
+  - "Thistle Ridge"
+  - "Dagger Falls"
+tags:
+  - "military"
+---
 From the Journal of Tergus Clarandal, recovered at Clarandal Farm 1483 by Company Chrysalis
 
 [Source: Partial Journal of Tergus Clarandal.docx, uploaded 2026-04-09]

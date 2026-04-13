@@ -1,3 +1,25 @@
+---
+title: "Confession - Clarandal Photos from Hudson"
+slug: confession-clarandal-photos-from-hudson
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Thistle Ridge"
+tags: []
+---
 Confession — Clarandal Photos from Hudson
 Stephen Robertson and Les Blackwell (DM)
 Email thread: "Confession", 11 Jun 2025

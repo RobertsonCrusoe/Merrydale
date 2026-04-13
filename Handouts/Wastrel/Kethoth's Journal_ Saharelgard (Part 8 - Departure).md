@@ -1,3 +1,37 @@
+---
+title: "Kethoth's Journal_ Saharelgard (Part 8 - Departure)"
+slug: kethoth-s-journal-saharelgard-part-8-departure
+type: narrative
+campaign: wastrel
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Kethoth"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: "kethoths-journal"
+order: 80
+characters:
+  - "Allendy"
+  - "Ailyan"
+  - "Arkos Thunderstaff"
+  - "Boregar"
+  - "Gaebril Tremalkin"
+  - "Janus"
+  - "Maturin Horgath"
+  - "Chara"
+  - "Ghedorh Furrowford"
+  - "Kethoth Sepret"
+  - "Kossur"
+locations:
+  - "Loudwater"
+tags:
+  - "military"
+---
 [PC Attribution: Chadrazzan Kossur (Les Blackwell)]
 At length, we found ourselves back in the taproom. We were exhausted and in a very bloody and soaking unpresentable state, but the residents and guests of the Inn gathered around us for stories. I withdrew from the crowd to watch it from a distance. I sat at the bar, talking with Allendy, who would now share some of his time, short on this plane though it is, with this devil. I presented him with a book of alchemical recipes that I had plundered from the Mercykillers’ camp. I really have no use for alchemy and the scheming and dirty fingernails that seem to accompany those who practice this crude branch of magic. Allendy seemed quite grateful, however, and offered an open welcome to me here, whenever and how often I wish. I also managed to learn from him that they had seen my mouth-watering Shadovar flesh-slave head west. No surprise there, really.
 

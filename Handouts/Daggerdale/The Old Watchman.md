@@ -1,3 +1,24 @@
+---
+title: "The Old Watchman"
+slug: the-old-watchman
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 A character that didn't get as much play as he should have. 
 
 Gussy says:  actually, this character was never played.  Never even rolled up.  At least not in any definite way.  The obvious problem was: how do you make an old veteran character with 0 experience using the D&D rules?  See Zeke for the answer.

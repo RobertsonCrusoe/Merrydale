@@ -1,3 +1,26 @@
+---
+title: "Loot from Thistle Ridge Tower Dungeon - Distribution Discussion - Jan 2025"
+slug: loot-from-thistle-ridge-tower-dungeon-distribution-discussion-jan-2025
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Dagger Falls"
+  - "Thistle Ridge"
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

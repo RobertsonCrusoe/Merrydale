@@ -1,3 +1,29 @@
+---
+title: "Discussion with Jenwendle of Hillsfar"
+slug: discussion-with-jenwendle-of-hillsfar
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "13 Tarsakh 1483 DR"
+date_ic_sort: 1483104
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Charrah"
+  - "Phoebe Birchgrove"
+locations:
+  - "Hillsfar"
+  - "Thistle Ridge"
+tags:
+  - "military"
+---
 [Source: extracted from the now-retired Jendwendle_and_Tower_Loot.txt session-notes fragment and from compilation file "12 Tarsakh 1483 DR -Thistle Ridge Expeditionary Record Phoebe Birchgrove Sg.txt"; both retired 2026-04-09 as part of compilation cleanup. The dialogue passages in this standalone use cleaner punctuation (proper apostrophes, em-dashes, ellipses, smart quotes) than the source files retained.]
 
 13 Tarsakh, 1483 DR – Discussion with Jenwendle of Hillsfar

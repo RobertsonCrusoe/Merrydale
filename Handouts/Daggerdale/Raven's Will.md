@@ -1,3 +1,28 @@
+---
+title: "Raven's Will"
+slug: raven-s-will
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Surakh Raventree"
+  - "Will"
+  - "Ratbiter"
+locations:
+  - "Waterdeep"
+tags: []
+---
 |...being the Last Will and Testament of Mourn Raventree, enacted in sorrow in 1372 DR.
 
 I, Mourn Raventree, the Second of that name, Noble of the City of Waterdeep, being of sound mind and body, hereby set down the details of my Last Will and Testament.

@@ -1,3 +1,25 @@
+---
+title: "Jeska and Lucan - The Enchanted Hauberk - Jul 2024"
+slug: jeska-and-lucan-the-enchanted-hauberk-jul-2024
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: stephen
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Will"
+locations: []
+tags: []
+---
 ===============================================================================
 SOURCE INFORMATION
 ===============================================================================

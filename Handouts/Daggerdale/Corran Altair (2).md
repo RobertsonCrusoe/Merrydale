@@ -1,3 +1,27 @@
+---
+title: "Corran Altair (2)"
+slug: corran-altair-2
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations:
+  - "Dagger Falls"
+  - "Castle Radiance"
+tags:
+  - "military"
+---
 # Corran Altair
 # Source: The Sieges Perilous wiki (backup dated 2010-02-21)
 

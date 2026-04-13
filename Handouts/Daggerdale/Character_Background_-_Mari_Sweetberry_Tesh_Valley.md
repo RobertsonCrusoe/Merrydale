@@ -1,3 +1,41 @@
+---
+title: "Character_Background_-_Mari_Sweetberry_Tesh_Valley"
+slug: character-background-mari-sweetberry-tesh-valley
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Lucan Alavandor"
+  - "Mari Thickwickle"
+  - "Decker Blackmane"
+  - "Gilly Weatherbee"
+  - "Otho Sweetberry"
+  - "Poppy Sweetberry"
+  - "Reynard"
+  - "Kossur"
+locations:
+  - "Tesh Valley"
+  - "Thistle Ridge"
+  - "Tethyamar"
+  - "Saerloon"
+  - "Dagger Falls"
+  - "East Gate"
+  - "Crossed Blades Farm"
+  - "Shadowdale"
+  - "Yellow Abbey"
+tags: []
+---
 Mari Sweetberry 
 Here is some information on some halfling families in a fortified farm town called Tesh Valley. 
 

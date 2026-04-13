@@ -1,3 +1,24 @@
+---
+title: "Zephyr Reflects"
+slug: zephyr-reflects
+type: poetry
+campaign: daggerdale
+voice: ic
+status: raw
+tier: public
+author: les
+curator: ""
+pov: "Zephyr"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters: []
+locations: []
+tags: []
+---
 The world is a foul and festering oubliette.
 
 Shrieks of the damned and wailing unwanted claw at what last vestiges of daylight and sanity remain.

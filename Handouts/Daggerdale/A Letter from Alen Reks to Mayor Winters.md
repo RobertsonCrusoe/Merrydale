@@ -1,3 +1,28 @@
+---
+title: "A Letter from Alen Reks to Mayor Winters"
+slug: a-letter-from-alen-reks-to-mayor-winters
+type: correspondence
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: "Alen Reks"
+source: handout
+date_ic: ""
+date_ic_sort: ""
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Alen Reks"
+  - "Darius Winters"
+  - "Hennigan Paros"
+locations: []
+tags:
+  - "military"
+---
 A letter sent from Alen Reks to Mayor Darius Winters, on the 5th of Marpenoth, 1481 DR.  Delivered, unopened, by Sgt. Hennigan Paros.
 
 To whom it may concern;

@@ -52,10 +52,8 @@ Exhumed and amputated by Bishop Malvoy
 The hand is a black and shriveled thing, as one would well expect from a 2000 year old carcass.  Though foul to look upon, it gives off a pleasant aroma that has defies a consistent description; it has been likened to the smell of roses, the smell of fresh baked bread, crushed ginger, venison gravy, and many other things besides.  The Author has not smelled this Artifact.
 
 St. Serra was a Knight of the Order of Ulric who fought in the wars against Brogard the Cruel.  She was slain outside Dunstanmoore in
-450.  She was interred in the church
-s cemetery for heroes later in the year with all due honour.  In
-388, Bishop Malvoy of St. Ulric
-s Dunstanmoore claimed to have spoken to her in his dreams on 3 consecutive nights.  On the third morning, he had her exhumed, and it was noted that she had not decayed over the course of her 62 years of interment.  In fact, the odour from her casket was pleasing to all who bore witness.  Malvoy struck her hand from the rest of her body.  It was then taken into the church and displayed with various other Saints and Heroes for some time.
+450.  She was interred in the church's cemetery for heroes later in the year with all due honour.  In
+388, Bishop Malvoy of St. Ulric's Dunstanmoore claimed to have spoken to her in his dreams on 3 consecutive nights.  On the third morning, he had her exhumed, and it was noted that she had not decayed over the course of her 62 years of interment.  In fact, the odour from her casket was pleasing to all who bore witness.  Malvoy struck her hand from the rest of her body.  It was then taken into the church and displayed with various other Saints and Heroes for some time.
 
 The hand has been used to cure all sorts of ailments throughout the years.  It is not capable of healing severe wounds, but is known to cure many diseases and their symptoms.  Mention of the Hand of Saint Serra comes often in all sorts of History books, both secular and otherwise.
 
@@ -86,8 +84,7 @@ x 5
 , by 3/8
 thick.  There is a hole in the top of it, through which a leather cord has been fastened so that it may be worn as a necklace.  There is a crude by stylized engraving of a wolf paw track in the middle of the badge.
 
-This trinket was uncovered in the Estate of one Wolf Eastwitch, in 1650.  It was found in a wooden tube along with a rough sketch of a rustic looking woman who bears a badge such as this one.  It has always been called a badge, as the woman in the sketch is reported as having the bearing of authority.  Unfortunately, the sketch has been lost to time.  The Eastwitch family of Waldheim is known to have a vast estate in a distant village which bears their name.  The badge may have been manufactured by the rustic people of that distant place.  The badge was sold to Lord
-s University Researcher Jacob Woolson in 1749.
+This trinket was uncovered in the Estate of one Wolf Eastwitch, in 1650.  It was found in a wooden tube along with a rough sketch of a rustic looking woman who bears a badge such as this one.  It has always been called a badge, as the woman in the sketch is reported as having the bearing of authority.  Unfortunately, the sketch has been lost to time.  The Eastwitch family of Waldheim is known to have a vast estate in a distant village which bears their name.  The badge may have been manufactured by the rustic people of that distant place.  The badge was sold to Lord's University Researcher Jacob Woolson in 1749.
 The Badge is known to generate a magical field around the wearer, offering slight protection from nearly all forms of attack.  Dr. Woolson had the Badge thoroughly investigated by the College of the Arcane at the University, and they confirm that the Badge offers
 very slight
 protection for the wearer, but that it had some properties that they could not identify.

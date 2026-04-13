@@ -1,3 +1,31 @@
+---
+title: "From the Journal of Beliard Emmarask"
+slug: from-the-journal-of-beliard-emmarask
+type: narrative
+campaign: daggerdale
+voice: ic
+status: raw
+tier: table
+author: les
+curator: ""
+pov: omniscient
+source: handout
+date_ic: "8 Flamerule 1480 DR"
+date_ic_sort: 1480190
+date_ooc: ""
+series: ""
+order: ""
+characters:
+  - "Beliard Emmarask"
+  - "Reynard"
+  - "Will"
+locations:
+  - "Castle Radiance"
+  - "Dagger Falls"
+  - "Quick Axes"
+tags:
+  - "military"
+---
 From the Journal of Beliard Emmarask — 8-10 Flamerule 1480 DR
 Source: From the journal of Beliard Emmarask.docx, from DND/ root folder (dated Jan 2011)
 Beliard's journal entries covering his arrival in Dagger Falls and the journey to Castle Radiance. He contracts with Sun Blades Lt. Marshall, observes the aftermath of the Winter War, encounters a group of elves, and travels by wagon train with Tyrian and Carpathia.

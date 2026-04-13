@@ -1,3 +1,29 @@
+---
+title: "Party Composition - Abandon Hope_ Charity"
+slug: party-composition-abandon-hope-charity
+type: meta
+campaign: daggerdale
+voice: ooc
+status: raw
+tier: editor
+author: les
+curator: ""
+pov: omniscient
+source: forum
+date_ic: ""
+date_ic_sort: ""
+date_ooc: "2012-04-21"
+series: "abandon-hope"
+order: ""
+characters:
+  - "Drake"
+  - "Arkadios Solaris"
+locations:
+  - "Castle Radiance"
+  - "Dagger Falls"
+  - "Charity"
+tags: []
+---
 Source: GDN_Discussion + GDN_Comment
 DiscussionID: 28
 CategoryID: 15
