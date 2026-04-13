@@ -1,9 +1,32 @@
-<!DOCTYPE html><html lang="en" data-astro-cid-j7pv25f6> <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Daggerdale Campaign Archive</title><!-- Preconnect to Google Fonts origin --><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><!-- Preload the font CSS so the browser fetches it before render --><link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=IM+Fell+English+SC&display=swap"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=IM+Fell+English+SC&display=swap"><style>
+<!DOCTYPE html><html lang="en" data-astro-cid-j7pv25f6> <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Daggerdale Campaign Archive</title><!-- Preconnect to Google Fonts origin --><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><!-- IM Fell English SC for display headings only --><link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap"><style>
 /* ==========================================================================
    Daggerdale Campaign Archive — Global Stylesheet
    Structure: Tufte CSS (sidenotes, margin notes, wide reading column)
    Visual: Sun Blades aesthetic (parchment, Crimson Text, IM Fell English SC)
    ========================================================================== */
+
+/* --- ET Book (Tufte's body font) --- */
+@font-face {
+    font-family: "et-book";
+    src: url("https://edwardtufte.github.io/tufte-css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "et-book";
+    src: url("https://edwardtufte.github.io/tufte-css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff") format("woff");
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: "et-book";
+    src: url("https://edwardtufte.github.io/tufte-css/et-book/et-book-bold-line-figures/et-book-bold-line-figures.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
 
 /* --- Design Tokens --- */
 :root {
@@ -17,8 +40,9 @@
     --accent-border: #8b4513;
     --accent-border-light: #c9a96e;
     --accent-link: #3a5a7c;
+    --accent-dagger: #4a1e08;
 
-    --font-body: 'Crimson Text', 'Palatino Linotype', 'Book Antiqua', Palatino, Georgia, serif;
+    --font-body: 'et-book', 'Palatino Linotype', 'Book Antiqua', Palatino, Georgia, serif;
     --font-display: 'IM Fell English SC', 'Palatino Linotype', serif;
 
     /* Tufte-derived layout widths */
@@ -151,31 +175,20 @@ hr {
     position: relative;
 }
 
-.sidenote-number {
-    counter-increment: sidenote-counter;
-}
-
-.sidenote-number::after,
-.sidenote::before {
-    font-size: 0.75em;
-    position: relative;
-    vertical-align: baseline;
-}
-
 .sidenote-number::after {
-    content: counter(sidenote-counter);
-    top: -0.4em;
+    content: '‡';
+    font-size: 0.8em;
+    position: relative;
+    top: -0.35em;
     left: 0.05em;
-    color: var(--accent-border);
+    color: var(--accent-dagger);
 }
 
 .sidenote::before {
-    content: counter(sidenote-counter) " ";
-    top: -0.4em;
-    color: var(--accent-border);
+    content: '‡ ';
+    font-size: 0.8em;
+    color: var(--accent-dagger);
 }
-
-article { counter-reset: sidenote-counter; }
 
 .marginnote img,
 .margin-figure {
@@ -329,7 +342,7 @@ footer {
         display: block;
         width: 100%;
         max-width: 100%;
-        margin: 0.6em 0 0.6em 1.2em;
+        margin: 0.6em 0 0.6em 0;
         padding: 0.5em 0.8em;
         background-color: var(--bg-inset);
         border-left: 3px solid var(--accent-border-light);
