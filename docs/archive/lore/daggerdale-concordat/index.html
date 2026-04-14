@@ -314,6 +314,125 @@ footer {
     color: var(--text-secondary);
 }
 
+/* --- Persistent Home Button (top-left) --- */
+.home-btn {
+    position: fixed;
+    top: 1rem;
+    left: 1rem;
+    z-index: 100;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4em;
+    padding: 0.4em 0.8em 0.4em 0.6em;
+    background-color: rgba(244, 234, 213, 0.85);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    border: 1px solid var(--accent-border-light);
+    border-radius: 3px;
+    font-family: var(--font-display);
+    font-size: 0.82rem;
+    color: var(--text-heading);
+    text-decoration: none;
+    letter-spacing: 0.04em;
+    transition: background-color 0.15s ease, border-color 0.15s ease;
+}
+.home-btn:hover {
+    background-color: var(--bg-parchment);
+    border-color: var(--accent-border);
+    text-decoration: none;
+}
+.home-btn::before {
+    content: '';
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    background: url('data:image/png;base64,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') no-repeat center / contain;
+    vertical-align: baseline;
+    position: relative;
+    top: 1px;
+}
+
+/* --- Return-to-Top Button (bottom-right) --- */
+.to-top-btn {
+    position: fixed;
+    bottom: 1.5rem;
+    right: 1.5rem;
+    z-index: 100;
+    width: 2.4rem;
+    height: 2.4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(244, 234, 213, 0.9);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    border: 1px solid var(--accent-border-light);
+    border-radius: 50%;
+    color: var(--text-heading);
+    font-size: 1.1rem;
+    line-height: 1;
+    text-decoration: none;
+    cursor: pointer;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.25s ease, background-color 0.15s ease, border-color 0.15s ease;
+}
+.to-top-btn.visible {
+    opacity: 1;
+    pointer-events: auto;
+}
+.to-top-btn:hover {
+    background-color: var(--bg-parchment);
+    border-color: var(--accent-border);
+    text-decoration: none;
+}
+
+/* --- Table of Contents --- */
+.toc {
+    width: var(--content-width);
+    max-width: 95vw;
+    margin: 2em 0 2.5em;
+    padding: 1em 1.2em;
+    background-color: var(--bg-inset);
+    border-left: 3px solid var(--accent-border-light);
+    font-size: 0.92em;
+}
+.toc-label {
+    font-family: var(--font-display);
+    font-size: 0.9em;
+    letter-spacing: 0.08em;
+    color: var(--text-heading);
+    margin: 0 0 0.5em 0;
+    text-transform: uppercase;
+}
+.toc ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.toc li {
+    padding: 0.18em 0;
+    line-height: 1.4;
+}
+.toc li.toc-h3 {
+    padding-left: 1.2em;
+    font-size: 0.94em;
+    color: var(--text-secondary);
+}
+.toc a {
+    color: var(--text-body);
+    text-decoration: none;
+    border-bottom: 1px dotted transparent;
+}
+.toc a:hover {
+    border-bottom-color: var(--accent-border);
+}
+
+/* Offset anchor scroll so fixed home button doesn't obscure headings */
+article h2[id], article h3[id] {
+    scroll-margin-top: 3.5rem;
+}
+
 /* --- Responsive: sidenotes flow inline on narrow screens --- */
 @media (max-width: 900px) {
     article {
@@ -371,7 +490,7 @@ footer {
     }
     a { color: black; }
 }
-</style></head> <body> <article> <div class="document-meta"> <h1>The Daggerdale Concordat</h1> <p class="subtitle">Excerpts from the Concordat of Elesias, 1482 DR</p> <p class="doc-date">15 Eleasias 1482 DR</p>  </div>  <h2 id="i-preamble--superseding-rights">I. Preamble &#x26; Superseding Rights</h2>
+</style></head> <body> <a class="home-btn" href="../../../index.html" aria-label="Merrydale home">Merrydale</a> <article> <div class="document-meta"> <h1>The Daggerdale Concordat</h1> <p class="subtitle">Excerpts from the Concordat of Elesias, 1482 DR</p> <p class="doc-date">15 Eleasias 1482 DR</p>  </div> <nav class="toc" aria-label="Table of contents"> <p class="toc-label">Contents</p> <ul> <li class="toc-h2"> <a href="#i-preamble--superseding-rights">I. Preamble &amp; Superseding Rights</a> </li><li class="toc-h2"> <a href="#ii-signatories">II. Signatories</a> </li><li class="toc-h3"> <a href="#voting-signatories">Voting Signatories</a> </li><li class="toc-h3"> <a href="#non-voting-signatories">Non-Voting Signatories</a> </li><li class="toc-h2"> <a href="#iii-consul-of-the-governors-assembly">III. Consul of the Governors’ Assembly</a> </li><li class="toc-h2"> <a href="#iv-provisions-for-the-common-defence">IV. Provisions for the Common Defence</a> </li><li class="toc-h3"> <a href="#i-the-sun-blades">i. The Sun Blades</a> </li><li class="toc-h3"> <a href="#ii-order-of-the-lambent-shield--other-holy-orders">ii. Order of the Lambent Shield &amp; Other Holy Orders</a> </li><li class="toc-h3"> <a href="#iii-the-free-companies">iii. The Free Companies</a> </li><li class="toc-h3"> <a href="#iv-the-militia">iv. The Militia</a> </li><li class="toc-h2"> <a href="#v-religious-pluralism">V. Religious Pluralism</a> </li><li class="toc-h3"> <a href="#approbata-deorum">Approbata Deorum</a> </li><li class="toc-h3"> <a href="#reprobata-deorum">Reprobata Deorum</a> </li> </ul> </nav>  <h2 id="i-preamble--superseding-rights">I. Preamble &#x26; Superseding Rights</h2>
 <p>In any matters addressed by and prescribed for in this Concordat, The Concordat shall be held to be the governing document, superseding any provision in other agreements of any variety, on those specific matters. The Concordat is not a prescription for how the Signatories and their people are to carry out their daily lives, but rather, what obligations and limit to obligations they owe to each other. In all respects save Religious Pluralism, the Concordat neither prescribes nor proscribes specific behaviours.</p>
 <h2 id="ii-signatories">II. Signatories</h2>
 <p>As of 15 Elesias, 1482 DR.</p>
@@ -677,4 +796,20 @@ Cost per share: 4,839 gp/year</p>
 <li>All such dwarven deities as disapproved by the Ambassador from Tethyamar</li>
 <li>The gods of men and their exarchs including: Shar,<span class="sidenote-number"></span> Bane, Lolth, Ghaunadaur, Asmodeus, Cyric, and Gruumsh<span class="sidenote">Shar is removable only by unanimous vote of the Voting Signatories.</span></li>
 </ul>
-<p>With respect to all other gods and exarchs, the Voting Signatories grant the ecumenical authorities of the Dale the right to bring forth such gods and exarchs for consideration, whether for the Approbata Deorum or Reprobata Deorum, from time to time.</p>  <footer> <p><a href="../../">Daggerdale Campaign Archive</a></p> </footer> </article> </body></html>
+<p>With respect to all other gods and exarchs, the Voting Signatories grant the ecumenical authorities of the Dale the right to bring forth such gods and exarchs for consideration, whether for the Approbata Deorum or Reprobata Deorum, from time to time.</p>  <footer> <p><a href="../../">Daggerdale Campaign Archive</a></p> </footer> </article> <a href="#top" class="to-top-btn" id="to-top-btn" aria-label="Return to top">↑</a> <script>
+        (function () {
+            const btn = document.getElementById('to-top-btn');
+            if (!btn) return;
+            const threshold = 400;
+            const onScroll = () => {
+                if (window.scrollY > threshold) btn.classList.add('visible');
+                else btn.classList.remove('visible');
+            };
+            window.addEventListener('scroll', onScroll, { passive: true });
+            btn.addEventListener('click', (e) => {
+                e.preventDefault();
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            });
+            onScroll();
+        })();
+    </script> </body> </html>
