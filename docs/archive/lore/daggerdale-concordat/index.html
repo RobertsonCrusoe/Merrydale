@@ -773,14 +773,14 @@ Cost per share: 4,839 gp/year</p>
 <ul>
 <li>All such elven deities as approved by the Ambassador from Myth Drannor</li>
 <li>All such dwarven deities as approved by the Ambassador from Tethyamar</li>
-<li>The gods of men and their exarchs including: <span class="theonym">Amaunator</span><span class="sidenote-number"></span><span class="sidenote"><span class="theonym">Amaunator</span> and <span class="theonym">Chauntea</span> are removable only by unanimous vote of the Voting Signatories.</span>, <span class="theonym">Chauntea</span><span class="sidenote-number"></span>, <span class="theonym">Torm</span>, <span class="theonym">Ilmater</span>, <span class="theonym">Mielikki</span>, <span class="theonym">Waukeen</span>, <span class="theonym">Selûne</span>, <span class="theonym">Sune</span>, <span class="theonym">Tymora</span>, <span class="theonym">Oghma</span>, <span class="theonym">Gond</span>, and <span class="theonym">Tempus</span></li>
+<li>The gods of men and their exarchs including: <span class="theonym">Amaunator</span><span class="sidenote-number"></span>,<span class="sidenote"><span class="theonym">Amaunator</span> and <span class="theonym">Chauntea</span> are removable only by unanimous vote of the Voting Signatories.</span> <span class="theonym">Chauntea</span><span class="sidenote-number"></span>, <span class="theonym">Torm</span>, <span class="theonym">Ilmater</span>, <span class="theonym">Mielikki</span>, <span class="theonym">Waukeen</span>, <span class="theonym">Selûne</span>, <span class="theonym">Sune</span>, <span class="theonym">Tymora</span>, <span class="theonym">Oghma</span>, <span class="theonym">Gond</span>, and <span class="theonym">Tempus</span></li>
 </ul>
 <h3 id="reprobata-deorum">Reprobata Deorum</h3>
 <p>Being the gods that are forbidden from worship in the Dale, which shall be edited from time to time by the Voting Signatories with four-fifths majority, and which at the outset of the Concordat includes:</p>
 <ul>
 <li>All such elven deities as disapproved by the Ambassador from Myth Drannor</li>
 <li>All such dwarven deities as disapproved by the Ambassador from Tethyamar</li>
-<li>The gods of men and their exarchs including: <span class="theonym">Shar</span><span class="sidenote-number"></span><span class="sidenote"><span class="theonym">Shar</span> is removable only by unanimous vote of the Voting Signatories.</span>, <span class="theonym">Bane</span>, <span class="theonym">Lolth</span>, <span class="theonym">Ghaunadaur</span>, <span class="theonym">Asmodeus</span>, <span class="theonym">Cyric</span>, and <span class="theonym">Gruumsh</span></li>
+<li>The gods of men and their exarchs including: <span class="theonym">Shar</span><span class="sidenote-number"></span>,<span class="sidenote"><span class="theonym">Shar</span> is removable only by unanimous vote of the Voting Signatories.</span> <span class="theonym">Bane</span>, <span class="theonym">Lolth</span>, <span class="theonym">Ghaunadaur</span>, <span class="theonym">Asmodeus</span>, <span class="theonym">Cyric</span>, and <span class="theonym">Gruumsh</span></li>
 </ul>
 <p>With respect to all other gods and exarchs, the Voting Signatories grant the ecumenical authorities of the Dale the right to bring forth such gods and exarchs for consideration, whether for the Approbata Deorum or Reprobata Deorum, from time to time.</p>  <footer> <p><a href="../../">Daggerdale Campaign Archive</a></p> </footer> </article> <a href="#top" class="to-top-btn" id="to-top-btn" aria-label="Return to top">↑</a> <script>
         (function () {
@@ -805,5 +805,46 @@ Cost per share: 4,839 gp/year</p>
             // Initial check — after layout settles
             update();
             window.addEventListener('load', update);
+        })();
+
+        // Sidenote reflow: on narrow viewports, move sidenotes to the end
+        // of their enclosing block so they appear after the full text
+        // rather than interrupting it. Restore on wide viewports.
+        (function () {
+            const NARROW = 900;
+            const BLOCK_SELECTOR = 'li, p, blockquote';
+            const notes = Array.from(document.querySelectorAll('.sidenote'));
+            // Record each note's original anchor (preceding node) once.
+            notes.forEach(note => {
+                const marker = document.createComment('sidenote-anchor');
+                note.parentNode.insertBefore(marker, note);
+                note.__origAnchor = marker;
+                note.__origParent = note.parentNode;
+            });
+            let currentMode = null; // 'narrow' | 'wide'
+            function place() {
+                const mode = window.innerWidth <= NARROW ? 'narrow' : 'wide';
+                if (mode === currentMode) return;
+                currentMode = mode;
+                notes.forEach(note => {
+                    if (mode === 'narrow') {
+                        const block = note.closest(BLOCK_SELECTOR);
+                        if (block && note.parentNode !== block
+                            || block && block.lastElementChild !== note) {
+                            block.appendChild(note);
+                        }
+                    } else {
+                        // Restore to original anchor position
+                        if (note.__origAnchor && note.__origAnchor.parentNode) {
+                            note.__origAnchor.parentNode
+                                .insertBefore(note, note.__origAnchor);
+                        }
+                    }
+                });
+            }
+            window.addEventListener('DOMContentLoaded', place);
+            window.addEventListener('resize', place);
+            // In case script runs after DOMContentLoaded has already fired
+            if (document.readyState !== 'loading') place();
         })();
     </script> </body> </html>
