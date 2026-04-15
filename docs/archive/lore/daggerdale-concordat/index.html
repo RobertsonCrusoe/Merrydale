@@ -183,6 +183,13 @@ hr {
     position: relative;
 }
 
+/* Optional: vertically center a sidenote on its anchor line.
+   Only safe for short notes — tall notes will rise above the top
+   of the paragraph and may collide with preceding content. */
+.sidenote--centered {
+    transform: translateY(calc(-50% + 0.7em));
+}
+
 .sidenote-number::after {
     content: '';
     display: inline-block;
@@ -775,14 +782,14 @@ Cost per share: 4,839 gp/year</p>
 <ul>
 <li>All such elven deities as approved by the Ambassador from Myth Drannor</li>
 <li>All such dwarven deities as approved by the Ambassador from Tethyamar</li>
-<li>The gods of men and their exarchs including: <span class="theonym">Amaunator</span><span class="sidenote-number"></span>, <span class="theonym">Chauntea</span>, <span class="theonym">Torm</span>, <span class="theonym">Ilmater</span>, <span class="theonym">Mielikki</span>, <span class="theonym">Waukeen</span>, <span class="theonym">Selûne</span>, <span class="theonym">Sune</span>, <span class="theonym">Tymora</span>, <span class="theonym">Oghma</span>, <span class="theonym">Gond</span>, and <span class="theonym">Tempus</span><span class="sidenote"><span class="theonym">Amaunator</span> and <span class="theonym">Chauntea</span> are removable only by unanimous vote of the Voting Signatories.</span></li>
+<li>The gods of men and their exarchs including: <span class="theonym">Amaunator</span><span class="sidenote-number"></span><span class="sidenote sidenote--centered"><span class="theonym">Amaunator</span> and <span class="theonym">Chauntea</span> are removable only by unanimous vote of the Voting Signatories.</span>, <span class="theonym">Chauntea</span><span class="sidenote-number"></span>, <span class="theonym">Torm</span>, <span class="theonym">Ilmater</span>, <span class="theonym">Mielikki</span>, <span class="theonym">Waukeen</span>, <span class="theonym">Selûne</span>, <span class="theonym">Sune</span>, <span class="theonym">Tymora</span>, <span class="theonym">Oghma</span>, <span class="theonym">Gond</span>, and <span class="theonym">Tempus</span></li>
 </ul>
 <h3 id="reprobata-deorum">Reprobata Deorum</h3>
 <p>Being the gods that are forbidden from worship in the Dale, which shall be edited from time to time by the Voting Signatories with four-fifths majority, and which at the outset of the Concordat includes:</p>
 <ul>
 <li>All such elven deities as disapproved by the Ambassador from Myth Drannor</li>
 <li>All such dwarven deities as disapproved by the Ambassador from Tethyamar</li>
-<li>The gods of men and their exarchs including: <span class="theonym">Shar</span><span class="sidenote-number"></span>, <span class="theonym">Bane</span>, <span class="theonym">Lolth</span>, <span class="theonym">Ghaunadaur</span>, <span class="theonym">Asmodeus</span>, <span class="theonym">Cyric</span>, and <span class="theonym">Gruumsh</span><span class="sidenote"><span class="theonym">Shar</span> is removable only by unanimous vote of the Voting Signatories.</span></li>
+<li>The gods of men and their exarchs including: <span class="theonym">Shar</span><span class="sidenote-number"></span><span class="sidenote sidenote--centered"><span class="theonym">Shar</span> is removable only by unanimous vote of the Voting Signatories.</span>, <span class="theonym">Bane</span>, <span class="theonym">Lolth</span>, <span class="theonym">Ghaunadaur</span>, <span class="theonym">Asmodeus</span>, <span class="theonym">Cyric</span>, and <span class="theonym">Gruumsh</span></li>
 </ul>
 <p>With respect to all other gods and exarchs, the Voting Signatories grant the ecumenical authorities of the Dale the right to bring forth such gods and exarchs for consideration, whether for the Approbata Deorum or Reprobata Deorum, from time to time.</p>  <footer> <p><a href="../../">Daggerdale Campaign Archive</a></p> </footer> </article> <a href="#top" class="to-top-btn" id="to-top-btn" aria-label="Return to top">↑</a> <script>
         (function () {
